@@ -21,7 +21,8 @@ const PUBLIC_DIR = path.join(ROOT, 'public');
 const GALLERY_DIR = path.join(ROOT, 'src', 'data', 'gallery');
 const BLOG_DIR = path.join(ROOT, 'src', 'data', 'blog');
 
-const SITE = 'https://aigallery.xyz';
+// 优先用环境变量（GitHub Actions 注入），其次用 GitHub Pages URL
+const SITE = process.env.SITE_URL || 'https://102896351.github.io/ai-inspiration';
 const LANGS = ['en', 'zh', 'ja', 'ko', 'fr', 'de', 'es'];
 const DEFAULT_LANG = 'en';
 
