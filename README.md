@@ -33,39 +33,47 @@ Lexica     ─┘   (.json)    (LLM API)   (.json)        (.json)         (dist/
 npm install
 ```
 
-### 2. Configure LLM (optional but recommended)
+### 2. Configure LLM (recommended)
 ```bash
 cp .env.example .env
-# Edit .env with your LLM API key
-# (e.g. OpenAI, DeepSeek, Claude, Ollama)
+# Edit .env - paste your LLM_API_KEY
+# Recommended: DeepSeek (1 yuan = 5M tokens, very cheap)
+#   1. https://platform.deepseek.com/ → Sign up
+#   2. Create API key
+#   3. Paste as LLM_API_KEY=sk-xxx
 ```
 
-### 3. Run the full content pipeline
-```bash
-npm run content:all
+### 3. Add content (one command)
+```powershell
+# Windows: one-click pipeline
+.\add-content.ps1
+
+# Or step by step:
+npm run fetch:all       # fetch from 3 sources
+npm run rewrite         # LLM rewrite (70% original)
+npm run integrate       # build src/data/
+npm run sitemap         # generate sitemaps
+npm run build           # Vite build
+
+# Commit + push (auto-deploy via GitHub Actions)
+git add -A
+git commit -m "Add content batch"
+git push origin main
 ```
 
 This will:
 1. Fetch ~50 items from PromptHero (HTML scrape)
 2. Fetch ~80 items from Civitai (official API)
 3. Fetch ~60 items from Lexica (search API)
-4. Rewrite all items with LLM (70% original content)
+4. Rewrite all items with LLM (70% original content, 2s each)
 5. Integrate into `src/data/gallery/`
 6. Generate sitemap (4 files)
+7. Build, commit, push → GitHub Actions auto-deploys
 
 ### 4. Develop locally
 ```bash
 npm run dev
 # Open http://localhost:5173
-```
-
-### 5. Build & deploy
-```bash
-npm run build      # → dist/
-git add -A
-git commit -m "Add content batch"
-git push origin main
-# GitHub Actions will auto-deploy to Pages
 ```
 
 ## Project Structure

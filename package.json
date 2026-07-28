@@ -14,7 +14,8 @@
     "rewrite": "node scripts/rewrite-content.js",
     "integrate": "node scripts/integrate.js",
     "sitemap": "node scripts/generate-sitemap.js && node scripts/generate-image-sitemap.js",
-    "content:all": "npm run fetch:all && npm run rewrite && npm run integrate && npm run sitemap"
+    "content:all": "npm run fetch:all && npm run rewrite && npm run integrate && npm run sitemap",
+    "add-content": "powershell -ExecutionPolicy Bypass -File ./add-content.ps1"
   },
   "dependencies": {
     "vue": "^3.4.0",
