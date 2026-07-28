@@ -1,0 +1,83 @@
+{
+  "id": "seed-event-poster-ideogram",
+  "slug": "event-poster-ideogram",
+  "title": "Music Festival Posters in Ideogram 2.0",
+  "description": "Generate sellable music festival posters with Ideogram 2.0. Type rendering + bold composition.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/event-poster-sample.webp",
+  "model": "ideogram",
+  "modelVersion": "",
+  "styles": [
+    "vintage",
+    "poster",
+    "minimalist"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "poster",
+    "ideogram",
+    "jazz",
+    "art-deco",
+    "typography"
+  ],
+  "prompt": {
+    "main": "modern jazz festival poster, bold geometric typography saying \"BLUE NOTE FEST\" as the main title, supporting text \"JULY 15-17 / NEW ORLEANS\" below, deep navy blue and warm gold color palette, art deco inspired geometric shapes, vintage jazz club atmosphere, halftone texture, vector graphic style",
+    "negative": "",
+    "params": "Ideogram 2.0, 2:3",
+    "explained": [
+      {
+        "param": "Ideogram 2.0",
+        "why": "The only model that reliably renders long text. Other models mangle \"BLUE NOTE FEST\"."
+      },
+      {
+        "param": "2:3 aspect",
+        "why": "Standard poster ratio."
+      },
+      {
+        "param": "art deco geometric",
+        "why": "Style anchor — jazz + art deco is a classic pairing."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Ideogram 2.0 is the only AI that can do real poster text. Use it for any text-heavy design.",
+    "steps": [
+      "Title text: bold geometric typography saying \"BLUE NOTE FEST\" — wrap in quotes for accurate rendering.",
+      "Supporting text: supporting text \"JULY 15-17 / NEW ORLEANS\" below — dates and locations in quotes.",
+      "Palette: deep navy blue and warm gold color palette — jazz classic.",
+      "Style: art deco inspired geometric shapes — era + style anchor.",
+      "Texture: halftone texture, vector graphic style — print-poster cues."
+    ],
+    "tips": "Wrap every piece of text in quotes. The model knows to render them. Without quotes, the model treats them as a description and you get gibberish."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"jazz festival poster, BLUE NOTE FEST, art deco, navy gold --ar 2:3 --v 6.1\" (text may be misspelled)",
+    "stable_diffusion": "SDXL: text rendering is weak. Inpaint to fix.",
+    "flux": "Flux text is OK but behind Ideogram.",
+    "dall_e": "DALL-E 3 text is decent.",
+    "jimeng_zh": "音乐节海报，BLUE NOTE FEST 标题文字，art deco 几何风格，深蓝金色"
+  },
+  "faq": [
+    {
+      "q": "Why does my text look garbled?",
+      "a": "Wrap text in quotes. Without quotes, AI treats text as description, not literal text to render."
+    },
+    {
+      "q": "How long can the text be?",
+      "a": "Ideogram handles ~50 chars well. Longer is riskier."
+    },
+    {
+      "q": "Best for typography posters?",
+      "a": "Ideogram 2.0 is current #1 for English. For Chinese, 即梦 is best."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/event-poster-ideogram",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

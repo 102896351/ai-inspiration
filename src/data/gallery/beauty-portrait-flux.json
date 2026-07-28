@@ -1,0 +1,83 @@
+{
+  "id": "seed-beauty-portrait-flux",
+  "slug": "beauty-portrait-flux",
+  "title": "Beauty Portraits: Skin & Light in Flux",
+  "description": "Generate commercial beauty portraits with Flux. Skin texture and lighting are Flux's strengths.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/beauty-sample.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "social-media",
+    "avatar",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "beauty",
+    "portrait",
+    "flux",
+    "skin",
+    "fashion"
+  ],
+  "prompt": {
+    "main": "professional beauty portrait photograph, extreme close-up of a young woman with natural skin texture, visible pores and subtle freckles, soft natural window light from upper left, dewy skin finish, minimal makeup, neutral beige background, shot on hasselblad h6d, 100mm f/2.2 lens, kodak portra 400, fashion magazine quality",
+    "negative": "",
+    "params": "Flux.1 dev, 1024x1536",
+    "explained": [
+      {
+        "param": "Flux.1 dev",
+        "why": "Flux handles skin micro-texture (pores, freckles) better than any other model."
+      },
+      {
+        "param": "1024x1536",
+        "why": "Vertical aspect for portrait."
+      },
+      {
+        "param": "hasselblad h6d",
+        "why": "Medium format camera anchor — the \"fashion magazine\" lens."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Beauty portraits with Flux are special because Flux renders skin micro-texture (pores, fine lines) better than MJ or SD.",
+    "steps": [
+      "Framing: extreme close-up — beauty is all about skin detail.",
+      "Skin: natural skin texture, visible pores and subtle freckles — the \"AI plastic\" killer.",
+      "Lighting: soft natural window light from upper left — beauty photographers' default.",
+      "Makeup: minimal makeup — less is more for skin showcase.",
+      "Camera anchor: hasselblad h6d, 100mm f/2.2 lens — fashion magazine standard."
+    ],
+    "tips": "Skin texture is the difference between \"AI beauty\" and \"real beauty\". Always add \"natural skin texture, visible pores\" to make Flux shine."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"beauty portrait, natural skin, soft window light, hasselblad --ar 2:3 --v 6.1\"",
+    "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"beauty portrait, natural skin, freckles, soft light\"",
+    "flux": "Use the rewrite prompt directly. Flux shines for beauty.",
+    "dall_e": "DALL-E 3 beauty is decent but skin texture is softer than Flux.",
+    "jimeng_zh": "专业美妆人像，皮肤质感，雀斑，柔和自然窗光，哈苏中画幅，时尚杂志"
+  },
+  "faq": [
+    {
+      "q": "Why does my beauty portrait look plastic?",
+      "a": "You forgot the skin texture cues. Add \"natural skin texture, visible pores, subtle freckles\" — Flux needs these to shine."
+    },
+    {
+      "q": "Flux vs MJ for beauty?",
+      "a": "Flux wins on micro skin detail. MJ has more dramatic style options."
+    },
+    {
+      "q": "Best lens for beauty?",
+      "a": "100mm f/2.2 is the standard. Medium format (Hasselblad) for fashion."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/beauty-portrait-flux",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

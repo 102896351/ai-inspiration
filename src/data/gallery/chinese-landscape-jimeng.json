@@ -1,0 +1,84 @@
+{
+  "id": "seed-chinese-landscape-jimeng",
+  "slug": "chinese-landscape-jimeng",
+  "title": "Chinese Ink Wash Landscapes: 即梦 (Jimeng) Tutorial",
+  "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 即梦. From Song Dynasty masters to modern ink art.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/chinese-landscape-sample.webp",
+  "model": "jimeng",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "vintage",
+    "watercolor"
+  ],
+  "useCases": [
+    "wallpaper",
+    "marketing",
+    "blog-header"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "chinese",
+    "ink-wash",
+    "shanshui",
+    "jimeng",
+    "song-dynasty"
+  ],
+  "prompt": {
+    "main": "中国传统水墨山水画，远山近水，瀑布飞流，松树云雾，留白意境，宋代名家风格，淡墨渲染，宣纸质感，印章红泥，竖幅构图，意境悠远",
+    "negative": "写实，照片，色彩，立体，3D",
+    "params": "即梦 AI, 1024x1024",
+    "explained": [
+      {
+        "param": "即梦 AI (Jimeng)",
+        "why": "即梦是中文语境最强的 AI 画图工具，汉字渲染和文化理解远超国外模型。"
+      },
+      {
+        "param": "竖幅构图",
+        "why": "中国传统山水画的标准构图是竖幅（高>宽）。"
+      },
+      {
+        "param": "宋代名家风格",
+        "why": "宋代是中国山水画的巅峰，锚定到宋代能立即锁住\"正\"的画风。"
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "即梦在中文场景里是王者，汉字渲染和中国文化理解远超国外 AI。",
+    "steps": [
+      "主体：远山近水，瀑布飞流，松树云雾 — 山水的经典元素。",
+      "意境：留白意境 — 中国画最核心的概念，比\"细节\"更重要。",
+      "风格锚：宋代名家风格 — 宋代山水画水平最高。",
+      "质感：淡墨渲染，宣纸质感，印章红泥 — 这些\"画材\"词是即梦擅长的。",
+      "构图：竖幅构图 — 传统中国画是竖幅。"
+    ],
+    "tips": "中国画的核心是\"留白\"。提示词里加\"留白意境\"，模型就会自动减少细节、加空白 — 这是中国画的味道。"
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"Chinese ink wash landscape, shanshui, song dynasty --ar 2:3 --v 6.1\" (loses Chinese feel)",
+    "stable_diffusion": "SDXL: not good for Chinese style. Use a dedicated LoRA.",
+    "flux": "Flux understands Chinese art but lacks cultural depth.",
+    "dall_e": "DALL-E 3 Chinese art is OK but stylistically inconsistent.",
+    "jimeng_zh": "用这个 prompt 直接跑。"
+  },
+  "faq": [
+    {
+      "q": "即梦 vs Midjourney for Chinese art?",
+      "a": "即梦完全碾压。即梦训练数据里中文艺术比重高，国外模型对\"留白\"和\"意境\"理解不到位。"
+    },
+    {
+      "q": "How to get the \"blank space\" feel?",
+      "a": "Add \"留白意境\" to the prompt. The model knows Chinese painting conventions."
+    },
+    {
+      "q": "Best for Chinese calligraphy?",
+      "a": "即梦 still struggles with character-by-character calligraphy. For real calligraphy, human + Photoshop is best."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/chinese-landscape-jimeng",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "seed-cute-puppy-sdxl",
+  "slug": "cute-puppy-sdxl",
+  "title": "Cute Puppies with SDXL + RealVisXL",
+  "description": "Generate photorealistic pet portraits with SDXL. Checkpoint choice matters more than the prompt.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/puppy-sample.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "social-media",
+    "wallpaper",
+    "avatar"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "puppy",
+    "corgi",
+    "pet",
+    "sdxl",
+    "park"
+  ],
+  "prompt": {
+    "main": "professional pet photograph of a fluffy corgi puppy, sitting on a park bench, big perky ears, smiling expression with tongue out, soft natural lighting, shallow depth of field with green park bokeh, kodak portra 400 film grain, masterpiece, best quality",
+    "negative": "blurry, lowres, deformed, extra legs, cropped, watermark, text",
+    "params": "SDXL + RealVisXL, Steps 28, CFG 7",
+    "explained": [
+      {
+        "param": "Checkpoint: RealVisXL V5.1",
+        "why": "RealVisXL is one of the strongest SDXL photorealistic models — great for animals and people."
+      },
+      {
+        "param": "Steps 28, CFG 7",
+        "why": "Sweet spot for SDXL photorealism."
+      },
+      {
+        "param": "Sampler: DPM++ 2M Karras",
+        "why": "The standard for SDXL realism."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "SDXL pet portraits live or die on the checkpoint. RealVisXL is a strong choice.",
+    "steps": [
+      "Pick the checkpoint: RealVisXL V5.1 (or JuggernautXL v9 for slightly different vibe).",
+      "Subject: fluffy corgi puppy, sitting on a park bench — concrete subject + location.",
+      "Cuteness cues: big perky ears, smiling expression with tongue out — corgi-specific charm.",
+      "Lighting: soft natural lighting — outdoor scenes need natural light.",
+      "Background: shallow depth of field with green park bokeh — bokeh is what makes it \"professional\".",
+      "Film stock: kodak portra 400 film grain — adds analog warmth."
+    ],
+    "tips": "For animals, the prompt mostly sets the \"vibe\" (studio, park, beach). The model and the lighting do 80% of the work."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"professional pet photograph, corgi puppy, park bench, kodak portra --ar 1:1 --v 6.1\"",
+    "stable_diffusion": "Use the rewrite prompt with RealVisXL V5.1.",
+    "flux": "Flux handles pets well.",
+    "dall_e": "DALL-E 3 is decent.",
+    "jimeng_zh": "专业宠物摄影，柯基幼犬，公园长椅，笑容伸舌头，自然光，浅景深"
+  },
+  "faq": [
+    {
+      "q": "Which SDXL model for pets?",
+      "a": "RealVisXL V5.1 or JuggernautXL v9. Both are top-tier for photorealism."
+    },
+    {
+      "q": "Why does my corgi look weird?",
+      "a": "Corgis have very specific proportions (short legs, long body). Add \"perky ears, short legs\" to anchor the model."
+    },
+    {
+      "q": "Best lighting for outdoor pet shots?",
+      "a": "Golden hour or soft overcast. Avoid harsh midday sun — creates raccoon eyes."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/cute-puppy-sdxl",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

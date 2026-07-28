@@ -1,0 +1,83 @@
+{
+  "id": "seed-architecture-mj",
+  "slug": "architecture-modern-mj",
+  "title": "Modern Architecture: Glass & Concrete",
+  "description": "Generate stunning modern architectural visualizations in MJ v6.1. From Zaha Hadid to Tadao Ando styles.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/architecture-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header",
+    "wallpaper"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "architecture",
+    "modern",
+    "villa",
+    "zaha-hadid",
+    "dusk"
+  ],
+  "prompt": {
+    "main": "architectural visualization of a modern minimalist villa at dusk, cantilevered concrete and glass facade, infinity pool reflecting sunset, surrounded by pine forest, warm interior lighting visible through floor-to-ceiling windows, zaha hadid style, architectural digest cover quality, blue hour, dramatic up-lighting, 8k photoreal --v 6.1 --ar 16:9 --s 600",
+    "negative": "--no people, text, watermark, cartoon, busy",
+    "params": "--v 6.1 --ar 16:9 --s 600",
+    "explained": [
+      {
+        "param": "--ar 16:9",
+        "why": "Architectural photography standard aspect."
+      },
+      {
+        "param": "--s 600",
+        "why": "Medium stylize — high enough to compose drama, low enough to feel real."
+      },
+      {
+        "param": "zaha hadid style",
+        "why": "Architect anchor — tells MJ this is high-end design, not generic."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Architectural visualization is 80% lighting and 20% material. The AI is great at both if you cue them.",
+    "steps": [
+      "Building: cantilevered concrete and glass facade — specific modernist details.",
+      "Setting: surrounded by pine forest, infinity pool reflecting sunset — gives the building context.",
+      "Lighting (exterior): blue hour, dramatic up-lighting — architecture's signature time.",
+      "Lighting (interior): warm interior lighting visible through floor-to-ceiling windows — sells the \"lived in\" feel.",
+      "Style anchor: zaha hadid style, architectural digest cover quality — locks to high-end design photography."
+    ],
+    "tips": "Architectural Digest quality comes from \"blue hour\" + \"warm interior light\" + \"dramatic up-lighting\". All three together = the \"expensive building\" look."
+  },
+  "crossModel": {
+    "midjourney": "Use the rewrite prompt with --v 6.1 --s 600.",
+    "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"modern minimalist villa, dusk, infinity pool, zaha hadid style\"\nNegative: \"people, busy, cartoon\"",
+    "flux": "Flux handles architecture well. Add: \"shot on tilt-shift lens, 24mm\"",
+    "dall_e": "DALL-E 3 architecture is good. Try natural language.",
+    "jimeng_zh": "现代极简别墅，悬挑混凝土玻璃立面，无边泳池日落，蓝色时刻，扎哈哈迪德风格"
+  },
+  "faq": [
+    {
+      "q": "Why does my building look generic?",
+      "a": "You forgot the architect anchor. \"Zaha Hadid\" / \"Tadao Ando\" / \"Bjarke Ingels\" instantly upgrades the style."
+    },
+    {
+      "q": "Best time for architecture shots?",
+      "a": "Blue hour (just after sunset) — sky is blue, building lights are warm, contrast is gorgeous."
+    },
+    {
+      "q": "How to add people for scale?",
+      "a": "Actually avoid people for clean shots. Use \"no people\" in negative to prevent AI from adding random figures."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/architecture-tutorial",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

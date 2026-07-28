@@ -1,0 +1,84 @@
+{
+  "id": "seed-surreal-mj",
+  "slug": "surreal-composition-mj",
+  "title": "Surrealist Compositions: Dali Meets AI",
+  "description": "How to make MJ generate gallery-worthy surrealism. Compositional rules, artist anchors, and dream logic.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/surreal-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "concept-art",
+    "photorealistic"
+  ],
+  "useCases": [
+    "wallpaper",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 4,
+  "tags": [
+    "surreal",
+    "dali",
+    "art",
+    "concept",
+    "fine-art"
+  ],
+  "prompt": {
+    "main": "surrealist composition in the style of salvador dali, melting bronze clock draped over a desert cactus, distant floating elephant with skyscrapers growing from its back, golden hour light, hyperrealistic textures, vast empty desert plain, dreamscape, museum quality fine art photography --v 6.1 --ar 4:5 --s 850",
+    "negative": "--no cartoon, simple, busy, text, watermark",
+    "params": "--v 6.1 --ar 4:5 --s 850",
+    "explained": [
+      {
+        "param": "--s 850",
+        "why": "Very high stylize. Surrealism needs MJ to take creative risks."
+      },
+      {
+        "param": "in the style of salvador dali",
+        "why": "Artist anchor — instantly locks to \"museum surrealism\" not \"random weird\"."
+      },
+      {
+        "param": "museum quality fine art photography",
+        "why": "Quality anchor — keeps it gallery-grade, not amateur weird."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Surrealism is about dream logic + symbolic contrast. MJ does this brilliantly with the right anchors.",
+    "steps": [
+      "Artist anchor: in the style of salvador dali — instantly locks the dreamlike vibe.",
+      "Symbolic contrast: melting bronze clock draped over a desert cactus — combine unrelated objects with meaning.",
+      "Scale play: distant floating elephant with skyscrapers growing from its back — surrealism loves impossible scale.",
+      "Setting: vast empty desert plain — Dali's signature empty space.",
+      "Quality anchor: museum quality fine art photography — keeps it gallery-grade."
+    ],
+    "tips": "Surrealism needs symbolic contrast. Pick two unrelated objects and combine them: \"clock + cactus\", \"elephant + skyscrapers\", \"fish + umbrella\"."
+  },
+  "crossModel": {
+    "midjourney": "Use the rewrite prompt with --s 850 for max creativity.",
+    "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"surreal, melting clock, dali style, desert\"\nNegative: \"cartoon, simple\"",
+    "flux": "Flux handles surreal well.",
+    "dall_e": "DALL-E 3 surreal is OK.",
+    "jimeng_zh": "超现实主义，融化的青铜钟，沙漠仙人掌，漂浮大象，扎哈哈迪德风格，梦境"
+  },
+  "faq": [
+    {
+      "q": "Why is my surreal image just \"weird\"?",
+      "a": "You forgot the artist anchor. \"Salvador Dali\" / \"Magritte\" / \"Beksinski\" instantly adds meaning."
+    },
+    {
+      "q": "How weird is too weird?",
+      "a": "Symbolic contrast works. Random mashup doesn't. Combine 2 objects with implied meaning."
+    },
+    {
+      "q": "Best stylize for surreal?",
+      "a": "--s 800+. High stylize = more creative risk = better surrealism."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/surreal-composition-tutorial",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

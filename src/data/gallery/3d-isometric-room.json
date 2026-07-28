@@ -1,0 +1,84 @@
+{
+  "id": "seed-3d-isometric-mj",
+  "slug": "3d-isometric-room",
+  "title": "Isometric 3D Scenes: Cozy Room Tutorial",
+  "description": "Build isometric 3D illustrations with MJ v6.1. Perfect for explainer videos, blog headers, and design portfolios.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/isometric-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "3d",
+    "minimalist",
+    "illustration"
+  ],
+  "useCases": [
+    "blog-header",
+    "marketing",
+    "illustration"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "isometric",
+    "3d",
+    "low-poly",
+    "diorama",
+    "cozy"
+  ],
+  "prompt": {
+    "main": "isometric 3d illustration of a cozy reading nook, low poly style, miniature diorama, soft pastel color palette with sage green, terracotta, and cream, a small bookshelf, plants in pots, warm window light, clean geometric shapes, blender render aesthetic, soft shadows --v 6.1 --ar 1:1 --s 600",
+    "negative": "--no realistic, photograph, text, complex details",
+    "params": "--v 6.1 --ar 1:1",
+    "explained": [
+      {
+        "param": "--v 6.1",
+        "why": "v6.1 nails the clean geometric look better than v5."
+      },
+      {
+        "param": "--ar 1:1",
+        "why": "Square aspect is the standard for isometric dioramas."
+      },
+      {
+        "param": "low poly style",
+        "why": "Tells MJ to use simple geometric shapes — not photo-real 3D."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Isometric 3D is the cleanest AI art style. The trick is \"low poly\" + \"diorama\" anchors.",
+    "steps": [
+      "Anchor style: isometric 3d illustration of a cozy reading nook, low poly style — gives MJ the visual framework.",
+      "Subject: a small bookshelf, plants in pots — populate the scene with simple objects.",
+      "Palette: soft pastel color palette with sage green, terracotta, and cream — lock the colors.",
+      "Lighting: warm window light, soft shadows — adds depth without complexity.",
+      "Render anchor: blender render aesthetic — tells MJ to use clean geometry, not photoreal."
+    ],
+    "tips": "Isometric is a great SEO niche. \"isometric 3d\" + \"low poly\" + \"diorama\" together = strong style lock. Try it for any small scene: kitchen, office, garden, server room."
+  },
+  "crossModel": {
+    "midjourney": "Use the rewrite prompt with --v 6.1 --s 600.",
+    "stable_diffusion": "SDXL + DreamShaper\nPrompt: \"isometric 3d, low poly, cozy reading nook, diorama\"\nNegative: \"realistic, complex\"",
+    "flux": "Flux is decent for isometric.",
+    "dall_e": "DALL-E 3 isometric is OK.",
+    "jimeng_zh": "等距 3D 插画，温馨阅读角，低多边形，微型立体场景，柔和粉彩"
+  },
+  "faq": [
+    {
+      "q": "Why is my isometric not actually isometric?",
+      "a": "You forgot the word \"isometric\" + \"low poly\". Without these anchors, MJ may render \"3d room\" as a perspective shot."
+    },
+    {
+      "q": "Best color palette for isometric?",
+      "a": "Pastel + 3 max colors works best. Bright palettes look cheap."
+    },
+    {
+      "q": "Where to use isometric?",
+      "a": "Blog headers, explainer videos, app store screenshots, design portfolios."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/3d-isometric-tutorial",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

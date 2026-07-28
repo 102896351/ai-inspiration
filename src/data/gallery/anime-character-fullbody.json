@@ -1,0 +1,83 @@
+{
+  "id": "seed-anime-character-fullbody",
+  "slug": "anime-character-fullbody",
+  "title": "Full-Body Anime Characters: Anatomy & Style",
+  "description": "How to design full-body anime characters in MJ Niji 6. Proportions, posing, and outfit details that survive AI generation.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-fullbody-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "anime",
+    "illustration"
+  ],
+  "useCases": [
+    "avatar",
+    "illustration"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "anime",
+    "full-body",
+    "character-design",
+    "shinkai",
+    "uniform"
+  ],
+  "prompt": {
+    "main": "full body anime character design, teenage girl with long silver hair, wearing sailor school uniform with pleated skirt, standing pose with one hand on hip, dynamic angle, classroom background with windows, makoto shinkai style, detailed anime face, soft cel shading, full body visible from head to toe --niji 6 --ar 2:3",
+    "negative": "--no cropped, cut off, lowres, bad anatomy, deformed",
+    "params": "--niji 6 --ar 2:3",
+    "explained": [
+      {
+        "param": "--niji 6",
+        "why": "Niji handles full-body anime better than v6 — better proportions."
+      },
+      {
+        "param": "--ar 2:3",
+        "why": "Vertical aspect for full body. 1:1 always crops."
+      },
+      {
+        "param": "full body visible from head to toe",
+        "why": "Explicitly prevents the model from cropping to a portrait."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Full-body anime is harder than portraits because AI defaults to cropping. You have to force it.",
+    "steps": [
+      "Hair details: long silver hair — specific color + length avoids the \"generic anime girl\" look.",
+      "Outfit: sailor school uniform with pleated skirt — be specific, not \"school uniform\".",
+      "Pose: standing pose with one hand on hip — gives dynamism vs. stiff T-pose.",
+      "Angle: dynamic angle — adds visual interest.",
+      "Background: classroom background with windows — context, not empty void.",
+      "Anti-crop: full body visible from head to toe — forces the full body."
+    ],
+    "tips": "If MJ keeps cropping to portrait, add the literal phrase \"full body visible from head to toe\". It's a known trick that works on MJ, SD, and Flux."
+  },
+  "crossModel": {
+    "midjourney": "Niji 6 mode, --ar 2:3, --s 100 (preserve character style).",
+    "stable_diffusion": "Anything V5 / Counterfeit V3\nPrompt: \"full body anime girl, school uniform, classroom, masterpiece\"\nNegative: \"cropped, bad anatomy\"",
+    "flux": "Flux is OK for anime full body. Less consistent than SD ecosystem.",
+    "dall_e": "DALL-E 3 tends to crop. Specify \"head to toe\" in prompt.",
+    "jimeng_zh": "动漫全身像，女高中生，水手服，百褶裙，教室场景，新海诚风格，全身可见"
+  },
+  "faq": [
+    {
+      "q": "Why is my full-body character always cropped?",
+      "a": "You need to add \"full body visible from head to toe\" or use --ar 2:3 to force vertical space."
+    },
+    {
+      "q": "How to keep proportions right?",
+      "a": "Anchor to a specific anime style like \"shinkai style\" or \"trigger style\" — the model knows their proportions."
+    },
+    {
+      "q": "Best aspect for full body?",
+      "a": "--ar 2:3 (vertical) gives the model room. 1:1 will always crop."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/anime-character-fullbody",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

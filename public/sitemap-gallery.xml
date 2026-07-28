@@ -2,231 +2,611 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/cyberpunk-rain-street-tutorial</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/3d-isometric-room</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/isometric-sample.webp</image:loc>
+      <image:title>Isometric 3D Scenes: Cozy Room Tutorial</image:title>
+      <image:caption>Build isometric 3D illustrations with MJ v6.1. Perfect for explainer videos, blog headers, and design portfolios.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/3d-isometric-room" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/3d-isometric-room" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/3d-isometric-room" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/3d-isometric-room" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/3d-isometric-room" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/3d-isometric-room" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/3d-isometric-room" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/3d-isometric-room" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/80s-synthwave-mj</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/synthwave-sample.webp</image:loc>
+      <image:title>80s Synthwave: Neon Grid Aesthetic</image:title>
+      <image:caption>How to nail the synthwave aesthetic in MJ v6.1. Color palette + grid + sun are the keys.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/80s-synthwave-mj" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/80s-synthwave-mj" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/80s-synthwave-mj" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/80s-synthwave-mj" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/80s-synthwave-mj" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/80s-synthwave-mj" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/80s-synthwave-mj" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/80s-synthwave-mj" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/anime-character-fullbody</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-fullbody-sample.webp</image:loc>
+      <image:title>Full-Body Anime Characters: Anatomy &amp; Style</image:title>
+      <image:caption>How to design full-body anime characters in MJ Niji 6. Proportions, posing, and outfit details that survive AI generation.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/anime-character-fullbody" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/anime-character-fullbody" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/anime-character-fullbody" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/anime-character-fullbody" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/anime-character-fullbody" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/anime-character-fullbody" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/anime-character-fullbody" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/anime-character-fullbody" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/architecture-modern-mj</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/architecture-sample.webp</image:loc>
+      <image:title>Modern Architecture: Glass &amp; Concrete</image:title>
+      <image:caption>Generate stunning modern architectural visualizations in MJ v6.1. From Zaha Hadid to Tadao Ando styles.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/architecture-modern-mj" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/architecture-modern-mj" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/architecture-modern-mj" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/architecture-modern-mj" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/architecture-modern-mj" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/architecture-modern-mj" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/architecture-modern-mj" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/architecture-modern-mj" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/beauty-portrait-flux</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/beauty-sample.webp</image:loc>
+      <image:title>Beauty Portraits: Skin &amp; Light in Flux</image:title>
+      <image:caption>Generate commercial beauty portraits with Flux. Skin texture and lighting are Flux&apos;s strengths.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/beauty-portrait-flux" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/beauty-portrait-flux" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/beauty-portrait-flux" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/beauty-portrait-flux" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/beauty-portrait-flux" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/beauty-portrait-flux" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/beauty-portrait-flux" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/beauty-portrait-flux" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/children-book-mj</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/children-book-sample.webp</image:loc>
+      <image:title>Children Book Illustration: Cute Characters</image:title>
+      <image:caption>Generate charming children book illustrations in MJ Niji 6. Cuteness + simplicity + warmth.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/children-book-mj" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/children-book-mj" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/children-book-mj" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/children-book-mj" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/children-book-mj" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/children-book-mj" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/children-book-mj" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/children-book-mj" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/chinese-landscape-jimeng</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/chinese-landscape-sample.webp</image:loc>
+      <image:title>Chinese Ink Wash Landscapes: 即梦 (Jimeng) Tutorial</image:title>
+      <image:caption>Generate authentic Chinese shanshui (mountain-water) paintings with 即梦. From Song Dynasty masters to modern ink art.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/chinese-landscape-jimeng" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/chinese-landscape-jimeng" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/chinese-landscape-jimeng" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/chinese-landscape-jimeng" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/chinese-landscape-jimeng" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/chinese-landscape-jimeng" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/chinese-landscape-jimeng" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/chinese-landscape-jimeng" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/concept-art-robot-sd</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/robot-sample.webp</image:loc>
+      <image:title>Sci-Fi Robot Concept Art in SDXL</image:title>
+      <image:caption>Generate professional sci-fi concept art with SDXL + Dreamshaper. Mechanical detail + atmospheric settings.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/concept-art-robot-sd" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/concept-art-robot-sd" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/concept-art-robot-sd" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/concept-art-robot-sd" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/concept-art-robot-sd" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/concept-art-robot-sd" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/concept-art-robot-sd" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/concept-art-robot-sd" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/cute-animal-photography</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/animal-sample.webp</image:loc>
+      <image:title>Cute Animal Photography: Studio Style</image:title>
+      <image:caption>Generate irresistible pet portraits with MJ v6.1. Studio lighting, eye contact, and personality.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/cute-animal-photography" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/cute-animal-photography" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/cute-animal-photography" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/cute-animal-photography" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/cute-animal-photography" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/cute-animal-photography" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/cute-animal-photography" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/cute-animal-photography" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/cute-puppy-sdxl</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/puppy-sample.webp</image:loc>
+      <image:title>Cute Puppies with SDXL + RealVisXL</image:title>
+      <image:caption>Generate photorealistic pet portraits with SDXL. Checkpoint choice matters more than the prompt.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/cute-puppy-sdxl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/cute-puppy-sdxl" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/cute-puppy-sdxl" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/cute-puppy-sdxl" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/cute-puppy-sdxl" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/cute-puppy-sdxl" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/cute-puppy-sdxl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/cute-puppy-sdxl" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/cyberpunk-rain-street-tutorial</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sample.webp</image:loc>
-      <image:title>赛博朋克雨夜街角：完整 prompt 拆解</image:title>
-      <image:caption>本教程用 Midjourney v6.1 拆解一张经典赛博朋克街景图。从关键词分层、参数选择到跨模型移植，让你掌握赛博朋克风的核心写法。</image:caption>
+      <image:title>Cyberpunk Rain Street: Complete Prompt Breakdown</image:title>
+      <image:caption>A step-by-step tutorial on crafting a cinematic cyberpunk street scene in Midjourney v6.1. From layered keywords to parameter choices and cross-model adaptation.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/cyberpunk-rain-street-tutorial" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/cyberpunk-rain-street-tutorial" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/cyberpunk-rain-street-tutorial" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/cyberpunk-rain-street-tutorial" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/cyberpunk-rain-street-tutorial" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/cyberpunk-rain-street-tutorial" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/cyberpunk-rain-street-tutorial" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/cyberpunk-rain-street-tutorial" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/fantasy-floating-island-mj</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/event-poster-ideogram</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/event-poster-sample.webp</image:loc>
+      <image:title>Music Festival Posters in Ideogram 2.0</image:title>
+      <image:caption>Generate sellable music festival posters with Ideogram 2.0. Type rendering + bold composition.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/event-poster-ideogram" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/event-poster-ideogram" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/event-poster-ideogram" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/event-poster-ideogram" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/event-poster-ideogram" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/event-poster-ideogram" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/event-poster-ideogram" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/event-poster-ideogram" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/fantasy-floating-island-mj</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fantasy-sample.webp</image:loc>
-      <image:title>奇幻风景：浮空岛 + 魔法森林 prompt 教程</image:title>
-      <image:caption>MJ v6.1 跑史诗奇幻风景（浮空岛、魔法森林、发光湖泊）的核心技巧。</image:caption>
+      <image:title>Epic Fantasy Landscapes: Floating Islands Tutorial</image:title>
+      <image:caption>How MJ v6.1 nails epic fantasy scenes — floating islands, magical forests, glowing lakes.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/fantasy-floating-island-mj" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/fantasy-floating-island-mj" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/fantasy-floating-island-mj" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/fantasy-floating-island-mj" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/fantasy-floating-island-mj" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/fantasy-floating-island-mj" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/fantasy-floating-island-mj" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/fantasy-floating-island-mj" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/flux-soft-anime-illustration</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/fashion-editorial-sd</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fashion-sample.webp</image:loc>
+      <image:title>High Fashion Editorial with SDXL</image:title>
+      <image:caption>How to generate Vogue-quality fashion editorials with SDXL. Pose, styling, and atmosphere cues that MJ misses.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/fashion-editorial-sd" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/fashion-editorial-sd" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/fashion-editorial-sd" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/fashion-editorial-sd" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/fashion-editorial-sd" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/fashion-editorial-sd" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/fashion-editorial-sd" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/fashion-editorial-sd" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/flux-soft-anime-illustration</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/flux-anime-sample.webp</image:loc>
-      <image:title>Flux 软萌动漫风：日系插画 prompt</image:title>
-      <image:caption>Flux 跑日系软萌动漫的 prompt 写法 + 跨模型对比。</image:caption>
+      <image:title>Soft Anime with Flux: Pastel &amp; Healing Style</image:title>
+      <image:caption>How Flux renders soft, pastel Japanese-illustration style — and how it compares to MJ Niji 6 and SD.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/flux-soft-anime-illustration" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/flux-soft-anime-illustration" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/flux-soft-anime-illustration" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/flux-soft-anime-illustration" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/flux-soft-anime-illustration" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/flux-soft-anime-illustration" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/flux-soft-anime-illustration" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/flux-soft-anime-illustration" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/ghibli-anime-style-mj-niji</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/food-photography-moody</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/food-sample.webp</image:loc>
+      <image:title>Restaurant Food Photography: Moody Lighting</image:title>
+      <image:caption>How to make AI food photos look like they came from a Michelin-star restaurant. Lighting and styling tips for commercial-grade output.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/food-photography-moody" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/food-photography-moody" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/food-photography-moody" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/food-photography-moody" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/food-photography-moody" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/food-photography-moody" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/food-photography-moody" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/food-photography-moody" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/ghibli-anime-style-mj-niji</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-sample.webp</image:loc>
-      <image:title>吉卜力风动漫人像：Niji 模式完全攻略</image:title>
-      <image:caption>MJ Niji 6 跑吉卜力风 / 新海诚风 / 鬼灭风的关键是锚定到具体作品 + 配色词 + 镜头词。</image:caption>
+      <image:title>Ghibli Anime Portrait: The Niji 6 Guide</image:title>
+      <image:caption>How to nail Ghibli / Shinkai / Demon Slayer style in MJ Niji 6. The secret: anchor to specific works + use color terms + lens terms.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/ghibli-anime-style-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/ghibli-anime-style-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/ghibli-anime-style-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/ghibli-anime-style-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/ghibli-anime-style-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/ghibli-anime-style-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/ghibli-anime-style-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/ghibli-anime-style-mj-niji" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/ideogram-typography-logo-design</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/ideogram-typography-logo-design</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/ideogram-sample.webp</image:loc>
-      <image:title>Ideogram 2.0 字体海报：logo 设计新选择</image:title>
-      <image:caption>Ideogram 2.0 是目前 AI 字体渲染最准的模型。咖啡店 logo、活动海报、品牌设计都靠它。</image:caption>
+      <image:title>Ideogram 2.0: The New King of Typography</image:title>
+      <image:caption>Ideogram 2.0 is currently the most accurate AI for rendering text. Great for cafe logos, event posters, and brand design.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/ideogram-typography-logo-design" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/ideogram-typography-logo-design" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/ideogram-typography-logo-design" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/ideogram-typography-logo-design" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/ideogram-typography-logo-design" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/ideogram-typography-logo-design" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/ideogram-typography-logo-design" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/ideogram-typography-logo-design" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/mj-minimal-brand-logo</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/interior-design-flux</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/interior-sample.webp</image:loc>
+      <image:title>Japandi Interiors: Minimalism with Flux</image:title>
+      <image:caption>Generate calm, minimalist interior design renders with Flux. Material and lighting cues matter most.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/interior-design-flux" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/interior-design-flux" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/interior-design-flux" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/interior-design-flux" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/interior-design-flux" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/interior-design-flux" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/interior-design-flux" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/interior-design-flux" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/manga-action-sd</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/manga-sample.webp</image:loc>
+      <image:title>Manga Action Scenes: Speed &amp; Drama</image:title>
+      <image:caption>How to generate dynamic manga action scenes with SDXL. Speed lines, motion blur, and dramatic posing.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/manga-action-sd" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/manga-action-sd" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/manga-action-sd" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/manga-action-sd" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/manga-action-sd" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/manga-action-sd" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/manga-action-sd" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/manga-action-sd" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/mj-minimal-brand-logo</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/logo-sample.webp</image:loc>
-      <image:title>MJ 极简 logo：品牌设计 prompt 教程</image:title>
-      <image:caption>用 MJ v6.1 跑极简 logo / 品牌符号的 prompt 技巧（虽然 Ideogram 文字更强，但 logo 符号 MJ 不差）。</image:caption>
+      <image:title>Minimal Brand Logos in MJ: A Practical Guide</image:title>
+      <image:caption>How to use MJ v6.1 for minimal logo / brand symbol design (symbols work better than text combos).</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/mj-minimal-brand-logo" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/mj-minimal-brand-logo" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/mj-minimal-brand-logo" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/mj-minimal-brand-logo" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/mj-minimal-brand-logo" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/mj-minimal-brand-logo" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/mj-minimal-brand-logo" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/mj-minimal-brand-logo" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/pixar-3d-character-tutorial</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/mountain-landscape-mj</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/mountain-sample.webp</image:loc>
+      <image:title>Epic Mountain Landscapes: Golden Hour Tutorial</image:title>
+      <image:caption>Generate cinematic mountain landscapes with perfect golden hour lighting. From horizon to foreground details, this tutorial covers the full layering technique.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/mountain-landscape-mj" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/mountain-landscape-mj" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/mountain-landscape-mj" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/mountain-landscape-mj" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/mountain-landscape-mj" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/mountain-landscape-mj" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/mountain-landscape-mj" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/mountain-landscape-mj" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/pixar-3d-character-tutorial</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/3d-sample.webp</image:loc>
-      <image:title>皮克斯 3D 角色：MJ 完全教程</image:title>
-      <image:caption>MJ v6.1 跑皮克斯 / 皮克斯风 3D 角色的关键词拆解 + 跨平台移植。</image:caption>
+      <image:title>Pixar 3D Characters: The MJ 6.1 Tutorial</image:title>
+      <image:caption>Keyword breakdown for Pixar / Disney-style 3D characters in MJ v6.1, plus cross-platform migration.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/pixar-3d-character-tutorial" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/pixar-3d-character-tutorial" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/pixar-3d-character-tutorial" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/pixar-3d-character-tutorial" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/pixar-3d-character-tutorial" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/pixar-3d-character-tutorial" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/pixar-3d-character-tutorial" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/pixar-3d-character-tutorial" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/product-photography-flux-vs-sdxl</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/product-photography-flux-vs-sdxl</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/product-sample.webp</image:loc>
-      <image:title>电商产品图：Flux vs SDXL 完全对比</image:title>
-      <image:caption>电商产品图（手表/化妆品/电子产品）用什么 AI 出图最稳？Flux vs SDXL 实战对比。</image:caption>
+      <image:title>E-commerce Product Photos: Flux vs SDXL</image:title>
+      <image:caption>What&apos;s the best AI for product shots (watches, cosmetics, electronics)? Flux vs SDXL head-to-head.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/product-photography-flux-vs-sdxl" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/product-photography-flux-vs-sdxl" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/product-photography-flux-vs-sdxl" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/product-photography-flux-vs-sdxl" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/product-photography-flux-vs-sdxl" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/product-photography-flux-vs-sdxl" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/product-photography-flux-vs-sdxl" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/product-photography-flux-vs-sdxl" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/sd-anythingxl-anime-landscape</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/restaurant-menu-ideogram</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/menu-sample.webp</image:loc>
+      <image:title>Restaurant Menu Design in Ideogram 2.0</image:title>
+      <image:caption>How to design a real restaurant menu with Ideogram 2.0. Multi-section layout, prices, descriptions.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/restaurant-menu-ideogram" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/restaurant-menu-ideogram" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/restaurant-menu-ideogram" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/restaurant-menu-ideogram" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/restaurant-menu-ideogram" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/restaurant-menu-ideogram" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/restaurant-menu-ideogram" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/restaurant-menu-ideogram" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/scifi-vehicle-flux</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vehicle-sample.webp</image:loc>
+      <image:title>Sci-Fi Vehicles: Concept Art with Flux</image:title>
+      <image:caption>Generate Star Wars / Cyberpunk-style vehicles in Flux. Industrial design + cinematic lighting.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/scifi-vehicle-flux" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/scifi-vehicle-flux" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/scifi-vehicle-flux" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/scifi-vehicle-flux" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/scifi-vehicle-flux" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/scifi-vehicle-flux" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/scifi-vehicle-flux" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/scifi-vehicle-flux" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/sd-anythingxl-anime-landscape</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sd-anime-landscape-sample.webp</image:loc>
-      <image:title>SD 动漫风景：AnythingXL 实战</image:title>
-      <image:caption>SDXL + AnythingXL 跑动漫风景（山川/海洋/校园）的配置 + prompt 写法。</image:caption>
+      <image:title>SDXL Anime Landscapes with AnythingXL</image:title>
+      <image:caption>How to set up AnythingXL on SDXL for anime landscapes (mountains / oceans / school scenes).</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/sd-anythingxl-anime-landscape" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/sd-anythingxl-anime-landscape" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/sd-anythingxl-anime-landscape" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/sd-anythingxl-anime-landscape" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/sd-anythingxl-anime-landscape" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/sd-anythingxl-anime-landscape" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/sd-anythingxl-anime-landscape" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/sd-anythingxl-anime-landscape" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/sdxl-photorealistic-portrait-guide</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/sdxl-photorealistic-portrait-guide</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/portrait-sample.webp</image:loc>
-      <image:title>SDXL 写真人像：参数与模型选择完全指南</image:title>
-      <image:caption>用 SDXL 跑商业级写真人像的关键不是 prompt，是 checkpoint + 采样参数 + ControlNet。本教程给完整配置。</image:caption>
+      <image:title>SDXL Photorealistic Portraits: The Complete Guide</image:title>
+      <image:caption>Generate commercial-grade photorealistic portraits with SDXL. The key is choosing the right checkpoint + sampler params + ControlNet, not the prompt itself.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/sdxl-photorealistic-portrait-guide" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/sdxl-photorealistic-portrait-guide" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/sdxl-photorealistic-portrait-guide" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/sdxl-photorealistic-portrait-guide" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/sdxl-photorealistic-portrait-guide" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/sdxl-photorealistic-portrait-guide" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/sdxl-photorealistic-portrait-guide" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/sdxl-photorealistic-portrait-guide" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/vintage-travel-poster-paris</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/surreal-composition-mj</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/surreal-sample.webp</image:loc>
+      <image:title>Surrealist Compositions: Dali Meets AI</image:title>
+      <image:caption>How to make MJ generate gallery-worthy surrealism. Compositional rules, artist anchors, and dream logic.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/surreal-composition-mj" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/surreal-composition-mj" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/surreal-composition-mj" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/surreal-composition-mj" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/surreal-composition-mj" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/surreal-composition-mj" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/surreal-composition-mj" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/surreal-composition-mj" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/surreal-dreamscape-sd</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/dreamscape-sample.webp</image:loc>
+      <image:title>Surreal Dreamscapes with SDXL</image:title>
+      <image:caption>Generate Beksinski / Giger-style dreamscapes. High stylize + atmospheric details = the &quot;wow&quot; factor.</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/surreal-dreamscape-sd" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/surreal-dreamscape-sd" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/surreal-dreamscape-sd" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/surreal-dreamscape-sd" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/surreal-dreamscape-sd" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/surreal-dreamscape-sd" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/surreal-dreamscape-sd" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/surreal-dreamscape-sd" />
+  </url>
+  <url>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/vintage-travel-poster-paris</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-sample.webp</image:loc>
-      <image:title>复古海报：1950 巴黎旅游海报 prompt 拆解</image:title>
-      <image:caption>跑 1950s 复古旅游海报（巴黎/纽约/东京）的 prompt 写法 + 字体生成技巧。</image:caption>
+      <image:title>Vintage Posters: 1950s Paris Travel Poster Prompts</image:title>
+      <image:caption>How to write prompts for 1950s vintage travel posters (Paris / NYC / Tokyo), with typography tips.</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/vintage-travel-poster-paris" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/vintage-travel-poster-paris" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/vintage-travel-poster-paris" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/vintage-travel-poster-paris" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/vintage-travel-poster-paris" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/vintage-travel-poster-paris" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/vintage-travel-poster-paris" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/vintage-travel-poster-paris" />
   </url>
   <url>
-    <loc>https://aigallery.xyz/#/en/gallery/watercolor-illustration-mj-niji</loc>
-    <lastmod>2026-07-25</lastmod>
+    <loc>https://102896351.github.io/ai-inspiration/#/en/gallery/watercolor-illustration-mj-niji</loc>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/watercolor-sample.webp</image:loc>
-      <image:title>水彩插画：MJ Niji 6 治愈系 prompt</image:title>
-      <image:caption>Niji 6 跑水彩风插画（治愈系、植物、手账素材）的 prompt 拆解。</image:caption>
+      <image:title>Watercolor Healing Illustrations: Niji 6 Tutorial</image:title>
+      <image:caption>How Niji 6 nails watercolor-style healing illustrations (botanical, journaling, sticker assets).</image:caption>
     </image:image>
-    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/watercolor-illustration-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/watercolor-illustration-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/watercolor-illustration-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/watercolor-illustration-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/watercolor-illustration-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/watercolor-illustration-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/watercolor-illustration-mj-niji" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://102896351.github.io/ai-inspiration/#/en/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://102896351.github.io/ai-inspiration/#/zh/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://102896351.github.io/ai-inspiration/#/ja/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://102896351.github.io/ai-inspiration/#/ko/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://102896351.github.io/ai-inspiration/#/fr/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://102896351.github.io/ai-inspiration/#/de/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://102896351.github.io/ai-inspiration/#/es/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://102896351.github.io/ai-inspiration/#/en/gallery/watercolor-illustration-mj-niji" />
   </url>
 </urlset>

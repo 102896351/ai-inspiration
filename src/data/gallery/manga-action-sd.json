@@ -1,0 +1,84 @@
+{
+  "id": "seed-manga-action-sd",
+  "slug": "manga-action-sd",
+  "title": "Manga Action Scenes: Speed & Drama",
+  "description": "How to generate dynamic manga action scenes with SDXL. Speed lines, motion blur, and dramatic posing.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/manga-sample.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "anime",
+    "illustration"
+  ],
+  "useCases": [
+    "wallpaper",
+    "illustration",
+    "blog-header"
+  ],
+  "difficulty": 4,
+  "tags": [
+    "manga",
+    "action",
+    "samurai",
+    "speed-lines",
+    "demon-slayer"
+  ],
+  "prompt": {
+    "main": "dynamic manga action scene, samurai mid sword slash, speed lines radiating from blade, motion blur on katana, dramatic wind blowing hair and clothing, debris floating in air, intense expression, in the style of demon slayer manga, full page splash composition, black and white with selective red accent, masterpiece, best quality",
+    "negative": "color, cute, peaceful, lowres, blurry, bad anatomy, deformed",
+    "params": "SDXL + AnythingXL, Steps 28, CFG 9",
+    "explained": [
+      {
+        "param": "Checkpoint: AnythingXL",
+        "why": "Best SDXL anime model for action scenes."
+      },
+      {
+        "param": "Steps 28, CFG 9",
+        "why": "Higher CFG keeps the action dynamic and sharp."
+      },
+      {
+        "param": "demon slayer manga style",
+        "why": "Anchor to a specific high-energy manga style."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Manga action scenes live on speed lines + motion blur + dramatic posing. AI does all three if you cue them.",
+    "steps": [
+      "Action: samurai mid sword slash — the \"frozen in time\" pose is key.",
+      "Speed lines: speed lines radiating from blade — manga's signature motion indicator.",
+      "Motion blur: motion blur on katana, dramatic wind blowing hair and clothing — visual chaos.",
+      "Atmosphere: debris floating in air — sells the impact.",
+      "Style: in the style of demon slayer manga — high-energy, dramatic manga.",
+      "Color: black and white with selective red accent — manga classic + drama highlight."
+    ],
+    "tips": "Speed lines + motion blur + debris = the \"fast action\" trio. Skip any one and the scene feels slow."
+  },
+  "crossModel": {
+    "midjourney": "MJ Niji 6: \"manga action, samurai, speed lines, demon slayer style --niji 6 --ar 3:4\"",
+    "stable_diffusion": "Use the rewrite prompt with AnythingXL.",
+    "flux": "Flux handles manga but SD ecosystem is richer.",
+    "dall_e": "DALL-E 3 manga is weak.",
+    "jimeng_zh": "漫画动作场景，武士拔刀斩，速度线，运动模糊，鬼灭之刃风格，黑白配红色"
+  },
+  "faq": [
+    {
+      "q": "How to get speed lines?",
+      "a": "Explicitly say \"speed lines radiating from blade\". AI defaults to \"still pose\" without the cue."
+    },
+    {
+      "q": "Why is my action pose stiff?",
+      "a": "Add \"mid slash\" / \"in motion\" / \"frozen in time\" — AI does best with frozen action, not blurred action."
+    },
+    {
+      "q": "Best manga style anchor?",
+      "a": "Demon Slayer / One Piece / Berserk. Each has a distinct visual energy."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/manga-action-sd",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

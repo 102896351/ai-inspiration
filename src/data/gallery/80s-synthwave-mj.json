@@ -1,0 +1,84 @@
+{
+  "id": "seed-80s-synthwave-mj",
+  "slug": "80s-synthwave-mj",
+  "title": "80s Synthwave: Neon Grid Aesthetic",
+  "description": "How to nail the synthwave aesthetic in MJ v6.1. Color palette + grid + sun are the keys.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/synthwave-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "3d",
+    "vintage",
+    "illustration"
+  ],
+  "useCases": [
+    "wallpaper",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "synthwave",
+    "80s",
+    "neon",
+    "outrun",
+    "retro"
+  ],
+  "prompt": {
+    "main": "80s synthwave aesthetic, retro-futuristic landscape, glowing neon grid stretching to horizon, magenta and cyan sunset with massive sun, silhouetted palm trees, chrome sports car driving on the grid, scanlines and chromatic aberration, vaporwave nostalgia, outrun style, 8k retro digital art --v 6.1 --ar 16:9 --s 850",
+    "negative": "--no realistic, modern, daylight, dull colors",
+    "params": "--v 6.1 --ar 16:9 --s 850",
+    "explained": [
+      {
+        "param": "--s 850",
+        "why": "High stylize is essential for the synthwave look — the more MJ plays, the better."
+      },
+      {
+        "param": "--ar 16:9",
+        "why": "Cinematic widescreen — synthwave's signature format."
+      },
+      {
+        "param": "outrun style",
+        "why": "Outrun is the sub-genre name for synthwave landscape art."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Synthwave is one of the most consistent AI styles. The palette is unmistakable: magenta, cyan, neon grid.",
+    "steps": [
+      "Style: 80s synthwave aesthetic, outrun style — instantly locks the look.",
+      "Landscape: glowing neon grid stretching to horizon — the iconic element.",
+      "Sky: magenta and cyan sunset with massive sun — the color anchor.",
+      "Foreground: silhouetted palm trees, chrome sports car driving on the grid — adds nostalgia.",
+      "Effects: scanlines and chromatic aberration — retro digital vibes."
+    ],
+    "tips": "Synthwave is 90% color palette. If the magenta + cyan + grid are right, the model nails everything else."
+  },
+  "crossModel": {
+    "midjourney": "Use the rewrite prompt with --s 850.",
+    "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"synthwave, outrun, neon grid, palm trees, magenta cyan\"",
+    "flux": "Flux handles synthwave well.",
+    "dall_e": "DALL-E 3 synthwave is OK.",
+    "jimeng_zh": "80 年代合成波美学，霓虹网格，品红青色日落，棕榈树剪影，复古未来"
+  },
+  "faq": [
+    {
+      "q": "How to get the \"neon grid\"?",
+      "a": "Just write \"glowing neon grid stretching to horizon\". MJ knows this trope perfectly."
+    },
+    {
+      "q": "Why are my colors wrong?",
+      "a": "You forgot the magenta + cyan combo. Always specify \"magenta and cyan\" together."
+    },
+    {
+      "q": "Best aspect for synthwave?",
+      "a": "--ar 16:9 or 21:9. Widescreen is the genre standard."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/80s-synthwave-mj",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

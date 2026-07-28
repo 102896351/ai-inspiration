@@ -1,0 +1,83 @@
+{
+  "id": "seed-cute-animal-mj",
+  "slug": "cute-animal-photography",
+  "title": "Cute Animal Photography: Studio Style",
+  "description": "Generate irresistible pet portraits with MJ v6.1. Studio lighting, eye contact, and personality.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/animal-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "social-media",
+    "avatar",
+    "wallpaper"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "animal",
+    "puppy",
+    "pet",
+    "studio",
+    "cute"
+  ],
+  "prompt": {
+    "main": "professional pet photography of a golden retriever puppy, sitting on a soft cream backdrop, big brown eyes looking directly at camera, fluffy fur with detailed texture, soft studio lighting with rim light, shallow depth of field, f/2.8, adorable expression, instagram pet influencer style --v 6.1 --ar 1:1 --s 400",
+    "negative": "--no aggressive, blurry, text, multiple dogs, weird anatomy",
+    "params": "--v 6.1 --ar 1:1 --s 400",
+    "explained": [
+      {
+        "param": "--ar 1:1",
+        "why": "Instagram square is the standard for pet portraits."
+      },
+      {
+        "param": "--s 400",
+        "why": "Medium stylize — keeps the puppy looking real."
+      },
+      {
+        "param": "f/2.8",
+        "why": "Lens anchor for portrait work. Specific apertures give MJ correct depth cues."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Pet photography with AI works because pets are simple subjects. Focus on eyes, lighting, and expression.",
+    "steps": [
+      "Subject: golden retriever puppy — specific breed + age sets the cuteness level.",
+      "Eyes: big brown eyes looking directly at camera — eye contact is the #1 thing for pet portraits.",
+      "Texture: fluffy fur with detailed texture — avoids the \"AI plastic fur\" look.",
+      "Lighting: soft studio lighting with rim light — separates the pet from the background.",
+      "Style anchor: instagram pet influencer style — locks the modern, social-media look."
+    ],
+    "tips": "Eye contact + \"looking directly at camera\" is the single biggest cuteness multiplier. Don't skip it."
+  },
+  "crossModel": {
+    "midjourney": "Use the rewrite prompt with --v 6.1 --s 400.",
+    "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"golden retriever puppy, studio lighting, looking at camera\"\nNegative: \"aggressive, blurry, multiple\"",
+    "flux": "Flux handles pets well.",
+    "dall_e": "DALL-E 3 pets are decent.",
+    "jimeng_zh": "专业宠物摄影，金毛幼犬，奶油背景，棕色大眼睛，蓬松毛发，影棚柔光"
+  },
+  "faq": [
+    {
+      "q": "Why does my pet look creepy?",
+      "a": "Eye contact missing. Always add \"looking directly at camera\" or \"eye contact\"."
+    },
+    {
+      "q": "Why plastic fur?",
+      "a": "You forgot \"fluffy fur with detailed texture\" — that micro-detail is what makes AI fur look real."
+    },
+    {
+      "q": "Best breed for AI cuteness?",
+      "a": "Golden retrievers, corgis, huskies, and kittens. AI has the most training data on these."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/cute-animal-tutorial",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

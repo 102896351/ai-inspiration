@@ -1,0 +1,84 @@
+{
+  "id": "seed-children-book-mj",
+  "slug": "children-book-mj",
+  "title": "Children Book Illustration: Cute Characters",
+  "description": "Generate charming children book illustrations in MJ Niji 6. Cuteness + simplicity + warmth.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/children-book-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "watercolor",
+    "minimalist"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "wallpaper"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "children",
+    "book",
+    "illustration",
+    "cute",
+    "watercolor"
+  ],
+  "prompt": {
+    "main": "children book illustration, adorable baby dragon with big round eyes and soft purple scales, sitting in a magical forest, friendly small fox and bunny companions, soft watercolor style, warm pastel color palette with mint green, peach, and sky blue, hand-painted texture, gentle expression, full body, storybook illustration --niji 6 --ar 1:1 --s 400",
+    "negative": "--no scary, dark, realistic, complex, scary teeth",
+    "params": "--niji 6 --ar 1:1 --s 400",
+    "explained": [
+      {
+        "param": "--niji 6",
+        "why": "Niji handles cute, soft illustration styles better than v6."
+      },
+      {
+        "param": "--s 400",
+        "why": "Medium stylize — high enough to be charming, low enough to look hand-painted."
+      },
+      {
+        "param": "big round eyes",
+        "why": "The single most important cuteness cue in children's illustration."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Children's book art lives on: cuteness cues + simple composition + warm palette. AI does all three.",
+    "steps": [
+      "Character: adorable baby dragon with big round eyes and soft purple scales — specific creature + specific features.",
+      "Cuteness cues: big round eyes — non-negotiable for kids' books.",
+      "Companions: friendly small fox and bunny companions — adds story.",
+      "Setting: sitting in a magical forest — soft, safe atmosphere.",
+      "Style: soft watercolor style, warm pastel color palette with mint green, peach, and sky blue — children's book palette."
+    ],
+    "tips": "Big round eyes is the #1 cuteness multiplier. Always include it. Add \"soft round shapes\" to your prompt for extra cute."
+  },
+  "crossModel": {
+    "midjourney": "Niji 6: use the rewrite prompt with --s 400.",
+    "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"children book illustration, baby dragon, magical forest, watercolor\"",
+    "flux": "Flux handles children's style.",
+    "dall_e": "DALL-E 3 is OK for kids.",
+    "jimeng_zh": "儿童绘本插画，可爱小龙，大圆眼睛，紫色鳞片，魔法森林，温暖粉彩"
+  },
+  "faq": [
+    {
+      "q": "Why is my dragon scary?",
+      "a": "You forgot \"soft scales\" and \"big round eyes\". Add both — they push the dragon from \"Smaug\" to \"toothpaste mascot\"."
+    },
+    {
+      "q": "Best model for kids book?",
+      "a": "MJ Niji 6 is the king. SDXL + Dreamshaper is also good."
+    },
+    {
+      "q": "How to keep style consistent across pages?",
+      "a": "Use the same seed + similar prompt structure. Or use SDXL with style LoRAs."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/children-book-mj",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

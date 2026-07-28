@@ -1,0 +1,85 @@
+{
+  "id": "seed-interior-design-flux",
+  "slug": "interior-design-flux",
+  "title": "Japandi Interiors: Minimalism with Flux",
+  "description": "Generate calm, minimalist interior design renders with Flux. Material and lighting cues matter most.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/interior-sample.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic",
+    "minimalist"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header",
+    "wallpaper"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "interior",
+    "japandi",
+    "minimalist",
+    "design",
+    "architecture"
+  ],
+  "prompt": {
+    "main": "professional interior design photograph of a modern japandi living room, natural wood furniture, low profile sofa in beige linen, indoor plants, soft natural light from large windows, shoji screen divider, concrete and wood textures, minimalist composition, architectural digest quality, shot on canon 5d mark iv, 24mm wide angle",
+    "negative": "",
+    "params": "Flux.1 dev, 1280x960",
+    "explained": [
+      {
+        "param": "Flux.1 dev",
+        "why": "Flux renders interior materials and lighting accurately."
+      },
+      {
+        "param": "1280x960",
+        "why": "4:3 aspect for interior photography."
+      },
+      {
+        "param": "japandi",
+        "why": "Style anchor — Japanese + Scandinavian minimalism."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Interior design with AI works because rooms are simple compositions. Material and lighting do the work.",
+    "steps": [
+      "Style anchor: modern japandi living room — locks Japanese + Scandinavian minimalism.",
+      "Furniture: natural wood furniture, low profile sofa in beige linen — specific materials.",
+      "Decor: indoor plants, shoji screen divider — character without clutter.",
+      "Lighting: soft natural light from large windows — interior photography's friend.",
+      "Materials: concrete and wood textures — texture cues make AI render feel real.",
+      "Camera: shot on canon 5d mark iv, 24mm wide angle — architectural photography standard."
+    ],
+    "tips": "Interiors live on material cues. \"Wood\", \"linen\", \"concrete\", \"shoji\" — each is a render keyword that AI knows."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"japandi living room, natural light, wood and concrete, architectural digest --ar 4:3 --v 6.1\"",
+    "stable_diffusion": "SDXL + RealVisXL\nPrompt: \"japandi living room, natural wood, soft light\"\nNegative: \"cluttered, dark\"",
+    "flux": "Use the rewrite prompt directly.",
+    "dall_e": "DALL-E 3 interiors are good.",
+    "jimeng_zh": "日式极简客厅，自然木材，亚麻沙发，室内植物，障子屏风，柔和自然光"
+  },
+  "faq": [
+    {
+      "q": "Why is my room \"cold\" or \"empty\"?",
+      "a": "Add plants, art, or a person silhouette. Japandi = minimal, but never empty."
+    },
+    {
+      "q": "Best model for interiors?",
+      "a": "Flux and SDXL+RealVisXL. Both are strong."
+    },
+    {
+      "q": "How to pick a style anchor?",
+      "a": "Japandi / Wabi-Sabi / Mid-Century Modern / Industrial. Each gives distinct visual signature."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/interior-design-flux",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

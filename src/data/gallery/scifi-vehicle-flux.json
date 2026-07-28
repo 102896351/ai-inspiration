@@ -1,0 +1,83 @@
+{
+  "id": "seed-scifi-vehicle-flux",
+  "slug": "scifi-vehicle-flux",
+  "title": "Sci-Fi Vehicles: Concept Art with Flux",
+  "description": "Generate Star Wars / Cyberpunk-style vehicles in Flux. Industrial design + cinematic lighting.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vehicle-sample.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "concept-art",
+    "3d"
+  ],
+  "useCases": [
+    "wallpaper",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "sci-fi",
+    "vehicle",
+    "spaceship",
+    "concept-art",
+    "artstation"
+  ],
+  "prompt": {
+    "main": "cinematic sci-fi vehicle concept art, sleek interstellar fighter spacecraft, weathered hull with neon cyan engine glow, detailed mechanical surface, sitting in a vast industrial hangar with workers, volumetric god rays from above, dust particles in air, 8k unreal engine 5 render, artstation trending, dnd concept art quality",
+    "negative": "",
+    "params": "Flux.1 dev, 1280x720",
+    "explained": [
+      {
+        "param": "Flux.1 dev",
+        "why": "Flux handles mechanical surfaces and complex compositions well."
+      },
+      {
+        "param": "1280x720",
+        "why": "Wide aspect for the cinematic feel."
+      },
+      {
+        "param": "unreal engine 5 render",
+        "why": "Renderer anchor — tells Flux to use real-time 3D aesthetic."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Sci-fi vehicles need industrial design + atmospheric setting + cinematic lighting. Flux does all three.",
+    "steps": [
+      "Vehicle details: sleek interstellar fighter spacecraft, weathered hull with neon cyan engine glow — specific style + \"used\" feel.",
+      "Surface: detailed mechanical surface — sci-fi vehicles need visible complexity.",
+      "Setting: sitting in a vast industrial hangar with workers — context + scale.",
+      "Lighting: volumetric god rays from above, dust particles in air — Blade Runner 2049 lighting.",
+      "Quality anchor: 8k unreal engine 5 render, artstation trending — pro concept art look."
+    ],
+    "tips": "Sci-fi vehicles sell on \"weathered\" + \"neon glow\" + \"atmospheric lighting\". All three = \"this ship has been to war\"."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"sci-fi vehicle, fighter spacecraft, neon glow, hangar --ar 16:9 --v 6.1 --s 750\"",
+    "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"sci-fi spacecraft, hangar, god rays, concept art\"",
+    "flux": "Use the rewrite prompt directly. Flux shines for vehicles.",
+    "dall_e": "DALL-E 3 is OK.",
+    "jimeng_zh": "科幻载具概念艺术，宇宙战斗机，霓虹青色引擎，工业机库，体积光"
+  },
+  "faq": [
+    {
+      "q": "Why does my ship look cartoonish?",
+      "a": "You forgot the industrial design cues. \"Weathered hull\", \"mechanical surface\", \"used\" all push it toward realism."
+    },
+    {
+      "q": "Best model for vehicles?",
+      "a": "Flux is strong. SDXL + Dreamshaper is also good."
+    },
+    {
+      "q": "How to add people for scale?",
+      "a": "Add \"with workers in hangar\" — small figures give massive scale to the ship."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/scifi-vehicle-flux",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

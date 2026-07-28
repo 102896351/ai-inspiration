@@ -1,0 +1,84 @@
+{
+  "id": "seed-fashion-editorial-sd",
+  "slug": "fashion-editorial-sd",
+  "title": "High Fashion Editorial with SDXL",
+  "description": "How to generate Vogue-quality fashion editorials with SDXL. Pose, styling, and atmosphere cues that MJ misses.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fashion-sample.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic",
+    "concept-art"
+  ],
+  "useCases": [
+    "marketing",
+    "social-media",
+    "wallpaper"
+  ],
+  "difficulty": 4,
+  "tags": [
+    "fashion",
+    "editorial",
+    "vogue",
+    "couture",
+    "noir"
+  ],
+  "prompt": {
+    "main": "high fashion editorial photograph, full body shot of a female model wearing a dramatic red couture gown with a long train, walking confidently on a rain-soaked city street at night, motion blur on dress, neon reflections on wet asphalt, dramatic up-lighting, vogue magazine cover quality, shot by annie leibovitz, kodak portra 800",
+    "negative": "blurry face, deformed, bad anatomy, extra limbs, cropped, watermark, text, casual, low quality",
+    "params": "SDXL + JuggernautXL, Steps 30, CFG 7",
+    "explained": [
+      {
+        "param": "Checkpoint: JuggernautXL v9",
+        "why": "JuggernautXL has the best skin texture + fabric rendering for fashion."
+      },
+      {
+        "param": "Steps 30, CFG 7",
+        "why": "Standard SDXL fashion config."
+      },
+      {
+        "param": "Pose: walking confidently",
+        "why": "Walking gives motion and life to fashion shots."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Fashion editorials need: pose + motion + atmosphere + signature style. SDXL handles all four if you cue them.",
+    "steps": [
+      "Subject + outfit: full body shot of a female model wearing a dramatic red couture gown with a long train — specific garment, specific posture.",
+      "Pose: walking confidently — fashion rarely stands still.",
+      "Atmosphere: rain-soaked city street at night, neon reflections on wet asphalt — noir mood.",
+      "Motion: motion blur on dress — separates editorial from snapshot.",
+      "Photographer anchor: shot by annie leibovitz — Vogue/A-list fashion photographer."
+    ],
+    "tips": "Fashion is \"movement + drama + atmosphere\". Combine all three for the \"Vogue cover\" look."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"high fashion editorial, red gown, rain-soaked street at night, vogue --ar 2:3 --v 6.1\"",
+    "stable_diffusion": "Use the rewrite prompt with JuggernautXL v9.",
+    "flux": "Flux handles fashion well. Add: \"shot on Mamiya RZ67, medium format\"",
+    "dall_e": "DALL-E 3 fashion is decent.",
+    "jimeng_zh": "高级时装编辑大片，红色高级定制礼服，雨夜城市街道，霓虹倒影，Vogue 杂志封面"
+  },
+  "faq": [
+    {
+      "q": "Why does my fashion model look stiff?",
+      "a": "Add motion. \"Walking\" or \"running\" or \"spinning\" — anything to break the T-pose."
+    },
+    {
+      "q": "Best SDXL checkpoint for fashion?",
+      "a": "JuggernautXL v9. Its fabric and skin texture are unmatched."
+    },
+    {
+      "q": "How to get the \"Vogue\" feel?",
+      "a": "Anchor to specific photographers: Annie Leibovitz, Mario Testino, Steven Meisel."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/fashion-editorial-sd",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

@@ -319,5 +319,513 @@
       "niji"
     ],
     "description": "How Niji 6 nails watercolor-style healing illustrations (botanical, journaling, sticker assets)."
+  },
+  {
+    "id": "seed-mountain-landscape-mj",
+    "slug": "mountain-landscape-mj",
+    "title": "Epic Mountain Landscapes: Golden Hour Tutorial",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/mountain-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "wallpaper",
+      "photorealistic"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "landscape",
+      "mountain",
+      "golden-hour",
+      "photography",
+      "nature"
+    ],
+    "description": "Generate cinematic mountain landscapes with perfect golden hour lighting. From horizon to foreground details, this tutorial covers the full layering technique."
+  },
+  {
+    "id": "seed-food-photo-mj",
+    "slug": "food-photography-moody",
+    "title": "Restaurant Food Photography: Moody Lighting",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/food-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "social-media",
+      "marketing",
+      "ecommerce"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "food",
+      "photography",
+      "restaurant",
+      "moody",
+      "ramen"
+    ],
+    "description": "How to make AI food photos look like they came from a Michelin-star restaurant. Lighting and styling tips for commercial-grade output."
+  },
+  {
+    "id": "seed-anime-character-fullbody",
+    "slug": "anime-character-fullbody",
+    "title": "Full-Body Anime Characters: Anatomy & Style",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-fullbody-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "anime",
+      "illustration"
+    ],
+    "useCases": [
+      "avatar",
+      "illustration"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "anime",
+      "full-body",
+      "character-design",
+      "shinkai",
+      "uniform"
+    ],
+    "description": "How to design full-body anime characters in MJ Niji 6. Proportions, posing, and outfit details that survive AI generation."
+  },
+  {
+    "id": "seed-3d-isometric-mj",
+    "slug": "3d-isometric-room",
+    "title": "Isometric 3D Scenes: Cozy Room Tutorial",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/isometric-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "3d",
+      "minimalist",
+      "illustration"
+    ],
+    "useCases": [
+      "blog-header",
+      "marketing",
+      "illustration"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "isometric",
+      "3d",
+      "low-poly",
+      "diorama",
+      "cozy"
+    ],
+    "description": "Build isometric 3D illustrations with MJ v6.1. Perfect for explainer videos, blog headers, and design portfolios."
+  },
+  {
+    "id": "seed-architecture-mj",
+    "slug": "architecture-modern-mj",
+    "title": "Modern Architecture: Glass & Concrete",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/architecture-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "wallpaper"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "architecture",
+      "modern",
+      "villa",
+      "zaha-hadid",
+      "dusk"
+    ],
+    "description": "Generate stunning modern architectural visualizations in MJ v6.1. From Zaha Hadid to Tadao Ando styles."
+  },
+  {
+    "id": "seed-cute-animal-mj",
+    "slug": "cute-animal-photography",
+    "title": "Cute Animal Photography: Studio Style",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/animal-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "social-media",
+      "avatar",
+      "wallpaper"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "animal",
+      "puppy",
+      "pet",
+      "studio",
+      "cute"
+    ],
+    "description": "Generate irresistible pet portraits with MJ v6.1. Studio lighting, eye contact, and personality."
+  },
+  {
+    "id": "seed-surreal-mj",
+    "slug": "surreal-composition-mj",
+    "title": "Surrealist Compositions: Dali Meets AI",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/surreal-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "concept-art",
+      "photorealistic"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "surreal",
+      "dali",
+      "art",
+      "concept",
+      "fine-art"
+    ],
+    "description": "How to make MJ generate gallery-worthy surrealism. Compositional rules, artist anchors, and dream logic."
+  },
+  {
+    "id": "seed-cute-puppy-sdxl",
+    "slug": "cute-puppy-sdxl",
+    "title": "Cute Puppies with SDXL + RealVisXL",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/puppy-sample.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "social-media",
+      "wallpaper",
+      "avatar"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "puppy",
+      "corgi",
+      "pet",
+      "sdxl",
+      "park"
+    ],
+    "description": "Generate photorealistic pet portraits with SDXL. Checkpoint choice matters more than the prompt."
+  },
+  {
+    "id": "seed-fashion-editorial-sd",
+    "slug": "fashion-editorial-sd",
+    "title": "High Fashion Editorial with SDXL",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fashion-sample.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "realistic",
+      "photorealistic",
+      "concept-art"
+    ],
+    "useCases": [
+      "marketing",
+      "social-media",
+      "wallpaper"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "fashion",
+      "editorial",
+      "vogue",
+      "couture",
+      "noir"
+    ],
+    "description": "How to generate Vogue-quality fashion editorials with SDXL. Pose, styling, and atmosphere cues that MJ misses."
+  },
+  {
+    "id": "seed-concept-art-robot-sd",
+    "slug": "concept-art-robot-sd",
+    "title": "Sci-Fi Robot Concept Art in SDXL",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/robot-sample.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "concept-art",
+      "3d",
+      "illustration"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "sci-fi",
+      "robot",
+      "concept-art",
+      "artstation",
+      "mecha"
+    ],
+    "description": "Generate professional sci-fi concept art with SDXL + Dreamshaper. Mechanical detail + atmospheric settings."
+  },
+  {
+    "id": "seed-surreal-dreamscape-sd",
+    "slug": "surreal-dreamscape-sd",
+    "title": "Surreal Dreamscapes with SDXL",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/dreamscape-sample.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "concept-art",
+      "illustration",
+      "wallpaper"
+    ],
+    "useCases": [
+      "wallpaper",
+      "marketing",
+      "illustration"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "surreal",
+      "dreamscape",
+      "beksinski",
+      "dark",
+      "concept-art"
+    ],
+    "description": "Generate Beksinski / Giger-style dreamscapes. High stylize + atmospheric details = the \"wow\" factor."
+  },
+  {
+    "id": "seed-manga-action-sd",
+    "slug": "manga-action-sd",
+    "title": "Manga Action Scenes: Speed & Drama",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/manga-sample.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "anime",
+      "illustration"
+    ],
+    "useCases": [
+      "wallpaper",
+      "illustration",
+      "blog-header"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "manga",
+      "action",
+      "samurai",
+      "speed-lines",
+      "demon-slayer"
+    ],
+    "description": "How to generate dynamic manga action scenes with SDXL. Speed lines, motion blur, and dramatic posing."
+  },
+  {
+    "id": "seed-beauty-portrait-flux",
+    "slug": "beauty-portrait-flux",
+    "title": "Beauty Portraits: Skin & Light in Flux",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/beauty-sample.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "social-media",
+      "avatar",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "beauty",
+      "portrait",
+      "flux",
+      "skin",
+      "fashion"
+    ],
+    "description": "Generate commercial beauty portraits with Flux. Skin texture and lighting are Flux's strengths."
+  },
+  {
+    "id": "seed-scifi-vehicle-flux",
+    "slug": "scifi-vehicle-flux",
+    "title": "Sci-Fi Vehicles: Concept Art with Flux",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vehicle-sample.webp",
+    "model": "flux",
+    "styles": [
+      "concept-art",
+      "3d"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "sci-fi",
+      "vehicle",
+      "spaceship",
+      "concept-art",
+      "artstation"
+    ],
+    "description": "Generate Star Wars / Cyberpunk-style vehicles in Flux. Industrial design + cinematic lighting."
+  },
+  {
+    "id": "seed-interior-design-flux",
+    "slug": "interior-design-flux",
+    "title": "Japandi Interiors: Minimalism with Flux",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/interior-sample.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "photorealistic",
+      "minimalist"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "wallpaper"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "interior",
+      "japandi",
+      "minimalist",
+      "design",
+      "architecture"
+    ],
+    "description": "Generate calm, minimalist interior design renders with Flux. Material and lighting cues matter most."
+  },
+  {
+    "id": "seed-event-poster-ideogram",
+    "slug": "event-poster-ideogram",
+    "title": "Music Festival Posters in Ideogram 2.0",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/event-poster-sample.webp",
+    "model": "ideogram",
+    "styles": [
+      "vintage",
+      "poster",
+      "minimalist"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "poster",
+      "ideogram",
+      "jazz",
+      "art-deco",
+      "typography"
+    ],
+    "description": "Generate sellable music festival posters with Ideogram 2.0. Type rendering + bold composition."
+  },
+  {
+    "id": "seed-restaurant-menu-ideogram",
+    "slug": "restaurant-menu-ideogram",
+    "title": "Restaurant Menu Design in Ideogram 2.0",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/menu-sample.webp",
+    "model": "ideogram",
+    "styles": [
+      "vintage",
+      "minimalist",
+      "poster"
+    ],
+    "useCases": [
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "menu",
+      "ideogram",
+      "cafe",
+      "typography",
+      "bistro"
+    ],
+    "description": "How to design a real restaurant menu with Ideogram 2.0. Multi-section layout, prices, descriptions."
+  },
+  {
+    "id": "seed-chinese-landscape-jimeng",
+    "slug": "chinese-landscape-jimeng",
+    "title": "Chinese Ink Wash Landscapes: 即梦 (Jimeng) Tutorial",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/chinese-landscape-sample.webp",
+    "model": "jimeng",
+    "styles": [
+      "illustration",
+      "vintage",
+      "watercolor"
+    ],
+    "useCases": [
+      "wallpaper",
+      "marketing",
+      "blog-header"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "chinese",
+      "ink-wash",
+      "shanshui",
+      "jimeng",
+      "song-dynasty"
+    ],
+    "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 即梦. From Song Dynasty masters to modern ink art."
+  },
+  {
+    "id": "seed-80s-synthwave-mj",
+    "slug": "80s-synthwave-mj",
+    "title": "80s Synthwave: Neon Grid Aesthetic",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/synthwave-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "3d",
+      "vintage",
+      "illustration"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "synthwave",
+      "80s",
+      "neon",
+      "outrun",
+      "retro"
+    ],
+    "description": "How to nail the synthwave aesthetic in MJ v6.1. Color palette + grid + sun are the keys."
+  },
+  {
+    "id": "seed-children-book-mj",
+    "slug": "children-book-mj",
+    "title": "Children Book Illustration: Cute Characters",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/children-book-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "illustration",
+      "watercolor",
+      "minimalist"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "wallpaper"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "children",
+      "book",
+      "illustration",
+      "cute",
+      "watercolor"
+    ],
+    "description": "Generate charming children book illustrations in MJ Niji 6. Cuteness + simplicity + warmth."
   }
 ]

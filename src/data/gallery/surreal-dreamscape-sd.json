@@ -1,0 +1,84 @@
+{
+  "id": "seed-surreal-dreamscape-sd",
+  "slug": "surreal-dreamscape-sd",
+  "title": "Surreal Dreamscapes with SDXL",
+  "description": "Generate Beksinski / Giger-style dreamscapes. High stylize + atmospheric details = the \"wow\" factor.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/dreamscape-sample.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "concept-art",
+    "illustration",
+    "wallpaper"
+  ],
+  "useCases": [
+    "wallpaper",
+    "marketing",
+    "illustration"
+  ],
+  "difficulty": 4,
+  "tags": [
+    "surreal",
+    "dreamscape",
+    "beksinski",
+    "dark",
+    "concept-art"
+  ],
+  "prompt": {
+    "main": "surreal dreamscape in the style of zdzislaw beksinski, vast alien desert with floating obsidian monoliths, distant ruined cathedral, blood red sky with twin suns, fog rolling across the plain, hyper detailed textures, eerie silence, dark fantasy concept art, 8k masterpiece",
+    "negative": "cartoon, anime, simple, bright, cheerful, text, watermark",
+    "params": "SDXL + Dreamshaper XL, Steps 35, CFG 9",
+    "explained": [
+      {
+        "param": "Checkpoint: Dreamshaper XL",
+        "why": "Dreamshaper is unmatched for dark, surreal fantasy."
+      },
+      {
+        "param": "Steps 35, CFG 9",
+        "why": "Surrealism likes more steps + higher CFG for detail density."
+      },
+      {
+        "param": "zdzislaw beksinski",
+        "why": "Polish surrealist painter — the king of dark dream imagery."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Beksinski-style dreamscapes work because the \"vibe\" is consistent: dark, vast, ancient, lonely.",
+    "steps": [
+      "Artist anchor: in the style of zdzislaw beksinski — instantly locks the dark surreal vibe.",
+      "Setting: vast alien desert with floating obsidian monoliths — vastness + mystery.",
+      "Background story: distant ruined cathedral — adds a \"lost civilization\" feel.",
+      "Sky: blood red sky with twin suns — otherworldly.",
+      "Atmosphere: fog rolling across the plain, eerie silence — mood."
+    ],
+    "tips": "Beksinski + Giger + Magritte are the three surrealist anchors that work best in AI. Each has a distinct visual signature the model recognizes."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"surreal dreamscape, beksinski style, floating monoliths, twin suns --ar 16:9 --v 6.1 --s 850\"",
+    "stable_diffusion": "Use the rewrite prompt with Dreamshaper XL.",
+    "flux": "Flux is decent for surreal.",
+    "dall_e": "DALL-E 3 surreal is OK.",
+    "jimeng_zh": "超现实梦境，贝克斯辛斯基风格，漂浮黑曜石，远处废墟大教堂，血红天空双日"
+  },
+  "faq": [
+    {
+      "q": "Why is my surreal scene \"cheerful\"?",
+      "a": "You forgot the dark anchor. Add \"dark\", \"eerie\", \"beksinski\" to push it moody."
+    },
+    {
+      "q": "Best artist anchors for surrealism?",
+      "a": "Beksinski, Magritte, Giger, Escher. Each gives a distinct style."
+    },
+    {
+      "q": "Higher CFG for more detail?",
+      "a": "Yes — surrealism likes CFG 8-10 for detail density."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/surreal-dreamscape-sd",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "seed-concept-art-robot-sd",
+  "slug": "concept-art-robot-sd",
+  "title": "Sci-Fi Robot Concept Art in SDXL",
+  "description": "Generate professional sci-fi concept art with SDXL + Dreamshaper. Mechanical detail + atmospheric settings.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/robot-sample.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "concept-art",
+    "3d",
+    "illustration"
+  ],
+  "useCases": [
+    "wallpaper",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "sci-fi",
+    "robot",
+    "concept-art",
+    "artstation",
+    "mecha"
+  ],
+  "prompt": {
+    "main": "professional sci-fi concept art of a humanoid exploration robot, weathered metal surface with rust and battle damage, glowing cyan optics, detailed mechanical joints and servos, holding a futuristic rifle, standing in a foggy alien jungle, dramatic rim lighting, concept art for video game, artstation trending, 8k",
+    "negative": "cartoon, anime, simple, blurry, watermark, text, deformed",
+    "params": "SDXL + Dreamshaper XL, Steps 30, CFG 8",
+    "explained": [
+      {
+        "param": "Checkpoint: Dreamshaper XL",
+        "why": "Dreamshaper is the king of concept art + fantasy on SDXL."
+      },
+      {
+        "param": "Steps 30, CFG 8",
+        "why": "Concept art likes a slightly higher CFG (8 vs 7) for sharper detail."
+      },
+      {
+        "param": "artstation trending",
+        "why": "Quality anchor — ArtStation is the pro concept art platform."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Concept art needs three things: detailed subject, atmospheric setting, and quality anchor.",
+    "steps": [
+      "Subject details: weathered metal surface with rust and battle damage, glowing cyan optics, detailed mechanical joints and servos — the \"story\" comes from the details.",
+      "Story prop: holding a futuristic rifle — gives the character a role.",
+      "Setting: standing in a foggy alien jungle — atmosphere + context.",
+      "Lighting: dramatic rim lighting — separates the robot from the background.",
+      "Quality anchor: artstation trending — locks the pro concept art look."
+    ],
+    "tips": "Concept art lives on details. \"Glowing cyan optics\" + \"weathered metal\" + \"battle damage\" tells the model: this character has been around."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"sci-fi concept art, exploration robot, alien jungle, artstation --ar 16:9 --v 6.1 --s 600\"",
+    "stable_diffusion": "Use the rewrite prompt with Dreamshaper XL.",
+    "flux": "Flux handles concept art well.",
+    "dall_e": "DALL-E 3 concept art is OK.",
+    "jimeng_zh": "科幻概念艺术，人形探索机器人，风化金属，蓝色发光光学，机械细节，异星丛林"
+  },
+  "faq": [
+    {
+      "q": "Best SDXL for concept art?",
+      "a": "Dreamshaper XL. For darker / horror vibes, try Proteus."
+    },
+    {
+      "q": "Why does my robot look generic?",
+      "a": "Add story details: \"weathered\", \"battle damage\", \"glowing optics\", \"rust\". Generic robots = no story."
+    },
+    {
+      "q": "How to get the \"ArtStation\" look?",
+      "a": "Anchor with \"artstation trending\" or \"artstation masterpiece\" — the model knows the visual style."
+    }
+  ],
+  "source": {
+    "site": "Original",
+    "url": "https://aigallery.xyz/gallery/concept-art-robot-sd",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:01:12.326Z"
+}
