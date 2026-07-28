@@ -1,0 +1,94 @@
+{
+  "id": "seed-portrait-sdxl-juggernaut",
+  "slug": "sdxl-photorealistic-portrait-guide",
+  "title": "SDXL 写真人像：参数与模型选择完全指南",
+  "description": "用 SDXL 跑商业级写真人像的关键不是 prompt，是 checkpoint + 采样参数 + ControlNet。本教程给完整配置。",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/portrait-sample.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "写实",
+    "人像",
+    "portrait"
+  ],
+  "useCases": [
+    "头像",
+    "社交媒体",
+    "博客封面",
+    "电商"
+  ],
+  "difficulty": 4,
+  "tags": [
+    "sdxl",
+    "photorealistic",
+    "portrait",
+    "85mm",
+    "kodak-portra",
+    "juggernaut"
+  ],
+  "prompt": {
+    "main": "professional portrait photograph of a young woman in her 20s, natural soft window light from left, subtle smile, looking slightly off-camera, 85mm f/1.4 lens, shallow depth of field, bokeh, natural skin texture, magazine cover quality, kodak portra 400 film emulation",
+    "negative": "blurry, lowres, deformed face, extra fingers, mutated hands, watermark, text, bad anatomy, plastic skin, oversaturated",
+    "params": "SDXL + JuggernautXL, Steps 30, CFG 7",
+    "explained": [
+      {
+        "param": "Checkpoint: JuggernautXL v9",
+        "why": "写真人像目前最强 SDXL 模型，写实度 + 皮肤质感都顶。RealVisXL / epiCRealism 备选"
+      },
+      {
+        "param": "Steps 30, CFG 7",
+        "why": "写实类推荐 Steps 25-35 + CFG 6-8。CFG 太高会过饱和"
+      },
+      {
+        "param": "Sampler: DPM++ 2M Karras",
+        "why": "收敛快 + 细节好，是写实类的标配采样器"
+      },
+      {
+        "param": "VAE: sdxl_vae.safetensors",
+        "why": "默认 VAE 会偏灰，换这个色彩更准"
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "SDXL 写真人像的关键是：模型 > prompt > 参数。先选对 checkpoint，再谈 prompt。",
+    "steps": [
+      "【选模型】下载 JuggernautXL v9 或 RealVisXL V5.1，写真人像天花板。不要用 SDXL base 裸跑。",
+      "【基础 prompt】锁定主体 + 镜头 + 光线 + 风格: \"85mm f/1.4\" 比 \"DSLR photo\" 强 100 倍",
+      "【Negative prompt】写实类必备: deformed, extra fingers, mutated hands, bad anatomy, plastic skin",
+      "【采样参数】Steps 30, CFG 7, Sampler DPM++ 2M Karras, Size 832x1216 (竖版人像)",
+      "【后期】用 ADetailer 修复面部 / 跑 hires-fix 2x 提升细节 / Topaz Gigapixel 二次放大"
+    ],
+    "tips": "皮肤质感是写实和 AI 感的分水岭。加 \"natural skin texture, pores visible\" 强制 SD 渲染皮肤细节，比任何 LoRA 都有效。"
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1 写实比 SDXL 默认强，但 SDXL + JuggernautXL 细节更丰富。MJ prompt: \"professional portrait photograph of a young woman, 85mm lens, bokeh, kodak portra --ar 2:3 --v 6.1\"",
+    "stable_diffusion": "原 prompt + 上面 4 步配置，直接出图",
+    "flux": "Flux 写实比 SD 强，prompt 改自然语言: \"A professional portrait of a young woman in her 20s with soft window light, 85mm lens, shallow depth of field\"",
+    "dall_e": "DALL-E 3 写实不错但皮肤质感偏\"商业修图\"，不如 SD 真实",
+    "jimeng_zh": "专业人像摄影，年轻女性，85mm 镜头，浅景深，自然光，柯达克 Portra 400 胶片质感"
+  },
+  "faq": [
+    {
+      "q": "SDXL base 跑人像为什么不真实？",
+      "a": "base 模型训练数据偏向通用。要写真人必须用 fine-tune 模型：JuggernautXL / RealVisXL / epiCRealism"
+    },
+    {
+      "q": "CFG 多少合适？",
+      "a": "写实类 6-8，动漫类 7-10，概念类 9-12。CFG > 12 通常过饱和"
+    },
+    {
+      "q": "Steps 30 vs 50 差别大吗？",
+      "a": "DPM++ 2M Karras 在 25-30 步就收敛了。50 步只是更慢没明显更好"
+    },
+    {
+      "q": "如何修复手部？",
+      "a": "1) Negative prompt 写 hands 2) ADetailer 插件 3) inpaint 重画 4) 换 SVD 模型"
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/portrait-sdxl-demo",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-25T13:51:36.325Z"
+}

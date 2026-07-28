@@ -1,0 +1,86 @@
+{
+  "id": "seed-3d-pixar-character",
+  "slug": "pixar-3d-character-tutorial",
+  "title": "皮克斯 3D 角色：MJ 完全教程",
+  "description": "MJ v6.1 跑皮克斯 / 皮克斯风 3D 角色的关键词拆解 + 跨平台移植。",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/3d-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "3D",
+    "插画",
+    "cartoon",
+    "3d-render"
+  ],
+  "useCases": [
+    "头像",
+    "产品图",
+    "营销海报",
+    "博客封面"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "3d",
+    "pixar",
+    "character",
+    "unreal-engine",
+    "cute"
+  ],
+  "prompt": {
+    "main": "adorable 3d character render of a small robot with big expressive eyes, sitting in a flower meadow, holding a tiny lantern, soft volumetric lighting, pixar style rendering, subsurface scattering, bokeh background, unreal engine 5, octane render --v 6.1 --ar 1:1 --s 600",
+    "negative": "",
+    "params": "--v 6.1 --ar 1:1",
+    "explained": [
+      {
+        "param": "--v 6.1",
+        "why": "v6.1 在 3D 渲染风格理解上比 v5 强很多"
+      },
+      {
+        "param": "--s 600",
+        "why": "中高度 stylize 平衡创意 + 一致性"
+      },
+      {
+        "param": "指定渲染器",
+        "why": "\"unreal engine 5\" / \"octane render\" 比 \"3d\" 强 100 倍，MJ 知道这些渲染器的视觉特征"
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "MJ v6.1 跑 3D 角色比 SDXL 强，但需要明确指定渲染器和风格。",
+    "steps": [
+      "【渲染器锚定】写 \"unreal engine 5\" / \"octane render\" / \"redshift\" / \"blender cycles\" 比 \"3d\" 强 10 倍",
+      "【风格锚定】\"pixar\" / \"disney\" / \"dreamworks\" 比 \"3d cartoon\" 强 5 倍",
+      "【主体特征】adorable 3d character render of a small robot with big expressive eyes — 角色 + 体型 + 关键特征",
+      "【场景】sitting in a flower meadow, holding a tiny lantern — 3D 角色一定要有场景衬托",
+      "【技术参数】soft volumetric lighting + subsurface scattering + bokeh — 让 MJ 知道要 PBR 渲染质感"
+    ],
+    "tips": "3D 风格最容易被误判为\"AI 感\"。加 \"rendered in unreal engine 5, octane\" 这种引擎锚定词，可以显著提升\"专业感\"。"
+  },
+  "crossModel": {
+    "midjourney": "--v 6.1 --s 600 --ar 1:1",
+    "stable_diffusion": "Checkpoint: DreamShaper XL / 3D Animation Diffusion\nPrompt: \"3d character, pixar style, masterpiece\"\nNegative: \"2d, flat, anime, realistic\"",
+    "flux": "Flux 在 3D 风格上不如 MJ。Prompt: \"3D rendered character in Pixar style with volumetric lighting, unreal engine\"",
+    "dall_e": "DALL-E 3 3D 角色不错，但风格偏\"商业插画\"而非\"皮克斯动画\"",
+    "jimeng_zh": "皮克斯风格 3D 角色，机器人，草地，花丛，灯笼，体积光，octane 渲染"
+  },
+  "faq": [
+    {
+      "q": "为什么我的 3D 角色很\"AI 感\"？",
+      "a": "通常没指定渲染器。加 \"octane render\" / \"unreal engine 5\" 立刻变专业。"
+    },
+    {
+      "q": "MJ 跑 3D 角色和 SD 比？",
+      "a": "MJ v6.1 速度快 + 风格准。SDXL 生态强 (LoRA 多) 但调参麻烦。"
+    },
+    {
+      "q": "如何保持角色一致性？",
+      "a": "MJ 用 --cref + 角色图。SD 用 IP-Adapter + Face ID LoRA"
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/3d-pixar-demo",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-25T13:51:36.325Z"
+}

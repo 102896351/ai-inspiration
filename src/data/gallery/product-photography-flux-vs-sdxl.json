@@ -1,0 +1,86 @@
+{
+  "id": "seed-flux-product-photo",
+  "slug": "product-photography-flux-vs-sdxl",
+  "title": "电商产品图：Flux vs SDXL 完全对比",
+  "description": "电商产品图（手表/化妆品/电子产品）用什么 AI 出图最稳？Flux vs SDXL 实战对比。",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/product-sample.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "写实",
+    "产品",
+    "commercial",
+    "studio"
+  ],
+  "useCases": [
+    "电商",
+    "产品图",
+    "营销海报",
+    "广告"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "product",
+    "commercial",
+    "flux",
+    "studio",
+    "luxury"
+  ],
+  "prompt": {
+    "main": "professional product photograph of a luxury automatic watch on a black velvet display cushion, dramatic studio lighting with rim light from the right, soft fill light from the left, hyper detailed metal texture, visible screws and engravings, bokeh background of dark walnut wood, 8k commercial photography, advertising campaign quality",
+    "negative": "",
+    "params": "Flux.1 dev, 1024x1024",
+    "explained": [
+      {
+        "param": "Flux.1 dev",
+        "why": "Flux 在产品图上比 SD 强 30%，尤其是金属/玻璃反光"
+      },
+      {
+        "param": "不指定 negative",
+        "why": "Flux 没有 negative prompt，正向写全"
+      },
+      {
+        "param": "8k + commercial photography",
+        "why": "锚定到商业摄影标准"
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "产品图是 AI 最擅长的场景之一（少人物 + 明确主体）。Flux 在这个领域目前最强。",
+    "steps": [
+      "【主体 + 材质】luxury automatic watch on a black velvet display cushion — 主体 + 支撑物",
+      "【光线】dramatic studio lighting with rim light from the right, soft fill light from the left — 戏剧光 + 补光",
+      "【细节锚定】hyper detailed metal texture, visible screws and engravings — 强制模型渲染微观细节",
+      "【背景】bokeh background of dark walnut wood — 浅景深 + 暖色木质背景提升档次",
+      "【质量词】8k commercial photography, advertising campaign quality — 商业级标准锚定"
+    ],
+    "tips": "产品图最忌\"AI 塑料感\"。加 \"hyper detailed metal texture, visible screws\" 这种微观细节词，立刻从 AI 变商业。"
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1 商业产品图: \"professional product photograph of a luxury watch, dramatic studio lighting, 8k --ar 1:1 --s 250 --v 6.1\"",
+    "stable_diffusion": "SDXL + JuggernautXL / RealVisXL\nSteps 30, CFG 7\n加 controlnet depth 模型固定手表位置",
+    "flux": "原 prompt 直接用，Flux 在产品图最强",
+    "dall_e": "DALL-E 3 产品图不错但容易加\"多余元素\"",
+    "jimeng_zh": "专业产品摄影，奢侈手表，黑色天鹅绒底座，戏剧光，超细节金属质感，8K 商业级"
+  },
+  "faq": [
+    {
+      "q": "Flux vs SDXL 跑产品图？",
+      "a": "Flux 金属/玻璃反光更强，SDXL 生态丰富（LoRA 多）。商业级推荐 Flux"
+    },
+    {
+      "q": "为什么产品图背景总是乱？",
+      "a": "prompt 里没指定背景。加 \"solid white background\" 或具体背景描述"
+    },
+    {
+      "q": "电商产品图用哪个模型最稳？",
+      "a": "Flux > SDXL+Juggernaut > MJ v6.1。MJ 偶尔会\"创意\"出意外元素"
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/flux-product",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-25T13:51:36.325Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "seed-cyberpunk-street-mj",
+  "slug": "cyberpunk-rain-street-tutorial",
+  "title": "赛博朋克雨夜街角：完整 prompt 拆解",
+  "description": "本教程用 Midjourney v6.1 拆解一张经典赛博朋克街景图。从关键词分层、参数选择到跨模型移植，让你掌握赛博朋克风的核心写法。",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "写实",
+    "夜景",
+    "sci-fi",
+    "cyberpunk"
+  ],
+  "useCases": [
+    "博客封面",
+    "社交媒体",
+    "视频缩略图",
+    "游戏概念"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "cyberpunk",
+    "neon",
+    "rain",
+    "asian-portrait",
+    "cinematic",
+    "blade-runner"
+  ],
+  "prompt": {
+    "main": "cinematic cyberpunk street corner at night, heavy rain reflections on wet asphalt, glowing neon signs in japanese and chinese, young woman with cybernetic jacket looking back, blade runner 2049 atmosphere, shallow depth of field, anamorphic lens flare --ar 16:9 --s 750 --v 6.1",
+    "negative": "--no blurry, low quality, deformed, watermark, text errors",
+    "params": "--ar 16:9 --v 6.1 --s 750",
+    "explained": [
+      {
+        "param": "--ar 16:9",
+        "why": "横版构图适合视频封面 / banner / 博客头图。MJ 默认 1:1，用 16:9 显式指定"
+      },
+      {
+        "param": "--s 750",
+        "why": "高 stylize 让 MJ 自由发挥艺术风格（默认 100）。适合艺术化场景"
+      },
+      {
+        "param": "--v 6.1",
+        "why": "v6.1 写实但保留艺术性。比 v5 文字理解更好，比 v7 更稳定"
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "赛博朋克是 MJ 的强项，但要写出\"电影感\"而非\"塑料感\"，需要分层叠加关键词 + 选对参数。",
+    "steps": [
+      "【主体层】cyberpunk street corner at night — 锁定场景 + 时间 + 空间（街角 + 夜晚）",
+      "【氛围层】heavy rain reflections + glowing neon signs in japanese and chinese — 雨 + 霓虹 + 多语言招牌是赛博朋克视觉标配",
+      "【人物层】young woman with cybernetic jacket looking back — 一个回头人物加故事感，不要写\"a woman\"太泛",
+      "【风格层】blade runner 2049 atmosphere + cinematic + anamorphic lens flare — 锚定到具体电影 + 镜头术语",
+      "【参数层】--ar 16:9 横版 + --s 750 高 stylize + --v 6.1 最新稳定版。这三参数组合适合艺术化场景"
+    ],
+    "tips": "关键技巧：把\"cinematic / anamorphic / 35mm\" 等镜头术语塞进 prompt，比\"beautiful / amazing\" 有效 10 倍。MJ 见过太多 \"beautiful cyberpunk girl\" 了。"
+  },
+  "crossModel": {
+    "midjourney": "原 prompt 直接用，--s 750 是核心参数",
+    "stable_diffusion": "正向用上面英文 prompt，negative 加: blurry, lowres, watermark, text artifacts\n推荐模型：SDXL + JuggernautXL\nCFG 7, Steps 30, Sampler DPM++ 2M Karras",
+    "flux": "Flux 喜欢更详细的描述，可以加: \"shot on Sony Venice, color graded teal and orange, shallow DOF f/1.4\"\nFlux 对英文 prompt 理解力强，不用 negative prompt",
+    "dall_e": "DALL-E 3 适合自然语言: \"A cinematic cyberpunk street scene at night with heavy rain, glowing Japanese neon signs, a young woman in a cybernetic jacket looking back, in the style of Blade Runner 2049\"",
+    "jimeng_zh": "赛博朋克风格，雨夜，霓虹灯，年轻女性回头看，赛博夹克，浅景深，电影感。 --ar 16:9"
+  },
+  "faq": [
+    {
+      "q": "为什么我的赛博朋克图总是塑料感？",
+      "a": "通常 stylize 太低（默认 100）。试 --s 750 或更高，MJ 才有\"电影感\"的发挥空间。"
+    },
+    {
+      "q": "怎么让 MJ 准确生成\"雨\"？",
+      "a": "加 \"heavy rain reflections on wet asphalt\" 比单独写 \"rain\" 强 5 倍。MJ 对反射/倒影理解很好。"
+    },
+    {
+      "q": "MJ v6 和 v6.1 区别大吗？",
+      "a": "v6.1 在文字渲染 + 一致性上更好。v6 创意更发散，看场景选。"
+    },
+    {
+      "q": "参数 --chaos 0-100 怎么用？",
+      "a": "--chaos 20 让结果更多样（适合探索）。0-10 太死板，30+ 太随机。"
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/cyberpunk-street-mj",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-25T13:51:36.325Z"
+}

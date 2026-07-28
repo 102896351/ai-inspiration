@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/cyberpunk-rain-street-tutorial</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sample.webp</image:loc>
+      <image:title>赛博朋克雨夜街角：完整 prompt 拆解</image:title>
+      <image:caption>本教程用 Midjourney v6.1 拆解一张经典赛博朋克街景图。从关键词分层、参数选择到跨模型移植，让你掌握赛博朋克风的核心写法。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/cyberpunk-rain-street-tutorial" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/cyberpunk-rain-street-tutorial" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/fantasy-floating-island-mj</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fantasy-sample.webp</image:loc>
+      <image:title>奇幻风景：浮空岛 + 魔法森林 prompt 教程</image:title>
+      <image:caption>MJ v6.1 跑史诗奇幻风景（浮空岛、魔法森林、发光湖泊）的核心技巧。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/fantasy-floating-island-mj" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/fantasy-floating-island-mj" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/flux-soft-anime-illustration</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/flux-anime-sample.webp</image:loc>
+      <image:title>Flux 软萌动漫风：日系插画 prompt</image:title>
+      <image:caption>Flux 跑日系软萌动漫的 prompt 写法 + 跨模型对比。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/flux-soft-anime-illustration" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/flux-soft-anime-illustration" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/ghibli-anime-style-mj-niji</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-sample.webp</image:loc>
+      <image:title>吉卜力风动漫人像：Niji 模式完全攻略</image:title>
+      <image:caption>MJ Niji 6 跑吉卜力风 / 新海诚风 / 鬼灭风的关键是锚定到具体作品 + 配色词 + 镜头词。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/ghibli-anime-style-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/ghibli-anime-style-mj-niji" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/ideogram-typography-logo-design</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/ideogram-sample.webp</image:loc>
+      <image:title>Ideogram 2.0 字体海报：logo 设计新选择</image:title>
+      <image:caption>Ideogram 2.0 是目前 AI 字体渲染最准的模型。咖啡店 logo、活动海报、品牌设计都靠它。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/ideogram-typography-logo-design" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/ideogram-typography-logo-design" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/mj-minimal-brand-logo</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/logo-sample.webp</image:loc>
+      <image:title>MJ 极简 logo：品牌设计 prompt 教程</image:title>
+      <image:caption>用 MJ v6.1 跑极简 logo / 品牌符号的 prompt 技巧（虽然 Ideogram 文字更强，但 logo 符号 MJ 不差）。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/mj-minimal-brand-logo" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/mj-minimal-brand-logo" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/pixar-3d-character-tutorial</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/3d-sample.webp</image:loc>
+      <image:title>皮克斯 3D 角色：MJ 完全教程</image:title>
+      <image:caption>MJ v6.1 跑皮克斯 / 皮克斯风 3D 角色的关键词拆解 + 跨平台移植。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/pixar-3d-character-tutorial" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/pixar-3d-character-tutorial" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/product-photography-flux-vs-sdxl</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/product-sample.webp</image:loc>
+      <image:title>电商产品图：Flux vs SDXL 完全对比</image:title>
+      <image:caption>电商产品图（手表/化妆品/电子产品）用什么 AI 出图最稳？Flux vs SDXL 实战对比。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/product-photography-flux-vs-sdxl" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/product-photography-flux-vs-sdxl" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/sd-anythingxl-anime-landscape</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sd-anime-landscape-sample.webp</image:loc>
+      <image:title>SD 动漫风景：AnythingXL 实战</image:title>
+      <image:caption>SDXL + AnythingXL 跑动漫风景（山川/海洋/校园）的配置 + prompt 写法。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/sd-anythingxl-anime-landscape" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/sd-anythingxl-anime-landscape" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/sdxl-photorealistic-portrait-guide</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/portrait-sample.webp</image:loc>
+      <image:title>SDXL 写真人像：参数与模型选择完全指南</image:title>
+      <image:caption>用 SDXL 跑商业级写真人像的关键不是 prompt，是 checkpoint + 采样参数 + ControlNet。本教程给完整配置。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/sdxl-photorealistic-portrait-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/sdxl-photorealistic-portrait-guide" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/vintage-travel-poster-paris</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-sample.webp</image:loc>
+      <image:title>复古海报：1950 巴黎旅游海报 prompt 拆解</image:title>
+      <image:caption>跑 1950s 复古旅游海报（巴黎/纽约/东京）的 prompt 写法 + 字体生成技巧。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/vintage-travel-poster-paris" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/vintage-travel-poster-paris" />
+  </url>
+  <url>
+    <loc>https://aigallery.xyz/#/en/gallery/watercolor-illustration-mj-niji</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/watercolor-sample.webp</image:loc>
+      <image:title>水彩插画：MJ Niji 6 治愈系 prompt</image:title>
+      <image:caption>Niji 6 跑水彩风插画（治愈系、植物、手账素材）的 prompt 拆解。</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aigallery.xyz/#/en/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aigallery.xyz/#/zh/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aigallery.xyz/#/ja/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://aigallery.xyz/#/ko/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aigallery.xyz/#/fr/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aigallery.xyz/#/de/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://aigallery.xyz/#/es/gallery/watercolor-illustration-mj-niji" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aigallery.xyz/#/en/gallery/watercolor-illustration-mj-niji" />
+  </url>
+</urlset>

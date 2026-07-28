@@ -1,0 +1,340 @@
+[
+  {
+    "id": "seed-cyberpunk-street-mj",
+    "slug": "cyberpunk-rain-street-tutorial",
+    "title": "赛博朋克雨夜街角：完整 prompt 拆解",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "写实",
+      "夜景",
+      "sci-fi",
+      "cyberpunk"
+    ],
+    "useCases": [
+      "博客封面",
+      "社交媒体",
+      "视频缩略图",
+      "游戏概念"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "cyberpunk",
+      "neon",
+      "rain",
+      "asian-portrait",
+      "cinematic",
+      "blade-runner"
+    ],
+    "description": "本教程用 Midjourney v6.1 拆解一张经典赛博朋克街景图。从关键词分层、参数选择到跨模型移植，让你掌握赛博朋克风的核心写法。"
+  },
+  {
+    "id": "seed-portrait-sdxl-juggernaut",
+    "slug": "sdxl-photorealistic-portrait-guide",
+    "title": "SDXL 写真人像：参数与模型选择完全指南",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/portrait-sample.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "写实",
+      "人像",
+      "portrait"
+    ],
+    "useCases": [
+      "头像",
+      "社交媒体",
+      "博客封面",
+      "电商"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "sdxl",
+      "photorealistic",
+      "portrait",
+      "85mm",
+      "kodak-portra",
+      "juggernaut"
+    ],
+    "description": "用 SDXL 跑商业级写真人像的关键不是 prompt，是 checkpoint + 采样参数 + ControlNet。本教程给完整配置。"
+  },
+  {
+    "id": "seed-anime-mj-niji",
+    "slug": "ghibli-anime-style-mj-niji",
+    "title": "吉卜力风动漫人像：Niji 模式完全攻略",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "动漫",
+      "插画",
+      "anime",
+      "ghibli"
+    ],
+    "useCases": [
+      "头像",
+      "壁纸",
+      "博客封面",
+      "插画"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "anime",
+      "ghibli",
+      "miyazaki",
+      "kimono",
+      "sakura",
+      "niji"
+    ],
+    "description": "MJ Niji 6 跑吉卜力风 / 新海诚风 / 鬼灭风的关键是锚定到具体作品 + 配色词 + 镜头词。"
+  },
+  {
+    "id": "seed-3d-pixar-character",
+    "slug": "pixar-3d-character-tutorial",
+    "title": "皮克斯 3D 角色：MJ 完全教程",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/3d-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "3D",
+      "插画",
+      "cartoon",
+      "3d-render"
+    ],
+    "useCases": [
+      "头像",
+      "产品图",
+      "营销海报",
+      "博客封面"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "3d",
+      "pixar",
+      "character",
+      "unreal-engine",
+      "cute"
+    ],
+    "description": "MJ v6.1 跑皮克斯 / 皮克斯风 3D 角色的关键词拆解 + 跨平台移植。"
+  },
+  {
+    "id": "seed-flux-product-photo",
+    "slug": "product-photography-flux-vs-sdxl",
+    "title": "电商产品图：Flux vs SDXL 完全对比",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/product-sample.webp",
+    "model": "flux",
+    "styles": [
+      "写实",
+      "产品",
+      "commercial",
+      "studio"
+    ],
+    "useCases": [
+      "电商",
+      "产品图",
+      "营销海报",
+      "广告"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "product",
+      "commercial",
+      "flux",
+      "studio",
+      "luxury"
+    ],
+    "description": "电商产品图（手表/化妆品/电子产品）用什么 AI 出图最稳？Flux vs SDXL 实战对比。"
+  },
+  {
+    "id": "seed-vintage-poster-mj",
+    "slug": "vintage-travel-poster-paris",
+    "title": "复古海报：1950 巴黎旅游海报 prompt 拆解",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "复古",
+      "海报",
+      "vintage",
+      "art-deco"
+    ],
+    "useCases": [
+      "营销海报",
+      "博客封面",
+      "壁纸",
+      "T 恤设计"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "vintage",
+      "retro",
+      "1950s",
+      "poster",
+      "art-deco",
+      "paris"
+    ],
+    "description": "跑 1950s 复古旅游海报（巴黎/纽约/东京）的 prompt 写法 + 字体生成技巧。"
+  },
+  {
+    "id": "seed-ideogram-typography",
+    "slug": "ideogram-typography-logo-design",
+    "title": "Ideogram 2.0 字体海报：logo 设计新选择",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/ideogram-sample.webp",
+    "model": "ideogram",
+    "styles": [
+      "logo",
+      "minimalist",
+      "branding"
+    ],
+    "useCases": [
+      "logo",
+      "营销海报",
+      "T 恤设计",
+      "品牌设计"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "ideogram",
+      "logo",
+      "typography",
+      "branding",
+      "minimalist"
+    ],
+    "description": "Ideogram 2.0 是目前 AI 字体渲染最准的模型。咖啡店 logo、活动海报、品牌设计都靠它。"
+  },
+  {
+    "id": "seed-fantasy-landscape-mj",
+    "slug": "fantasy-floating-island-mj",
+    "title": "奇幻风景：浮空岛 + 魔法森林 prompt 教程",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fantasy-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "概念设计",
+      "插画",
+      "fantasy",
+      "landscape"
+    ],
+    "useCases": [
+      "壁纸",
+      "博客封面",
+      "游戏概念",
+      "视频缩略图"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "fantasy",
+      "landscape",
+      "floating-island",
+      "epic",
+      "dnd",
+      "concept-art"
+    ],
+    "description": "MJ v6.1 跑史诗奇幻风景（浮空岛、魔法森林、发光湖泊）的核心技巧。"
+  },
+  {
+    "id": "seed-flux-soft-anime",
+    "slug": "flux-soft-anime-illustration",
+    "title": "Flux 软萌动漫风：日系插画 prompt",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/flux-anime-sample.webp",
+    "model": "flux",
+    "styles": [
+      "动漫",
+      "插画",
+      "anime",
+      "soft"
+    ],
+    "useCases": [
+      "头像",
+      "壁纸",
+      "博客封面",
+      "插画"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "anime",
+      "soft",
+      "cat-ear",
+      "pastel",
+      "shinkai",
+      "flux"
+    ],
+    "description": "Flux 跑日系软萌动漫的 prompt 写法 + 跨模型对比。"
+  },
+  {
+    "id": "seed-mj-minimal-logo",
+    "slug": "mj-minimal-brand-logo",
+    "title": "MJ 极简 logo：品牌设计 prompt 教程",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/logo-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "logo",
+      "minimalist",
+      "vector"
+    ],
+    "useCases": [
+      "logo",
+      "品牌设计",
+      "T 恤设计"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "logo",
+      "minimalist",
+      "geometric",
+      "bauhaus",
+      "mountain"
+    ],
+    "description": "用 MJ v6.1 跑极简 logo / 品牌符号的 prompt 技巧（虽然 Ideogram 文字更强，但 logo 符号 MJ 不差）。"
+  },
+  {
+    "id": "seed-sd-anime-landscape",
+    "slug": "sd-anythingxl-anime-landscape",
+    "title": "SD 动漫风景：AnythingXL 实战",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sd-anime-landscape-sample.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "动漫",
+      "插画",
+      "landscape",
+      "anime"
+    ],
+    "useCases": [
+      "壁纸",
+      "博客封面",
+      "插画"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "anime",
+      "landscape",
+      "anythingxl",
+      "sunset",
+      "sakura"
+    ],
+    "description": "SDXL + AnythingXL 跑动漫风景（山川/海洋/校园）的配置 + prompt 写法。"
+  },
+  {
+    "id": "seed-mj-watercolor-illustration",
+    "slug": "watercolor-illustration-mj-niji",
+    "title": "水彩插画：MJ Niji 6 治愈系 prompt",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/watercolor-sample.webp",
+    "model": "midjourney",
+    "styles": [
+      "插画",
+      "水彩",
+      "watercolor",
+      "soft"
+    ],
+    "useCases": [
+      "博客封面",
+      "壁纸",
+      "插画",
+      "手账素材"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "watercolor",
+      "illustration",
+      "soft",
+      "pastel",
+      "meadow",
+      "niji"
+    ],
+    "description": "Niji 6 跑水彩风插画（治愈系、植物、手账素材）的 prompt 拆解。"
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "id": "seed-anime-mj-niji",
+  "slug": "ghibli-anime-style-mj-niji",
+  "title": "吉卜力风动漫人像：Niji 模式完全攻略",
+  "description": "MJ Niji 6 跑吉卜力风 / 新海诚风 / 鬼灭风的关键是锚定到具体作品 + 配色词 + 镜头词。",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "动漫",
+    "插画",
+    "anime",
+    "ghibli"
+  ],
+  "useCases": [
+    "头像",
+    "壁纸",
+    "博客封面",
+    "插画"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "anime",
+    "ghibli",
+    "miyazaki",
+    "kimono",
+    "sakura",
+    "niji"
+  ],
+  "prompt": {
+    "main": "anime girl in traditional japanese kimono with cherry blossom pattern, standing under a thousand-year sakura tree, petals falling in the wind, golden hour light filtering through branches, hayao miyazaki style, studio ghibli color palette, hand-painted texture, watercolor background, soft focus --niji 6 --ar 3:4",
+    "negative": "",
+    "params": "--niji 6 --ar 3:4",
+    "explained": [
+      {
+        "param": "--niji 6",
+        "why": "MJ 专门为动漫优化的模型。比 v6 动漫强 50%"
+      },
+      {
+        "param": "--ar 3:4",
+        "why": "竖版人像 / 海报标准比例"
+      },
+      {
+        "param": "指定\"hayao miyazaki style\"",
+        "why": "锚定到具体艺术家 > 写\"anime style\"。MJ 见过 1000 种 anime style，但 miyazaki 风格很独特"
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Niji 6 是 MJ 跑动漫的最佳模式。掌握\"作品名 + 配色 + 镜头\"三件套，跑出吉卜力 / 新海诚 / 鬼灭风。",
+    "steps": [
+      "【作品锚定】写\"hayao miyazaki style\" / \"makoto shinkai style\" / \"demon slayer style\" 比\"anime\" 强 10 倍",
+      "【主体层】anime girl in traditional japanese kimono with cherry blossom pattern — 主体 + 服装 + 图案",
+      "【环境层】standing under a thousand-year sakura tree, petals falling in the wind — 场景 + 动态",
+      "【光线层】golden hour light filtering through branches — 吉卜力最爱黄金时刻光",
+      "【质感层】hand-painted texture, watercolor background, soft focus — 吉卜力手绘 + 水彩背景"
+    ],
+    "tips": "Niji 6 比 v6 优势在眼睛和头发细节。如果你想要\"新海诚风\"（超写实光影），反而用 v6 + \"makoto shinkai\" prompt 更好。"
+  },
+  "crossModel": {
+    "midjourney": "Niji 6 模式，--ar 3:4，--s 100 (低 stylize 保留原画感)",
+    "stable_diffusion": "Anything V5 / Counterfeit V3 + \"anime, masterpiece, best quality\"\nNegative: \"lowres, bad anatomy, bad hands\"\n推荐用 AOM3 + 8steps CFG 11",
+    "flux": "Flux 动漫还行但不如 SD 生态丰富。Prompt: \"Anime girl in kimono under sakura tree, Ghibli style, hand-painted watercolor\"",
+    "dall_e": "DALL-E 3 动漫不如 MJ Niji 6 和 SD 生态",
+    "jimeng_zh": "动漫风格少女，和服，樱花树下，花瓣飘落，宫崎骏风格，水彩手绘感"
+  },
+  "faq": [
+    {
+      "q": "Niji 6 和 MJ v6 动漫谁强？",
+      "a": "Niji 6 在纯动漫 + 二次元更强。v6 在新海诚/写实动漫融合场景更好。"
+    },
+    {
+      "q": "如何跑\"新海诚风\"？",
+      "a": "用 MJ v6 (不是 niji) + \"makoto shinkai style\" + \"cinematic lighting, hyper detailed sky\""
+    },
+    {
+      "q": "为什么我跑不出吉卜力？",
+      "a": "必须写 \"hayao miyazaki\" 或 \"studio ghibli\"。光写 \"anime\" MJ 不知道你要哪个流派。"
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/anime-mj-niji",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-25T13:51:36.325Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "seed-mj-minimal-logo",
+  "slug": "mj-minimal-brand-logo",
+  "title": "MJ 极简 logo：品牌设计 prompt 教程",
+  "description": "用 MJ v6.1 跑极简 logo / 品牌符号的 prompt 技巧（虽然 Ideogram 文字更强，但 logo 符号 MJ 不差）。",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/logo-sample.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "logo",
+    "minimalist",
+    "vector"
+  ],
+  "useCases": [
+    "logo",
+    "品牌设计",
+    "T 恤设计"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "logo",
+    "minimalist",
+    "geometric",
+    "bauhaus",
+    "mountain"
+  ],
+  "prompt": {
+    "main": "minimalist geometric logo design of a mountain peak inside a circle, vector graphic style, monochromatic black on white, clean lines, scalable from favicon to billboard, professional brand identity, bauhaus inspired, no text",
+    "negative": "",
+    "params": "--v 6.1 --ar 1:1",
+    "explained": [
+      {
+        "param": "--v 6.1",
+        "why": "v6.1 logo 风格比 v5 干净"
+      },
+      {
+        "param": "no text",
+        "why": "MJ 文字经常错，明确说不加文字"
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "MJ 跑 logo 适合\"符号 + 图标\"，不适合\"文字 + 符号\"组合。",
+    "steps": [
+      "【明确用途】minimalist geometric logo design — 用途 + 风格",
+      "【主体】mountain peak inside a circle — 简单主体 + 容器",
+      "【风格】vector graphic style, bauhaus inspired — 矢量 + 设计运动",
+      "【配色】monochromatic black on white — 限定单色",
+      "【明确不要】no text — 避开 MJ 文字错字问题",
+      "【可扩展性】scalable from favicon to billboard — 强调 logo 的可缩放性"
+    ],
+    "tips": "MJ 跑 logo 适合\"探索灵感\"，真正落地还是 Figma 二次调整。AI logo 100% 落地率不高。"
+  },
+  "crossModel": {
+    "midjourney": "--v 6.1 --s 100 (低 stylize 保简洁) --no text",
+    "stable_diffusion": "SDXL + 任何模型都行，加 \"vector, logo, simple, minimal\"",
+    "flux": "Flux 几何 logo 强",
+    "dall_e": "DALL-E 3 logo 不错",
+    "jimeng_zh": "极简几何 logo, 山峰, 圆形, 矢量风格, 单色黑白, 平面设计"
+  },
+  "faq": [
+    {
+      "q": "AI 生成的 logo 能商用吗？",
+      "a": "看 ToS。MJ 标准订阅商用 OK，Pro 订阅有更高商用权"
+    },
+    {
+      "q": "如何让 logo 更\"专业\"？",
+      "a": "加 bauhaus / swiss design / 国际主义风格 这些设计史锚定"
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/mj-logo",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-25T13:51:36.325Z"
+}

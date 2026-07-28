@@ -1,0 +1,31 @@
+{
+  "name": "ai-inspiration",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "fetch:prompthero": "node scripts/fetch-prompthero.js",
+    "fetch:civitai": "node scripts/fetch-civitai.js",
+    "fetch:lexica": "node scripts/fetch-lexica.js",
+    "fetch:all": "node scripts/fetch-prompthero.js && node scripts/fetch-civitai.js && node scripts/fetch-lexica.js",
+    "rewrite": "node scripts/rewrite-content.js",
+    "integrate": "node scripts/integrate.js",
+    "sitemap": "node scripts/generate-sitemap.js && node scripts/generate-image-sitemap.js",
+    "content:all": "npm run fetch:all && npm run rewrite && npm run integrate && npm run sitemap"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vue-router": "^4.3.0",
+    "vue-i18n": "^9.10.0",
+    "masonry-layout": "^4.2.2"
+  },
+  "devDependencies": {
+    "vite": "5.0.10",
+    "@vitejs/plugin-vue": "5.0.4",
+    "vite-plugin-compression": "^0.5.1",
+    "rollup-plugin-visualizer": "^5.12.0"
+  }
+}

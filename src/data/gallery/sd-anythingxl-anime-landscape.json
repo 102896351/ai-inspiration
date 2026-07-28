@@ -1,0 +1,77 @@
+{
+  "id": "seed-sd-anime-landscape",
+  "slug": "sd-anythingxl-anime-landscape",
+  "title": "SD 动漫风景：AnythingXL 实战",
+  "description": "SDXL + AnythingXL 跑动漫风景（山川/海洋/校园）的配置 + prompt 写法。",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sd-anime-landscape-sample.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "动漫",
+    "插画",
+    "landscape",
+    "anime"
+  ],
+  "useCases": [
+    "壁纸",
+    "博客封面",
+    "插画"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "anime",
+    "landscape",
+    "anythingxl",
+    "sunset",
+    "sakura"
+  ],
+  "prompt": {
+    "main": "beautiful anime landscape, vast mountain range at sunset, golden and pink clouds, a single sakura tree on a cliff overlooking the valley, soft wind blowing petals, masterpiece, best quality, highly detailed, 4k",
+    "negative": "",
+    "params": "SDXL + AnythingXL, Steps 25",
+    "explained": [
+      {
+        "param": "Checkpoint: AnythingXL",
+        "why": "动漫风景目前 SDXL 生态最强模型"
+      },
+      {
+        "param": "Steps 25, CFG 7",
+        "why": "Anything 系列对 CFG 敏感，6-8 最佳"
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "SDXL 跑动漫风景用 AnythingXL 是性价比首选（免费 + 快 + 风格好）。",
+    "steps": [
+      "【选模型】下载 AnythingXL（基于 SDXL 的动漫微调），跑动漫风景/角色都强",
+      "【质量词】masterpiece, best quality, highly detailed — 任何 SD prompt 必备",
+      "【主体】vast mountain range at sunset, golden and pink clouds — 风景 + 时间 + 配色",
+      "【故事点】a single sakura tree on a cliff overlooking the valley — 单一主体提升焦点",
+      "【动态】soft wind blowing petals — 加动态避免静止感"
+    ],
+    "tips": "AnythingXL 比 SDXL base 强很多但仍需要 LoRA 提升特定风格。civitai 上有几百个免费的 Anything LoRA。"
+  },
+  "crossModel": {
+    "midjourney": "MJ Niji 6: \"anime landscape, vast mountain range at sunset, sakura tree on cliff --niji 6 --ar 16:9\"",
+    "stable_diffusion": "AnythingXL + Steps 25 + CFG 7",
+    "flux": "Flux 动漫风景 OK，但不如 SD 生态丰富",
+    "dall_e": "DALL-E 3 动漫风景一般",
+    "jimeng_zh": "动漫风格风景，山脉日落，樱花树，悬崖，4K 高细节"
+  },
+  "faq": [
+    {
+      "q": "AnythingXL 是什么？",
+      "a": "基于 SDXL 的动漫微调模型，civitai 免费下载，跑动漫性价比最高"
+    },
+    {
+      "q": "SD 跑动漫风景和 Flux 比？",
+      "a": "SD 速度快 + LoRA 多。Flux 色彩好但慢。各有优势"
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/sd-anime-landscape",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-25T13:51:36.326Z"
+}
