@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-restaurant-menu-ideogram",
   "slug": "restaurant-menu-ideogram",
   "title": "Restaurant Menu Design in Ideogram 2.0",
@@ -23,7 +23,7 @@
     "bistro"
   ],
   "prompt": {
-    "main": "elegant cafe menu design, header text \"MENU\" in serif typography, three sections: \"BREAKFAST\" with items like \"AVOCADO TOAST $14\" and \"EGGS BENEDICT $18\", \"LUNCH\" with items like \"CAESAR SALAD $16\" and \"GRILLED SALMON $28\", \"DESSERTS\" with \"CR脠ME BR脹L脡E $12\" and \"TIRAMISU $11\", cream paper background, olive green and gold color palette, minimalist layout, classic french bistro style",
+    "main": "elegant cafe menu design, header text \"MENU\" in serif typography, three sections: \"BREAKFAST\" with items like \"AVOCADO TOAST $14\" and \"EGGS BENEDICT $18\", \"LUNCH\" with items like \"CAESAR SALAD $16\" and \"GRILLED SALMON $28\", \"DESSERTS\" with \"CRÈME BRÛLÉE $12\" and \"TIRAMISU $11\", cream paper background, olive green and gold color palette, minimalist layout, classic french bistro style",
     "negative": "",
     "params": "Ideogram 2.0, A4 vertical",
     "explained": [
@@ -37,18 +37,18 @@
       },
       {
         "param": "Classic French bistro",
-        "why": "Style anchor 鈥?locks the \"elegant restaurant\" vibe."
+        "why": "Style anchor — locks the \"elegant restaurant\" vibe."
       }
     ]
   },
   "tutorial": {
     "intro": "Real menus have: header + multiple sections + items with prices. Ideogram 2.0 can do this in one prompt.",
     "steps": [
-      "Header: header text \"MENU\" in serif typography 鈥?the title is the most important text.",
-      "Sections: three sections: \"BREAKFAST\" / \"LUNCH\" / \"DESSERTS\" 鈥?quote each section header.",
-      "Items: list items with prices in quotes 鈥?\"AVOCADO TOAST $14\" etc.",
-      "Palette: cream paper background, olive green and gold color palette 鈥?elegant bistro look.",
-      "Style: classic french bistro style 鈥?locks the upscale cafe vibe."
+      "Header: header text \"MENU\" in serif typography — the title is the most important text.",
+      "Sections: three sections: \"BREAKFAST\" / \"LUNCH\" / \"DESSERTS\" — quote each section header.",
+      "Items: list items with prices in quotes — \"AVOCADO TOAST $14\" etc.",
+      "Palette: cream paper background, olive green and gold color palette — elegant bistro look.",
+      "Style: classic french bistro style — locks the upscale cafe vibe."
     ],
     "tips": "For real menus, you'll iterate 3-4 times to get prices and names right. The model is good but not perfect with multi-line text."
   },
@@ -57,7 +57,7 @@
     "stable_diffusion": "SDXL: weak text. Build menus in Figma or Illustrator.",
     "flux": "Flux text is OK but behind Ideogram.",
     "dall_e": "DALL-E 3 text is decent.",
-    "jimeng_zh": "鍜栧暋搴楄彍鍗曡璁★紝MENU 鏍囬锛屾棭椁愬崍椁愮敎鐐瑰垎绫伙紝缁忓吀娉曞紡灏忛厭棣嗛鏍?
+    "jimeng_zh": "咖啡店菜单设计，MENU 标题，早餐午餐甜点分类，经典法式小酒馆风格"
   },
   "faq": [
     {
@@ -78,5 +78,5 @@
     "url": "https://aigallery.xyz/gallery/restaurant-menu-ideogram",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

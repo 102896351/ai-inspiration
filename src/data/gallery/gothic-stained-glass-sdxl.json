@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-stained-glass-sdxl",
   "slug": "gothic-stained-glass-sdxl",
   "title": "Gothic Stained Glass Window (SDXL)",
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Stained glass = \"leading\" + \"jewel tones\" + \"backlit\" + named cathedral. The \"leading\" (the black lines) is what makes it glass.",
     "steps": [
-      "Subject: gothic stained glass window depicting a rose flower mandala 鈥?specific design.",
-      "Material: intricate black leading between colored glass 鈥?leading = the metal strips between glass pieces.",
-      "Color: jewel-tone palette of ruby sapphire and emerald 鈥?three named gem colors.",
-      "Light: backlit by golden hour light 鈥?backlighting is what makes stained glass glow.",
-      "Reference: chartres cathedral inspired 鈥?name the most famous stained glass cathedral."
+      "Subject: gothic stained glass window depicting a rose flower mandala — specific design.",
+      "Material: intricate black leading between colored glass — leading = the metal strips between glass pieces.",
+      "Color: jewel-tone palette of ruby sapphire and emerald — three named gem colors.",
+      "Light: backlit by golden hour light — backlighting is what makes stained glass glow.",
+      "Reference: chartres cathedral inspired — name the most famous stained glass cathedral."
     ],
     "tips": "\"Black leading\" is non-negotiable. Without it, you get colored glass, not stained glass."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + Dreamshaper, CFG 7, Steps 30, Sampler DPM++ 2M Karras.",
     "flux": "Flux handles this style well.",
     "dall_e": "DALL-E 3: \"A gothic stained glass window depicting a rose flower mandala, backlit by golden light, Chartres cathedral inspired\".",
-    "jimeng_zh": "鍝ョ壒寮忓僵鑹茬幓鐠冪獥锛岀帿鐟版浖闄€缃楋紝瀹濈煶鑹茶皟锛岃儗鍏夋覆鏌擄紝娌欑壒灏斿ぇ鏁欏爞銆?
+    "jimeng_zh": "哥特式彩色玻璃窗，玫瑰曼陀罗，宝石色调，背光渲染，沙特尔大教堂。"
   },
   "faq": [
     {
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/stained-glass",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

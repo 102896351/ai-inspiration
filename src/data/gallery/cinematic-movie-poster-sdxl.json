@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-movie-poster-sdxl",
   "slug": "cinematic-movie-poster-sdxl",
   "title": "Cinematic Movie Poster (SDXL)",
@@ -38,12 +38,12 @@
   "tutorial": {
     "intro": "Movie poster = \"theatrical release\" + named genre + color grading terms + typography placeholder + \"noir lighting\".",
     "steps": [
-      "Format: cinematic thriller movie poster, theatrical release poster 鈥?format + genre + release status.",
-      "Subject: lone detective in trench coat standing in rain 鈥?archetype + atmosphere.",
-      "Light: noir lighting with single backlight 鈥?noir = high contrast dark.",
-      "Color: dark teal and amber color grading 鈥?two named colors for the grade.",
-      "Typography: top right \"COMING SOON\" typography placeholder 鈥?place the text cue.",
-      "Atmosphere: billowing smoke background 鈥?atmospheric layer."
+      "Format: cinematic thriller movie poster, theatrical release poster — format + genre + release status.",
+      "Subject: lone detective in trench coat standing in rain — archetype + atmosphere.",
+      "Light: noir lighting with single backlight — noir = high contrast dark.",
+      "Color: dark teal and amber color grading — two named colors for the grade.",
+      "Typography: top right \"COMING SOON\" typography placeholder — place the text cue.",
+      "Atmosphere: billowing smoke background — atmospheric layer."
     ],
     "tips": "Movie posters need color grading cues (\"teal and amber\"). Without grading terms, posters look like photos."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + JuggernautXL, CFG 7, Steps 35.",
     "flux": "Flux handles cinematic well. Same prompt.",
     "dall_e": "DALL-E 3: \"A cinematic thriller movie poster of a lone detective in a trench coat in rain, noir lighting, teal and amber grade\".",
-    "jimeng_zh": "鐢靛奖娴锋姤锛屼睛鎺紝闆ㄥ锛岄潚姗欒壊璋冿紝榛戣壊鐢靛奖鐏厜锛屽奖闄㈢骇銆?
+    "jimeng_zh": "电影海报，侦探，雨夜，青橙色调，黑色电影灯光，影院级。"
   },
   "faq": [
     {
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/movie-poster",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

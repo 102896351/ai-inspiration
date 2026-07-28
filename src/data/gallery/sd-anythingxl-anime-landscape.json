@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-sd-anime-landscape",
   "slug": "sd-anythingxl-anime-landscape",
   "title": "SDXL Anime Landscapes with AnythingXL",
@@ -31,7 +31,7 @@
     "explained": [
       {
         "param": "Checkpoint: AnythingXL",
-        "why": "The strongest anime-tuned SDXL model 鈥?great for both anime landscapes and characters."
+        "why": "The strongest anime-tuned SDXL model — great for both anime landscapes and characters."
       },
       {
         "param": "Steps 25, CFG 7",
@@ -43,10 +43,10 @@
     "intro": "For SDXL anime landscapes, AnythingXL is the best price/performance pick (free, fast, great style).",
     "steps": [
       "Pick the model: download AnythingXL (an anime fine-tune of SDXL). Great for landscapes and characters.",
-      "Quality words: masterpiece, best quality, highly detailed 鈥?must-have for any SD prompt.",
-      "Subject: vast mountain range at sunset, golden and pink clouds 鈥?landscape + time + palette.",
-      "Story point: a single sakura tree on a cliff overlooking the valley 鈥?a single focus subject.",
-      "Motion: soft wind blowing petals 鈥?motion avoids a static feel."
+      "Quality words: masterpiece, best quality, highly detailed — must-have for any SD prompt.",
+      "Subject: vast mountain range at sunset, golden and pink clouds — landscape + time + palette.",
+      "Story point: a single sakura tree on a cliff overlooking the valley — a single focus subject.",
+      "Motion: soft wind blowing petals — motion avoids a static feel."
     ],
     "tips": "AnythingXL beats SDXL base by a wide margin, but specific styles still need LoRAs. civitai has hundreds of free Anything LoRAs."
   },
@@ -55,7 +55,7 @@
     "stable_diffusion": "AnythingXL + Steps 25 + CFG 7",
     "flux": "Flux anime landscapes are OK, but SD ecosystem is richer.",
     "dall_e": "DALL-E 3 anime landscapes are so-so.",
-    "jimeng_zh": "鍔ㄦ极椋庢牸椋庢櫙锛屽北鑴夋棩钀斤紝妯辫姳鏍戯紝鎮礀锛?K 楂樼粏鑺?
+    "jimeng_zh": "动漫风格风景，山脉日落，樱花树，悬崖，4K 高细节"
   },
   "faq": [
     {
@@ -72,5 +72,5 @@
     "url": "https://civitai.com/images/sd-anime-landscape",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

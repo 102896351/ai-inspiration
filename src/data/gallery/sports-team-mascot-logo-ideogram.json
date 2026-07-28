@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-sports-logo-ideogram",
   "slug": "sports-team-mascot-logo-ideogram",
   "title": "Sports Team Mascot Logo (Ideogram)",
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Sports logo = mascot + \"limited 3-color palette\" + \"vintage collegiate\" + curved text. School/team logos follow these rules.",
     "steps": [
-      "Mascot: fierce eagle head with spread wings 鈥?specific mascot + pose.",
-      "Style: vintage collegiate style 鈥?period reference.",
-      "Palette: limited 3-color palette of navy gold and white 鈥?name 3 colors max.",
-      "Text: text \"STORM HAWKS\" curved below the mascot 鈥?actual name + curved placement.",
-      "Format: vector flat illustration style, isolated on white 鈥?vector + flat + clean background."
+      "Mascot: fierce eagle head with spread wings — specific mascot + pose.",
+      "Style: vintage collegiate style — period reference.",
+      "Palette: limited 3-color palette of navy gold and white — name 3 colors max.",
+      "Text: text \"STORM HAWKS\" curved below the mascot — actual name + curved placement.",
+      "Format: vector flat illustration style, isolated on white — vector + flat + clean background."
     ],
     "tips": "Real sports logos use 2-4 colors max (for embroidery and printing). Limit your palette in the prompt."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 25. Use Ideogram for text accuracy.",
     "flux": "Flux is OK. Ideogram is better for text.",
     "dall_e": "DALL-E 3: \"A bold sports team mascot logo of an eagle head with the text STORM HAWKS, vintage collegiate style, navy gold and white\".",
-    "jimeng_zh": "杩愬姩闃熷窘锛岄拱澶村悏绁ョ墿锛屾枃瀛?\"Storm Hawks\"锛屽鍙ゅ闄㈤锛屼笁鑹查檺鍒躲€?
+    "jimeng_zh": "运动队徽，鹰头吉祥物，文字 \"Storm Hawks\"，复古学院风，三色限制。"
   },
   "faq": [
     {
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/sports-logo",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-anime-mj-niji",
   "slug": "ghibli-anime-style-mj-niji",
   "title": "Ghibli Anime Portrait: The Niji 6 Guide",
@@ -49,19 +49,19 @@
     "intro": "Niji 6 is MJ's best mode for anime. Master the \"work name + color + lens\" trio and you'll get Ghibli / Shinkai / Demon Slayer style reliably.",
     "steps": [
       "Work anchor: \"hayao miyazaki style\" / \"makoto shinkai style\" / \"demon slayer style\" is 10x stronger than just \"anime\".",
-      "Subject layer: anime girl in traditional japanese kimono with cherry blossom pattern 鈥?subject + clothing + pattern.",
-      "Environment layer: standing under a thousand-year sakura tree, petals falling in the wind 鈥?scene + motion.",
-      "Lighting layer: golden hour light filtering through branches 鈥?Ghibli's signature golden hour.",
-      "Texture layer: hand-painted texture, watercolor background, soft focus 鈥?Ghibli's hand-painted + watercolor look."
+      "Subject layer: anime girl in traditional japanese kimono with cherry blossom pattern — subject + clothing + pattern.",
+      "Environment layer: standing under a thousand-year sakura tree, petals falling in the wind — scene + motion.",
+      "Lighting layer: golden hour light filtering through branches — Ghibli's signature golden hour.",
+      "Texture layer: hand-painted texture, watercolor background, soft focus — Ghibli's hand-painted + watercolor look."
     ],
-    "tips": "Niji 6 beats v6 on character and hair detail. For \"Shinkai style\" (hyperreal light), use v6 + \"makoto shinkai\" prompt instead 鈥?Niji softens it too much."
+    "tips": "Niji 6 beats v6 on character and hair detail. For \"Shinkai style\" (hyperreal light), use v6 + \"makoto shinkai\" prompt instead — Niji softens it too much."
   },
   "crossModel": {
     "midjourney": "Niji 6 mode, --ar 3:4, --s 100 (low stylize preserves the painterly feel).",
     "stable_diffusion": "Anything V5 / Counterfeit V3 + 8steps CFG 11",
     "flux": "Flux anime is OK but the SD ecosystem is richer. Prompt: \"Anime girl in kimono under sakura tree, Ghibli style, hand-painted watercolor\"",
     "dall_e": "DALL-E 3 anime is weaker than MJ Niji 6 and SD ecosystem.",
-    "jimeng_zh": "鏃ョ郴杞悓鍔ㄦ极灏戝コ锛岀櫧鑹茬尗鑰筹紝閲戣壊鐪肩潧锛岀矇鑹插崼琛ｏ紝绐楀彴锛屾棩钀斤紝鑼舵澂锛屾柊娴疯瘹鍏夌嚎"
+    "jimeng_zh": "日系软萌动漫少女，白色猫耳，金色眼睛，粉色卫衣，窗台，日落，茶杯，新海诚光线"
   },
   "faq": [
     {
@@ -74,7 +74,7 @@
     },
     {
       "q": "Why can't I get a Ghibli look?",
-      "a": "You must write \"hayao miyazaki\" or \"studio ghibli\" explicitly. \"anime\" alone is too vague 鈥?MJ doesn't know which sub-school you want."
+      "a": "You must write \"hayao miyazaki\" or \"studio ghibli\" explicitly. \"anime\" alone is too vague — MJ doesn't know which sub-school you want."
     }
   ],
   "source": {
@@ -82,5 +82,5 @@
     "url": "https://civitai.com/images/anime-mj-niji",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.353Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

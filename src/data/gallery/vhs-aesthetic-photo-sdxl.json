@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-vhs-aesthetic-sdxl",
   "slug": "vhs-aesthetic-photo-sdxl",
   "title": "VHS Aesthetic Photo (SDXL)",
@@ -38,11 +38,11 @@
   "tutorial": {
     "intro": "VHS aesthetic = \"scanlines\" + \"tracking errors\" + \"color bleed\" + \"chromatic aberration\" + \"timecode\". Five imperfections = VHS.",
     "steps": [
-      "Format: vhs home video photograph from 1986, timecode burned in top right 鈥?format + era + timecode.",
-      "Subject: family backyard birthday party 鈥?specific \"home video\" scenario.",
-      "Imperfections: visible scanlines, tracking errors and color bleed 鈥?the VHS signature imperfections.",
-      "Color: slightly overexposed with red and cyan chromatic aberration 鈥?period color + aberration.",
-      "Film: kodak super 8 film grain 鈥?film stock reference."
+      "Format: vhs home video photograph from 1986, timecode burned in top right — format + era + timecode.",
+      "Subject: family backyard birthday party — specific \"home video\" scenario.",
+      "Imperfections: visible scanlines, tracking errors and color bleed — the VHS signature imperfections.",
+      "Color: slightly overexposed with red and cyan chromatic aberration — period color + aberration.",
+      "Film: kodak super 8 film grain — film stock reference."
     ],
     "tips": "VHS needs imperfection. \"Clean VHS\" = modern digital. Always add tracking error + scanlines."
   },
@@ -51,7 +51,7 @@
     "stable_diffusion": "SDXL + Dreamshaper, CFG 7, Steps 30.",
     "flux": "Flux handles this but leans \"clean\". Add more imperfection cues.",
     "dall_e": "DALL-E 3: \"A 1986 VHS home video of a family backyard birthday party with scanlines, tracking errors, and timecode\".",
-    "jimeng_zh": "VHS 褰曞儚甯︾編瀛︼紝1986 骞村搴綍鍍忥紝鎵弿绾匡紝杩借釜閿欒锛岃壊宸紝鍗虫ⅵ鑳剁墖銆?
+    "jimeng_zh": "VHS 录像带美学，1986 年家庭录像，扫描线，追踪错误，色差，即梦胶片。"
   },
   "faq": [
     {
@@ -72,5 +72,5 @@
     "url": "https://civitai.com/images/vhs-aesthetic",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

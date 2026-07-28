@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-hyper-food-sdxl",
   "slug": "hyper-realistic-food-sdxl",
   "title": "Hyper Realistic Food Photography (SDXL)",
@@ -38,11 +38,11 @@
   "tutorial": {
     "intro": "Hyper realistic food = named dish + named plate + specific lighting + \"food styling\" reference.",
     "steps": [
-      "Trigger: hyper realistic food photography 鈥?quality anchor.",
-      "Dish: omakase sushi set on handmade ceramic plate 鈥?specific dish + specific plate material.",
-      "Detail: glistening fresh salmon and tuna, wasabi and pickled ginger 鈥?detail cues that sell freshness.",
-      "Lighting: soft directional window light from the left, shallow depth of field 鈥?direction + DOF.",
-      "Styling: dark wood background, food styling by prop stylist 鈥?background + named profession."
+      "Trigger: hyper realistic food photography — quality anchor.",
+      "Dish: omakase sushi set on handmade ceramic plate — specific dish + specific plate material.",
+      "Detail: glistening fresh salmon and tuna, wasabi and pickled ginger — detail cues that sell freshness.",
+      "Lighting: soft directional window light from the left, shallow depth of field — direction + DOF.",
+      "Styling: dark wood background, food styling by prop stylist — background + named profession."
     ],
     "tips": "Food photography is about freshness cues: \"glistening\", \"fresh\", \"visible rice texture\". Without these, food looks like rubber."
   },
@@ -51,7 +51,7 @@
     "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30, Sampler DPM++ 2M Karras.",
     "flux": "Flux handles food very well. Same prompt.",
     "dall_e": "DALL-E 3: \"Hyper realistic food photography of an omakase sushi set on a ceramic plate, soft window light\".",
-    "jimeng_zh": "瓒呭啓瀹炵編椋熸憚褰憋紝瀵垮徃锛岄櫠鐡风洏锛岃嚜鐒跺厜锛屾祬鏅繁锛岄鍘呰彍鍗曠骇銆?
+    "jimeng_zh": "超写实美食摄影，寿司，陶瓷盘，自然光，浅景深，餐厅菜单级。"
   },
   "faq": [
     {
@@ -72,5 +72,5 @@
     "url": "https://civitai.com/images/hyper-food",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

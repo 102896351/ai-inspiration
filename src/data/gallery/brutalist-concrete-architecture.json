@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-brutalist-mj",
   "slug": "brutalist-concrete-architecture",
   "title": "Brutalist Concrete Architecture",
@@ -41,11 +41,11 @@
   "tutorial": {
     "intro": "Brutalist = raw concrete + dramatic shadow + named architect + ground-up perspective.",
     "steps": [
-      "Perspective: massive brutalist concrete building photographed from ground looking up 鈥?upward angle is non-negotiable.",
-      "Material: raw board-formed concrete with dramatic shadow lines 鈥?\"board-formed\" gives the wood-grain concrete texture.",
-      "Sky: single sharp cloud in blue sky 鈥?minimal sky for maximum contrast.",
-      "Light: hard light midday sun creating deep shadow contrast 鈥?light direction creates the drama.",
-      "Reference: le corbusier unite d'habitation style 鈥?name the architect + building."
+      "Perspective: massive brutalist concrete building photographed from ground looking up — upward angle is non-negotiable.",
+      "Material: raw board-formed concrete with dramatic shadow lines — \"board-formed\" gives the wood-grain concrete texture.",
+      "Sky: single sharp cloud in blue sky — minimal sky for maximum contrast.",
+      "Light: hard light midday sun creating deep shadow contrast — light direction creates the drama.",
+      "Reference: le corbusier unite d'habitation style — name the architect + building."
     ],
     "tips": "Brutalist = \"raw concrete\" + \"dramatic shadow\" + named architect. The shadow lines ARE the visual story."
   },
@@ -54,7 +54,7 @@
     "stable_diffusion": "SDXL + RealisticVision\nPrompt: \"brutalist architecture, concrete, dramatic shadow, le corbusier\"",
     "flux": "Flux handles architecture well.",
     "dall_e": "DALL-E 3: \"A massive brutalist concrete building photographed from ground up, raw concrete texture, single cloud, hard light, in the style of Le Corbusier\".",
-    "jimeng_zh": "绮楅噹涓讳箟寤虹瓚锛屾贩鍑濆湡锛屾垙鍓ч槾褰憋紝鍕掓煰甯冭タ鑰讹紝鍨傜洿浠版媿銆?
+    "jimeng_zh": "粗野主义建筑，混凝土，戏剧阴影，勒柯布西耶，垂直仰拍。"
   },
   "faq": [
     {
@@ -75,5 +75,5 @@
     "url": "https://civitai.com/images/brutalist-architecture",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

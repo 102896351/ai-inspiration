@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-mj-watercolor-illustration",
   "slug": "watercolor-illustration-mj-niji",
   "title": "Watercolor Healing Illustrations: Niji 6 Tutorial",
@@ -43,12 +43,12 @@
   "tutorial": {
     "intro": "Niji 6 nails watercolor when you add: paper texture + color bleeds + hand-painted feel.",
     "steps": [
-      "Paper: white paper texture visible 鈥?force the model to leave paper visible.",
-      "Color bleeds: soft watercolor bleeds 鈥?the signature watercolor effect.",
-      "Palette: pastel color palette with soft pink, lavender, and sage green 鈥?healing palette.",
-      "Hand-painted feel: hand-painted feel, gentle and dreamy mood 鈥?style anchor.",
-      "Content: wildflower meadow, daisies and lavender swaying in gentle breeze 鈥?subject + motion.",
-      "Style: storybook illustration 鈥?anchor to picture-book style."
+      "Paper: white paper texture visible — force the model to leave paper visible.",
+      "Color bleeds: soft watercolor bleeds — the signature watercolor effect.",
+      "Palette: pastel color palette with soft pink, lavender, and sage green — healing palette.",
+      "Hand-painted feel: hand-painted feel, gentle and dreamy mood — style anchor.",
+      "Content: wildflower meadow, daisies and lavender swaying in gentle breeze — subject + motion.",
+      "Style: storybook illustration — anchor to picture-book style."
     ],
     "tips": "Watercolor is the easiest style to fall into \"AI flat illustration\". Adding \"watercolor bleeds, paper texture visible, hand-painted feel\" instantly turns AI into hand-painted."
   },
@@ -57,12 +57,12 @@
     "stable_diffusion": "SDXL + Dreamshaper or a watercolor LoRA",
     "flux": "Flux watercolor is OK.",
     "dall_e": "DALL-E 3 watercolor is average.",
-    "jimeng_zh": "姘村僵鎻掔敾锛岄噹鑺辩敯锛岄洀鑿婅柊琛ｈ崏锛屾煍鍜岀矇褰╋紝绾稿紶璐ㄦ劅锛屾墜缁樻劅"
+    "jimeng_zh": "水彩插画，野花田，雏菊薰衣草，柔和粉彩，纸张质感，手绘感"
   },
   "faq": [
     {
       "q": "How to avoid \"AI feel\" in watercolor?",
-      "a": "Add \"watercolor bleeds, paper texture visible, hand-painted feel\" 鈥?these three words."
+      "a": "Add \"watercolor bleeds, paper texture visible, hand-painted feel\" — these three words."
     },
     {
       "q": "MJ vs SD for watercolor?",
@@ -74,5 +74,5 @@
     "url": "https://civitai.com/images/mj-watercolor",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

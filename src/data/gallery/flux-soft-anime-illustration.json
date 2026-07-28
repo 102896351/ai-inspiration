@@ -1,8 +1,8 @@
-﻿{
+{
   "id": "seed-flux-soft-anime",
   "slug": "flux-soft-anime-illustration",
   "title": "Soft Anime with Flux: Pastel & Healing Style",
-  "description": "How Flux renders soft, pastel Japanese-illustration style 鈥?and how it compares to MJ Niji 6 and SD.",
+  "description": "How Flux renders soft, pastel Japanese-illustration style — and how it compares to MJ Niji 6 and SD.",
   "cover": "covers/flux-soft-anime-illustration.svg",
   "model": "flux",
   "modelVersion": "",
@@ -37,19 +37,19 @@
       },
       {
         "param": "no negative",
-        "why": "Flux has no negative prompt 鈥?write positively and completely."
+        "why": "Flux has no negative prompt — write positively and completely."
       }
     ]
   },
   "tutorial": {
     "intro": "Flux has a unique strength in soft-anime style: transparent color, plus great hair and eye detail.",
     "steps": [
-      "Character: young girl with white cat ears and golden eyes 鈥?kawaii must-have: beast ears + heterochromia.",
-      "Outfit: pastel pink hoodie 鈥?kawaii palette + clothing.",
-      "Scene: sitting on a windowsill at sunset, holding a small cup of tea 鈥?healing-scene setting.",
-      "Motion: gentle wind blowing her hair 鈥?motion (wind) + light.",
-      "Palette: soft pink and orange color palette 鈥?lock the color range.",
-      "Style anchor: makoto shinkai inspired lighting 鈥?anchor to Shinkai lighting."
+      "Character: young girl with white cat ears and golden eyes — kawaii must-have: beast ears + heterochromia.",
+      "Outfit: pastel pink hoodie — kawaii palette + clothing.",
+      "Scene: sitting on a windowsill at sunset, holding a small cup of tea — healing-scene setting.",
+      "Motion: gentle wind blowing her hair — motion (wind) + light.",
+      "Palette: soft pink and orange color palette — lock the color range.",
+      "Style anchor: makoto shinkai inspired lighting — anchor to Shinkai lighting."
     ],
     "tips": "Flux is slower than SD for anime but the quality is higher. If you need fast iterations, SD + AnythingV5 is still the best price/performance pick."
   },
@@ -58,7 +58,7 @@
     "stable_diffusion": "Anything V5 / Counterfeit V3 + 8steps CFG 11",
     "flux": "Use the rewrite prompt directly.",
     "dall_e": "DALL-E 3 soft-anime is OK.",
-    "jimeng_zh": "鏃ョ郴杞悓鍔ㄦ极灏戝コ锛岀櫧鑹茬尗鑰筹紝閲戣壊鐪肩潧锛岀矇鑹插崼琛ｏ紝绐楀彴锛屾棩钀斤紝鑼舵澂锛屾柊娴疯瘹鍏夌嚎"
+    "jimeng_zh": "日系软萌动漫少女，白色猫耳，金色眼睛，粉色卫衣，窗台，日落，茶杯，新海诚光线"
   },
   "faq": [
     {
@@ -75,5 +75,5 @@
     "url": "https://civitai.com/images/flux-anime",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.353Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-editorial-photo-dalle",
   "slug": "editorial-fashion-photo-dalle",
   "title": "Editorial Fashion Photo (DALL-E)",
@@ -39,12 +39,12 @@
   "tutorial": {
     "intro": "DALL-E 3 + Natural style + film stock = editorial fashion photo. The Natural style mimics film photography.",
     "steps": [
-      "Format: A high fashion editorial photograph of a model 鈥?full sentence + editorial context.",
-      "Setting: walking down a rainy paris street at night 鈥?specific city + weather + time.",
-      "Outfit: wearing an oversized red trench coat 鈥?specific garment.",
-      "Reflection: reflection in wet cobblestones 鈥?wet surface for reflection.",
-      "Light: warm streetlight glow 鈥?warm practical light.",
-      "Camera: shot on contax 645 with 80mm lens, kodak portra 400 film grain 鈥?medium format + lens + film stock."
+      "Format: A high fashion editorial photograph of a model — full sentence + editorial context.",
+      "Setting: walking down a rainy paris street at night — specific city + weather + time.",
+      "Outfit: wearing an oversized red trench coat — specific garment.",
+      "Reflection: reflection in wet cobblestones — wet surface for reflection.",
+      "Light: warm streetlight glow — warm practical light.",
+      "Camera: shot on contax 645 with 80mm lens, kodak portra 400 film grain — medium format + lens + film stock."
     ],
     "tips": "DALL-E Natural style + \"kodak portra\" + specific camera = looks like a real fashion editorial photo."
   },
@@ -53,7 +53,7 @@
     "stable_diffusion": "SDXL + RealisticVision, CFG 6, Steps 30.",
     "flux": "Flux handles fashion well.",
     "dall_e": "DALL-E 3, style Natural. Same prompt.",
-    "jimeng_zh": "宸撮粠闆ㄥ琛楁媿锛岃秴澶х孩椋庤。锛屾箍楣呭嵉鐭冲€掑奖锛岃鐏殩鍏夛紝鑳剁墖棰楃矑銆?
+    "jimeng_zh": "巴黎雨夜街拍，超大红风衣，湿鹅卵石倒影，街灯暖光，胶片颗粒。"
   },
   "faq": [
     {
@@ -74,5 +74,5 @@
     "url": "https://civitai.com/images/editorial-photo",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

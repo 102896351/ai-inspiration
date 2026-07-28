@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-cute-animal-mj",
   "slug": "cute-animal-photography",
   "title": "Cute Animal Photography: Studio Style",
@@ -34,7 +34,7 @@
       },
       {
         "param": "--s 400",
-        "why": "Medium stylize 鈥?keeps the puppy looking real."
+        "why": "Medium stylize — keeps the puppy looking real."
       },
       {
         "param": "f/2.8",
@@ -45,11 +45,11 @@
   "tutorial": {
     "intro": "Pet photography with AI works because pets are simple subjects. Focus on eyes, lighting, and expression.",
     "steps": [
-      "Subject: golden retriever puppy 鈥?specific breed + age sets the cuteness level.",
-      "Eyes: big brown eyes looking directly at camera 鈥?eye contact is the #1 thing for pet portraits.",
-      "Texture: fluffy fur with detailed texture 鈥?avoids the \"AI plastic fur\" look.",
-      "Lighting: soft studio lighting with rim light 鈥?separates the pet from the background.",
-      "Style anchor: instagram pet influencer style 鈥?locks the modern, social-media look."
+      "Subject: golden retriever puppy — specific breed + age sets the cuteness level.",
+      "Eyes: big brown eyes looking directly at camera — eye contact is the #1 thing for pet portraits.",
+      "Texture: fluffy fur with detailed texture — avoids the \"AI plastic fur\" look.",
+      "Lighting: soft studio lighting with rim light — separates the pet from the background.",
+      "Style anchor: instagram pet influencer style — locks the modern, social-media look."
     ],
     "tips": "Eye contact + \"looking directly at camera\" is the single biggest cuteness multiplier. Don't skip it."
   },
@@ -58,7 +58,7 @@
     "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"golden retriever puppy, studio lighting, looking at camera\"\nNegative: \"aggressive, blurry, multiple\"",
     "flux": "Flux handles pets well.",
     "dall_e": "DALL-E 3 pets are decent.",
-    "jimeng_zh": "涓撲笟瀹犵墿鎽勫奖锛岄噾姣涘辜鐘紝濂舵补鑳屾櫙锛屾鑹插ぇ鐪肩潧锛岃摤鏉炬瘺鍙戯紝褰辨鏌斿厜"
+    "jimeng_zh": "专业宠物摄影，金毛幼犬，奶油背景，棕色大眼睛，蓬松毛发，影棚柔光"
   },
   "faq": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "q": "Why plastic fur?",
-      "a": "You forgot \"fluffy fur with detailed texture\" 鈥?that micro-detail is what makes AI fur look real."
+      "a": "You forgot \"fluffy fur with detailed texture\" — that micro-detail is what makes AI fur look real."
     },
     {
       "q": "Best breed for AI cuteness?",
@@ -79,5 +79,5 @@
     "url": "https://aigallery.xyz/gallery/cute-animal-tutorial",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

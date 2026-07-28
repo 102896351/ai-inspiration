@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-mj-minimal-logo",
   "slug": "mj-minimal-brand-logo",
   "title": "Minimal Brand Logos in MJ: A Practical Guide",
@@ -41,12 +41,12 @@
   "tutorial": {
     "intro": "MJ works well for symbol/icon logos. For \"text + symbol\" combos, use Ideogram 2.0 instead.",
     "steps": [
-      "Purpose: minimalist geometric logo design 鈥?use case + style.",
-      "Subject: mountain peak inside a circle 鈥?simple subject + container.",
-      "Style: vector graphic style, bauhaus inspired 鈥?vector + design movement.",
-      "Palette: monochromatic black on white 鈥?lock to one color.",
-      "Explicit no: no text 鈥?sidesteps MJ's text mistakes.",
-      "Scalability: scalable from favicon to billboard 鈥?emphasize logo scalability."
+      "Purpose: minimalist geometric logo design — use case + style.",
+      "Subject: mountain peak inside a circle — simple subject + container.",
+      "Style: vector graphic style, bauhaus inspired — vector + design movement.",
+      "Palette: monochromatic black on white — lock to one color.",
+      "Explicit no: no text — sidesteps MJ's text mistakes.",
+      "Scalability: scalable from favicon to billboard — emphasize logo scalability."
     ],
     "tips": "MJ is best for \"explore the vibe\" on logos. Production logos still need Figma cleanup. 100% drop-in AI logos are rare."
   },
@@ -55,7 +55,7 @@
     "stable_diffusion": "SDXL + any model works; add \"vector, logo, simple, minimal\" to the prompt.",
     "flux": "Flux handles geometric logos well.",
     "dall_e": "DALL-E 3 logos are decent.",
-    "jimeng_zh": "鏋佺畝鍑犱綍 logo, 灞卞嘲, 鍦嗗舰, 鐭㈤噺椋庢牸, 鍗曡壊榛戠櫧, 骞抽潰璁捐"
+    "jimeng_zh": "极简几何 logo, 山峰, 圆形, 矢量风格, 单色黑白, 平面设计"
   },
   "faq": [
     {
@@ -72,5 +72,5 @@
     "url": "https://civitai.com/images/mj-logo",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.353Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

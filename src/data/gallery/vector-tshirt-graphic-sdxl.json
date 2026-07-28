@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-tshirt-design-sdxl",
   "slug": "vector-tshirt-graphic-sdxl",
   "title": "Vector T-Shirt Graphic Design (SDXL)",
@@ -42,11 +42,11 @@
   "tutorial": {
     "intro": "T-shirt design = \"vector\" + \"flat colors\" + \"thick outlines\" + \"no model\" + specific palette size. Print-on-demand rules.",
     "steps": [
-      "Format: vector t-shirt graphic design, isolated on white background 鈥?design sheet format.",
-      "Subject: cute kawaii cat holding coffee cup 鈥?specific subject for print.",
-      "Style: flat colors with thick black outlines 鈥?vector design code.",
-      "Palette: limited 4-color palette of black white mint and coral 鈥?name 4 colors max (screen printing limit).",
-      "Print: print ready 300 dpi, no model 鈥?print-on-demand specs."
+      "Format: vector t-shirt graphic design, isolated on white background — design sheet format.",
+      "Subject: cute kawaii cat holding coffee cup — specific subject for print.",
+      "Style: flat colors with thick black outlines — vector design code.",
+      "Palette: limited 4-color palette of black white mint and coral — name 4 colors max (screen printing limit).",
+      "Print: print ready 300 dpi, no model — print-on-demand specs."
     ],
     "tips": "Limited palette (4 colors max) is the screen printing rule. SDXL renders best with named color counts."
   },
@@ -55,7 +55,7 @@
     "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 25.",
     "flux": "Flux handles vector design well. Same prompt.",
     "dall_e": "DALL-E 3: \"A vector t-shirt design of a kawaii cat holding a coffee cup, flat colors, thick outlines, limited palette\".",
-    "jimeng_zh": "T鎭ゅ浘妗堣璁★紝鍗￠€氱尗鍜栧暋锛屾墎骞崇煝閲忥紝绮楅粦鎻忚竟锛? 鑹查檺鍒躲€?
+    "jimeng_zh": "T恤图案设计，卡通猫咖啡，扁平矢量，粗黑描边，4 色限制。"
   },
   "faq": [
     {
@@ -76,5 +76,5 @@
     "url": "https://civitai.com/images/tshirt-design",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

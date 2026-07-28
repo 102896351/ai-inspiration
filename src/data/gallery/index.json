@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": "seed-cyberpunk-street-mj",
     "slug": "cyberpunk-rain-street-tutorial",
@@ -212,7 +212,7 @@
       "dnd",
       "concept-art"
     ],
-    "description": "How MJ v6.1 nails epic fantasy scenes 鈥?floating islands, magical forests, glowing lakes."
+    "description": "How MJ v6.1 nails epic fantasy scenes — floating islands, magical forests, glowing lakes."
   },
   {
     "id": "seed-flux-soft-anime",
@@ -240,7 +240,7 @@
       "shinkai",
       "flux"
     ],
-    "description": "How Flux renders soft, pastel Japanese-illustration style 鈥?and how it compares to MJ Niji 6 and SD."
+    "description": "How Flux renders soft, pastel Japanese-illustration style — and how it compares to MJ Niji 6 and SD."
   },
   {
     "id": "seed-mj-minimal-logo",
@@ -753,7 +753,7 @@
   {
     "id": "seed-chinese-landscape-jimeng",
     "slug": "chinese-landscape-jimeng",
-    "title": "Chinese Ink Wash Landscapes: 鍗虫ⅵ (Jimeng) Tutorial",
+    "title": "Chinese Ink Wash Landscapes: 即梦 (Jimeng) Tutorial",
     "cover": "covers/chinese-landscape-jimeng.svg",
     "model": "jimeng",
     "styles": [
@@ -774,7 +774,7 @@
       "jimeng",
       "song-dynasty"
     ],
-    "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 鍗虫ⅵ. From Song Dynasty masters to modern ink art."
+    "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 即梦. From Song Dynasty masters to modern ink art."
   },
   {
     "id": "seed-80s-synthwave-mj",
@@ -985,7 +985,7 @@
       "nostalgia",
       "gainax"
     ],
-    "description": "Recreate the iconic 90s anime aesthetic 鈥?cel-shading, film grain, and emotional close-ups. Strong fit for retrospective content and nostalgia posts."
+    "description": "Recreate the iconic 90s anime aesthetic — cel-shading, film grain, and emotional close-ups. Strong fit for retrospective content and nostalgia posts."
   },
   {
     "id": "seed-clay-3d-mj",

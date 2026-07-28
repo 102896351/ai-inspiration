@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-origami-mj",
   "slug": "origami-paper-crane",
   "title": "Origami Paper Crane (Wabi-Sabi Style)",
@@ -38,11 +38,11 @@
   "tutorial": {
     "intro": "Origami aesthetic is about restraint. White surface, soft light, one subject, and visible paper texture.",
     "steps": [
-      "Subject: intricate origami paper crane 鈥?specific subject + \"intricate\" pushes detail.",
-      "Surface: white marble surface 鈥?minimal + premium surface.",
-      "Light: soft natural window light from the left 鈥?direction of light matters.",
-      "Texture: subtle paper texture and crease lines visible 鈥?paper grain is key.",
-      "Aesthetic: shallow depth of field, wabi-sabi minimalism, japanese aesthetic photography 鈥?Japanese aesthetic codes."
+      "Subject: intricate origami paper crane — specific subject + \"intricate\" pushes detail.",
+      "Surface: white marble surface — minimal + premium surface.",
+      "Light: soft natural window light from the left — direction of light matters.",
+      "Texture: subtle paper texture and crease lines visible — paper grain is key.",
+      "Aesthetic: shallow depth of field, wabi-sabi minimalism, japanese aesthetic photography — Japanese aesthetic codes."
     ],
     "tips": "Origami = \"wabi-sabi\" + \"white marble\" + \"soft window light\". These three create instant calm."
   },
@@ -51,7 +51,7 @@
     "stable_diffusion": "SDXL + RealisticVision\nPrompt: \"origami paper crane, white marble, wabi-sabi, soft light\"",
     "flux": "Flux is excellent for this. Same prompt.",
     "dall_e": "DALL-E 3: \"A delicate origami paper crane on a white marble surface with soft window light, in wabi-sabi Japanese aesthetic\".",
-    "jimeng_zh": "鎶樼焊楣わ紝鐧借壊澶х悊鐭筹紝鑷劧绐楀厜锛屼緲瀵傜編瀛︼紝鏃ュ紡鏋佺畝锛岀焊寮犵汗鐞嗐€?
+    "jimeng_zh": "折纸鹤，白色大理石，自然窗光，侘寂美学，日式极简，纸张纹理。"
   },
   "faq": [
     {
@@ -72,5 +72,5 @@
     "url": "https://civitai.com/images/origami",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

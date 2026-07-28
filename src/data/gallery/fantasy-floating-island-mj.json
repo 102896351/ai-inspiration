@@ -1,8 +1,8 @@
-﻿{
+{
   "id": "seed-fantasy-landscape-mj",
   "slug": "fantasy-floating-island-mj",
   "title": "Epic Fantasy Landscapes: Floating Islands Tutorial",
-  "description": "How MJ v6.1 nails epic fantasy scenes 鈥?floating islands, magical forests, glowing lakes.",
+  "description": "How MJ v6.1 nails epic fantasy scenes — floating islands, magical forests, glowing lakes.",
   "cover": "covers/fantasy-floating-island-mj.svg",
   "model": "midjourney",
   "modelVersion": "",
@@ -47,30 +47,30 @@
   "tutorial": {
     "intro": "Fantasy landscapes need layered skies + subject + ground + a concept-art anchor.",
     "steps": [
-      "Sky layer: dramatic golden hour sunlight breaking through storm clouds 鈥?light + dramatic sky.",
-      "Subject layer: three floating islands suspended above a glowing misty forest 鈥?multiple islands + quantity + relationship.",
-      "Motion layer: waterfalls cascading from each island into the void below 鈥?dynamic element.",
-      "Detail layer: ancient runes carved into the rocks, bioluminescent plants 鈥?micro details.",
-      "Story layer: ancient ruined temple on the largest island 鈥?one building adds narrative.",
-      "Style anchor: dnd concept art + unreal engine 5 鈥?anchor to game concept art + a renderer."
+      "Sky layer: dramatic golden hour sunlight breaking through storm clouds — light + dramatic sky.",
+      "Subject layer: three floating islands suspended above a glowing misty forest — multiple islands + quantity + relationship.",
+      "Motion layer: waterfalls cascading from each island into the void below — dynamic element.",
+      "Detail layer: ancient runes carved into the rocks, bioluminescent plants — micro details.",
+      "Story layer: ancient ruined temple on the largest island — one building adds narrative.",
+      "Style anchor: dnd concept art + unreal engine 5 — anchor to game concept art + a renderer."
     ],
-    "tips": "\"floating islands\" alone feels flat. Add \"three floating islands\" + \"cascading waterfalls\" + \"ancient temple\" 鈥?the trio gives MJ the \"epic\" feel."
+    "tips": "\"floating islands\" alone feels flat. Add \"three floating islands\" + \"cascading waterfalls\" + \"ancient temple\" — the trio gives MJ the \"epic\" feel."
   },
   "crossModel": {
     "midjourney": "--v 6.1 --ar 21:9 --s 850 --chaos 15 (small variation).",
     "stable_diffusion": "SDXL + Dreamshaper XL\nPrompt: \"epic fantasy landscape, floating islands, magical forest, masterpiece\"\nNegative: \"modern, urban, anime\"",
     "flux": "Flux handles fantasy strongly. Add: \"shot on Hasselblad, medium format, golden hour\"",
     "dall_e": "DALL-E 3 fantasy is OK but less \"epic\" than MJ.",
-    "jimeng_zh": "鍙茶瘲濂囧够椋庢櫙锛屾诞绌哄矝锛岄瓟娉曟．鏋楋紝鐎戝竷锛屽彜浠ｉ仐杩癸紝閲戣壊闃冲厜锛?K"
+    "jimeng_zh": "史诗奇幻风景，浮空岛，魔法森林，瀑布，古代遗迹，金色阳光，8K"
   },
   "faq": [
     {
-      "q": "My fantasy scene feels too \"busy\" 鈥?what to do?",
+      "q": "My fantasy scene feels too \"busy\" — what to do?",
       "a": "Cut half the elements. Less is more. Focus on 1 main subject + 1 story point."
     },
     {
       "q": "How to make floating islands feel \"floating\"?",
-      "a": "Add \"waterfalls cascading into the void below\" 鈥?waterfalls disappearing into nothingness below sells the floating feeling instantly."
+      "a": "Add \"waterfalls cascading into the void below\" — waterfalls disappearing into nothingness below sells the floating feeling instantly."
     },
     {
       "q": "MJ vs SD for fantasy?",
@@ -82,5 +82,5 @@
     "url": "https://civitai.com/images/fantasy-landscape",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.353Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

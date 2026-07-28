@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-anime-character-fullbody",
   "slug": "anime-character-fullbody",
   "title": "Full-Body Anime Characters: Anatomy & Style",
@@ -29,7 +29,7 @@
     "explained": [
       {
         "param": "--niji 6",
-        "why": "Niji handles full-body anime better than v6 鈥?better proportions."
+        "why": "Niji handles full-body anime better than v6 — better proportions."
       },
       {
         "param": "--ar 2:3",
@@ -44,12 +44,12 @@
   "tutorial": {
     "intro": "Full-body anime is harder than portraits because AI defaults to cropping. You have to force it.",
     "steps": [
-      "Hair details: long silver hair 鈥?specific color + length avoids the \"generic anime girl\" look.",
-      "Outfit: sailor school uniform with pleated skirt 鈥?be specific, not \"school uniform\".",
-      "Pose: standing pose with one hand on hip 鈥?gives dynamism vs. stiff T-pose.",
-      "Angle: dynamic angle 鈥?adds visual interest.",
-      "Background: classroom background with windows 鈥?context, not empty void.",
-      "Anti-crop: full body visible from head to toe 鈥?forces the full body."
+      "Hair details: long silver hair — specific color + length avoids the \"generic anime girl\" look.",
+      "Outfit: sailor school uniform with pleated skirt — be specific, not \"school uniform\".",
+      "Pose: standing pose with one hand on hip — gives dynamism vs. stiff T-pose.",
+      "Angle: dynamic angle — adds visual interest.",
+      "Background: classroom background with windows — context, not empty void.",
+      "Anti-crop: full body visible from head to toe — forces the full body."
     ],
     "tips": "If MJ keeps cropping to portrait, add the literal phrase \"full body visible from head to toe\". It's a known trick that works on MJ, SD, and Flux."
   },
@@ -58,7 +58,7 @@
     "stable_diffusion": "Anything V5 / Counterfeit V3\nPrompt: \"full body anime girl, school uniform, classroom, masterpiece\"\nNegative: \"cropped, bad anatomy\"",
     "flux": "Flux is OK for anime full body. Less consistent than SD ecosystem.",
     "dall_e": "DALL-E 3 tends to crop. Specify \"head to toe\" in prompt.",
-    "jimeng_zh": "鍔ㄦ极鍏ㄨ韩鍍忥紝濂抽珮涓敓锛屾按鎵嬫湇锛岀櫨瑜惰锛屾暀瀹ゅ満鏅紝鏂版捣璇氶鏍硷紝鍏ㄨ韩鍙"
+    "jimeng_zh": "动漫全身像，女高中生，水手服，百褶裙，教室场景，新海诚风格，全身可见"
   },
   "faq": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "q": "How to keep proportions right?",
-      "a": "Anchor to a specific anime style like \"shinkai style\" or \"trigger style\" 鈥?the model knows their proportions."
+      "a": "Anchor to a specific anime style like \"shinkai style\" or \"trigger style\" — the model knows their proportions."
     },
     {
       "q": "Best aspect for full body?",
@@ -79,5 +79,5 @@
     "url": "https://aigallery.xyz/gallery/anime-character-fullbody",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-restaurant-sign-ideogram",
   "slug": "italian-restaurant-neon-sign-ideogram",
   "title": "Italian Restaurant Neon Sign (Ideogram)",
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Restaurant sign = brand name in quotes + neon tube style + era reference + supporting graphic. Specific = authentic.",
     "steps": [
-      "Format: vintage italian restaurant neon sign, signage design 鈥?format.",
-      "Text: glowing red and white neon tubes forming the text \"MAMA MIA\" 鈥?text in quotes + tube medium.",
-      "Graphics: surrounded by illustrated pizza slice and basil leaves 鈥?supporting food graphics.",
-      "Background: dark brick wall background 鈥?brick = restaurant context.",
-      "Era: retro 1950s american-italian restaurant aesthetic 鈥?period reference."
+      "Format: vintage italian restaurant neon sign, signage design — format.",
+      "Text: glowing red and white neon tubes forming the text \"MAMA MIA\" — text in quotes + tube medium.",
+      "Graphics: surrounded by illustrated pizza slice and basil leaves — supporting food graphics.",
+      "Background: dark brick wall background — brick = restaurant context.",
+      "Era: retro 1950s american-italian restaurant aesthetic — period reference."
     ],
     "tips": "Restaurant sign formula: brand name (neon) + era (1950s/60s) + food graphic + brick background. Follow the formula."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL with controlnet. Use Ideogram for text.",
     "flux": "Flux is OK.",
     "dall_e": "DALL-E 3: \"A vintage Italian restaurant neon sign reading MAMA MIA in glowing red and white neon, dark brick wall, 1950s aesthetic\".",
-    "jimeng_zh": "鎰忓ぇ鍒╅鍘呴湏铏圭伅鎷涚墝锛屾枃瀛?\"MAMA MIA\"锛屾姭钀ㄧ綏鍕掑彾锛岀爾澧欒儗鏅紝50 骞翠唬椋庛€?
+    "jimeng_zh": "意大利餐厅霓虹灯招牌，文字 \"MAMA MIA\"，披萨罗勒叶，砖墙背景，50 年代风。"
   },
   "faq": [
     {
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/restaurant-sign",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

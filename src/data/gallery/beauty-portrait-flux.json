@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-beauty-portrait-flux",
   "slug": "beauty-portrait-flux",
   "title": "Beauty Portraits: Skin & Light in Flux",
@@ -38,18 +38,18 @@
       },
       {
         "param": "hasselblad h6d",
-        "why": "Medium format camera anchor 鈥?the \"fashion magazine\" lens."
+        "why": "Medium format camera anchor — the \"fashion magazine\" lens."
       }
     ]
   },
   "tutorial": {
     "intro": "Beauty portraits with Flux are special because Flux renders skin micro-texture (pores, fine lines) better than MJ or SD.",
     "steps": [
-      "Framing: extreme close-up 鈥?beauty is all about skin detail.",
-      "Skin: natural skin texture, visible pores and subtle freckles 鈥?the \"AI plastic\" killer.",
-      "Lighting: soft natural window light from upper left 鈥?beauty photographers' default.",
-      "Makeup: minimal makeup 鈥?less is more for skin showcase.",
-      "Camera anchor: hasselblad h6d, 100mm f/2.2 lens 鈥?fashion magazine standard."
+      "Framing: extreme close-up — beauty is all about skin detail.",
+      "Skin: natural skin texture, visible pores and subtle freckles — the \"AI plastic\" killer.",
+      "Lighting: soft natural window light from upper left — beauty photographers' default.",
+      "Makeup: minimal makeup — less is more for skin showcase.",
+      "Camera anchor: hasselblad h6d, 100mm f/2.2 lens — fashion magazine standard."
     ],
     "tips": "Skin texture is the difference between \"AI beauty\" and \"real beauty\". Always add \"natural skin texture, visible pores\" to make Flux shine."
   },
@@ -58,12 +58,12 @@
     "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"beauty portrait, natural skin, freckles, soft light\"",
     "flux": "Use the rewrite prompt directly. Flux shines for beauty.",
     "dall_e": "DALL-E 3 beauty is decent but skin texture is softer than Flux.",
-    "jimeng_zh": "涓撲笟缇庡浜哄儚锛岀毊鑲よ川鎰燂紝闆€鏂戯紝鏌斿拰鑷劧绐楀厜锛屽搱鑻忎腑鐢诲箙锛屾椂灏氭潅蹇?
+    "jimeng_zh": "专业美妆人像，皮肤质感，雀斑，柔和自然窗光，哈苏中画幅，时尚杂志"
   },
   "faq": [
     {
       "q": "Why does my beauty portrait look plastic?",
-      "a": "You forgot the skin texture cues. Add \"natural skin texture, visible pores, subtle freckles\" 鈥?Flux needs these to shine."
+      "a": "You forgot the skin texture cues. Add \"natural skin texture, visible pores, subtle freckles\" — Flux needs these to shine."
     },
     {
       "q": "Flux vs MJ for beauty?",
@@ -79,5 +79,5 @@
     "url": "https://aigallery.xyz/gallery/beauty-portrait-flux",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-flux-product-photo",
   "slug": "product-photography-flux-vs-sdxl",
   "title": "E-commerce Product Photos: Flux vs SDXL",
@@ -35,7 +35,7 @@
       },
       {
         "param": "no negative",
-        "why": "Flux has no negative prompt 鈥?write positively."
+        "why": "Flux has no negative prompt — write positively."
       },
       {
         "param": "8k + commercial",
@@ -46,11 +46,11 @@
   "tutorial": {
     "intro": "Product shots are AI's sweet spot (no people, clear subject). Flux is currently the strongest here.",
     "steps": [
-      "Subject + support: luxury automatic watch on a black velvet display cushion 鈥?main subject + what it sits on.",
-      "Lighting: dramatic studio lighting with rim light from the right, soft fill light from the left 鈥?key + fill setup.",
-      "Detail anchor: hyper detailed metal texture, visible screws and engravings 鈥?forces model to render micro-detail.",
-      "Background: bokeh background of dark walnut wood 鈥?shallow DOF + warm wood backdrop raises the perceived quality.",
-      "Quality words: 8k commercial photography, advertising campaign quality 鈥?anchor to commercial standard."
+      "Subject + support: luxury automatic watch on a black velvet display cushion — main subject + what it sits on.",
+      "Lighting: dramatic studio lighting with rim light from the right, soft fill light from the left — key + fill setup.",
+      "Detail anchor: hyper detailed metal texture, visible screws and engravings — forces model to render micro-detail.",
+      "Background: bokeh background of dark walnut wood — shallow DOF + warm wood backdrop raises the perceived quality.",
+      "Quality words: 8k commercial photography, advertising campaign quality — anchor to commercial standard."
     ],
     "tips": "The biggest risk in product shots is \"AI plastic feel\". Adding \"hyper detailed metal texture, visible screws\" micro-detail words makes the AI image feel commercial in one shot."
   },
@@ -59,7 +59,7 @@
     "stable_diffusion": "SDXL + JuggernautXL / RealVisXL\nSteps 30, CFG 7\nAdd ControlNet depth model to lock the watch position",
     "flux": "Use the rewrite prompt directly. Flux is strongest for products.",
     "dall_e": "DALL-E 3 products are decent but often add \"extra elements\" you didn't ask for.",
-    "jimeng_zh": "涓撲笟浜у搧鎽勫奖锛屽ア渚堟墜琛紝榛戣壊澶╅箙缁掑簳搴э紝鎴忓墽鍏夛紝瓒呯粏鑺傞噾灞炶川鎰燂紝8K 鍟嗕笟绾?
+    "jimeng_zh": "专业产品摄影，奢侈手表，黑色天鹅绒底座，戏剧光，超细节金属质感，8K 商业级"
   },
   "faq": [
     {
@@ -80,5 +80,5 @@
     "url": "https://civitai.com/images/flux-product",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.353Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

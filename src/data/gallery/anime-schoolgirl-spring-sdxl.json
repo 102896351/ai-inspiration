@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-anime-schoolgirl-sdxl",
   "slug": "anime-schoolgirl-spring-sdxl",
   "title": "Anime School Girl in Spring (SDXL AnythingV5)",
@@ -47,11 +47,11 @@
     "intro": "Anime SDXL needs three things: right checkpoint (AnythingV5), right negative, and the magic \"masterpiece, best quality\" trigger.",
     "steps": [
       "Checkpoint: SDXL + AnythingV5 (or AOM3, CounterfeitXL). AnythingV5 is the safe default.",
-      "Trigger: start with \"masterpiece, best quality,\" 鈥?AnythingV5 was trained on these as quality triggers.",
-      "Subject: anime school girl with long black hair and red ribbon 鈥?specific details (ribbon color!).",
-      "Outfit: sailor uniform with pleated skirt 鈥?sailor uniform is the anime school staple.",
-      "Atmosphere: standing under cherry blossom trees in full bloom, falling petals, soft spring sunlight 鈥?cherry blossom season = spring anime.",
-      "Negative: lowres, bad anatomy, bad hands, extra fingers, missing fingers, blurry 鈥?SDXL has hand problems; negative is essential."
+      "Trigger: start with \"masterpiece, best quality,\" — AnythingV5 was trained on these as quality triggers.",
+      "Subject: anime school girl with long black hair and red ribbon — specific details (ribbon color!).",
+      "Outfit: sailor uniform with pleated skirt — sailor uniform is the anime school staple.",
+      "Atmosphere: standing under cherry blossom trees in full bloom, falling petals, soft spring sunlight — cherry blossom season = spring anime.",
+      "Negative: lowres, bad anatomy, bad hands, extra fingers, missing fingers, blurry — SDXL has hand problems; negative is essential."
     ],
     "tips": "\"masterpiece, best quality\" is the trigger phrase for AnythingV5. Don't skip it. For hands, always use \"beautiful detailed hands\" as a positive cue."
   },
@@ -60,7 +60,7 @@
     "stable_diffusion": "SDXL + AnythingV5, CFG 7, Steps 30, Sampler DPM++ 2M Karras.",
     "flux": "Flux handles anime but leans less \"anime-style\". Better for semi-realistic anime.",
     "dall_e": "DALL-E 3: \"An anime-style illustration of a school girl with black hair and red ribbon under cherry blossom trees\".",
-    "jimeng_zh": "鍔ㄦ极鏍″洯灏戝コ锛岄粦鑹查暱鍙戯紝绾㈣壊铦磋澏缁擄紝姘存墜鏈嶏紝妯辫姳瀛ｏ紝鍗虫ⅵ浜屾鍏冮銆?
+    "jimeng_zh": "动漫校园少女，黑色长发，红色蝴蝶结，水手服，樱花季，即梦二次元风。"
   },
   "faq": [
     {
@@ -81,5 +81,5 @@
     "url": "https://civitai.com/images/anime-schoolgirl",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-food-photo-mj",
   "slug": "food-photography-moody",
   "title": "Restaurant Food Photography: Moody Lighting",
@@ -34,7 +34,7 @@
       },
       {
         "param": "--s 250",
-        "why": "Medium stylize 鈥?high enough for drama, low enough to keep food looking real."
+        "why": "Medium stylize — high enough for drama, low enough to keep food looking real."
       },
       {
         "param": "canon 100mm macro",
@@ -45,11 +45,11 @@
   "tutorial": {
     "intro": "Food photography is 80% lighting and 20% styling. AI can nail both if you cue them.",
     "steps": [
-      "Subject details: artisan ramen bowl with rich tonkotsu broth, soft-boiled egg cut in half, chashu pork belly, nori, scallions 鈥?list every visible ingredient for richness.",
-      "Motion: soft steam rising 鈥?gives the dish life.",
-      "Lighting: dramatic side lighting from left 鈥?defines texture and depth.",
-      "Background: dark moody restaurant table 鈥?sets the upscale tone.",
-      "Lens anchor: canon 100mm macro lens 鈥?pro food photography lens."
+      "Subject details: artisan ramen bowl with rich tonkotsu broth, soft-boiled egg cut in half, chashu pork belly, nori, scallions — list every visible ingredient for richness.",
+      "Motion: soft steam rising — gives the dish life.",
+      "Lighting: dramatic side lighting from left — defines texture and depth.",
+      "Background: dark moody restaurant table — sets the upscale tone.",
+      "Lens anchor: canon 100mm macro lens — pro food photography lens."
     ],
     "tips": "List ingredients, not the dish. \"ramen with egg and pork\" is OK; \"tonkotsu broth, soft-boiled egg cut in half, chashu pork belly, nori, scallions\" makes MJ render a Michelin-quality bowl."
   },
@@ -58,7 +58,7 @@
     "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"professional food photography, ramen, dark moody, side lighting\"\nNegative: \"bright, cartoon, plastic\"",
     "flux": "Flux handles food well. Add: \"shot in Tokyo ramen shop, editorial style\"",
     "dall_e": "DALL-E 3 food is decent. Try natural language.",
-    "jimeng_zh": "涓撲笟缇庨鎽勫奖锛岃睔楠ㄦ媺闈紝婧忓績铔嬶紝鍙夌儳锛屾捣鑻旓紝钁辫姳锛屾繁鑹查鍘呮闈紝鎴忓墽鍏?
+    "jimeng_zh": "专业美食摄影，豚骨拉面，溏心蛋，叉烧，海苔，葱花，深色餐厅桌面，戏剧光"
   },
   "faq": [
     {
@@ -79,5 +79,5 @@
     "url": "https://aigallery.xyz/gallery/food-photography-tutorial",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

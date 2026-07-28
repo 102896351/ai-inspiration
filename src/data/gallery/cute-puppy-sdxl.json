@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-cute-puppy-sdxl",
   "slug": "cute-puppy-sdxl",
   "title": "Cute Puppies with SDXL + RealVisXL",
@@ -30,7 +30,7 @@
     "explained": [
       {
         "param": "Checkpoint: RealVisXL V5.1",
-        "why": "RealVisXL is one of the strongest SDXL photorealistic models 鈥?great for animals and people."
+        "why": "RealVisXL is one of the strongest SDXL photorealistic models — great for animals and people."
       },
       {
         "param": "Steps 28, CFG 7",
@@ -46,11 +46,11 @@
     "intro": "SDXL pet portraits live or die on the checkpoint. RealVisXL is a strong choice.",
     "steps": [
       "Pick the checkpoint: RealVisXL V5.1 (or JuggernautXL v9 for slightly different vibe).",
-      "Subject: fluffy corgi puppy, sitting on a park bench 鈥?concrete subject + location.",
-      "Cuteness cues: big perky ears, smiling expression with tongue out 鈥?corgi-specific charm.",
-      "Lighting: soft natural lighting 鈥?outdoor scenes need natural light.",
-      "Background: shallow depth of field with green park bokeh 鈥?bokeh is what makes it \"professional\".",
-      "Film stock: kodak portra 400 film grain 鈥?adds analog warmth."
+      "Subject: fluffy corgi puppy, sitting on a park bench — concrete subject + location.",
+      "Cuteness cues: big perky ears, smiling expression with tongue out — corgi-specific charm.",
+      "Lighting: soft natural lighting — outdoor scenes need natural light.",
+      "Background: shallow depth of field with green park bokeh — bokeh is what makes it \"professional\".",
+      "Film stock: kodak portra 400 film grain — adds analog warmth."
     ],
     "tips": "For animals, the prompt mostly sets the \"vibe\" (studio, park, beach). The model and the lighting do 80% of the work."
   },
@@ -59,7 +59,7 @@
     "stable_diffusion": "Use the rewrite prompt with RealVisXL V5.1.",
     "flux": "Flux handles pets well.",
     "dall_e": "DALL-E 3 is decent.",
-    "jimeng_zh": "涓撲笟瀹犵墿鎽勫奖锛屾煰鍩哄辜鐘紝鍏洯闀挎锛岀瑧瀹逛几鑸屽ご锛岃嚜鐒跺厜锛屾祬鏅繁"
+    "jimeng_zh": "专业宠物摄影，柯基幼犬，公园长椅，笑容伸舌头，自然光，浅景深"
   },
   "faq": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "q": "Best lighting for outdoor pet shots?",
-      "a": "Golden hour or soft overcast. Avoid harsh midday sun 鈥?creates raccoon eyes."
+      "a": "Golden hour or soft overcast. Avoid harsh midday sun — creates raccoon eyes."
     }
   ],
   "source": {
@@ -80,5 +80,5 @@
     "url": "https://aigallery.xyz/gallery/cute-puppy-sdxl",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-quote-poster-ideogram",
   "slug": "minimalist-motivational-quote-poster-ideogram",
   "title": "Minimalist Motivational Quote Poster (Ideogram)",
@@ -42,11 +42,11 @@
   "tutorial": {
     "intro": "Ideogram's superpower is text. Generic \"quote poster\" fails. The magic: put the actual quote in quotes.",
     "steps": [
-      "Format: minimalist motivational quote poster 鈥?format + purpose.",
-      "Typography: large serif typography reading \"STAY CURIOUS\" in black 鈥?the exact text in quotes.",
-      "Background: soft cream background 鈥?off-white is more premium than pure white.",
-      "Layout: generous white space, single small decorative line element below 鈥?minimal decoration.",
-      "Quality: premium typographic poster design 鈥?quality reference."
+      "Format: minimalist motivational quote poster — format + purpose.",
+      "Typography: large serif typography reading \"STAY CURIOUS\" in black — the exact text in quotes.",
+      "Background: soft cream background — off-white is more premium than pure white.",
+      "Layout: generous white space, single small decorative line element below — minimal decoration.",
+      "Quality: premium typographic poster design — quality reference."
     ],
     "tips": "Ideogram is the BEST at text rendering. Always use the actual text you want, in quotes, capitalized."
   },
@@ -55,7 +55,7 @@
     "stable_diffusion": "SDXL with controlnet. Ideogram is the only model that does text well out-of-the-box.",
     "flux": "Flux is OK with text but inconsistent. Ideogram is best.",
     "dall_e": "DALL-E 3: \"A minimalist motivational poster with the text STAY CURIOUS in large serif typography on a cream background\".",
-    "jimeng_zh": "鏋佺畝鍔卞織娴锋姤锛岃‖绾垮ぇ瀛楋紝\"淇濇寔濂藉\" 鏍囬锛屽ザ鐧藉簳鑹诧紝澶ч噺鐣欑櫧銆?
+    "jimeng_zh": "极简励志海报，衬线大字，\"保持好奇\" 标题，奶白底色，大量留白。"
   },
   "faq": [
     {
@@ -76,5 +76,5 @@
     "url": "https://civitai.com/images/quote-poster",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

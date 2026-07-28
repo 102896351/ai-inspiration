@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-80s-retro-mj",
   "slug": "80s-retro-future-vector",
   "title": "80s Retro-Future Vector Aesthetic",
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "80s retro-future = \"chrome\" + \"neon grid\" + \"vector\" + \"horizontal-lined sun\" + named 80s reference (Syd Mead/Tron).",
     "steps": [
-      "Era: 1980s retro-future vector illustration 鈥?year + style + medium.",
-      "Subject: chrome geometric sports car driving through neon grid landscape 鈥?chrome vehicle + grid floor.",
-      "Sun: giant purple sun on horizon with horizontal lines 鈥?the \"lined sun\" is the icon.",
-      "Palette: magenta and cyan color palette 鈥?name two specific 80s colors.",
-      "Reference: syd mead tron aesthetic 鈥?name the artist (Syd Mead designed Tron and Blade Runner)."
+      "Era: 1980s retro-future vector illustration — year + style + medium.",
+      "Subject: chrome geometric sports car driving through neon grid landscape — chrome vehicle + grid floor.",
+      "Sun: giant purple sun on horizon with horizontal lines — the \"lined sun\" is the icon.",
+      "Palette: magenta and cyan color palette — name two specific 80s colors.",
+      "Reference: syd mead tron aesthetic — name the artist (Syd Mead designed Tron and Blade Runner)."
     ],
     "tips": "The \"horizontal-lined sun\" is the secret sauce. Without it, retro-future looks like generic synthwave."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"1980s retro-future, chrome car, neon grid, vector, syd mead\"",
     "flux": "Flux is OK for this; Niji 6 also works.",
     "dall_e": "DALL-E 3: \"A 1980s retro-future vector illustration of a chrome sports car on a neon grid with a giant purple lined sun, Syd Mead aesthetic\".",
-    "jimeng_zh": "80 骞翠唬澶嶅彜鏈潵锛岄摤鍚堥噾璺戣溅锛岄湏铏圭綉鏍硷紝绱棩妯嚎锛岃タ寰风背寰枫€?
+    "jimeng_zh": "80 年代复古未来，铬合金跑车，霓虹网格，紫日横线，西德米德。"
   },
   "faq": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "q": "How to get the chrome look?",
-      "a": "Use \"chrome reflections\" + \"geometric\". Avoid \"metallic\" alone 鈥?that gets you generic silver."
+      "a": "Use \"chrome reflections\" + \"geometric\". Avoid \"metallic\" alone — that gets you generic silver."
     },
     {
       "q": "Best for synthwave music covers?",
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/80s-retro-future",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

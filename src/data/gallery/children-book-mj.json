@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-children-book-mj",
   "slug": "children-book-mj",
   "title": "Children Book Illustration: Cute Characters",
@@ -35,7 +35,7 @@
       },
       {
         "param": "--s 400",
-        "why": "Medium stylize 鈥?high enough to be charming, low enough to look hand-painted."
+        "why": "Medium stylize — high enough to be charming, low enough to look hand-painted."
       },
       {
         "param": "big round eyes",
@@ -46,11 +46,11 @@
   "tutorial": {
     "intro": "Children's book art lives on: cuteness cues + simple composition + warm palette. AI does all three.",
     "steps": [
-      "Character: adorable baby dragon with big round eyes and soft purple scales 鈥?specific creature + specific features.",
-      "Cuteness cues: big round eyes 鈥?non-negotiable for kids' books.",
-      "Companions: friendly small fox and bunny companions 鈥?adds story.",
-      "Setting: sitting in a magical forest 鈥?soft, safe atmosphere.",
-      "Style: soft watercolor style, warm pastel color palette with mint green, peach, and sky blue 鈥?children's book palette."
+      "Character: adorable baby dragon with big round eyes and soft purple scales — specific creature + specific features.",
+      "Cuteness cues: big round eyes — non-negotiable for kids' books.",
+      "Companions: friendly small fox and bunny companions — adds story.",
+      "Setting: sitting in a magical forest — soft, safe atmosphere.",
+      "Style: soft watercolor style, warm pastel color palette with mint green, peach, and sky blue — children's book palette."
     ],
     "tips": "Big round eyes is the #1 cuteness multiplier. Always include it. Add \"soft round shapes\" to your prompt for extra cute."
   },
@@ -59,12 +59,12 @@
     "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"children book illustration, baby dragon, magical forest, watercolor\"",
     "flux": "Flux handles children's style.",
     "dall_e": "DALL-E 3 is OK for kids.",
-    "jimeng_zh": "鍎跨缁樻湰鎻掔敾锛屽彲鐖卞皬榫欙紝澶у渾鐪肩潧锛岀传鑹查碁鐗囷紝榄旀硶妫灄锛屾俯鏆栫矇褰?
+    "jimeng_zh": "儿童绘本插画，可爱小龙，大圆眼睛，紫色鳞片，魔法森林，温暖粉彩"
   },
   "faq": [
     {
       "q": "Why is my dragon scary?",
-      "a": "You forgot \"soft scales\" and \"big round eyes\". Add both 鈥?they push the dragon from \"Smaug\" to \"toothpaste mascot\"."
+      "a": "You forgot \"soft scales\" and \"big round eyes\". Add both — they push the dragon from \"Smaug\" to \"toothpaste mascot\"."
     },
     {
       "q": "Best model for kids book?",
@@ -80,5 +80,5 @@
     "url": "https://aigallery.xyz/gallery/children-book-mj",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

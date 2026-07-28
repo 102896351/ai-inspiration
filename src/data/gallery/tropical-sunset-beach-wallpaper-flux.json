@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-sunset-beach-flux",
   "slug": "tropical-sunset-beach-wallpaper-flux",
   "title": "Tropical Sunset Beach Wallpaper (Flux)",
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Tropical sunset = named location + \"golden hour\" + \"silhouetted palm\" + \"reflected in wet sand\" + named lens.",
     "steps": [
-      "Location: tropical sunset beach in bali 鈥?specific location.",
-      "Light: golden hour light over calm ocean 鈥?golden hour + calm water.",
-      "Subject: silhouetted palm trees on white sand 鈥?silhouette + palm = tropical.",
-      "Details: distant fishing boats, soft pink and orange sky reflected in wet sand 鈥?small details + reflection.",
-      "Camera: nikon z9 24-70mm f/2.8 鈥?real camera + lens."
+      "Location: tropical sunset beach in bali — specific location.",
+      "Light: golden hour light over calm ocean — golden hour + calm water.",
+      "Subject: silhouetted palm trees on white sand — silhouette + palm = tropical.",
+      "Details: distant fishing boats, soft pink and orange sky reflected in wet sand — small details + reflection.",
+      "Camera: nikon z9 24-70mm f/2.8 — real camera + lens."
     ],
     "tips": "Wet sand + sunset = automatic reflection. \"Reflected in wet sand\" doubles the sky impact."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30.",
     "flux": "Flux.1 dev, guidance 3, steps 25.",
     "dall_e": "DALL-E 3: \"A Bali tropical sunset beach with silhouetted palm trees, golden hour, nikon camera\".",
-    "jimeng_zh": "宸村帢宀涙棩钀芥捣婊╋紝妫曟鏍戝壀褰憋紝閲戣壊鍏夋檿锛屾箍娌欏€掑奖锛屾梾琛屾憚褰便€?
+    "jimeng_zh": "巴厘岛日落海滩，棕榈树剪影，金色光晕，湿沙倒影，旅行摄影。"
   },
   "faq": [
     {
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/sunset-beach",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

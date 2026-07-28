@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-mountain-landscape-mj",
   "slug": "mountain-landscape-mj",
   "title": "Epic Mountain Landscapes: Golden Hour Tutorial",
@@ -31,7 +31,7 @@
     "explained": [
       {
         "param": "--ar 16:9",
-        "why": "Widescreen aspect ratio 鈥?perfect for landscape banners and desktop wallpapers."
+        "why": "Widescreen aspect ratio — perfect for landscape banners and desktop wallpapers."
       },
       {
         "param": "--s 750",
@@ -39,18 +39,18 @@
       },
       {
         "param": "--v 6.1",
-        "why": "v6.1 is the most photorealistic MJ version 鈥?beats v5 on natural detail."
+        "why": "v6.1 is the most photorealistic MJ version — beats v5 on natural detail."
       }
     ]
   },
   "tutorial": {
     "intro": "Great landscapes live on layered depth: sky, peaks, midground, foreground. MJ will fill each layer if you cue them.",
     "steps": [
-      "Sky layer: dramatic clouds breaking over ridges 鈥?anchors the lighting direction.",
-      "Peak layer: snow-capped peaks at golden hour 鈥?main subject + time.",
-      "Midground: mirror-perfect reflection in alpine lake 鈥?adds symmetry and depth.",
-      "Foreground: pine trees in foreground 鈥?gives scale to the mountains.",
-      "Style anchor: ansel adams inspired, kodak ektar 100 film 鈥?locks it to classic landscape photography."
+      "Sky layer: dramatic clouds breaking over ridges — anchors the lighting direction.",
+      "Peak layer: snow-capped peaks at golden hour — main subject + time.",
+      "Midground: mirror-perfect reflection in alpine lake — adds symmetry and depth.",
+      "Foreground: pine trees in foreground — gives scale to the mountains.",
+      "Style anchor: ansel adams inspired, kodak ektar 100 film — locks it to classic landscape photography."
     ],
     "tips": "Photographers know: golden hour side-lighting is what makes mountains \"epic\". Use \"golden hour\" or \"magic hour\" instead of \"sunset\" for more dramatic results."
   },
@@ -59,7 +59,7 @@
     "stable_diffusion": "SDXL + RealisticVision v5.1\nPrompt: \"epic mountain landscape, golden hour, alpine lake, ansel adams\"\nNegative: \"modern, urban, cartoon\"\nSteps 30, CFG 7, Sampler DPM++ 2M Karras",
     "flux": "Flux handles landscapes strongly. Add: \"shot on Hasselblad X2D, 21mm wide angle, f/8\"",
     "dall_e": "DALL-E 3 landscapes are good. Try: \"A panoramic photograph of snow-capped mountains at golden hour with reflections in a still alpine lake, in the style of Ansel Adams\"",
-    "jimeng_zh": "鍙茶瘲灞辫剦椋庢櫙锛屾棩钀介粍閲戞椂鍒伙紝浜戝眰鐮村紑灞辫剨锛屽€掑奖婀栭潰锛屾澗鏍戝墠鏅紝ansel adams 椋庢牸"
+    "jimeng_zh": "史诗山脉风景，日落黄金时刻，云层破开山脊，倒影湖面，松树前景，ansel adams 风格"
   },
   "faq": [
     {
@@ -68,11 +68,11 @@
     },
     {
       "q": "Best aspect for landscapes?",
-      "a": "--ar 16:9 for widescreen, 21:9 for ultra-wide cinematic. Avoid 1:1 鈥?crops out the drama."
+      "a": "--ar 16:9 for widescreen, 21:9 for ultra-wide cinematic. Avoid 1:1 — crops out the drama."
     },
     {
       "q": "How to get reflection in the water?",
-      "a": "Say \"mirror-perfect reflection\" or \"still water reflection\" 鈥?MJ understands reflection well."
+      "a": "Say \"mirror-perfect reflection\" or \"still water reflection\" — MJ understands reflection well."
     }
   ],
   "source": {
@@ -80,5 +80,5 @@
     "url": "https://aigallery.xyz/gallery/mountain-landscape-tutorial",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

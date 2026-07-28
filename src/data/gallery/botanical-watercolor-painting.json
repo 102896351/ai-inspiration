@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-botanical-watercolor-mj",
   "slug": "botanical-watercolor-painting",
   "title": "Botanical Watercolor Painting",
@@ -43,11 +43,11 @@
   "tutorial": {
     "intro": "Botanical watercolor = 19th century reference + specific plants + muted palette + paper texture.",
     "steps": [
-      "Era + style: vintage botanical watercolor illustration, 19th century scientific illustration style 鈥?period + purpose.",
-      "Subject: wild roses and eucalyptus 鈥?specific plants (not \"flowers\").",
-      "Paint: soft watercolor washes on aged paper 鈥?paint medium + surface.",
-      "Line: delicate pencil linework 鈥?the underdrawing matters for botanical.",
-      "Color: muted earthy palette of sage green and dusty rose 鈥?three named muted colors."
+      "Era + style: vintage botanical watercolor illustration, 19th century scientific illustration style — period + purpose.",
+      "Subject: wild roses and eucalyptus — specific plants (not \"flowers\").",
+      "Paint: soft watercolor washes on aged paper — paint medium + surface.",
+      "Line: delicate pencil linework — the underdrawing matters for botanical.",
+      "Color: muted earthy palette of sage green and dusty rose — three named muted colors."
     ],
     "tips": "Botanical watercolor = \"19th century\" + \"scientific\" + named plant + muted palette. Skip any one and it goes generic."
   },
@@ -56,7 +56,7 @@
     "stable_diffusion": "SDXL + Proteus\nPrompt: \"botanical watercolor, vintage scientific illustration, wild roses\"",
     "flux": "Flux handles this style well.",
     "dall_e": "DALL-E 3: \"A vintage botanical watercolor illustration of wild roses and eucalyptus in 19th century scientific style\".",
-    "jimeng_zh": "妞嶇墿姘村僵鐢伙紝19 涓栫邯绉戝鎻掔敾椋庢牸锛岄噹鐢熺帿鐟帮紝妗夋爲鍙讹紝瑜壊绾搁潰銆?
+    "jimeng_zh": "植物水彩画，19 世纪科学插画风格，野生玫瑰，桉树叶，褪色纸面。"
   },
   "faq": [
     {
@@ -77,5 +77,5 @@
     "url": "https://civitai.com/images/botanical-watercolor",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

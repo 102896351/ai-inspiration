@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-concept-art-robot-sd",
   "slug": "concept-art-robot-sd",
   "title": "Sci-Fi Robot Concept Art in SDXL",
@@ -39,18 +39,18 @@
       },
       {
         "param": "artstation trending",
-        "why": "Quality anchor 鈥?ArtStation is the pro concept art platform."
+        "why": "Quality anchor — ArtStation is the pro concept art platform."
       }
     ]
   },
   "tutorial": {
     "intro": "Concept art needs three things: detailed subject, atmospheric setting, and quality anchor.",
     "steps": [
-      "Subject details: weathered metal surface with rust and battle damage, glowing cyan optics, detailed mechanical joints and servos 鈥?the \"story\" comes from the details.",
-      "Story prop: holding a futuristic rifle 鈥?gives the character a role.",
-      "Setting: standing in a foggy alien jungle 鈥?atmosphere + context.",
-      "Lighting: dramatic rim lighting 鈥?separates the robot from the background.",
-      "Quality anchor: artstation trending 鈥?locks the pro concept art look."
+      "Subject details: weathered metal surface with rust and battle damage, glowing cyan optics, detailed mechanical joints and servos — the \"story\" comes from the details.",
+      "Story prop: holding a futuristic rifle — gives the character a role.",
+      "Setting: standing in a foggy alien jungle — atmosphere + context.",
+      "Lighting: dramatic rim lighting — separates the robot from the background.",
+      "Quality anchor: artstation trending — locks the pro concept art look."
     ],
     "tips": "Concept art lives on details. \"Glowing cyan optics\" + \"weathered metal\" + \"battle damage\" tells the model: this character has been around."
   },
@@ -59,7 +59,7 @@
     "stable_diffusion": "Use the rewrite prompt with Dreamshaper XL.",
     "flux": "Flux handles concept art well.",
     "dall_e": "DALL-E 3 concept art is OK.",
-    "jimeng_zh": "绉戝够姒傚康鑹烘湳锛屼汉褰㈡帰绱㈡満鍣ㄤ汉锛岄鍖栭噾灞烇紝钃濊壊鍙戝厜鍏夊锛屾満姊扮粏鑺傦紝寮傛槦涓涙灄"
+    "jimeng_zh": "科幻概念艺术，人形探索机器人，风化金属，蓝色发光光学，机械细节，异星丛林"
   },
   "faq": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "q": "How to get the \"ArtStation\" look?",
-      "a": "Anchor with \"artstation trending\" or \"artstation masterpiece\" 鈥?the model knows the visual style."
+      "a": "Anchor with \"artstation trending\" or \"artstation masterpiece\" — the model knows the visual style."
     }
   ],
   "source": {
@@ -80,5 +80,5 @@
     "url": "https://aigallery.xyz/gallery/concept-art-robot-sd",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,8 +1,8 @@
-﻿{
+{
   "id": "seed-chinese-landscape-jimeng",
   "slug": "chinese-landscape-jimeng",
-  "title": "Chinese Ink Wash Landscapes: 鍗虫ⅵ (Jimeng) Tutorial",
-  "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 鍗虫ⅵ. From Song Dynasty masters to modern ink art.",
+  "title": "Chinese Ink Wash Landscapes: 即梦 (Jimeng) Tutorial",
+  "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 即梦. From Song Dynasty masters to modern ink art.",
   "cover": "covers/chinese-landscape-jimeng.svg",
   "model": "jimeng",
   "modelVersion": "",
@@ -25,54 +25,54 @@
     "song-dynasty"
   ],
   "prompt": {
-    "main": "涓浗浼犵粺姘村ⅷ灞辨按鐢伙紝杩滃北杩戞按锛岀€戝竷椋炴祦锛屾澗鏍戜簯闆撅紝鐣欑櫧鎰忓锛屽畫浠ｅ悕瀹堕鏍硷紝娣″ⅷ娓叉煋锛屽绾歌川鎰燂紝鍗扮珷绾㈡偿锛岀珫骞呮瀯鍥撅紝鎰忓鎮犺繙",
-    "negative": "鍐欏疄锛岀収鐗囷紝鑹插僵锛岀珛浣擄紝3D",
-    "params": "鍗虫ⅵ AI, 1024x1024",
+    "main": "中国传统水墨山水画，远山近水，瀑布飞流，松树云雾，留白意境，宋代名家风格，淡墨渲染，宣纸质感，印章红泥，竖幅构图，意境悠远",
+    "negative": "写实，照片，色彩，立体，3D",
+    "params": "即梦 AI, 1024x1024",
     "explained": [
       {
-        "param": "鍗虫ⅵ AI (Jimeng)",
-        "why": "鍗虫ⅵ鏄腑鏂囪澧冩渶寮虹殑 AI 鐢诲浘宸ュ叿锛屾眽瀛楁覆鏌撳拰鏂囧寲鐞嗚В杩滆秴鍥藉妯″瀷銆?
+        "param": "即梦 AI (Jimeng)",
+        "why": "即梦是中文语境最强的 AI 画图工具，汉字渲染和文化理解远超国外模型。"
       },
       {
-        "param": "绔栧箙鏋勫浘",
-        "why": "涓浗浼犵粺灞辨按鐢荤殑鏍囧噯鏋勫浘鏄珫骞咃紙楂?瀹斤級銆?
+        "param": "竖幅构图",
+        "why": "中国传统山水画的标准构图是竖幅（高>宽）。"
       },
       {
-        "param": "瀹嬩唬鍚嶅椋庢牸",
-        "why": "瀹嬩唬鏄腑鍥藉北姘寸敾鐨勫穮宄帮紝閿氬畾鍒板畫浠ｈ兘绔嬪嵆閿佷綇\"姝"鐨勭敾椋庛€?
+        "param": "宋代名家风格",
+        "why": "宋代是中国山水画的巅峰，锚定到宋代能立即锁住\"正\"的画风。"
       }
     ]
   },
   "tutorial": {
-    "intro": "鍗虫ⅵ鍦ㄤ腑鏂囧満鏅噷鏄帇鑰咃紝姹夊瓧娓叉煋鍜屼腑鍥芥枃鍖栫悊瑙ｈ繙瓒呭浗澶?AI銆?,
+    "intro": "即梦在中文场景里是王者，汉字渲染和中国文化理解远超国外 AI。",
     "steps": [
-      "涓讳綋锛氳繙灞辫繎姘达紝鐎戝竷椋炴祦锛屾澗鏍戜簯闆?鈥?灞辨按鐨勭粡鍏稿厓绱犮€?,
-      "鎰忓锛氱暀鐧芥剰澧?鈥?涓浗鐢绘渶鏍稿績鐨勬蹇碉紝姣擻"缁嗚妭\"鏇撮噸瑕併€?,
-      "椋庢牸閿氾細瀹嬩唬鍚嶅椋庢牸 鈥?瀹嬩唬灞辨按鐢绘按骞虫渶楂樸€?,
-      "璐ㄦ劅锛氭贰澧ㄦ覆鏌擄紝瀹ｇ焊璐ㄦ劅锛屽嵃绔犵孩娉?鈥?杩欎簺\"鐢绘潗\"璇嶆槸鍗虫ⅵ鎿呴暱鐨勩€?,
-      "鏋勫浘锛氱珫骞呮瀯鍥?鈥?浼犵粺涓浗鐢绘槸绔栧箙銆?
+      "主体：远山近水，瀑布飞流，松树云雾 — 山水的经典元素。",
+      "意境：留白意境 — 中国画最核心的概念，比\"细节\"更重要。",
+      "风格锚：宋代名家风格 — 宋代山水画水平最高。",
+      "质感：淡墨渲染，宣纸质感，印章红泥 — 这些\"画材\"词是即梦擅长的。",
+      "构图：竖幅构图 — 传统中国画是竖幅。"
     ],
-    "tips": "涓浗鐢荤殑鏍稿績鏄痋"鐣欑櫧\"銆傛彁绀鸿瘝閲屽姞\"鐣欑櫧鎰忓\"锛屾ā鍨嬪氨浼氳嚜鍔ㄥ噺灏戠粏鑺傘€佸姞绌虹櫧 鈥?杩欐槸涓浗鐢荤殑鍛抽亾銆?
+    "tips": "中国画的核心是\"留白\"。提示词里加\"留白意境\"，模型就会自动减少细节、加空白 — 这是中国画的味道。"
   },
   "crossModel": {
     "midjourney": "MJ v6.1: \"Chinese ink wash landscape, shanshui, song dynasty --ar 2:3 --v 6.1\" (loses Chinese feel)",
     "stable_diffusion": "SDXL: not good for Chinese style. Use a dedicated LoRA.",
     "flux": "Flux understands Chinese art but lacks cultural depth.",
     "dall_e": "DALL-E 3 Chinese art is OK but stylistically inconsistent.",
-    "jimeng_zh": "鐢ㄨ繖涓?prompt 鐩存帴璺戙€?
+    "jimeng_zh": "用这个 prompt 直接跑。"
   },
   "faq": [
     {
-      "q": "鍗虫ⅵ vs Midjourney for Chinese art?",
-      "a": "鍗虫ⅵ瀹屽叏纰惧帇銆傚嵆姊﹁缁冩暟鎹噷涓枃鑹烘湳姣旈噸楂橈紝鍥藉妯″瀷瀵筡"鐣欑櫧\"鍜孿"鎰忓\"鐞嗚В涓嶅埌浣嶃€?
+      "q": "即梦 vs Midjourney for Chinese art?",
+      "a": "即梦完全碾压。即梦训练数据里中文艺术比重高，国外模型对\"留白\"和\"意境\"理解不到位。"
     },
     {
       "q": "How to get the \"blank space\" feel?",
-      "a": "Add \"鐣欑櫧鎰忓\" to the prompt. The model knows Chinese painting conventions."
+      "a": "Add \"留白意境\" to the prompt. The model knows Chinese painting conventions."
     },
     {
       "q": "Best for Chinese calligraphy?",
-      "a": "鍗虫ⅵ still struggles with character-by-character calligraphy. For real calligraphy, human + Photoshop is best."
+      "a": "即梦 still struggles with character-by-character calligraphy. For real calligraphy, human + Photoshop is best."
     }
   ],
   "source": {
@@ -80,5 +80,5 @@
     "url": "https://aigallery.xyz/gallery/chinese-landscape-jimeng",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

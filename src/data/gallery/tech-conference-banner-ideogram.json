@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-tech-conference-ideogram",
   "slug": "tech-conference-banner-ideogram",
   "title": "Tech Conference Banner (Ideogram)",
@@ -38,10 +38,10 @@
   "tutorial": {
     "intro": "Tech conference banner = event name + date + location + gradient + geometric. Specific details sell event tickets.",
     "steps": [
-      "Background: gradient blue and purple background with abstract geometric shapes 鈥?gradient + geometry.",
-      "Title: large bold text \"AI SUMMIT 2025\" in white sans-serif 鈥?actual event name.",
-      "Date: smaller text \"San Francisco | Oct 15-17\" below 鈥?city + dates.",
-      "Aesthetic: clean modern tech aesthetic, professional event marketing 鈥?quality reference."
+      "Background: gradient blue and purple background with abstract geometric shapes — gradient + geometry.",
+      "Title: large bold text \"AI SUMMIT 2025\" in white sans-serif — actual event name.",
+      "Date: smaller text \"San Francisco | Oct 15-17\" below — city + dates.",
+      "Aesthetic: clean modern tech aesthetic, professional event marketing — quality reference."
     ],
     "tips": "Tech events: name + city + dates. Without city + dates, you get a generic tech poster."
   },
@@ -50,7 +50,7 @@
     "stable_diffusion": "SDXL with controlnet. Use Ideogram for text.",
     "flux": "Flux is OK.",
     "dall_e": "DALL-E 3: \"A modern tech conference banner with the text AI SUMMIT 2025, San Francisco Oct 15-17, blue and purple gradient\".",
-    "jimeng_zh": "绉戞妧澶т細妯箙锛屾枃瀛?\"AI SUMMIT 2025\"锛屾棫閲戝北锛岃摑绱笎鍙橈紝鍑犱綍鑳屾櫙銆?
+    "jimeng_zh": "科技大会横幅，文字 \"AI SUMMIT 2025\"，旧金山，蓝紫渐变，几何背景。"
   },
   "faq": [
     {
@@ -71,5 +71,5 @@
     "url": "https://civitai.com/images/tech-conference",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

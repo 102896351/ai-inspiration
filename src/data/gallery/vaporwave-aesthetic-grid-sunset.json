@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-vaporwave-mj",
   "slug": "vaporwave-aesthetic-grid-sunset",
   "title": "Vaporwave Aesthetic (Grid + Sunset + Palm Trees)",
@@ -43,11 +43,11 @@
   "tutorial": {
     "intro": "Vaporwave = magenta + cyan + perspective grid + palm trees + Japanese text + scanlines. Six ingredients, that is it.",
     "steps": [
-      "Sky: magenta and cyan gradient sky with pixelated sun 鈥?two specific colors + pixelated sun.",
-      "Subject: neon pink palm trees silhouetted against the sunset 鈥?palm trees are the genre icon.",
-      "Floor: infinite perspective grid floor in classic vaporwave style 鈥?the grid is non-negotiable.",
-      "Text: japanese text overlay 鈥?Japanese kana/kanji sells the \"lost media\" vibe.",
-      "Texture: scanlines and VHS distortion 鈥?analog imperfections = authenticity."
+      "Sky: magenta and cyan gradient sky with pixelated sun — two specific colors + pixelated sun.",
+      "Subject: neon pink palm trees silhouetted against the sunset — palm trees are the genre icon.",
+      "Floor: infinite perspective grid floor in classic vaporwave style — the grid is non-negotiable.",
+      "Text: japanese text overlay — Japanese kana/kanji sells the \"lost media\" vibe.",
+      "Texture: scanlines and VHS distortion — analog imperfections = authenticity."
     ],
     "tips": "Vaporwave = magenta + cyan + grid + palm + scanlines. Skip the scanlines and it just looks like Miami Vice."
   },
@@ -56,7 +56,7 @@
     "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"vaporwave, retro aesthetic, perspective grid, palm trees, magenta cyan\"",
     "flux": "Flux handles vaporwave but leans more \"clean\". Add more imperfection cues.",
     "dall_e": "DALL-E 3: \"A vaporwave aesthetic image with magenta-cyan gradient sky, pixelated sun, neon palm trees, perspective grid floor, and VHS scanlines\".",
-    "jimeng_zh": "钂告苯娉㈢編瀛︼紝娲嬬孩闈掕摑娓愬彉锛岄湏铏规姒堟爲锛岄€忚缃戞牸锛孷HS 鎵弿绾匡紝80 骞翠唬銆?
+    "jimeng_zh": "蒸汽波美学，洋红青蓝渐变，霓虹棕榈树，透视网格，VHS 扫描线，80 年代。"
   },
   "faq": [
     {
@@ -65,7 +65,7 @@
     },
     {
       "q": "How to get VHS feel?",
-      "a": "Add \"scanlines, VHS distortion, tracking error\" 鈥?these three terms trigger the analog aesthetic."
+      "a": "Add \"scanlines, VHS distortion, tracking error\" — these three terms trigger the analog aesthetic."
     },
     {
       "q": "Best for music covers?",
@@ -77,5 +77,5 @@
     "url": "https://civitai.com/images/vaporwave",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

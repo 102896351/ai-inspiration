@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-forest-spirit-mj",
   "slug": "forest-spirit-anime-fantasy",
   "title": "Mystical Forest Spirit (Anime Fantasy)",
@@ -43,11 +43,11 @@
   "tutorial": {
     "intro": "Ghibli forest spirit = \"moss dress\" + \"antlers made of branches\" + \"fireflies\" + \"Hayao Miyazaki\". Skip any one and it goes generic fantasy.",
     "steps": [
-      "Subject: mystical forest spirit girl with long flowing silver hair 鈥?spirit + character details.",
-      "Outfit: dress made of moss and wildflowers 鈥?nature-as-clothing is the Ghibli signature.",
-      "Signature: gentle glowing antlers made of birch branches 鈥?antlers = forest spirit visual cue.",
-      "Atmosphere: surrounded by floating fireflies in an enchanted forest 鈥?fireflies = magic.",
-      "Reference: studio ghibli atmosphere, hayao miyazaki style 鈥?name the studio + director."
+      "Subject: mystical forest spirit girl with long flowing silver hair — spirit + character details.",
+      "Outfit: dress made of moss and wildflowers — nature-as-clothing is the Ghibli signature.",
+      "Signature: gentle glowing antlers made of birch branches — antlers = forest spirit visual cue.",
+      "Atmosphere: surrounded by floating fireflies in an enchanted forest — fireflies = magic.",
+      "Reference: studio ghibli atmosphere, hayao miyazaki style — name the studio + director."
     ],
     "tips": "Niji 6 + \"hayao miyazaki\" is the magic combo for Ghibli aesthetic. Without Niji, MJ defaults to realistic."
   },
@@ -56,7 +56,7 @@
     "stable_diffusion": "SDXL + CounterfeitXL\nLoRA: \"ghibli_style\"\nPrompt: \"forest spirit, ghibli style, antlers, fireflies\"",
     "flux": "Flux is OK but Niji is better for this.",
     "dall_e": "DALL-E 3: \"A mystical forest spirit girl with a moss dress, antlers made of branches, surrounded by fireflies, in Studio Ghibli style\".",
-    "jimeng_zh": "妫灄绮剧伒灏戝コ锛岃嫈钘撹姳鏈佃瀛愶紝楣胯锛岃悿鐏櫕锛屽悏鍗滃姏椋庛€?
+    "jimeng_zh": "森林精灵少女，苔藓花朵裙子，鹿角，萤火虫，吉卜力风。"
   },
   "faq": [
     {
@@ -77,5 +77,5 @@
     "url": "https://civitai.com/images/forest-spirit",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-fashion-editorial-sd",
   "slug": "fashion-editorial-sd",
   "title": "High Fashion Editorial with SDXL",
@@ -46,11 +46,11 @@
   "tutorial": {
     "intro": "Fashion editorials need: pose + motion + atmosphere + signature style. SDXL handles all four if you cue them.",
     "steps": [
-      "Subject + outfit: full body shot of a female model wearing a dramatic red couture gown with a long train 鈥?specific garment, specific posture.",
-      "Pose: walking confidently 鈥?fashion rarely stands still.",
-      "Atmosphere: rain-soaked city street at night, neon reflections on wet asphalt 鈥?noir mood.",
-      "Motion: motion blur on dress 鈥?separates editorial from snapshot.",
-      "Photographer anchor: shot by annie leibovitz 鈥?Vogue/A-list fashion photographer."
+      "Subject + outfit: full body shot of a female model wearing a dramatic red couture gown with a long train — specific garment, specific posture.",
+      "Pose: walking confidently — fashion rarely stands still.",
+      "Atmosphere: rain-soaked city street at night, neon reflections on wet asphalt — noir mood.",
+      "Motion: motion blur on dress — separates editorial from snapshot.",
+      "Photographer anchor: shot by annie leibovitz — Vogue/A-list fashion photographer."
     ],
     "tips": "Fashion is \"movement + drama + atmosphere\". Combine all three for the \"Vogue cover\" look."
   },
@@ -59,12 +59,12 @@
     "stable_diffusion": "Use the rewrite prompt with JuggernautXL v9.",
     "flux": "Flux handles fashion well. Add: \"shot on Mamiya RZ67, medium format\"",
     "dall_e": "DALL-E 3 fashion is decent.",
-    "jimeng_zh": "楂樼骇鏃惰缂栬緫澶х墖锛岀孩鑹查珮绾у畾鍒剁ぜ鏈嶏紝闆ㄥ鍩庡競琛楅亾锛岄湏铏瑰€掑奖锛孷ogue 鏉傚織灏侀潰"
+    "jimeng_zh": "高级时装编辑大片，红色高级定制礼服，雨夜城市街道，霓虹倒影，Vogue 杂志封面"
   },
   "faq": [
     {
       "q": "Why does my fashion model look stiff?",
-      "a": "Add motion. \"Walking\" or \"running\" or \"spinning\" 鈥?anything to break the T-pose."
+      "a": "Add motion. \"Walking\" or \"running\" or \"spinning\" — anything to break the T-pose."
     },
     {
       "q": "Best SDXL checkpoint for fashion?",
@@ -80,5 +80,5 @@
     "url": "https://aigallery.xyz/gallery/fashion-editorial-sd",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

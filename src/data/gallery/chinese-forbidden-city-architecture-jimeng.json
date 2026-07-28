@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-chinese-architecture-jimeng",
   "slug": "chinese-forbidden-city-architecture-jimeng",
   "title": "Chinese Forbidden City Architecture (Jimeng)",
@@ -25,25 +25,25 @@
     "traditional"
   ],
   "prompt": {
-    "main": "鍖椾含鏁呭澶拰娈跨壒鍐欙紝绾㈣壊瀹閲戣壊鐞夌拑鐡︼紝椋炴獝缈樿缁嗚妭鍙锛屾櫞鏈楄摑澶╃櫧浜戯紝娓稿灏忎汉鍦ㄥ墠鏅睍鐜板缓绛戝畯浼燂紝宸ョ瑪寤虹瓚鐢婚鏍硷紝浼犵粺涓浗寤虹瓚缇庡",
-    "negative": "鐜颁唬寤虹瓚锛岃タ鏂瑰缓绛戯紝鍗￠€氾紝3D锛屾ā绯?,
-    "params": "Jimeng 3.0, style 鍐欏疄",
+    "main": "北京故宫太和殿特写，红色宫墙金色琉璃瓦，飞檐翘角细节可见，晴朗蓝天白云，游客小人在前景展现建筑宏伟，工笔建筑画风格，传统中国建筑美学",
+    "negative": "现代建筑，西方建筑，卡通，3D，模糊",
+    "params": "Jimeng 3.0, style 写实",
     "explained": [
       {
-        "param": "Style: 鍐欏疄",
-        "why": "鍐欏疄 (realistic) preset for architectural photography."
+        "param": "Style: 写实",
+        "why": "写实 (realistic) preset for architectural photography."
       }
     ]
   },
   "tutorial": {
-    "intro": "Chinese architecture = named building + color palette (red + gold) + \"宸ョ瑪寤虹瓚鐢籠" (architectural painting) style. Jimeng handles it natively.",
+    "intro": "Chinese architecture = named building + color palette (red + gold) + \"工笔建筑画\" (architectural painting) style. Jimeng handles it natively.",
     "steps": [
-      "Building: 鍖椾含鏁呭澶拰娈跨壒鍐?鈥?name the building + specific angle.",
-      "Material: 绾㈣壊瀹閲戣壊鐞夌拑鐡?鈥?red walls + gold tiles = Forbidden City signature.",
-      "Detail: 椋炴獝缈樿缁嗚妭鍙 鈥?flying eaves = traditional Chinese roof.",
-      "Sky: 鏅存湕钃濆ぉ鐧戒簯 鈥?clear sky for color contrast.",
-      "Scale: 娓稿灏忎汉鍦ㄥ墠鏅睍鐜板缓绛戝畯浼?鈥?tiny person for scale.",
-      "Style: 宸ョ瑪寤虹瓚鐢婚鏍?鈥?gongbi architectural painting style."
+      "Building: 北京故宫太和殿特写 — name the building + specific angle.",
+      "Material: 红色宫墙金色琉璃瓦 — red walls + gold tiles = Forbidden City signature.",
+      "Detail: 飞檐翘角细节可见 — flying eaves = traditional Chinese roof.",
+      "Sky: 晴朗蓝天白云 — clear sky for color contrast.",
+      "Scale: 游客小人在前景展现建筑宏伟 — tiny person for scale.",
+      "Style: 工笔建筑画风格 — gongbi architectural painting style."
     ],
     "tips": "Forbidden City = red walls + gold tiles + flying eaves. These three together = \"Imperial China\"."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + RealisticVision. Jimeng is best for Chinese architecture.",
     "flux": "Flux is OK.",
     "dall_e": "DALL-E 3: \"A close-up of the Forbidden City Hall of Supreme Harmony, red walls, gold tiles, flying eaves, clear blue sky\".",
-    "jimeng_zh": "鍖椾含鏁呭澶拰娈跨壒鍐欙紝绾㈣壊瀹閲戣壊鐞夌拑鐡︼紝椋炴獝缈樿缁嗚妭鍙锛屾櫞鏈楄摑澶╃櫧浜戯紝娓稿灏忎汉鍦ㄥ墠鏅睍鐜板缓绛戝畯浼燂紝宸ョ瑪寤虹瓚鐢婚鏍硷紝浼犵粺涓浗寤虹瓚缇庡銆?
+    "jimeng_zh": "北京故宫太和殿特写，红色宫墙金色琉璃瓦，飞檐翘角细节可见，晴朗蓝天白云，游客小人在前景展现建筑宏伟，工笔建筑画风格，传统中国建筑美学。"
   },
   "faq": [
     {
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/chinese-architecture",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

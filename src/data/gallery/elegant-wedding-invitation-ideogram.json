@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-wedding-invitation-ideogram",
   "slug": "elegant-wedding-invitation-ideogram",
   "title": "Elegant Wedding Invitation (Ideogram)",
@@ -39,12 +39,12 @@
   "tutorial": {
     "intro": "Wedding invitations need names + date + script typography + soft palette + botanical accent. The five-element rule.",
     "steps": [
-      "Format: elegant wedding invitation card, save the date 鈥?format.",
-      "Botanical: soft watercolor eucalyptus wreath border 鈥?single plant type + wreath layout.",
-      "Palette: blush pink and sage green palette 鈥?two named muted colors.",
-      "Names: central text reading \"Emma & James\" in elegant script 鈥?actual names in quotes.",
-      "Date: smaller text \"June 15 2024\" below 鈥?date in quotes.",
-      "Material: fine paper texture 鈥?paper grain cue."
+      "Format: elegant wedding invitation card, save the date — format.",
+      "Botanical: soft watercolor eucalyptus wreath border — single plant type + wreath layout.",
+      "Palette: blush pink and sage green palette — two named muted colors.",
+      "Names: central text reading \"Emma & James\" in elegant script — actual names in quotes.",
+      "Date: smaller text \"June 15 2024\" below — date in quotes.",
+      "Material: fine paper texture — paper grain cue."
     ],
     "tips": "Wedding = soft palette + script + botanical + names in quotes. Ideogram renders the names perfectly."
   },
@@ -53,7 +53,7 @@
     "stable_diffusion": "SDXL with controlnet. Use Ideogram for text.",
     "flux": "Flux is OK. Ideogram best for text.",
     "dall_e": "DALL-E 3: \"An elegant wedding invitation with the text Emma & James, June 15 2024, surrounded by a watercolor eucalyptus wreath\".",
-    "jimeng_zh": "浼橀泤濠氱ぜ璇锋煬锛屾按褰╂鏍戝彾鑺辩幆锛屾枃瀛?\"Emma & James\"锛?024 骞?6 鏈?15 鏃ャ€?
+    "jimeng_zh": "优雅婚礼请柬，水彩桉树叶花环，文字 \"Emma & James\"，2024 年 6 月 15 日。"
   },
   "faq": [
     {
@@ -74,5 +74,5 @@
     "url": "https://civitai.com/images/wedding-invitation",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

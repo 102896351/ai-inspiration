@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-minimal-vector-dalle",
   "slug": "minimal-vector-logo-dalle",
   "title": "Minimal Vector Logo (DALL-E)",
@@ -38,11 +38,11 @@
   "tutorial": {
     "intro": "DALL-E 3 + Vivid style = clean modern logo. Write as natural language with the brand name in quotes.",
     "steps": [
-      "Format: A modern minimal vector logo for a tech startup called \"AURA\" 鈥?format + brand name.",
-      "Design: featuring a stylized letter A combined with a soft circular gradient shape 鈥?mark concept.",
-      "Color: indigo and teal 鈥?named colors.",
-      "Use: suitable for app icon and business card 鈥?use cases.",
-      "Background: isolated on white background 鈥?clean background."
+      "Format: A modern minimal vector logo for a tech startup called \"AURA\" — format + brand name.",
+      "Design: featuring a stylized letter A combined with a soft circular gradient shape — mark concept.",
+      "Color: indigo and teal — named colors.",
+      "Use: suitable for app icon and business card — use cases.",
+      "Background: isolated on white background — clean background."
     ],
     "tips": "For logos: Vivid style + brand name in quotes + use case (\"app icon\"). DALL-E renders all three well."
   },
@@ -51,7 +51,7 @@
     "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 25. Use Ideogram for text accuracy.",
     "flux": "Flux is OK.",
     "dall_e": "DALL-E 3, style Vivid. Same prompt as written.",
-    "jimeng_zh": "鏋佺畝鐭㈤噺 logo锛岀鎶€鍒濆垱 \"AURA\"锛岄潧钃濋潚缁挎笎鍙橈紝鍑犱綍瀛楁瘝 A銆?
+    "jimeng_zh": "极简矢量 logo，科技初创 \"AURA\"，靛蓝青绿渐变，几何字母 A。"
   },
   "faq": [
     {
@@ -72,5 +72,5 @@
     "url": "https://civitai.com/images/minimal-vector",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

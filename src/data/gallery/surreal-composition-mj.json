@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-surreal-mj",
   "slug": "surreal-composition-mj",
   "title": "Surrealist Compositions: Dali Meets AI",
@@ -35,22 +35,22 @@
       },
       {
         "param": "in the style of salvador dali",
-        "why": "Artist anchor 鈥?instantly locks to \"museum surrealism\" not \"random weird\"."
+        "why": "Artist anchor — instantly locks to \"museum surrealism\" not \"random weird\"."
       },
       {
         "param": "museum quality fine art photography",
-        "why": "Quality anchor 鈥?keeps it gallery-grade, not amateur weird."
+        "why": "Quality anchor — keeps it gallery-grade, not amateur weird."
       }
     ]
   },
   "tutorial": {
     "intro": "Surrealism is about dream logic + symbolic contrast. MJ does this brilliantly with the right anchors.",
     "steps": [
-      "Artist anchor: in the style of salvador dali 鈥?instantly locks the dreamlike vibe.",
-      "Symbolic contrast: melting bronze clock draped over a desert cactus 鈥?combine unrelated objects with meaning.",
-      "Scale play: distant floating elephant with skyscrapers growing from its back 鈥?surrealism loves impossible scale.",
-      "Setting: vast empty desert plain 鈥?Dali's signature empty space.",
-      "Quality anchor: museum quality fine art photography 鈥?keeps it gallery-grade."
+      "Artist anchor: in the style of salvador dali — instantly locks the dreamlike vibe.",
+      "Symbolic contrast: melting bronze clock draped over a desert cactus — combine unrelated objects with meaning.",
+      "Scale play: distant floating elephant with skyscrapers growing from its back — surrealism loves impossible scale.",
+      "Setting: vast empty desert plain — Dali's signature empty space.",
+      "Quality anchor: museum quality fine art photography — keeps it gallery-grade."
     ],
     "tips": "Surrealism needs symbolic contrast. Pick two unrelated objects and combine them: \"clock + cactus\", \"elephant + skyscrapers\", \"fish + umbrella\"."
   },
@@ -59,7 +59,7 @@
     "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"surreal, melting clock, dali style, desert\"\nNegative: \"cartoon, simple\"",
     "flux": "Flux handles surreal well.",
     "dall_e": "DALL-E 3 surreal is OK.",
-    "jimeng_zh": "瓒呯幇瀹炰富涔夛紝铻嶅寲鐨勯潚閾滈挓锛屾矙婕犱粰浜烘帉锛屾紓娴ぇ璞★紝鎵庡搱鍝堣开寰烽鏍硷紝姊﹀"
+    "jimeng_zh": "超现实主义，融化的青铜钟，沙漠仙人掌，漂浮大象，扎哈哈迪德风格，梦境"
   },
   "faq": [
     {
@@ -80,5 +80,5 @@
     "url": "https://aigallery.xyz/gallery/surreal-composition-tutorial",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

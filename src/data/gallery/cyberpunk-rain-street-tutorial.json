@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-cyberpunk-street-mj",
   "slug": "cyberpunk-rain-street-tutorial",
   "title": "Cyberpunk Rain Street: Complete Prompt Breakdown",
@@ -47,10 +47,10 @@
   "tutorial": {
     "intro": "Cyberpunk is one of MJ's strengths, but writing \"cinematic\" rather than \"plastic\" requires layered keywords and the right parameters.",
     "steps": [
-      "Subject layer: cyberpunk street corner at night 鈥?lock the scene, time, and space (street corner + nighttime).",
-      "Atmosphere layer: heavy rain reflections + glowing neon signs in japanese and chinese 鈥?rain + neon + multilingual signage are cyberpunk visual staples.",
-      "Character layer: young woman with cybernetic jacket looking back 鈥?a single character looking back adds narrative; avoid generic \"a woman\".",
-      "Style layer: blade runner 2049 atmosphere + cinematic + anamorphic lens flare 鈥?anchor to a specific film and use lens terminology.",
+      "Subject layer: cyberpunk street corner at night — lock the scene, time, and space (street corner + nighttime).",
+      "Atmosphere layer: heavy rain reflections + glowing neon signs in japanese and chinese — rain + neon + multilingual signage are cyberpunk visual staples.",
+      "Character layer: young woman with cybernetic jacket looking back — a single character looking back adds narrative; avoid generic \"a woman\".",
+      "Style layer: blade runner 2049 atmosphere + cinematic + anamorphic lens flare — anchor to a specific film and use lens terminology.",
       "Parameter layer: --ar 16:9 widescreen + --s 750 high stylize + --v 6.1 latest stable. This trio works well for artistic scenes."
     ],
     "tips": "Key trick: put lens terms like \"cinematic / anamorphic / 35mm\" into your prompt. They work 10x better than \"beautiful / amazing\". MJ has seen too many \"beautiful cyberpunk girl\" prompts."
@@ -60,7 +60,7 @@
     "stable_diffusion": "Use the English prompt above; negative: blurry, lowres, watermark, text artifacts\nModel: SDXL + JuggernautXL\nCFG 7, Steps 30, Sampler DPM++ 2M Karras",
     "flux": "Flux prefers richer detail. Add: \"shot on Sony Venice, color graded teal and orange, shallow DOF f/1.4\"\nFlux understands English prompts well, no negative needed.",
     "dall_e": "DALL-E 3 prefers natural language: \"A cinematic cyberpunk street scene at night with heavy rain, glowing Japanese neon signs, a young woman in a cybernetic jacket looking back, in the style of Blade Runner 2049\"",
-    "jimeng_zh": "璧涘崥鏈嬪厠椋庢牸锛岄洦澶滐紝闇撹櫣鐏紝骞磋交濂虫€у洖澶寸湅锛岃禌鍗氬す鍏嬶紝娴呮櫙娣憋紝鐢靛奖鎰熴€?--ar 16:9"
+    "jimeng_zh": "赛博朋克风格，雨夜，霓虹灯，年轻女性回头看，赛博夹克，浅景深，电影感。 --ar 16:9"
   },
   "faq": [
     {
@@ -85,5 +85,5 @@
     "url": "https://civitai.com/images/cyberpunk-street-mj",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.353Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-forest-cabin-flux",
   "slug": "cozy-forest-cabin-autumn-flux",
   "title": "Cozy Forest Cabin in Autumn (Flux)",
@@ -42,12 +42,12 @@
   "tutorial": {
     "intro": "Flux cabins work because of the warm/cool contrast. Warm window light + cool dusk exterior = emotional pull.",
     "steps": [
-      "Subject: cozy wooden log cabin deep in an autumn forest at dusk 鈥?material + setting + time.",
-      "Light: warm golden light glowing from the windows 鈥?interior glow = \"home\" cue.",
-      "Detail: smoke gently rising from the stone chimney 鈥?chimney smoke = \"active home\".",
-      "Season: fallen orange and red leaves on the ground 鈥?autumn color cues.",
-      "Depth: distant misty lake visible through the trees 鈥?adds depth + mystery.",
-      "Camera: sony a7iv photography 鈥?modern camera = realistic photo."
+      "Subject: cozy wooden log cabin deep in an autumn forest at dusk — material + setting + time.",
+      "Light: warm golden light glowing from the windows — interior glow = \"home\" cue.",
+      "Detail: smoke gently rising from the stone chimney — chimney smoke = \"active home\".",
+      "Season: fallen orange and red leaves on the ground — autumn color cues.",
+      "Depth: distant misty lake visible through the trees — adds depth + mystery.",
+      "Camera: sony a7iv photography — modern camera = realistic photo."
     ],
     "tips": "Flux understands \"warm interior light + cool dusk exterior\" naturally. Use this contrast for cozy scenes."
   },
@@ -56,7 +56,7 @@
     "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30. Flux prompt needs only minor adaptation.",
     "flux": "Flux.1 dev, guidance 3.5, steps 28.",
     "dall_e": "DALL-E 3: \"A cozy wooden cabin deep in an autumn forest at dusk, warm window light, chimney smoke, sony camera photo\".",
-    "jimeng_zh": "妫灄鏈ㄥ眿锛岀鏃ラ粍鏄忥紝鏆栫獥鐏厜锛岀倞鐑燂紝绱㈠凹鎽勫奖銆?
+    "jimeng_zh": "森林木屋，秋日黄昏，暖窗灯光，炊烟，索尼摄影。"
   },
   "faq": [
     {
@@ -77,5 +77,5 @@
     "url": "https://civitai.com/images/forest-cabin",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

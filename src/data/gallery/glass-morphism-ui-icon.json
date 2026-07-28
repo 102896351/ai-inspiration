@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-glass-morphism-mj",
   "slug": "glass-morphism-ui-icon",
   "title": "Glass Morphism UI Icon",
@@ -42,11 +42,11 @@
   "tutorial": {
     "intro": "Glassmorphism = \"frosted glass\" + \"soft gradient\" + \"rounded corners\" + \"subtle shadow\". Skip any one and the illusion breaks.",
     "steps": [
-      "Material: translucent frosted glass square with rounded corners 鈥?material + shape.",
-      "Background: soft pastel gradient background in pink to purple 鈥?gradient direction matters.",
-      "Edge: subtle white border 鈥?the \"edge highlight\" is what sells the glass.",
-      "Depth: soft drop shadow 鈥?without shadow, glass floats awkwardly.",
-      "Reference: modern UI design, dribbble featured 鈥?Dribbble reference primes the right visual code."
+      "Material: translucent frosted glass square with rounded corners — material + shape.",
+      "Background: soft pastel gradient background in pink to purple — gradient direction matters.",
+      "Edge: subtle white border — the \"edge highlight\" is what sells the glass.",
+      "Depth: soft drop shadow — without shadow, glass floats awkwardly.",
+      "Reference: modern UI design, dribbble featured — Dribbble reference primes the right visual code."
     ],
     "tips": "Without \"soft drop shadow\", the glass icon looks pasted. Without \"subtle white border\", the glass looks flat."
   },
@@ -55,7 +55,7 @@
     "stable_diffusion": "SDXL + Proteus\nPrompt: \"glassmorphism icon, frosted glass, gradient, UI design\"",
     "flux": "Flux handles UI very well. Same prompt.",
     "dall_e": "DALL-E 3: \"A glassmorphism style app icon for a music player with frosted glass, soft pink-purple gradient, and subtle shadow\".",
-    "jimeng_zh": "鐜荤拑鎷熸€佸浘鏍囷紝姣涚幓鐠冿紝娓愬彉鑹诧紝鍦嗚锛屾煍鍜岄槾褰憋紝鐜颁唬 UI 璁捐銆?
+    "jimeng_zh": "玻璃拟态图标，毛玻璃，渐变色，圆角，柔和阴影，现代 UI 设计。"
   },
   "faq": [
     {
@@ -76,5 +76,5 @@
     "url": "https://civitai.com/images/glass-morphism",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

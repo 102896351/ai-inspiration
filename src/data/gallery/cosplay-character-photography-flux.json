@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-cosplay-flux",
   "slug": "cosplay-character-photography-flux",
   "title": "Cosplay Character Photography (Flux)",
@@ -38,12 +38,12 @@
   "tutorial": {
     "intro": "Cosplay = specific character + detailed costume pieces + \"comic con photo shoot\" + named materials. Specificity = authenticity.",
     "steps": [
-      "Character: cosplay character of wonder woman in full golden armor 鈥?name the character + armor color.",
-      "Details: detailed tiara and bullet-deflecting bracelets, holding lasso of truth 鈥?three named accessories.",
-      "Pose: dramatic action pose mid-leap 鈥?action pose shows off costume.",
-      "Light: soft diffused studio lighting 鈥?even light for costume detail.",
-      "Materials: detailed leather and metal textures 鈥?material specification.",
-      "Reference: comic con photo shoot quality 鈥?convention standard."
+      "Character: cosplay character of wonder woman in full golden armor — name the character + armor color.",
+      "Details: detailed tiara and bullet-deflecting bracelets, holding lasso of truth — three named accessories.",
+      "Pose: dramatic action pose mid-leap — action pose shows off costume.",
+      "Light: soft diffused studio lighting — even light for costume detail.",
+      "Materials: detailed leather and metal textures — material specification.",
+      "Reference: comic con photo shoot quality — convention standard."
     ],
     "tips": "Name the specific character + 3+ specific accessories. Generic \"superhero\" gets you 1000 stock results."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + RealisticVision, CFG 6, Steps 30.",
     "flux": "Flux.1 dev, guidance 4, steps 30.",
     "dall_e": "DALL-E 3: \"A Wonder Woman cosplay with golden armor, tiara, bracelets, and lasso of truth, comic con photo shoot\".",
-    "jimeng_zh": "绁炲濂充緺瑙掕壊鎵紨锛岄粍閲戠洈鐢诧紝澶村啝锛岀湡瑷€濂楃储锛屾极灞曠骇 Cosplay銆?
+    "jimeng_zh": "神奇女侠角色扮演，黄金盔甲，头冠，真言套索，漫展级 Cosplay。"
   },
   "faq": [
     {
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/cosplay",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

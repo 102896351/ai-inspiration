@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-asian-streetfood-flux",
   "slug": "asian-night-market-street-food-flux",
   "title": "Asian Night Market Street Food (Flux)",
@@ -38,12 +38,12 @@
   "tutorial": {
     "intro": "Asian night market = named city + named food + neon + steam + named lens. Without these, you get generic \"street food\" stock.",
     "steps": [
-      "Location: busy asian night market street food stall in taipei 鈥?specific city.",
-      "Food: steaming bamboo baskets of xiao long bao 鈥?specific food + specific material.",
-      "Lights: hanging red lanterns, neon chinese signs 鈥?Asian signage cues.",
-      "Action: wok flame shooting up, vendor in white apron 鈥?action + human element.",
-      "Weather: soft rain on the street 鈥?wet streets reflect neon = magic.",
-      "Camera: shot on fujifilm xt5, 35mm f/1.4 鈥?real camera + real lens."
+      "Location: busy asian night market street food stall in taipei — specific city.",
+      "Food: steaming bamboo baskets of xiao long bao — specific food + specific material.",
+      "Lights: hanging red lanterns, neon chinese signs — Asian signage cues.",
+      "Action: wok flame shooting up, vendor in white apron — action + human element.",
+      "Weather: soft rain on the street — wet streets reflect neon = magic.",
+      "Camera: shot on fujifilm xt5, 35mm f/1.4 — real camera + real lens."
     ],
     "tips": "Wet streets + neon = the magic. \"Soft rain\" makes the neon reflect and double the impact."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30. Flux prompt works with minor changes.",
     "flux": "Flux.1 dev, guidance 4, steps 30.",
     "dall_e": "DALL-E 3: \"A Taipei night market with steaming xiao long bao, hanging red lanterns, neon Chinese signs, and wok flames\".",
-    "jimeng_zh": "浜氭床澶滃競锛屽彴鍖楋紝灏忕鍖呰捀绗硷紝绾㈣壊鐏锛岄湏铏规嫑鐗岋紝闆ㄥ琛楁櫙銆?
+    "jimeng_zh": "亚洲夜市，台北，小笼包蒸笼，红色灯笼，霓虹招牌，雨夜街景。"
   },
   "faq": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "q": "How to get the neon glow?",
-      "a": "Add \"soft rain on the street\" 鈥?wet surfaces reflect neon, doubling the glow."
+      "a": "Add \"soft rain on the street\" — wet surfaces reflect neon, doubling the glow."
     },
     {
       "q": "Best for travel content?",
@@ -73,5 +73,5 @@
     "url": "https://civitai.com/images/asian-streetfood",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

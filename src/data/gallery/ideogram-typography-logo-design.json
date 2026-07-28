@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-ideogram-typography",
   "slug": "ideogram-typography-logo-design",
   "title": "Ideogram 2.0: The New King of Typography",
@@ -42,10 +42,10 @@
     "intro": "Ideogram 2.0 is the best AI tool right now for logo / poster / text-heavy design.",
     "steps": [
       "Use Ideogram 2.0: it renders text ~90% more accurately than MJ/SD.",
-      "Wrap text in quotes: \"BREW LAB\" 鈥?tells the model this is text to render.",
-      "Lock the style: modern minimalist / vintage / art deco / hand-lettered 鈥?pick one.",
-      "Describe the icon: geometric coffee bean icon 鈥?even for logos, describe the icon.",
-      "Lock the palette: monochromatic black and white 鈥?keep it simple to avoid color noise."
+      "Wrap text in quotes: \"BREW LAB\" — tells the model this is text to render.",
+      "Lock the style: modern minimalist / vintage / art deco / hand-lettered — pick one.",
+      "Describe the icon: geometric coffee bean icon — even for logos, describe the icon.",
+      "Lock the palette: monochromatic black and white — keep it simple to avoid color noise."
     ],
     "tips": "Ideogram 2.0 is the only model that reliably renders Chinese and English text. For Chinese logos, just type the brand name in quotes."
   },
@@ -54,7 +54,7 @@
     "stable_diffusion": "SD struggles with text. Inpaint afterwards to fix.",
     "flux": "Flux text is OK but behind Ideogram.",
     "dall_e": "DALL-E 3 text is decent.",
-    "jimeng_zh": "鍗虫ⅵ Chinese logo rendering is solid: \"鐜颁唬绠€绾﹀挅鍟″簵 logo, BREW LAB, 鍑犱綍鍜栧暋璞嗗浘鏍嘰""
+    "jimeng_zh": "即梦 Chinese logo rendering is solid: \"现代简约咖啡店 logo, BREW LAB, 几何咖啡豆图标\""
   },
   "faq": [
     {
@@ -71,5 +71,5 @@
     "url": "https://civitai.com/images/ideogram-typography",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.353Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }

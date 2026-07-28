@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "seed-watercolor-botanical-dalle",
   "slug": "soft-watercolor-botanical-dalle",
   "title": "Soft Watercolor Botanical (DALL-E)",
@@ -39,12 +39,12 @@
   "tutorial": {
     "intro": "DALL-E 3 excels at natural language. Write prompts as full sentences, not keyword lists. \"A watercolor painting of...\" works better than \"watercolor, painting, soft\".",
     "steps": [
-      "Format: A delicate watercolor painting of fresh eucalyptus branches 鈥?full sentence + specific plant.",
-      "Details: small white baby's breath flowers 鈥?secondary plant.",
-      "Palette: soft green and white palette on cream textured paper 鈥?named colors + paper.",
-      "Technique: loose wet-on-wet technique 鈥?named watercolor technique.",
-      "Light: gentle natural sunlight 鈥?soft lighting.",
-      "Use: minimalist botanical art for a greeting card 鈥?final use case."
+      "Format: A delicate watercolor painting of fresh eucalyptus branches — full sentence + specific plant.",
+      "Details: small white baby's breath flowers — secondary plant.",
+      "Palette: soft green and white palette on cream textured paper — named colors + paper.",
+      "Technique: loose wet-on-wet technique — named watercolor technique.",
+      "Light: gentle natural sunlight — soft lighting.",
+      "Use: minimalist botanical art for a greeting card — final use case."
     ],
     "tips": "DALL-E 3 loves natural language. Write as a sentence describing the art, not a list of keywords."
   },
@@ -53,7 +53,7 @@
     "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 30.",
     "flux": "Flux handles watercolor well.",
     "dall_e": "DALL-E 3, style Natural. Same prompt as written.",
-    "jimeng_zh": "姘村僵妞嶇墿鐢伙紝妗夋爲鍙讹紝婊″ぉ鏄燂紝濂舵补鑹茬焊闈紝鏌斿拰鑷劧鍏夈€?
+    "jimeng_zh": "水彩植物画，桉树叶，满天星，奶油色纸面，柔和自然光。"
   },
   "faq": [
     {
@@ -74,5 +74,5 @@
     "url": "https://civitai.com/images/watercolor-botanical",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-28T08:17:31.354Z"
+  "createdAt": "2026-07-28T08:53:53.710Z"
 }
