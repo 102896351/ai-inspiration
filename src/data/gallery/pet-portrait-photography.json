@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-pet-portrait-mj",
   "slug": "pet-portrait-photography",
   "title": "Pet Portrait Photography (Studio Style)",
   "description": "Professional pet portrait photography style. Use for pet brand marketing, vet clinic decor, and animal shelter promotional content.",
-  "cover": "/covers/pet-portrait-photography.svg",
+  "cover": "covers/pet-portrait-photography.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -38,11 +38,11 @@
   "tutorial": {
     "intro": "Pet portraits work because of eye focus + catchlight + soft background. Generic \"dog photo\" gets you 1000 stock results.",
     "steps": [
-      "Subject: golden retriever sitting in a studio — specific breed + pose.",
-      "Background: soft seamless grey background — studio backdrop = professional look.",
-      "Eyes: gentle catchlight in the eyes — the sparkle in the eyes is the soul of the photo.",
-      "Focus: shallow depth of field focused on the eyes — the eye must be tack sharp.",
-      "Camera: canon RF 85mm f/1.2 — real lens = real photo feel."
+      "Subject: golden retriever sitting in a studio 鈥?specific breed + pose.",
+      "Background: soft seamless grey background 鈥?studio backdrop = professional look.",
+      "Eyes: gentle catchlight in the eyes 鈥?the sparkle in the eyes is the soul of the photo.",
+      "Focus: shallow depth of field focused on the eyes 鈥?the eye must be tack sharp.",
+      "Camera: canon RF 85mm f/1.2 鈥?real lens = real photo feel."
     ],
     "tips": "Catchlight = the white sparkle in the eye. Without it, even good photos look \"dead\"."
   },
@@ -51,7 +51,7 @@
     "stable_diffusion": "SDXL + RealisticVision\nPrompt: \"golden retriever portrait, studio, canon 85mm\"",
     "flux": "Flux handles animals well.",
     "dall_e": "DALL-E 3: \"A professional studio portrait of a golden retriever with a soft grey background, catchlight in the eyes, canon 85mm f/1.2 look\".",
-    "jimeng_zh": "金毛犬专业肖像，影棚灰底，眼神光，浅景深，佳能 85mm 镜头。"
+    "jimeng_zh": "閲戞瘺鐘笓涓氳倴鍍忥紝褰辨鐏板簳锛岀溂绁炲厜锛屾祬鏅繁锛屼匠鑳?85mm 闀滃ご銆?
   },
   "faq": [
     {

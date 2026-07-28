@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-coffee-shop-mj",
   "slug": "cozy-coffee-shop-interior",
   "title": "Cozy Coffee Shop Interior for Lifestyle Branding",
   "description": "Warm, inviting coffee shop scenes for cafe branding, lifestyle blog headers, and travel content. Reads as \"third place\" instantly.",
-  "cover": "/covers/cozy-coffee-shop-interior.svg",
+  "cover": "covers/cozy-coffee-shop-interior.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -42,11 +42,11 @@
   "tutorial": {
     "intro": "\"Cozy\" is not a style, it's a combination of: warm light + natural materials + lived-in clutter + human activity.",
     "steps": [
-      "Architecture: exposed brick walls — textural surface cues.",
-      "Lighting: warm Edison bulb lighting — bulb type matters more than \"warm light\".",
-      "Details: wooden tables with steaming latte art — vapor + cup = \"happening now\" energy.",
-      "Lived-in clutter: shelves of vintage books and trailing pothos plants — books + plants = the \"third place\" code.",
-      "Weather/mood: rain visible through large window, late autumn afternoon — weather + time of day anchor the season."
+      "Architecture: exposed brick walls 鈥?textural surface cues.",
+      "Lighting: warm Edison bulb lighting 鈥?bulb type matters more than \"warm light\".",
+      "Details: wooden tables with steaming latte art 鈥?vapor + cup = \"happening now\" energy.",
+      "Lived-in clutter: shelves of vintage books and trailing pothos plants 鈥?books + plants = the \"third place\" code.",
+      "Weather/mood: rain visible through large window, late autumn afternoon 鈥?weather + time of day anchor the season."
     ],
     "tips": "Adding \"real brand name\" like \"Door #1 Coffee\" makes MJ render authentic cafe branding instead of generic mock-up."
   },
@@ -55,7 +55,7 @@
     "stable_diffusion": "SDXL + RealisticVision\nAdd: \"lifestyle photography, ambient light\"",
     "flux": "Flux handles interiors very well. Same prompt.",
     "dall_e": "DALL-E 3: \"Interior of a cozy independent coffee shop with exposed brick, Edison bulbs, wooden tables, latte art, books, and plants, rain outside\".",
-    "jimeng_zh": "温馨咖啡馆，红砖墙，复古爱迪生灯，木桌拿铁，盆栽，雨天窗景。"
+    "jimeng_zh": "娓╅Θ鍜栧暋棣嗭紝绾㈢爾澧欙紝澶嶅彜鐖辫开鐢熺伅锛屾湪妗屾嬁閾侊紝鐩嗘牻锛岄洦澶╃獥鏅€?
   },
   "faq": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "q": "How to make it look lived-in?",
-      "a": "Add \"steaming coffee, half-read book, open laptop\" — small human activity cues."
+      "a": "Add \"steaming coffee, half-read book, open laptop\" 鈥?small human activity cues."
     },
     {
       "q": "Best season for cozy feel?",

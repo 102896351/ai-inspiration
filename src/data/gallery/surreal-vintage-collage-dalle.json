@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-collage-surreal-dalle",
   "slug": "surreal-vintage-collage-dalle",
   "title": "Surreal Vintage Collage (DALL-E)",
   "description": "Surrealist mixed-media collage using vintage imagery. Popular for art prints, music album covers, and avant-garde fashion content.",
-  "cover": "/covers/surreal-vintage-collage-dalle.svg",
+  "cover": "covers/surreal-vintage-collage-dalle.svg",
   "model": "dall-e",
   "modelVersion": "",
   "styles": [
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "DALL-E 3 + Vivid + \"surrealist collage\" + \"aged paper\" = automatic art school aesthetic. DALL-E handles the cut-and-paste feel well.",
     "steps": [
-      "Format: A surrealist mixed-media collage on aged paper — format + surface.",
-      "Subject 1: giant hand holding a tiny vintage city — scale contrast.",
-      "Subject 2: floating clouds cut from old encyclopedia pages — mixed media source.",
-      "Subject 3: classical sculpture faces combined with modern skyscrapers — historical + modern contrast.",
-      "Composition: dreamy impossible composition, romantic poet style with cut-and-paste edges — style + edge treatment."
+      "Format: A surrealist mixed-media collage on aged paper 鈥?format + surface.",
+      "Subject 1: giant hand holding a tiny vintage city 鈥?scale contrast.",
+      "Subject 2: floating clouds cut from old encyclopedia pages 鈥?mixed media source.",
+      "Subject 3: classical sculpture faces combined with modern skyscrapers 鈥?historical + modern contrast.",
+      "Composition: dreamy impossible composition, romantic poet style with cut-and-paste edges 鈥?style + edge treatment."
     ],
     "tips": "Collage = scale contrast + mixed sources + visible cut edges. DALL-E Vivid style brings this out naturally."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + Dreamshaper, CFG 7, Steps 30.",
     "flux": "Flux is OK. MJ often best for collage.",
     "dall_e": "DALL-E 3, style Vivid. Same prompt.",
-    "jimeng_zh": "超现实拼贴艺术，巨手握城市，剪贴画边缘，古典雕塑现代建筑，浪漫诗风。"
+    "jimeng_zh": "瓒呯幇瀹炴嫾璐磋壓鏈紝宸ㄦ墜鎻″煄甯傦紝鍓创鐢昏竟缂橈紝鍙ゅ吀闆曞鐜颁唬寤虹瓚锛屾氮婕瘲椋庛€?
   },
   "faq": [
     {

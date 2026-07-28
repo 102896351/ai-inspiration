@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-event-poster-ideogram",
   "slug": "event-poster-ideogram",
   "title": "Music Festival Posters in Ideogram 2.0",
   "description": "Generate sellable music festival posters with Ideogram 2.0. Type rendering + bold composition.",
-  "cover": "/covers/event-poster-ideogram.svg",
+  "cover": "covers/event-poster-ideogram.svg",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [
@@ -38,18 +38,18 @@
       },
       {
         "param": "art deco geometric",
-        "why": "Style anchor — jazz + art deco is a classic pairing."
+        "why": "Style anchor 鈥?jazz + art deco is a classic pairing."
       }
     ]
   },
   "tutorial": {
     "intro": "Ideogram 2.0 is the only AI that can do real poster text. Use it for any text-heavy design.",
     "steps": [
-      "Title text: bold geometric typography saying \"BLUE NOTE FEST\" — wrap in quotes for accurate rendering.",
-      "Supporting text: supporting text \"JULY 15-17 / NEW ORLEANS\" below — dates and locations in quotes.",
-      "Palette: deep navy blue and warm gold color palette — jazz classic.",
-      "Style: art deco inspired geometric shapes — era + style anchor.",
-      "Texture: halftone texture, vector graphic style — print-poster cues."
+      "Title text: bold geometric typography saying \"BLUE NOTE FEST\" 鈥?wrap in quotes for accurate rendering.",
+      "Supporting text: supporting text \"JULY 15-17 / NEW ORLEANS\" below 鈥?dates and locations in quotes.",
+      "Palette: deep navy blue and warm gold color palette 鈥?jazz classic.",
+      "Style: art deco inspired geometric shapes 鈥?era + style anchor.",
+      "Texture: halftone texture, vector graphic style 鈥?print-poster cues."
     ],
     "tips": "Wrap every piece of text in quotes. The model knows to render them. Without quotes, the model treats them as a description and you get gibberish."
   },
@@ -58,7 +58,7 @@
     "stable_diffusion": "SDXL: text rendering is weak. Inpaint to fix.",
     "flux": "Flux text is OK but behind Ideogram.",
     "dall_e": "DALL-E 3 text is decent.",
-    "jimeng_zh": "音乐节海报，BLUE NOTE FEST 标题文字，art deco 几何风格，深蓝金色"
+    "jimeng_zh": "闊充箰鑺傛捣鎶ワ紝BLUE NOTE FEST 鏍囬鏂囧瓧锛宎rt deco 鍑犱綍椋庢牸锛屾繁钃濋噾鑹?
   },
   "faq": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "q": "Best for typography posters?",
-      "a": "Ideogram 2.0 is current #1 for English. For Chinese, 即梦 is best."
+      "a": "Ideogram 2.0 is current #1 for English. For Chinese, 鍗虫ⅵ is best."
     }
   ],
   "source": {

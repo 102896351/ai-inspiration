@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-snow-mountain-mj",
   "slug": "snow-mountain-hiker-sunrise",
   "title": "Snow Mountain Hiker at Sunrise",
   "description": "Adventure photography style of a solo hiker on a snow-capped peak. Strong fit for outdoor brand marketing, REI-style blog content, and travel magazines.",
-  "cover": "/covers/snow-mountain-hiker-sunrise.svg",
+  "cover": "covers/snow-mountain-hiker-sunrise.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -42,11 +42,11 @@
   "tutorial": {
     "intro": "Adventure photography works because of scale contrast. Tiny human + vast landscape = emotional impact.",
     "steps": [
-      "Human subject: lone hiker in red down jacket — red jacket is the visual anchor in a white/blue scene.",
-      "Position: standing on a snow-covered mountain ridge — peak position = achievement.",
-      "Mid-ground: vast alpine valley below filled with golden hour mist — mist adds depth.",
-      "Background: jagged snow-capped peaks in the distance — multiple ridge layers create scale.",
-      "Light + camera: dramatic clouds catching first light, canon EF 70-200mm f/2.8 — light + real lens name."
+      "Human subject: lone hiker in red down jacket 鈥?red jacket is the visual anchor in a white/blue scene.",
+      "Position: standing on a snow-covered mountain ridge 鈥?peak position = achievement.",
+      "Mid-ground: vast alpine valley below filled with golden hour mist 鈥?mist adds depth.",
+      "Background: jagged snow-capped peaks in the distance 鈥?multiple ridge layers create scale.",
+      "Light + camera: dramatic clouds catching first light, canon EF 70-200mm f/2.8 鈥?light + real lens name."
     ],
     "tips": "Red jacket + white snow is the classic adventure photo color combo. Without red, the hiker disappears into the scene."
   },
@@ -55,7 +55,7 @@
     "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"adventure photography, hiker red jacket, mountain sunrise, golden mist\"",
     "flux": "Flux handles landscape well. Same prompt.",
     "dall_e": "DALL-E 3: \"A lone hiker in a red jacket standing on a snow-covered mountain ridge at sunrise, vast valley below, in the style of a Patagonia advertisement\".",
-    "jimeng_zh": "雪山日出徒步者，红色冲锋衣，云海，金色光晕，巴塔哥尼亚广告摄影风。"
+    "jimeng_zh": "闆北鏃ュ嚭寰掓鑰咃紝绾㈣壊鍐查攱琛ｏ紝浜戞捣锛岄噾鑹插厜鏅曪紝宸村鍝ュ凹浜氬箍鍛婃憚褰遍銆?
   },
   "faq": [
     {

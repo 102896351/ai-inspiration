@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-book-cover-ideogram",
   "slug": "thriller-book-cover-ideogram",
   "title": "Thriller Book Cover (Ideogram)",
   "description": "Best-selling thriller book cover design with bold typography. Useful for self-publishing authors and design portfolios.",
-  "cover": "/covers/thriller-book-cover-ideogram.svg",
+  "cover": "covers/thriller-book-cover-ideogram.svg",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Book covers need title + author + mood. Ideogram lets you put the actual book title.",
     "steps": [
-      "Format: professional thriller novel book cover — genre + format.",
-      "Background: dark moody forest silhouette background — moody setting.",
-      "Title: large bold title \"THE LAST WITNESS\" in white sans-serif at top — actual title in quotes.",
-      "Author: author name \"Sarah Chen\" at bottom in smaller text — name + placement.",
-      "Accent: single red accent color, atmospheric mystery book design — color pop + mood."
+      "Format: professional thriller novel book cover 鈥?genre + format.",
+      "Background: dark moody forest silhouette background 鈥?moody setting.",
+      "Title: large bold title \"THE LAST WITNESS\" in white sans-serif at top 鈥?actual title in quotes.",
+      "Author: author name \"Sarah Chen\" at bottom in smaller text 鈥?name + placement.",
+      "Accent: single red accent color, atmospheric mystery book design 鈥?color pop + mood."
     ],
     "tips": "Book cover formula: title (top, big) + author (bottom, small) + genre mood (background) + 1 accent color. Follow the rule."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL with controlnet for text. Use Ideogram for text accuracy.",
     "flux": "Flux is OK; Ideogram is better for text.",
     "dall_e": "DALL-E 3: \"A thriller novel book cover with THE LAST WITNESS in large white text over a dark forest silhouette\".",
-    "jimeng_zh": "惊悚小说封面，深色森林剪影，书名《最后的目击者》，红色点缀。"
+    "jimeng_zh": "鎯婃倸灏忚灏侀潰锛屾繁鑹叉．鏋楀壀褰憋紝涔﹀悕銆婃渶鍚庣殑鐩嚮鑰呫€嬶紝绾㈣壊鐐圭紑銆?
   },
   "faq": [
     {
@@ -65,7 +65,7 @@
     },
     {
       "q": "Best for self-publishing?",
-      "a": "2:3 + bold title + genre mood. Indie readers scan covers fast — must read in 2 seconds."
+      "a": "2:3 + bold title + genre mood. Indie readers scan covers fast 鈥?must read in 2 seconds."
     }
   ],
   "source": {

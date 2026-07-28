@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-architectural-viz-flux",
   "slug": "modern-villa-architectural-viz-flux",
   "title": "Modern Villa Architectural Visualization (Flux)",
   "description": "Photorealistic architectural visualization for real estate marketing, architecture firm portfolios, and luxury home listings.",
-  "cover": "/covers/modern-villa-architectural-viz-flux.svg",
+  "cover": "covers/modern-villa-architectural-viz-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Architectural visualization = \"cantilevered\" + \"floor-to-ceiling glass\" + \"infinity pool\" + named magazine. Material + structure terms.",
     "steps": [
-      "Structure: ultra modern minimalist villa with floor-to-ceiling glass walls overlooking infinity pool — modern + glass + pool.",
-      "Architecture: cantilevered concrete structure — engineering term that adds drama.",
-      "Light: golden hour sunset light, reflective water surface — golden hour = luxury.",
-      "Materials: soft natural materials of wood and stone — natural materials = warmth.",
-      "Reference: architectural digest photo, interior design magazine quality — name the magazine."
+      "Structure: ultra modern minimalist villa with floor-to-ceiling glass walls overlooking infinity pool 鈥?modern + glass + pool.",
+      "Architecture: cantilevered concrete structure 鈥?engineering term that adds drama.",
+      "Light: golden hour sunset light, reflective water surface 鈥?golden hour = luxury.",
+      "Materials: soft natural materials of wood and stone 鈥?natural materials = warmth.",
+      "Reference: architectural digest photo, interior design magazine quality 鈥?name the magazine."
     ],
     "tips": "Cantilevered + floor-to-ceiling glass = the modern architecture code. Without these, you get generic house."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30.",
     "flux": "Flux.1 dev, guidance 3.5, steps 30.",
     "dall_e": "DALL-E 3: \"An ultra modern minimalist villa with floor-to-ceiling glass walls, infinity pool, sunset, architectural digest photo\".",
-    "jimeng_zh": "现代极简别墅，落地玻璃，无边泳池，悬挑混凝土，金色夕阳。"
+    "jimeng_zh": "鐜颁唬鏋佺畝鍒锛岃惤鍦扮幓鐠冿紝鏃犺竟娉虫睜锛屾偓鎸戞贩鍑濆湡锛岄噾鑹插闃炽€?
   },
   "faq": [
     {

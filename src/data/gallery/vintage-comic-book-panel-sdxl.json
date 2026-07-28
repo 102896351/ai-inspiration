@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-vintage-comic-sdxl",
   "slug": "vintage-comic-book-panel-sdxl",
   "title": "Vintage Comic Book Panel (SDXL)",
   "description": "Silver Age comic book panel with halftone dots, hand-lettered fonts, and dynamic action poses.",
-  "cover": "/covers/vintage-comic-book-panel-sdxl.svg",
+  "cover": "covers/vintage-comic-book-panel-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -43,12 +43,12 @@
   "tutorial": {
     "intro": "Vintage comic = \"halftone\" + \"ben day dots\" + \"hand-lettered\" + named artist. Without these, MJ/SDXL make modern comic.",
     "steps": [
-      "Year + publisher: vintage 1963 marvel comic book panel — year + publisher = period.",
-      "Action: dynamic action shot of superhero leaping between buildings — verb + action.",
-      "Ink: bold black ink outlines — comic linework.",
-      "Color: ben day dots and halftone shading, primary color palette of red yellow and blue — printing technique + period palette.",
-      "Text: hand-lettered SFX like BAM and POW — sound effect letters are part of the look.",
-      "Reference: jack kirby art style — name the artist (co-creator of most Marvel heroes)."
+      "Year + publisher: vintage 1963 marvel comic book panel 鈥?year + publisher = period.",
+      "Action: dynamic action shot of superhero leaping between buildings 鈥?verb + action.",
+      "Ink: bold black ink outlines 鈥?comic linework.",
+      "Color: ben day dots and halftone shading, primary color palette of red yellow and blue 鈥?printing technique + period palette.",
+      "Text: hand-lettered SFX like BAM and POW 鈥?sound effect letters are part of the look.",
+      "Reference: jack kirby art style 鈥?name the artist (co-creator of most Marvel heroes)."
     ],
     "tips": "\"Ben day dots\" is the secret. Without it, vintage comic looks like modern vector art."
   },
@@ -57,7 +57,7 @@
     "stable_diffusion": "SDXL + Dreamshaper, CFG 7, Steps 30, Sampler DPM++ SDE Karras.",
     "flux": "Flux is OK; MJ Niji tends to be better for comic style.",
     "dall_e": "DALL-E 3: \"A vintage 1963 Marvel comic book panel of a superhero leaping, with halftone dots and bold ink lines, in Jack Kirby style\".",
-    "jimeng_zh": "复古 1963 漫威漫画，半色调点，复古印染，红黄蓝三色，杰克·科比风格。"
+    "jimeng_zh": "澶嶅彜 1963 婕▉婕敾锛屽崐鑹茶皟鐐癸紝澶嶅彜鍗版煋锛岀孩榛勮摑涓夎壊锛屾澃鍏嬄风姣旈鏍笺€?
   },
   "faq": [
     {

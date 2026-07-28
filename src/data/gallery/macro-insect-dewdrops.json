@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-macro-insect-mj",
   "slug": "macro-insect-dewdrops",
   "title": "Macro Insect Photography with Dewdrops",
   "description": "Close-up macro-style insect shots with dewdrops, suitable for biology textbooks, nature magazine covers, and stock photography.",
-  "cover": "/covers/macro-insect-dewdrops.svg",
+  "cover": "covers/macro-insect-dewdrops.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -41,11 +41,11 @@
   "tutorial": {
     "intro": "Macro insect photography needs three things: real lens name, specific insect, specific lighting.",
     "steps": [
-      "Lens name: canon MP-E 65mm f/2.8 macro lens — naming a real lens is a cheat code for \"real photo\" feel.",
-      "Insect: jewel beetle on a wet leaf — specific insect, specific surface.",
-      "Detail cues: intricate iridescent green and copper shell — \"iridescent\" forces the metallic color shift.",
-      "Scale cues: tiny dewdrops on antennae — micro details that make it feel real.",
-      "Light: golden morning backlight, shallow depth of field, focus stacking — three professional photography terms."
+      "Lens name: canon MP-E 65mm f/2.8 macro lens 鈥?naming a real lens is a cheat code for \"real photo\" feel.",
+      "Insect: jewel beetle on a wet leaf 鈥?specific insect, specific surface.",
+      "Detail cues: intricate iridescent green and copper shell 鈥?\"iridescent\" forces the metallic color shift.",
+      "Scale cues: tiny dewdrops on antennae 鈥?micro details that make it feel real.",
+      "Light: golden morning backlight, shallow depth of field, focus stacking 鈥?three professional photography terms."
     ],
     "tips": "Always name a real lens. \"Canon MP-E 65mm\" or \"Laowa 100mm\" works 10x better than \"macro lens\"."
   },
@@ -54,7 +54,7 @@
     "stable_diffusion": "SDXL + JuggernautXL\nPrompt as above. CFG 6, Steps 30.",
     "flux": "Flux understands lens terminology natively. Use same prompt.",
     "dall_e": "DALL-E 3 is good for macro. \"An extreme close-up photograph of a jewel beetle...\" works well.",
-    "jimeng_zh": "微距摄影，甲虫，露珠，朝阳，背光，浅景深，金绿铜色光泽。"
+    "jimeng_zh": "寰窛鎽勫奖锛岀敳铏紝闇茬彔锛屾湞闃筹紝鑳屽厜锛屾祬鏅繁锛岄噾缁块摐鑹插厜娉姐€?
   },
   "faq": [
     {

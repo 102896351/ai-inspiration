@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-magazine-cover-flux",
   "slug": "fashion-magazine-cover-flux",
   "title": "Fashion Magazine Cover (Flux)",
   "description": "Editorial magazine cover for fashion industry lookbooks, brand pitch decks, and stylist portfolios.",
-  "cover": "/covers/fashion-magazine-cover-flux.svg",
+  "cover": "covers/fashion-magazine-cover-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Magazine cover = \"named magazine + issue\" + \"masthead typography\" + \"cover line\" + named art director.",
     "steps": [
-      "Issue: vogue italia march 2024 cover — magazine + month/year anchors the era.",
-      "Subject: model in bold red dress against minimal white set — single color + minimal background.",
-      "Lighting: dramatic sharp lighting — sharp light = editorial.",
-      "Typography: serif masthead typography placeholder top, \"SPRING FASHION\" cover line — place masthead + cover line.",
-      "Reference: art directed by steven meisel, medium format film look — named art director + film."
+      "Issue: vogue italia march 2024 cover 鈥?magazine + month/year anchors the era.",
+      "Subject: model in bold red dress against minimal white set 鈥?single color + minimal background.",
+      "Lighting: dramatic sharp lighting 鈥?sharp light = editorial.",
+      "Typography: serif masthead typography placeholder top, \"SPRING FASHION\" cover line 鈥?place masthead + cover line.",
+      "Reference: art directed by steven meisel, medium format film look 鈥?named art director + film."
     ],
     "tips": "Always include a cover line + masthead placeholder. Without typography cues, it looks like a fashion photo, not a cover."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + epiCRealism, CFG 6, Steps 30.",
     "flux": "Flux.1 dev, guidance 4, steps 30.",
     "dall_e": "DALL-E 3: \"A Vogue Italia March 2024 magazine cover of a model in a red dress, serif masthead, art directed by Steven Meisel\".",
-    "jimeng_zh": "Vogue 杂志封面，红裙模特，衬线刊头，春夏时装，时尚大片。"
+    "jimeng_zh": "Vogue 鏉傚織灏侀潰锛岀孩瑁欐ā鐗癸紝琛嚎鍒婂ご锛屾槬澶忔椂瑁咃紝鏃跺皻澶х墖銆?
   },
   "faq": [
     {

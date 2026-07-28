@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-toy-figurine-sdxl",
   "slug": "cute-toy-figurine-sdxl",
   "title": "Cute Toy Figurine (SDXL)",
   "description": "Blind-box toy figurine aesthetic, popular for designer toy marketing, Funko-style product shots, and social media content.",
-  "cover": "/covers/cute-toy-figurine-sdxl.svg",
+  "cover": "covers/cute-toy-figurine-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Designer toy = \"vinyl material\" + \"glossy + matte\" + \"display base\" + named brand. Pop Mart / Funko is the reference.",
     "steps": [
-      "Subject: cute designer toy figurine of a cat astronaut — designer toy + specific character.",
-      "Material: glossy vinyl material with matte finish on helmet — vinyl + dual finish (the toy code).",
-      "Detail: tiny detailed oxygen tank on back — small detail = premium toy.",
-      "Display: standing on a small rotating display base — base = collectible packaging.",
-      "Reference: pop mart style, isolated on white background, product photography — name the brand + format."
+      "Subject: cute designer toy figurine of a cat astronaut 鈥?designer toy + specific character.",
+      "Material: glossy vinyl material with matte finish on helmet 鈥?vinyl + dual finish (the toy code).",
+      "Detail: tiny detailed oxygen tank on back 鈥?small detail = premium toy.",
+      "Display: standing on a small rotating display base 鈥?base = collectible packaging.",
+      "Reference: pop mart style, isolated on white background, product photography 鈥?name the brand + format."
     ],
     "tips": "\"Pop Mart style\" or \"Funko Pop\" instantly triggers the designer toy aesthetic. The \"rotating display base\" is the collector's tell."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 30.",
     "flux": "Flux handles 3D product well.",
     "dall_e": "DALL-E 3: \"A cute designer toy figurine of a cat astronaut in Pop Mart style, vinyl material, on a white background\".",
-    "jimeng_zh": "盲盒潮玩，猫咪宇航员，搪胶材质，旋转底座，白底产品摄影。"
+    "jimeng_zh": "鐩茬洅娼帺锛岀尗鍜畤鑸憳锛屾惇鑳舵潗璐紝鏃嬭浆搴曞骇锛岀櫧搴曚骇鍝佹憚褰便€?
   },
   "faq": [
     {

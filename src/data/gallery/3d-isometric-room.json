@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-3d-isometric-mj",
   "slug": "3d-isometric-room",
   "title": "Isometric 3D Scenes: Cozy Room Tutorial",
   "description": "Build isometric 3D illustrations with MJ v6.1. Perfect for explainer videos, blog headers, and design portfolios.",
-  "cover": "/covers/3d-isometric-room.svg",
+  "cover": "covers/3d-isometric-room.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -39,18 +39,18 @@
       },
       {
         "param": "low poly style",
-        "why": "Tells MJ to use simple geometric shapes — not photo-real 3D."
+        "why": "Tells MJ to use simple geometric shapes 鈥?not photo-real 3D."
       }
     ]
   },
   "tutorial": {
     "intro": "Isometric 3D is the cleanest AI art style. The trick is \"low poly\" + \"diorama\" anchors.",
     "steps": [
-      "Anchor style: isometric 3d illustration of a cozy reading nook, low poly style — gives MJ the visual framework.",
-      "Subject: a small bookshelf, plants in pots — populate the scene with simple objects.",
-      "Palette: soft pastel color palette with sage green, terracotta, and cream — lock the colors.",
-      "Lighting: warm window light, soft shadows — adds depth without complexity.",
-      "Render anchor: blender render aesthetic — tells MJ to use clean geometry, not photoreal."
+      "Anchor style: isometric 3d illustration of a cozy reading nook, low poly style 鈥?gives MJ the visual framework.",
+      "Subject: a small bookshelf, plants in pots 鈥?populate the scene with simple objects.",
+      "Palette: soft pastel color palette with sage green, terracotta, and cream 鈥?lock the colors.",
+      "Lighting: warm window light, soft shadows 鈥?adds depth without complexity.",
+      "Render anchor: blender render aesthetic 鈥?tells MJ to use clean geometry, not photoreal."
     ],
     "tips": "Isometric is a great SEO niche. \"isometric 3d\" + \"low poly\" + \"diorama\" together = strong style lock. Try it for any small scene: kitchen, office, garden, server room."
   },
@@ -59,7 +59,7 @@
     "stable_diffusion": "SDXL + DreamShaper\nPrompt: \"isometric 3d, low poly, cozy reading nook, diorama\"\nNegative: \"realistic, complex\"",
     "flux": "Flux is decent for isometric.",
     "dall_e": "DALL-E 3 isometric is OK.",
-    "jimeng_zh": "等距 3D 插画，温馨阅读角，低多边形，微型立体场景，柔和粉彩"
+    "jimeng_zh": "绛夎窛 3D 鎻掔敾锛屾俯棣ㄩ槄璇昏锛屼綆澶氳竟褰紝寰瀷绔嬩綋鍦烘櫙锛屾煍鍜岀矇褰?
   },
   "faq": [
     {

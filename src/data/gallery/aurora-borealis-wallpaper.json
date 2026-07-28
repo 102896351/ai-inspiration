@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-aurora-night-mj",
   "slug": "aurora-borealis-wallpaper",
   "title": "Aurora Borealis Wallpaper at 21:9",
   "description": "Ultra-wide 21:9 aurora landscape perfect for ultrawide monitors, presentation backgrounds, and desktop wallpapers.",
-  "cover": "/covers/aurora-borealis-wallpaper.svg",
+  "cover": "covers/aurora-borealis-wallpaper.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -43,11 +43,11 @@
   "tutorial": {
     "intro": "Aurora images fail when prompts are too short. The aurora needs verbs (\"dancing\"), colors (\"vibrant green and purple\"), and a reflection (frozen lake) to feel real.",
     "steps": [
-      "Aurora: breathtaking aurora borealis dancing across a starry night sky — \"dancing\" is the verb that makes it move.",
-      "Color: vibrant green and purple ribbons of light — name two specific aurora colors.",
-      "Foreground: snow-capped mountains in the distance + frozen lake reflecting the aurora — reflections double the impact.",
-      "Bonus: milky way visible — adds cosmic scale.",
-      "Format: ultra wide cinematic composition + national geographic photography style — gives MJ a reference target."
+      "Aurora: breathtaking aurora borealis dancing across a starry night sky 鈥?\"dancing\" is the verb that makes it move.",
+      "Color: vibrant green and purple ribbons of light 鈥?name two specific aurora colors.",
+      "Foreground: snow-capped mountains in the distance + frozen lake reflecting the aurora 鈥?reflections double the impact.",
+      "Bonus: milky way visible 鈥?adds cosmic scale.",
+      "Format: ultra wide cinematic composition + national geographic photography style 鈥?gives MJ a reference target."
     ],
     "tips": "21:9 ratio is the secret sauce. The aurora needs horizontal space to \"flow\" across the image."
   },
@@ -56,12 +56,12 @@
     "stable_diffusion": "SDXL + JuggernautXL\nPrompt as above, add \"8k uhd, raw photo\"\nNegative: cartoon, painting, anime",
     "flux": "Flux handles aurora very well. Use same prompt, no negative needed.",
     "dall_e": "DALL-E 3 supports wide ratios. Be specific: \"A 21:9 ultrawide photograph of aurora borealis...\"",
-    "jimeng_zh": "极光夜空，绿色紫色光带，雪山，倒影湖泊，银河，超宽幅电影感。"
+    "jimeng_zh": "鏋佸厜澶滅┖锛岀豢鑹茬传鑹插厜甯︼紝闆北锛屽€掑奖婀栨硦锛岄摱娌筹紝瓒呭骞呯數褰辨劅銆?
   },
   "faq": [
     {
       "q": "Why does my aurora look fake?",
-      "a": "You forgot the reflection. \"Frozen lake reflecting\" doubles the believability — the sky has to mirror."
+      "a": "You forgot the reflection. \"Frozen lake reflecting\" doubles the believability 鈥?the sky has to mirror."
     },
     {
       "q": "Best ratio for desktop wallpaper?",

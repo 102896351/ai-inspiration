@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-surreal-dreamscape-sd",
   "slug": "surreal-dreamscape-sd",
   "title": "Surreal Dreamscapes with SDXL",
   "description": "Generate Beksinski / Giger-style dreamscapes. High stylize + atmospheric details = the \"wow\" factor.",
-  "cover": "/covers/surreal-dreamscape-sd.svg",
+  "cover": "covers/surreal-dreamscape-sd.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -39,18 +39,18 @@
       },
       {
         "param": "zdzislaw beksinski",
-        "why": "Polish surrealist painter — the king of dark dream imagery."
+        "why": "Polish surrealist painter 鈥?the king of dark dream imagery."
       }
     ]
   },
   "tutorial": {
     "intro": "Beksinski-style dreamscapes work because the \"vibe\" is consistent: dark, vast, ancient, lonely.",
     "steps": [
-      "Artist anchor: in the style of zdzislaw beksinski — instantly locks the dark surreal vibe.",
-      "Setting: vast alien desert with floating obsidian monoliths — vastness + mystery.",
-      "Background story: distant ruined cathedral — adds a \"lost civilization\" feel.",
-      "Sky: blood red sky with twin suns — otherworldly.",
-      "Atmosphere: fog rolling across the plain, eerie silence — mood."
+      "Artist anchor: in the style of zdzislaw beksinski 鈥?instantly locks the dark surreal vibe.",
+      "Setting: vast alien desert with floating obsidian monoliths 鈥?vastness + mystery.",
+      "Background story: distant ruined cathedral 鈥?adds a \"lost civilization\" feel.",
+      "Sky: blood red sky with twin suns 鈥?otherworldly.",
+      "Atmosphere: fog rolling across the plain, eerie silence 鈥?mood."
     ],
     "tips": "Beksinski + Giger + Magritte are the three surrealist anchors that work best in AI. Each has a distinct visual signature the model recognizes."
   },
@@ -59,7 +59,7 @@
     "stable_diffusion": "Use the rewrite prompt with Dreamshaper XL.",
     "flux": "Flux is decent for surreal.",
     "dall_e": "DALL-E 3 surreal is OK.",
-    "jimeng_zh": "超现实梦境，贝克斯辛斯基风格，漂浮黑曜石，远处废墟大教堂，血红天空双日"
+    "jimeng_zh": "瓒呯幇瀹炴ⅵ澧冿紝璐濆厠鏂緵鏂熀椋庢牸锛屾紓娴粦鏇滅煶锛岃繙澶勫簾澧熷ぇ鏁欏爞锛岃绾㈠ぉ绌哄弻鏃?
   },
   "faq": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "q": "Higher CFG for more detail?",
-      "a": "Yes — surrealism likes CFG 8-10 for detail density."
+      "a": "Yes 鈥?surrealism likes CFG 8-10 for detail density."
     }
   ],
   "source": {

@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-pencil-sketch-sdxl",
   "slug": "graphite-pencil-sketch-sdxl",
   "title": "Graphite Pencil Sketch (SDXL)",
   "description": "Hand-drawn graphite pencil portrait sketch. Suitable for art education content, sketchbook inspiration, and character concept iteration.",
-  "cover": "/covers/graphite-pencil-sketch-sdxl.svg",
+  "cover": "covers/graphite-pencil-sketch-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -38,11 +38,11 @@
   "tutorial": {
     "intro": "Pencil sketch = \"graphite\" + \"cross-hatching\" + \"paper texture\" + \"smudged\". Each cue forces the medium.",
     "steps": [
-      "Medium: graphite pencil sketch of a thoughtful old man with beard — medium + subject.",
-      "Shading: visible cross-hatching shading — cross-hatching is the drawing technique.",
-      "Surface: paper texture visible, hand drawn on cream sketchbook paper — paper grain + color.",
-      "Detail: detailed wrinkles and skin pores — pencil can capture micro-detail.",
-      "Imperfection: smudged graphite on edges — smudges = real hand-drawing."
+      "Medium: graphite pencil sketch of a thoughtful old man with beard 鈥?medium + subject.",
+      "Shading: visible cross-hatching shading 鈥?cross-hatching is the drawing technique.",
+      "Surface: paper texture visible, hand drawn on cream sketchbook paper 鈥?paper grain + color.",
+      "Detail: detailed wrinkles and skin pores 鈥?pencil can capture micro-detail.",
+      "Imperfection: smudged graphite on edges 鈥?smudges = real hand-drawing."
     ],
     "tips": "\"Cross-hatching\" + \"smudged graphite\" + paper texture = real pencil sketch. Without these, it looks like a digital line art."
   },
@@ -51,7 +51,7 @@
     "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 30.",
     "flux": "Flux handles sketch style well.",
     "dall_e": "DALL-E 3: \"A graphite pencil sketch of a thoughtful old man with cross-hatching shading, on cream sketchbook paper\".",
-    "jimeng_zh": "石墨铅笔素描，老人肖像，交叉影线，奶油色素描纸，手绘质感。"
+    "jimeng_zh": "鐭冲ⅷ閾呯瑪绱犳弿锛岃€佷汉鑲栧儚锛屼氦鍙夊奖绾匡紝濂舵补鑹茬礌鎻忕焊锛屾墜缁樿川鎰熴€?
   },
   "faq": [
     {

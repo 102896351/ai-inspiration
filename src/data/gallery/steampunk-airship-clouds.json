@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-steampunk-airship-mj",
   "slug": "steampunk-airship-clouds",
   "title": "Steampunk Airship Over the Clouds",
   "description": "Build a Victorian-era airship scene with brass details, dramatic clouds, and golden hour lighting. Strong fit for book covers and fantasy game art.",
-  "cover": "/covers/steampunk-airship-clouds.svg",
+  "cover": "covers/steampunk-airship-clouds.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -47,11 +47,11 @@
   "tutorial": {
     "intro": "Steampunk is detail-driven. Generic \"steampunk\" gets you Victorian boots; \"brass propellers + copper boilers + gear mechanisms\" gets you a real airship.",
     "steps": [
-      "Anchor subject: majestic victorian steampunk airship — name the era (victorian) and vehicle (airship).",
-      "Add materials: brass propellers, copper boilers, detailed hull plating — these three push MJ from \"balloon\" to \"steampunk vessel\".",
-      "Specify mechanics: intricate gear mechanisms visible, billowing smoke from twin smokestacks — mechanical cues sell the genre.",
-      "Set atmosphere: dramatic golden hour clouds, oil painting atmosphere — natural lighting + painterly style = epic mood.",
-      "Reference: howl's moving castle inspired — naming a specific Ghibli film gives MJ a visual target."
+      "Anchor subject: majestic victorian steampunk airship 鈥?name the era (victorian) and vehicle (airship).",
+      "Add materials: brass propellers, copper boilers, detailed hull plating 鈥?these three push MJ from \"balloon\" to \"steampunk vessel\".",
+      "Specify mechanics: intricate gear mechanisms visible, billowing smoke from twin smokestacks 鈥?mechanical cues sell the genre.",
+      "Set atmosphere: dramatic golden hour clouds, oil painting atmosphere 鈥?natural lighting + painterly style = epic mood.",
+      "Reference: howl's moving castle inspired 鈥?naming a specific Ghibli film gives MJ a visual target."
     ],
     "tips": "Steampunk = brass + copper + gears + Victorian + steam. Without these five keywords, you get a balloon with random pipes."
   },
@@ -60,7 +60,7 @@
     "stable_diffusion": "SDXL + Dreamshaper\nNegative: modern, plastic, clean\nCFG 7, Steps 35, Sampler DPM++ 2M Karras",
     "flux": "Flux needs the prompt slightly rephrased: \"A massive Victorian airship made of brass and copper, with visible gear mechanisms and twin smokestacks, floating through golden hour clouds, oil painting style\".",
     "dall_e": "DALL-E 3: \"A detailed steampunk airship with brass and copper details, floating in golden hour clouds, in the style of Howl's Moving Castle\".",
-    "jimeng_zh": "蒸汽朋克飞艇，维多利亚风格，黄铜螺旋桨，铜锅炉，齿轮机构，金色夕阳云层，吉卜力画风。"
+    "jimeng_zh": "钂告苯鏈嬪厠椋炶墖锛岀淮澶氬埄浜氶鏍硷紝榛勯摐铻烘棆妗紝閾滈攨鐐夛紝榻胯疆鏈烘瀯锛岄噾鑹插闃充簯灞傦紝鍚夊崪鍔涚敾椋庛€?
   },
   "faq": [
     {

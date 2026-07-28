@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-interior-design-flux",
   "slug": "interior-design-flux",
   "title": "Japandi Interiors: Minimalism with Flux",
   "description": "Generate calm, minimalist interior design renders with Flux. Material and lighting cues matter most.",
-  "cover": "/covers/interior-design-flux.svg",
+  "cover": "covers/interior-design-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [
@@ -39,28 +39,28 @@
       },
       {
         "param": "japandi",
-        "why": "Style anchor — Japanese + Scandinavian minimalism."
+        "why": "Style anchor 鈥?Japanese + Scandinavian minimalism."
       }
     ]
   },
   "tutorial": {
     "intro": "Interior design with AI works because rooms are simple compositions. Material and lighting do the work.",
     "steps": [
-      "Style anchor: modern japandi living room — locks Japanese + Scandinavian minimalism.",
-      "Furniture: natural wood furniture, low profile sofa in beige linen — specific materials.",
-      "Decor: indoor plants, shoji screen divider — character without clutter.",
-      "Lighting: soft natural light from large windows — interior photography's friend.",
-      "Materials: concrete and wood textures — texture cues make AI render feel real.",
-      "Camera: shot on canon 5d mark iv, 24mm wide angle — architectural photography standard."
+      "Style anchor: modern japandi living room 鈥?locks Japanese + Scandinavian minimalism.",
+      "Furniture: natural wood furniture, low profile sofa in beige linen 鈥?specific materials.",
+      "Decor: indoor plants, shoji screen divider 鈥?character without clutter.",
+      "Lighting: soft natural light from large windows 鈥?interior photography's friend.",
+      "Materials: concrete and wood textures 鈥?texture cues make AI render feel real.",
+      "Camera: shot on canon 5d mark iv, 24mm wide angle 鈥?architectural photography standard."
     ],
-    "tips": "Interiors live on material cues. \"Wood\", \"linen\", \"concrete\", \"shoji\" — each is a render keyword that AI knows."
+    "tips": "Interiors live on material cues. \"Wood\", \"linen\", \"concrete\", \"shoji\" 鈥?each is a render keyword that AI knows."
   },
   "crossModel": {
     "midjourney": "MJ v6.1: \"japandi living room, natural light, wood and concrete, architectural digest --ar 4:3 --v 6.1\"",
     "stable_diffusion": "SDXL + RealVisXL\nPrompt: \"japandi living room, natural wood, soft light\"\nNegative: \"cluttered, dark\"",
     "flux": "Use the rewrite prompt directly.",
     "dall_e": "DALL-E 3 interiors are good.",
-    "jimeng_zh": "日式极简客厅，自然木材，亚麻沙发，室内植物，障子屏风，柔和自然光"
+    "jimeng_zh": "鏃ュ紡鏋佺畝瀹㈠巺锛岃嚜鐒舵湪鏉愶紝浜氶夯娌欏彂锛屽鍐呮鐗╋紝闅滃瓙灞忛锛屾煍鍜岃嚜鐒跺厜"
   },
   "faq": [
     {

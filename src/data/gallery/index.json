@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "id": "seed-cyberpunk-street-mj",
     "slug": "cyberpunk-rain-street-tutorial",
     "title": "Cyberpunk Rain Street: Complete Prompt Breakdown",
-    "cover": "/covers/cyberpunk-rain-street-tutorial.svg",
+    "cover": "covers/cyberpunk-rain-street-tutorial.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -30,7 +30,7 @@
     "id": "seed-portrait-sdxl-juggernaut",
     "slug": "sdxl-photorealistic-portrait-guide",
     "title": "SDXL Photorealistic Portraits: The Complete Guide",
-    "cover": "/covers/sdxl-photorealistic-portrait-guide.svg",
+    "cover": "covers/sdxl-photorealistic-portrait-guide.svg",
     "model": "stable-diffusion",
     "styles": [
       "realistic",
@@ -58,7 +58,7 @@
     "id": "seed-anime-mj-niji",
     "slug": "ghibli-anime-style-mj-niji",
     "title": "Ghibli Anime Portrait: The Niji 6 Guide",
-    "cover": "/covers/ghibli-anime-style-mj-niji.svg",
+    "cover": "covers/ghibli-anime-style-mj-niji.svg",
     "model": "midjourney",
     "styles": [
       "anime",
@@ -86,7 +86,7 @@
     "id": "seed-3d-pixar-character",
     "slug": "pixar-3d-character-tutorial",
     "title": "Pixar 3D Characters: The MJ 6.1 Tutorial",
-    "cover": "/covers/pixar-3d-character-tutorial.svg",
+    "cover": "covers/pixar-3d-character-tutorial.svg",
     "model": "midjourney",
     "styles": [
       "3d",
@@ -113,7 +113,7 @@
     "id": "seed-flux-product-photo",
     "slug": "product-photography-flux-vs-sdxl",
     "title": "E-commerce Product Photos: Flux vs SDXL",
-    "cover": "/covers/product-photography-flux-vs-sdxl.svg",
+    "cover": "covers/product-photography-flux-vs-sdxl.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -139,7 +139,7 @@
     "id": "seed-vintage-poster-mj",
     "slug": "vintage-travel-poster-paris",
     "title": "Vintage Posters: 1950s Paris Travel Poster Prompts",
-    "cover": "/covers/vintage-travel-poster-paris.svg",
+    "cover": "covers/vintage-travel-poster-paris.svg",
     "model": "midjourney",
     "styles": [
       "vintage",
@@ -166,7 +166,7 @@
     "id": "seed-ideogram-typography",
     "slug": "ideogram-typography-logo-design",
     "title": "Ideogram 2.0: The New King of Typography",
-    "cover": "/covers/ideogram-typography-logo-design.svg",
+    "cover": "covers/ideogram-typography-logo-design.svg",
     "model": "ideogram",
     "styles": [
       "minimalist",
@@ -191,7 +191,7 @@
     "id": "seed-fantasy-landscape-mj",
     "slug": "fantasy-floating-island-mj",
     "title": "Epic Fantasy Landscapes: Floating Islands Tutorial",
-    "cover": "/covers/fantasy-floating-island-mj.svg",
+    "cover": "covers/fantasy-floating-island-mj.svg",
     "model": "midjourney",
     "styles": [
       "concept-art",
@@ -212,13 +212,13 @@
       "dnd",
       "concept-art"
     ],
-    "description": "How MJ v6.1 nails epic fantasy scenes — floating islands, magical forests, glowing lakes."
+    "description": "How MJ v6.1 nails epic fantasy scenes 鈥?floating islands, magical forests, glowing lakes."
   },
   {
     "id": "seed-flux-soft-anime",
     "slug": "flux-soft-anime-illustration",
     "title": "Soft Anime with Flux: Pastel & Healing Style",
-    "cover": "/covers/flux-soft-anime-illustration.svg",
+    "cover": "covers/flux-soft-anime-illustration.svg",
     "model": "flux",
     "styles": [
       "anime",
@@ -240,13 +240,13 @@
       "shinkai",
       "flux"
     ],
-    "description": "How Flux renders soft, pastel Japanese-illustration style — and how it compares to MJ Niji 6 and SD."
+    "description": "How Flux renders soft, pastel Japanese-illustration style 鈥?and how it compares to MJ Niji 6 and SD."
   },
   {
     "id": "seed-mj-minimal-logo",
     "slug": "mj-minimal-brand-logo",
     "title": "Minimal Brand Logos in MJ: A Practical Guide",
-    "cover": "/covers/mj-minimal-brand-logo.svg",
+    "cover": "covers/mj-minimal-brand-logo.svg",
     "model": "midjourney",
     "styles": [
       "minimalist",
@@ -271,7 +271,7 @@
     "id": "seed-sd-anime-landscape",
     "slug": "sd-anythingxl-anime-landscape",
     "title": "SDXL Anime Landscapes with AnythingXL",
-    "cover": "/covers/sd-anythingxl-anime-landscape.svg",
+    "cover": "covers/sd-anythingxl-anime-landscape.svg",
     "model": "stable-diffusion",
     "styles": [
       "anime",
@@ -297,7 +297,7 @@
     "id": "seed-mj-watercolor-illustration",
     "slug": "watercolor-illustration-mj-niji",
     "title": "Watercolor Healing Illustrations: Niji 6 Tutorial",
-    "cover": "/covers/watercolor-illustration-mj-niji.svg",
+    "cover": "covers/watercolor-illustration-mj-niji.svg",
     "model": "midjourney",
     "styles": [
       "illustration",
@@ -324,7 +324,7 @@
     "id": "seed-mountain-landscape-mj",
     "slug": "mountain-landscape-mj",
     "title": "Epic Mountain Landscapes: Golden Hour Tutorial",
-    "cover": "/covers/mountain-landscape-mj.svg",
+    "cover": "covers/mountain-landscape-mj.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -350,7 +350,7 @@
     "id": "seed-food-photo-mj",
     "slug": "food-photography-moody",
     "title": "Restaurant Food Photography: Moody Lighting",
-    "cover": "/covers/food-photography-moody.svg",
+    "cover": "covers/food-photography-moody.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -375,7 +375,7 @@
     "id": "seed-anime-character-fullbody",
     "slug": "anime-character-fullbody",
     "title": "Full-Body Anime Characters: Anatomy & Style",
-    "cover": "/covers/anime-character-fullbody.svg",
+    "cover": "covers/anime-character-fullbody.svg",
     "model": "midjourney",
     "styles": [
       "anime",
@@ -399,7 +399,7 @@
     "id": "seed-3d-isometric-mj",
     "slug": "3d-isometric-room",
     "title": "Isometric 3D Scenes: Cozy Room Tutorial",
-    "cover": "/covers/3d-isometric-room.svg",
+    "cover": "covers/3d-isometric-room.svg",
     "model": "midjourney",
     "styles": [
       "3d",
@@ -425,7 +425,7 @@
     "id": "seed-architecture-mj",
     "slug": "architecture-modern-mj",
     "title": "Modern Architecture: Glass & Concrete",
-    "cover": "/covers/architecture-modern-mj.svg",
+    "cover": "covers/architecture-modern-mj.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -450,7 +450,7 @@
     "id": "seed-cute-animal-mj",
     "slug": "cute-animal-photography",
     "title": "Cute Animal Photography: Studio Style",
-    "cover": "/covers/cute-animal-photography.svg",
+    "cover": "covers/cute-animal-photography.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -475,7 +475,7 @@
     "id": "seed-surreal-mj",
     "slug": "surreal-composition-mj",
     "title": "Surrealist Compositions: Dali Meets AI",
-    "cover": "/covers/surreal-composition-mj.svg",
+    "cover": "covers/surreal-composition-mj.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -501,7 +501,7 @@
     "id": "seed-cute-puppy-sdxl",
     "slug": "cute-puppy-sdxl",
     "title": "Cute Puppies with SDXL + RealVisXL",
-    "cover": "/covers/cute-puppy-sdxl.svg",
+    "cover": "covers/cute-puppy-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "realistic",
@@ -526,7 +526,7 @@
     "id": "seed-fashion-editorial-sd",
     "slug": "fashion-editorial-sd",
     "title": "High Fashion Editorial with SDXL",
-    "cover": "/covers/fashion-editorial-sd.svg",
+    "cover": "covers/fashion-editorial-sd.svg",
     "model": "stable-diffusion",
     "styles": [
       "realistic",
@@ -552,7 +552,7 @@
     "id": "seed-concept-art-robot-sd",
     "slug": "concept-art-robot-sd",
     "title": "Sci-Fi Robot Concept Art in SDXL",
-    "cover": "/covers/concept-art-robot-sd.svg",
+    "cover": "covers/concept-art-robot-sd.svg",
     "model": "stable-diffusion",
     "styles": [
       "concept-art",
@@ -578,7 +578,7 @@
     "id": "seed-surreal-dreamscape-sd",
     "slug": "surreal-dreamscape-sd",
     "title": "Surreal Dreamscapes with SDXL",
-    "cover": "/covers/surreal-dreamscape-sd.svg",
+    "cover": "covers/surreal-dreamscape-sd.svg",
     "model": "stable-diffusion",
     "styles": [
       "concept-art",
@@ -604,7 +604,7 @@
     "id": "seed-manga-action-sd",
     "slug": "manga-action-sd",
     "title": "Manga Action Scenes: Speed & Drama",
-    "cover": "/covers/manga-action-sd.svg",
+    "cover": "covers/manga-action-sd.svg",
     "model": "stable-diffusion",
     "styles": [
       "anime",
@@ -629,7 +629,7 @@
     "id": "seed-beauty-portrait-flux",
     "slug": "beauty-portrait-flux",
     "title": "Beauty Portraits: Skin & Light in Flux",
-    "cover": "/covers/beauty-portrait-flux.svg",
+    "cover": "covers/beauty-portrait-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -654,7 +654,7 @@
     "id": "seed-scifi-vehicle-flux",
     "slug": "scifi-vehicle-flux",
     "title": "Sci-Fi Vehicles: Concept Art with Flux",
-    "cover": "/covers/scifi-vehicle-flux.svg",
+    "cover": "covers/scifi-vehicle-flux.svg",
     "model": "flux",
     "styles": [
       "concept-art",
@@ -679,7 +679,7 @@
     "id": "seed-interior-design-flux",
     "slug": "interior-design-flux",
     "title": "Japandi Interiors: Minimalism with Flux",
-    "cover": "/covers/interior-design-flux.svg",
+    "cover": "covers/interior-design-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -705,7 +705,7 @@
     "id": "seed-event-poster-ideogram",
     "slug": "event-poster-ideogram",
     "title": "Music Festival Posters in Ideogram 2.0",
-    "cover": "/covers/event-poster-ideogram.svg",
+    "cover": "covers/event-poster-ideogram.svg",
     "model": "ideogram",
     "styles": [
       "vintage",
@@ -730,7 +730,7 @@
     "id": "seed-restaurant-menu-ideogram",
     "slug": "restaurant-menu-ideogram",
     "title": "Restaurant Menu Design in Ideogram 2.0",
-    "cover": "/covers/restaurant-menu-ideogram.svg",
+    "cover": "covers/restaurant-menu-ideogram.svg",
     "model": "ideogram",
     "styles": [
       "vintage",
@@ -753,8 +753,8 @@
   {
     "id": "seed-chinese-landscape-jimeng",
     "slug": "chinese-landscape-jimeng",
-    "title": "Chinese Ink Wash Landscapes: 即梦 (Jimeng) Tutorial",
-    "cover": "/covers/chinese-landscape-jimeng.svg",
+    "title": "Chinese Ink Wash Landscapes: 鍗虫ⅵ (Jimeng) Tutorial",
+    "cover": "covers/chinese-landscape-jimeng.svg",
     "model": "jimeng",
     "styles": [
       "illustration",
@@ -774,13 +774,13 @@
       "jimeng",
       "song-dynasty"
     ],
-    "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 即梦. From Song Dynasty masters to modern ink art."
+    "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 鍗虫ⅵ. From Song Dynasty masters to modern ink art."
   },
   {
     "id": "seed-80s-synthwave-mj",
     "slug": "80s-synthwave-mj",
     "title": "80s Synthwave: Neon Grid Aesthetic",
-    "cover": "/covers/80s-synthwave-mj.svg",
+    "cover": "covers/80s-synthwave-mj.svg",
     "model": "midjourney",
     "styles": [
       "3d",
@@ -806,7 +806,7 @@
     "id": "seed-children-book-mj",
     "slug": "children-book-mj",
     "title": "Children Book Illustration: Cute Characters",
-    "cover": "/covers/children-book-mj.svg",
+    "cover": "covers/children-book-mj.svg",
     "model": "midjourney",
     "styles": [
       "illustration",
@@ -832,7 +832,7 @@
     "id": "seed-steampunk-airship-mj",
     "slug": "steampunk-airship-clouds",
     "title": "Steampunk Airship Over the Clouds",
-    "cover": "/covers/steampunk-airship-clouds.svg",
+    "cover": "covers/steampunk-airship-clouds.svg",
     "model": "midjourney",
     "styles": [
       "concept-art",
@@ -859,7 +859,7 @@
     "id": "seed-aurora-night-mj",
     "slug": "aurora-borealis-wallpaper",
     "title": "Aurora Borealis Wallpaper at 21:9",
-    "cover": "/covers/aurora-borealis-wallpaper.svg",
+    "cover": "covers/aurora-borealis-wallpaper.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -886,7 +886,7 @@
     "id": "seed-macro-insect-mj",
     "slug": "macro-insect-dewdrops",
     "title": "Macro Insect Photography with Dewdrops",
-    "cover": "/covers/macro-insect-dewdrops.svg",
+    "cover": "covers/macro-insect-dewdrops.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -911,7 +911,7 @@
     "id": "seed-vintage-fashion-mj",
     "slug": "vintage-fashion-editorial-1960s",
     "title": "1960s Vintage Fashion Editorial",
-    "cover": "/covers/vintage-fashion-editorial-1960s.svg",
+    "cover": "covers/vintage-fashion-editorial-1960s.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -938,7 +938,7 @@
     "id": "seed-coffee-shop-mj",
     "slug": "cozy-coffee-shop-interior",
     "title": "Cozy Coffee Shop Interior for Lifestyle Branding",
-    "cover": "/covers/cozy-coffee-shop-interior.svg",
+    "cover": "covers/cozy-coffee-shop-interior.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -964,7 +964,7 @@
     "id": "seed-90s-anime-mj",
     "slug": "90s-anime-screenshot-evangelion",
     "title": "90s Anime Screenshot (Evangelion Style)",
-    "cover": "/covers/90s-anime-screenshot-evangelion.svg",
+    "cover": "covers/90s-anime-screenshot-evangelion.svg",
     "model": "midjourney",
     "styles": [
       "anime",
@@ -985,13 +985,13 @@
       "nostalgia",
       "gainax"
     ],
-    "description": "Recreate the iconic 90s anime aesthetic — cel-shading, film grain, and emotional close-ups. Strong fit for retrospective content and nostalgia posts."
+    "description": "Recreate the iconic 90s anime aesthetic 鈥?cel-shading, film grain, and emotional close-ups. Strong fit for retrospective content and nostalgia posts."
   },
   {
     "id": "seed-clay-3d-mj",
     "slug": "clay-3d-render-sticker",
     "title": "Clay 3D Render for Sticker and App Icon Style",
-    "cover": "/covers/clay-3d-render-sticker.svg",
+    "cover": "covers/clay-3d-render-sticker.svg",
     "model": "midjourney",
     "styles": [
       "3d",
@@ -1018,7 +1018,7 @@
     "id": "seed-glass-morphism-mj",
     "slug": "glass-morphism-ui-icon",
     "title": "Glass Morphism UI Icon",
-    "cover": "/covers/glass-morphism-ui-icon.svg",
+    "cover": "covers/glass-morphism-ui-icon.svg",
     "model": "midjourney",
     "styles": [
       "minimalist",
@@ -1044,7 +1044,7 @@
     "id": "seed-vaporwave-mj",
     "slug": "vaporwave-aesthetic-grid-sunset",
     "title": "Vaporwave Aesthetic (Grid + Sunset + Palm Trees)",
-    "cover": "/covers/vaporwave-aesthetic-grid-sunset.svg",
+    "cover": "covers/vaporwave-aesthetic-grid-sunset.svg",
     "model": "midjourney",
     "styles": [
       "vintage",
@@ -1071,7 +1071,7 @@
     "id": "seed-origami-mj",
     "slug": "origami-paper-crane",
     "title": "Origami Paper Crane (Wabi-Sabi Style)",
-    "cover": "/covers/origami-paper-crane.svg",
+    "cover": "covers/origami-paper-crane.svg",
     "model": "midjourney",
     "styles": [
       "minimalist",
@@ -1097,7 +1097,7 @@
     "id": "seed-snow-mountain-mj",
     "slug": "snow-mountain-hiker-sunrise",
     "title": "Snow Mountain Hiker at Sunrise",
-    "cover": "/covers/snow-mountain-hiker-sunrise.svg",
+    "cover": "covers/snow-mountain-hiker-sunrise.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -1123,7 +1123,7 @@
     "id": "seed-cosmic-galaxy-mj",
     "slug": "cosmic-galaxy-nebula-wallpaper",
     "title": "Cosmic Galaxy Nebula Wallpaper",
-    "cover": "/covers/cosmic-galaxy-nebula-wallpaper.svg",
+    "cover": "covers/cosmic-galaxy-nebula-wallpaper.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -1150,7 +1150,7 @@
     "id": "seed-botanical-watercolor-mj",
     "slug": "botanical-watercolor-painting",
     "title": "Botanical Watercolor Painting",
-    "cover": "/covers/botanical-watercolor-painting.svg",
+    "cover": "covers/botanical-watercolor-painting.svg",
     "model": "midjourney",
     "styles": [
       "illustration",
@@ -1177,7 +1177,7 @@
     "id": "seed-brutalist-mj",
     "slug": "brutalist-concrete-architecture",
     "title": "Brutalist Concrete Architecture",
-    "cover": "/covers/brutalist-concrete-architecture.svg",
+    "cover": "covers/brutalist-concrete-architecture.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -1202,7 +1202,7 @@
     "id": "seed-80s-retro-mj",
     "slug": "80s-retro-future-vector",
     "title": "80s Retro-Future Vector Aesthetic",
-    "cover": "/covers/80s-retro-future-vector.svg",
+    "cover": "covers/80s-retro-future-vector.svg",
     "model": "midjourney",
     "styles": [
       "vintage",
@@ -1229,7 +1229,7 @@
     "id": "seed-pet-portrait-mj",
     "slug": "pet-portrait-photography",
     "title": "Pet Portrait Photography (Studio Style)",
-    "cover": "/covers/pet-portrait-photography.svg",
+    "cover": "covers/pet-portrait-photography.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -1255,7 +1255,7 @@
     "id": "seed-forest-spirit-mj",
     "slug": "forest-spirit-anime-fantasy",
     "title": "Mystical Forest Spirit (Anime Fantasy)",
-    "cover": "/covers/forest-spirit-anime-fantasy.svg",
+    "cover": "covers/forest-spirit-anime-fantasy.svg",
     "model": "midjourney",
     "styles": [
       "anime",
@@ -1282,7 +1282,7 @@
     "id": "seed-storm-chasing-mj",
     "slug": "storm-chasing-supercell",
     "title": "Storm Chasing: Supercell Photography",
-    "cover": "/covers/storm-chasing-supercell.svg",
+    "cover": "covers/storm-chasing-supercell.svg",
     "model": "midjourney",
     "styles": [
       "realistic",
@@ -1308,7 +1308,7 @@
     "id": "seed-anime-schoolgirl-sdxl",
     "slug": "anime-schoolgirl-spring-sdxl",
     "title": "Anime School Girl in Spring (SDXL AnythingV5)",
-    "cover": "/covers/anime-schoolgirl-spring-sdxl.svg",
+    "cover": "covers/anime-schoolgirl-spring-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "anime",
@@ -1334,7 +1334,7 @@
     "id": "seed-oil-painting-sdxl",
     "slug": "oil-painting-portrait-sdxl",
     "title": "Classical Oil Painting Portrait (SDXL)",
-    "cover": "/covers/oil-painting-portrait-sdxl.svg",
+    "cover": "covers/oil-painting-portrait-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "oil-painting",
@@ -1360,7 +1360,7 @@
     "id": "seed-cyber-mech-sdxl",
     "slug": "cyber-mech-character-sdxl",
     "title": "Cyber Mech Character Design (SDXL)",
-    "cover": "/covers/cyber-mech-character-sdxl.svg",
+    "cover": "covers/cyber-mech-character-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "concept-art",
@@ -1387,7 +1387,7 @@
     "id": "seed-vintage-comic-sdxl",
     "slug": "vintage-comic-book-panel-sdxl",
     "title": "Vintage Comic Book Panel (SDXL)",
-    "cover": "/covers/vintage-comic-book-panel-sdxl.svg",
+    "cover": "covers/vintage-comic-book-panel-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "illustration",
@@ -1414,7 +1414,7 @@
     "id": "seed-hyper-food-sdxl",
     "slug": "hyper-realistic-food-sdxl",
     "title": "Hyper Realistic Food Photography (SDXL)",
-    "cover": "/covers/hyper-realistic-food-sdxl.svg",
+    "cover": "covers/hyper-realistic-food-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "realistic",
@@ -1440,7 +1440,7 @@
     "id": "seed-tshirt-design-sdxl",
     "slug": "vector-tshirt-graphic-sdxl",
     "title": "Vector T-Shirt Graphic Design (SDXL)",
-    "cover": "/covers/vector-tshirt-graphic-sdxl.svg",
+    "cover": "covers/vector-tshirt-graphic-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "illustration",
@@ -1466,7 +1466,7 @@
     "id": "seed-stained-glass-sdxl",
     "slug": "gothic-stained-glass-sdxl",
     "title": "Gothic Stained Glass Window (SDXL)",
-    "cover": "/covers/gothic-stained-glass-sdxl.svg",
+    "cover": "covers/gothic-stained-glass-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "illustration",
@@ -1493,7 +1493,7 @@
     "id": "seed-vhs-aesthetic-sdxl",
     "slug": "vhs-aesthetic-photo-sdxl",
     "title": "VHS Aesthetic Photo (SDXL)",
-    "cover": "/covers/vhs-aesthetic-photo-sdxl.svg",
+    "cover": "covers/vhs-aesthetic-photo-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "vintage",
@@ -1519,7 +1519,7 @@
     "id": "seed-toy-figurine-sdxl",
     "slug": "cute-toy-figurine-sdxl",
     "title": "Cute Toy Figurine (SDXL)",
-    "cover": "/covers/cute-toy-figurine-sdxl.svg",
+    "cover": "covers/cute-toy-figurine-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "3d",
@@ -1546,7 +1546,7 @@
     "id": "seed-pixel-art-sdxl",
     "slug": "pixel-art-sprite-sdxl",
     "title": "16-bit Pixel Art Sprite (SDXL)",
-    "cover": "/covers/pixel-art-sprite-sdxl.svg",
+    "cover": "covers/pixel-art-sprite-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "illustration",
@@ -1572,7 +1572,7 @@
     "id": "seed-pencil-sketch-sdxl",
     "slug": "graphite-pencil-sketch-sdxl",
     "title": "Graphite Pencil Sketch (SDXL)",
-    "cover": "/covers/graphite-pencil-sketch-sdxl.svg",
+    "cover": "covers/graphite-pencil-sketch-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "illustration",
@@ -1598,7 +1598,7 @@
     "id": "seed-movie-poster-sdxl",
     "slug": "cinematic-movie-poster-sdxl",
     "title": "Cinematic Movie Poster (SDXL)",
-    "cover": "/covers/cinematic-movie-poster-sdxl.svg",
+    "cover": "covers/cinematic-movie-poster-sdxl.svg",
     "model": "stable-diffusion",
     "styles": [
       "realistic",
@@ -1624,7 +1624,7 @@
     "id": "seed-forest-cabin-flux",
     "slug": "cozy-forest-cabin-autumn-flux",
     "title": "Cozy Forest Cabin in Autumn (Flux)",
-    "cover": "/covers/cozy-forest-cabin-autumn-flux.svg",
+    "cover": "covers/cozy-forest-cabin-autumn-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -1650,7 +1650,7 @@
     "id": "seed-asian-streetfood-flux",
     "slug": "asian-night-market-street-food-flux",
     "title": "Asian Night Market Street Food (Flux)",
-    "cover": "/covers/asian-night-market-street-food-flux.svg",
+    "cover": "covers/asian-night-market-street-food-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -1676,7 +1676,7 @@
     "id": "seed-glass-product-flux",
     "slug": "glass-product-photography-flux",
     "title": "Glass Product Photography (Flux)",
-    "cover": "/covers/glass-product-photography-flux.svg",
+    "cover": "covers/glass-product-photography-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -1703,7 +1703,7 @@
     "id": "seed-pastel-dreamscape-flux",
     "slug": "pastel-dreamscape-fantasy-flux",
     "title": "Pastel Dreamscape Fantasy (Flux)",
-    "cover": "/covers/pastel-dreamscape-fantasy-flux.svg",
+    "cover": "covers/pastel-dreamscape-fantasy-flux.svg",
     "model": "flux",
     "styles": [
       "illustration",
@@ -1730,7 +1730,7 @@
     "id": "seed-magazine-cover-flux",
     "slug": "fashion-magazine-cover-flux",
     "title": "Fashion Magazine Cover (Flux)",
-    "cover": "/covers/fashion-magazine-cover-flux.svg",
+    "cover": "covers/fashion-magazine-cover-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -1757,7 +1757,7 @@
     "id": "seed-architectural-viz-flux",
     "slug": "modern-villa-architectural-viz-flux",
     "title": "Modern Villa Architectural Visualization (Flux)",
-    "cover": "/covers/modern-villa-architectural-viz-flux.svg",
+    "cover": "covers/modern-villa-architectural-viz-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -1784,7 +1784,7 @@
     "id": "seed-cosplay-flux",
     "slug": "cosplay-character-photography-flux",
     "title": "Cosplay Character Photography (Flux)",
-    "cover": "/covers/cosplay-character-photography-flux.svg",
+    "cover": "covers/cosplay-character-photography-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -1810,7 +1810,7 @@
     "id": "seed-sunset-beach-flux",
     "slug": "tropical-sunset-beach-wallpaper-flux",
     "title": "Tropical Sunset Beach Wallpaper (Flux)",
-    "cover": "/covers/tropical-sunset-beach-wallpaper-flux.svg",
+    "cover": "covers/tropical-sunset-beach-wallpaper-flux.svg",
     "model": "flux",
     "styles": [
       "realistic",
@@ -1837,7 +1837,7 @@
     "id": "seed-quote-poster-ideogram",
     "slug": "minimalist-motivational-quote-poster-ideogram",
     "title": "Minimalist Motivational Quote Poster (Ideogram)",
-    "cover": "/covers/minimalist-motivational-quote-poster-ideogram.svg",
+    "cover": "covers/minimalist-motivational-quote-poster-ideogram.svg",
     "model": "ideogram",
     "styles": [
       "minimalist",
@@ -1863,7 +1863,7 @@
     "id": "seed-book-cover-ideogram",
     "slug": "thriller-book-cover-ideogram",
     "title": "Thriller Book Cover (Ideogram)",
-    "cover": "/covers/thriller-book-cover-ideogram.svg",
+    "cover": "covers/thriller-book-cover-ideogram.svg",
     "model": "ideogram",
     "styles": [
       "poster",
@@ -1890,7 +1890,7 @@
     "id": "seed-sports-logo-ideogram",
     "slug": "sports-team-mascot-logo-ideogram",
     "title": "Sports Team Mascot Logo (Ideogram)",
-    "cover": "/covers/sports-team-mascot-logo-ideogram.svg",
+    "cover": "covers/sports-team-mascot-logo-ideogram.svg",
     "model": "ideogram",
     "styles": [
       "logo",
@@ -1917,7 +1917,7 @@
     "id": "seed-wedding-invitation-ideogram",
     "slug": "elegant-wedding-invitation-ideogram",
     "title": "Elegant Wedding Invitation (Ideogram)",
-    "cover": "/covers/elegant-wedding-invitation-ideogram.svg",
+    "cover": "covers/elegant-wedding-invitation-ideogram.svg",
     "model": "ideogram",
     "styles": [
       "illustration",
@@ -1944,7 +1944,7 @@
     "id": "seed-tech-conference-ideogram",
     "slug": "tech-conference-banner-ideogram",
     "title": "Tech Conference Banner (Ideogram)",
-    "cover": "/covers/tech-conference-banner-ideogram.svg",
+    "cover": "covers/tech-conference-banner-ideogram.svg",
     "model": "ideogram",
     "styles": [
       "minimalist",
@@ -1970,7 +1970,7 @@
     "id": "seed-restaurant-sign-ideogram",
     "slug": "italian-restaurant-neon-sign-ideogram",
     "title": "Italian Restaurant Neon Sign (Ideogram)",
-    "cover": "/covers/italian-restaurant-neon-sign-ideogram.svg",
+    "cover": "covers/italian-restaurant-neon-sign-ideogram.svg",
     "model": "ideogram",
     "styles": [
       "vintage",
@@ -1997,7 +1997,7 @@
     "id": "seed-watercolor-botanical-dalle",
     "slug": "soft-watercolor-botanical-dalle",
     "title": "Soft Watercolor Botanical (DALL-E)",
-    "cover": "/covers/soft-watercolor-botanical-dalle.svg",
+    "cover": "covers/soft-watercolor-botanical-dalle.svg",
     "model": "dall-e",
     "styles": [
       "watercolor",
@@ -2024,7 +2024,7 @@
     "id": "seed-minimal-vector-dalle",
     "slug": "minimal-vector-logo-dalle",
     "title": "Minimal Vector Logo (DALL-E)",
-    "cover": "/covers/minimal-vector-logo-dalle.svg",
+    "cover": "covers/minimal-vector-logo-dalle.svg",
     "model": "dall-e",
     "styles": [
       "logo",
@@ -2050,7 +2050,7 @@
     "id": "seed-editorial-photo-dalle",
     "slug": "editorial-fashion-photo-dalle",
     "title": "Editorial Fashion Photo (DALL-E)",
-    "cover": "/covers/editorial-fashion-photo-dalle.svg",
+    "cover": "covers/editorial-fashion-photo-dalle.svg",
     "model": "dall-e",
     "styles": [
       "realistic",
@@ -2077,7 +2077,7 @@
     "id": "seed-collage-surreal-dalle",
     "slug": "surreal-vintage-collage-dalle",
     "title": "Surreal Vintage Collage (DALL-E)",
-    "cover": "/covers/surreal-vintage-collage-dalle.svg",
+    "cover": "covers/surreal-vintage-collage-dalle.svg",
     "model": "dall-e",
     "styles": [
       "illustration",
@@ -2104,7 +2104,7 @@
     "id": "seed-chinese-portrait-jimeng",
     "slug": "chinese-hanfu-portrait-jimeng",
     "title": "Chinese Hanfu Portrait (Jimeng)",
-    "cover": "/covers/chinese-hanfu-portrait-jimeng.svg",
+    "cover": "covers/chinese-hanfu-portrait-jimeng.svg",
     "model": "jimeng",
     "styles": [
       "illustration",
@@ -2131,7 +2131,7 @@
     "id": "seed-chinese-architecture-jimeng",
     "slug": "chinese-forbidden-city-architecture-jimeng",
     "title": "Chinese Forbidden City Architecture (Jimeng)",
-    "cover": "/covers/chinese-forbidden-city-architecture-jimeng.svg",
+    "cover": "covers/chinese-forbidden-city-architecture-jimeng.svg",
     "model": "jimeng",
     "styles": [
       "realistic",

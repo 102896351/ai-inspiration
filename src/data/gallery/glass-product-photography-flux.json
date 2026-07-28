@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-glass-product-flux",
   "slug": "glass-product-photography-flux",
   "title": "Glass Product Photography (Flux)",
   "description": "Premium glass product photography for e-commerce, brand packaging, and luxury marketing. Detailed lighting and material cues.",
-  "cover": "/covers/glass-product-photography-flux.svg",
+  "cover": "covers/glass-product-photography-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [
@@ -39,12 +39,12 @@
   "tutorial": {
     "intro": "Glass product = \"faceted\" + \"refracting\" + \"rim light\" + named camera. Material science is the magic.",
     "steps": [
-      "Subject: premium glass perfume bottle product photography — premium + glass + product.",
-      "Material: faceted crystal cut glass refracting rainbow light — faceted + refraction = the magic.",
-      "Lighting: single soft top light with rim light — top + rim = luxury product formula.",
-      "Surface: soft shadow on white acrylic surface — clean product surface.",
-      "Detail: condensation droplets on the glass — droplets = fresh/premium.",
-      "Camera: hasselblad h6d photography — named medium format = luxury cue."
+      "Subject: premium glass perfume bottle product photography 鈥?premium + glass + product.",
+      "Material: faceted crystal cut glass refracting rainbow light 鈥?faceted + refraction = the magic.",
+      "Lighting: single soft top light with rim light 鈥?top + rim = luxury product formula.",
+      "Surface: soft shadow on white acrylic surface 鈥?clean product surface.",
+      "Detail: condensation droplets on the glass 鈥?droplets = fresh/premium.",
+      "Camera: hasselblad h6d photography 鈥?named medium format = luxury cue."
     ],
     "tips": "\"Refracting rainbow light\" is the secret. Faceted glass + refracting = automatic visual interest."
   },
@@ -53,7 +53,7 @@
     "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30.",
     "flux": "Flux.1 dev, guidance 3, steps 25.",
     "dall_e": "DALL-E 3: \"A premium glass perfume bottle with faceted crystal refracting light, hasselblad product photography\".",
-    "jimeng_zh": "玻璃香水产品摄影，刻面水晶，折射光，雨滴，哈苏中画幅。"
+    "jimeng_zh": "鐜荤拑棣欐按浜у搧鎽勫奖锛屽埢闈㈡按鏅讹紝鎶樺皠鍏夛紝闆ㄦ淮锛屽搱鑻忎腑鐢诲箙銆?
   },
   "faq": [
     {

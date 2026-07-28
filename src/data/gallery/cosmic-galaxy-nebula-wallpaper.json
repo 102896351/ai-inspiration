@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-cosmic-galaxy-mj",
   "slug": "cosmic-galaxy-nebula-wallpaper",
   "title": "Cosmic Galaxy Nebula Wallpaper",
   "description": "Deep space nebula imagery perfect for 4K wallpapers, science YouTube thumbnails, and meditation content backgrounds.",
-  "cover": "/covers/cosmic-galaxy-nebula-wallpaper.svg",
+  "cover": "covers/cosmic-galaxy-nebula-wallpaper.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -39,11 +39,11 @@
   "tutorial": {
     "intro": "Galaxy imagery needs specific colors + specific reference. \"Hubble telescope\" + \"cyan and magenta\" = real-space feel.",
     "steps": [
-      "Subject: spiral galaxy viewed from above — specify view angle.",
-      "Colors: bright cyan and magenta nebula clouds — name two specific nebula colors.",
-      "Detail: billions of stars, dark matter dust lanes — scale + texture cues.",
-      "Reference: hubble space telescope photograph — name the source telescope.",
-      "Quality: ultra high resolution deep space imagery, 8k uhd — quality anchors."
+      "Subject: spiral galaxy viewed from above 鈥?specify view angle.",
+      "Colors: bright cyan and magenta nebula clouds 鈥?name two specific nebula colors.",
+      "Detail: billions of stars, dark matter dust lanes 鈥?scale + texture cues.",
+      "Reference: hubble space telescope photograph 鈥?name the source telescope.",
+      "Quality: ultra high resolution deep space imagery, 8k uhd 鈥?quality anchors."
     ],
     "tips": "Hubble = real space colors. Without that reference, MJ defaults to fantasy purple."
   },
@@ -52,7 +52,7 @@
     "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"spiral galaxy, nebula, hubble telescope, deep space\"",
     "flux": "Flux handles cosmic imagery very well.",
     "dall_e": "DALL-E 3: \"A spiral galaxy with cyan and magenta nebula clouds, as photographed by the Hubble Space Telescope, 8K\".",
-    "jimeng_zh": "宇宙星系，星云，哈勃望远镜，深空摄影，紫青色，高清 8K。"
+    "jimeng_zh": "瀹囧畽鏄熺郴锛屾槦浜戯紝鍝堝媰鏈涜繙闀滐紝娣辩┖鎽勫奖锛岀传闈掕壊锛岄珮娓?8K銆?
   },
   "faq": [
     {

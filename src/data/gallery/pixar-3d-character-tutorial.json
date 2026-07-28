@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-3d-pixar-character",
   "slug": "pixar-3d-character-tutorial",
   "title": "Pixar 3D Characters: The MJ 6.1 Tutorial",
   "description": "Keyword breakdown for Pixar / Disney-style 3D characters in MJ v6.1, plus cross-platform migration.",
-  "cover": "/covers/pixar-3d-character-tutorial.svg",
+  "cover": "covers/pixar-3d-character-tutorial.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -47,11 +47,11 @@
   "tutorial": {
     "intro": "MJ v6.1 makes great 3D characters, but you must specify the renderer and the style explicitly.",
     "steps": [
-      "Renderer anchor: write \"unreal engine 5\" / \"octane render\" / \"redshift\" / \"blender cycles\" — much stronger than just \"3d\".",
+      "Renderer anchor: write \"unreal engine 5\" / \"octane render\" / \"redshift\" / \"blender cycles\" 鈥?much stronger than just \"3d\".",
       "Style anchor: \"pixar\" / \"disney\" / \"dreamworks\" is 5x more specific than \"3d cartoon\".",
-      "Subject features: adorable 3d character render of a small robot with big expressive eyes — character + body type + key feature.",
-      "Scene: sitting in a flower meadow, holding a tiny lantern — 3D characters always need a setting for context.",
-      "Technical params: soft volumetric lighting + subsurface scattering + bokeh — signals PBR render quality to MJ."
+      "Subject features: adorable 3d character render of a small robot with big expressive eyes 鈥?character + body type + key feature.",
+      "Scene: sitting in a flower meadow, holding a tiny lantern 鈥?3D characters always need a setting for context.",
+      "Technical params: soft volumetric lighting + subsurface scattering + bokeh 鈥?signals PBR render quality to MJ."
     ],
     "tips": "3D renders are the easiest place to slip into \"AI feel\". Adding \"rendered in unreal engine 5, octane\" renderer anchors gives an instant pro look."
   },
@@ -60,7 +60,7 @@
     "stable_diffusion": "Checkpoint: DreamShaper XL / 3D Animation Diffusion\nPrompt: \"3d character, pixar style, masterpiece\"\nNegative: \"2d, flat, anime, realistic\"",
     "flux": "Flux is weaker on 3D style than MJ. Prompt: \"3D rendered character in Pixar style with volumetric lighting, unreal engine\"",
     "dall_e": "DALL-E 3 3D characters are decent but feel more \"commercial illustration\" than \"Pixar animation\".",
-    "jimeng_zh": "皮克斯风格 3D 角色，机器人，草地，花丛，灯笼，体积光，octane 渲染"
+    "jimeng_zh": "鐨厠鏂鏍?3D 瑙掕壊锛屾満鍣ㄤ汉锛岃崏鍦帮紝鑺变笡锛岀伅绗硷紝浣撶Н鍏夛紝octane 娓叉煋"
   },
   "faq": [
     {

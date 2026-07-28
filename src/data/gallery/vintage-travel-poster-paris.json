@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-vintage-poster-mj",
   "slug": "vintage-travel-poster-paris",
   "title": "Vintage Posters: 1950s Paris Travel Poster Prompts",
   "description": "How to write prompts for 1950s vintage travel posters (Paris / NYC / Tokyo), with typography tips.",
-  "cover": "/covers/vintage-travel-poster-paris.svg",
+  "cover": "covers/vintage-travel-poster-paris.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -40,28 +40,28 @@
       },
       {
         "param": "art deco + palette",
-        "why": "art deco is the visual root of 1950s style — must write it."
+        "why": "art deco is the visual root of 1950s style 鈥?must write it."
       }
     ]
   },
   "tutorial": {
     "intro": "Vintage posters live or die on: era + design movement + palette + print texture + type anchor.",
     "steps": [
-      "Era anchor: 1950s / 1960s / 1970s — be specific.",
-      "Design movement: art deco / bauhaus / pop art / psychedelic — anchor to design history.",
-      "Specific content: vintage travel poster of paris, eiffel tower — poster type + place + subject.",
-      "Type: bold sans-serif typography saying \"VISIT PARIS\" — MJ can now render simple English text.",
-      "Palette: warm sunset color palette with mustard yellow, burnt orange, and teal blue — 1950s signature colors.",
-      "Print texture: screen print texture, halftone dots, slight aging — separates \"AI perfect\" from \"real vintage\"."
+      "Era anchor: 1950s / 1960s / 1970s 鈥?be specific.",
+      "Design movement: art deco / bauhaus / pop art / psychedelic 鈥?anchor to design history.",
+      "Specific content: vintage travel poster of paris, eiffel tower 鈥?poster type + place + subject.",
+      "Type: bold sans-serif typography saying \"VISIT PARIS\" 鈥?MJ can now render simple English text.",
+      "Palette: warm sunset color palette with mustard yellow, burnt orange, and teal blue 鈥?1950s signature colors.",
+      "Print texture: screen print texture, halftone dots, slight aging 鈥?separates \"AI perfect\" from \"real vintage\"."
     ],
-    "tips": "MJ v6/v6.1/niji 6 can all render simple English text. For Chinese text, use Ideogram 2.0 — it's currently the best for that."
+    "tips": "MJ v6/v6.1/niji 6 can all render simple English text. For Chinese text, use Ideogram 2.0 鈥?it's currently the best for that."
   },
   "crossModel": {
     "midjourney": "--niji 6 --ar 3:4 --style raw (low stylize preserves the original art feel).",
     "stable_diffusion": "SDXL + Dreamshaper or Proteus\nNegative: \"modern, photorealistic, anime\"",
     "flux": "Flux handles vintage well. Add: \"letterpress printing, vintage paper texture\"",
     "dall_e": "DALL-E 3 vintage is OK but rarely nails the style to the extreme.",
-    "jimeng_zh": "1950 年代复古海报，巴黎，埃菲尔铁塔，art deco 风格，丝网印刷质感，halftone 网点"
+    "jimeng_zh": "1950 骞翠唬澶嶅彜娴锋姤锛屽反榛庯紝鍩冭彶灏旈搧濉旓紝art deco 椋庢牸锛屼笣缃戝嵃鍒疯川鎰燂紝halftone 缃戠偣"
   },
   "faq": [
     {
@@ -70,7 +70,7 @@
     },
     {
       "q": "How to make posters look \"really vintage\"?",
-      "a": "Add \"halftone dots, screen print texture, slight aging\" — these print-process words do the trick."
+      "a": "Add \"halftone dots, screen print texture, slight aging\" 鈥?these print-process words do the trick."
     },
     {
       "q": "Why does my 1950s look like 1980s?",

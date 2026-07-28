@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-cyber-mech-sdxl",
   "slug": "cyber-mech-character-sdxl",
   "title": "Cyber Mech Character Design (SDXL)",
   "description": "Hard-surface cyber mech robot character design. Detailed mechanical breakdown, render style, and LoRA recommendations included.",
-  "cover": "/covers/cyber-mech-character-sdxl.svg",
+  "cover": "covers/cyber-mech-character-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -47,11 +47,11 @@
   "tutorial": {
     "intro": "Mech design needs \"hard surface\" + named software + paint scheme. Generic \"robot\" gets you 1000 stock robots.",
     "steps": [
-      "Trigger: masterpiece cyber mech robot character design — \"masterpiece\" anchors quality.",
-      "Pose: full body standing pose, blueprint overlay in corner — design sheet style.",
-      "Detail: intricate mechanical detail with visible pistons and cables — mechanical breakdown cues.",
-      "Paint: matte gunmetal and orange accent paint scheme — two named colors + finish.",
-      "Render: hard surface render, houdini and keyshot — name real 3D software (Houdini + KeyShot)."
+      "Trigger: masterpiece cyber mech robot character design 鈥?\"masterpiece\" anchors quality.",
+      "Pose: full body standing pose, blueprint overlay in corner 鈥?design sheet style.",
+      "Detail: intricate mechanical detail with visible pistons and cables 鈥?mechanical breakdown cues.",
+      "Paint: matte gunmetal and orange accent paint scheme 鈥?two named colors + finish.",
+      "Render: hard surface render, houdini and keyshot 鈥?name real 3D software (Houdini + KeyShot)."
     ],
     "tips": "Naming real software (Houdini, KeyShot, Blender) makes SDXL render \"real 3D artist\" look, not \"AI\"."
   },
@@ -60,7 +60,7 @@
     "stable_diffusion": "SDXL + JuggernautXL, CFG 7, Steps 35, Sampler DPM++ 2M Karras.",
     "flux": "Flux handles mechanical design well. Same prompt.",
     "dall_e": "DALL-E 3: \"A cyber mech robot character design with hard surface render and blueprint overlay\".",
-    "jimeng_zh": "赛博机甲角色设计，硬表面渲染，蓝图叠加，机械细节，3D 概念图。"
+    "jimeng_zh": "璧涘崥鏈虹敳瑙掕壊璁捐锛岀‖琛ㄩ潰娓叉煋锛岃摑鍥惧彔鍔狅紝鏈烘缁嗚妭锛?D 姒傚康鍥俱€?
   },
   "faq": [
     {

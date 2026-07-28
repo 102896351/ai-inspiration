@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-oil-painting-sdxl",
   "slug": "oil-painting-portrait-sdxl",
   "title": "Classical Oil Painting Portrait (SDXL)",
   "description": "Renaissance-style oil painting portrait with SDXL. Detailed brushwork and chiaroscuro lighting. Use for art history content and classical aesthetics.",
-  "cover": "/covers/oil-painting-portrait-sdxl.svg",
+  "cover": "covers/oil-painting-portrait-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -42,12 +42,12 @@
   "tutorial": {
     "intro": "Classical oil painting needs named artist + lighting term + texture cues. \"Chiaroscuro\" + \"impasto\" = art history knowledge.",
     "steps": [
-      "Trigger: masterpiece oil painting portrait — \"masterpiece\" is the SDXL quality anchor.",
-      "Subject: noblewoman in renaissance attire — specific era + class.",
-      "Light: soft chiaroscuro lighting, single candle light source from the left — chiaroscuro = strong light/dark contrast.",
-      "Texture: visible brushstrokes and impasto texture — \"impasto\" forces thick paint.",
-      "Palette: rich dark palette with deep reds and gold leaf — period color cues.",
-      "Reference: rembrandt inspired, painted on aged canvas — named artist + surface."
+      "Trigger: masterpiece oil painting portrait 鈥?\"masterpiece\" is the SDXL quality anchor.",
+      "Subject: noblewoman in renaissance attire 鈥?specific era + class.",
+      "Light: soft chiaroscuro lighting, single candle light source from the left 鈥?chiaroscuro = strong light/dark contrast.",
+      "Texture: visible brushstrokes and impasto texture 鈥?\"impasto\" forces thick paint.",
+      "Palette: rich dark palette with deep reds and gold leaf 鈥?period color cues.",
+      "Reference: rembrandt inspired, painted on aged canvas 鈥?named artist + surface."
     ],
     "tips": "Chiaroscuro = strong light/dark contrast (Italian for \"light-dark\"). Without it, classical paintings look flat."
   },
@@ -56,7 +56,7 @@
     "stable_diffusion": "SDXL + epiCRealism, CFG 6, Steps 35, Sampler DPM++ 2M Karras.",
     "flux": "Flux handles classical style very well. Same prompt.",
     "dall_e": "DALL-E 3: \"A renaissance oil painting portrait of a noblewoman with chiaroscuro lighting, in the style of Rembrandt\".",
-    "jimeng_zh": "文艺复兴油画肖像，贵族女性，明暗对比，金箔装饰，伦勃朗风格。"
+    "jimeng_zh": "鏂囪壓澶嶅叴娌圭敾鑲栧儚锛岃吹鏃忓コ鎬э紝鏄庢殫瀵规瘮锛岄噾绠旇楗帮紝浼﹀媰鏈楅鏍笺€?
   },
   "faq": [
     {

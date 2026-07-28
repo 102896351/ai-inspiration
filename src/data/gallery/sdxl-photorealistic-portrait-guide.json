@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-portrait-sdxl-juggernaut",
   "slug": "sdxl-photorealistic-portrait-guide",
   "title": "SDXL Photorealistic Portraits: The Complete Guide",
   "description": "Generate commercial-grade photorealistic portraits with SDXL. The key is choosing the right checkpoint + sampler params + ControlNet, not the prompt itself.",
-  "cover": "/covers/sdxl-photorealistic-portrait-guide.svg",
+  "cover": "covers/sdxl-photorealistic-portrait-guide.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -33,7 +33,7 @@
     "explained": [
       {
         "param": "Checkpoint: JuggernautXL v9",
-        "why": "The strongest SDXL model for photorealistic portraits — top-tier realism and skin texture. Alternatives: RealVisXL / epiCRealism."
+        "why": "The strongest SDXL model for photorealistic portraits 鈥?top-tier realism and skin texture. Alternatives: RealVisXL / epiCRealism."
       },
       {
         "param": "Steps 30, CFG 7",
@@ -58,14 +58,14 @@
       "Sampler params: Steps 30, CFG 7, Sampler DPM++ 2M Karras, Size 832x1216 (portrait vertical).",
       "Post-processing: ADetailer for face fix, hires-fix 2x for detail, Topaz Gigapixel for final upscale."
     ],
-    "tips": "Skin texture is the line between \"real\" and \"AI feel\". Adding \"natural skin texture, pores visible\" forces SD to render skin detail — more effective than any LoRA."
+    "tips": "Skin texture is the line between \"real\" and \"AI feel\". Adding \"natural skin texture, pores visible\" forces SD to render skin detail 鈥?more effective than any LoRA."
   },
   "crossModel": {
     "midjourney": "MJ v6.1 realism is strong, but SDXL + JuggernautXL has more detail. MJ prompt: \"professional portrait photograph of a young woman, 85mm lens, bokeh, kodak portra --ar 2:3 --v 6.1\"",
     "stable_diffusion": "Use the rewrite prompt + the 5-step config above for direct generation.",
     "flux": "Flux realism beats SD. Rewrite in natural language: \"A professional portrait of a young woman in her 20s with soft window light, 85mm lens, shallow depth of field\"",
-    "dall_e": "DALL-E 3 realism is good but skin texture feels \"commercially retouched\" — less authentic than SD.",
-    "jimeng_zh": "专业人像摄影，年轻女性，85mm 镜头，浅景深，自然光，柯达克 Portra 400 胶片质感"
+    "dall_e": "DALL-E 3 realism is good but skin texture feels \"commercially retouched\" 鈥?less authentic than SD.",
+    "jimeng_zh": "涓撲笟浜哄儚鎽勫奖锛屽勾杞诲コ鎬э紝85mm 闀滃ご锛屾祬鏅繁锛岃嚜鐒跺厜锛屾煰杈惧厠 Portra 400 鑳剁墖璐ㄦ劅"
   },
   "faq": [
     {
@@ -77,7 +77,7 @@
       "a": "Photorealism: 6-8. Anime: 7-10. Concept art: 9-12. CFG > 12 usually oversaturates."
     },
     {
-      "q": "Steps 30 vs 50 — big difference?",
+      "q": "Steps 30 vs 50 鈥?big difference?",
       "a": "DPM++ 2M Karras converges by step 25-30. 50 just takes longer with no clear improvement."
     },
     {

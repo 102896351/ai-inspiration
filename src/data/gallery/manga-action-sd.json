@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-manga-action-sd",
   "slug": "manga-action-sd",
   "title": "Manga Action Scenes: Speed & Drama",
   "description": "How to generate dynamic manga action scenes with SDXL. Speed lines, motion blur, and dramatic posing.",
-  "cover": "/covers/manga-action-sd.svg",
+  "cover": "covers/manga-action-sd.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -45,12 +45,12 @@
   "tutorial": {
     "intro": "Manga action scenes live on speed lines + motion blur + dramatic posing. AI does all three if you cue them.",
     "steps": [
-      "Action: samurai mid sword slash — the \"frozen in time\" pose is key.",
-      "Speed lines: speed lines radiating from blade — manga's signature motion indicator.",
-      "Motion blur: motion blur on katana, dramatic wind blowing hair and clothing — visual chaos.",
-      "Atmosphere: debris floating in air — sells the impact.",
-      "Style: in the style of demon slayer manga — high-energy, dramatic manga.",
-      "Color: black and white with selective red accent — manga classic + drama highlight."
+      "Action: samurai mid sword slash 鈥?the \"frozen in time\" pose is key.",
+      "Speed lines: speed lines radiating from blade 鈥?manga's signature motion indicator.",
+      "Motion blur: motion blur on katana, dramatic wind blowing hair and clothing 鈥?visual chaos.",
+      "Atmosphere: debris floating in air 鈥?sells the impact.",
+      "Style: in the style of demon slayer manga 鈥?high-energy, dramatic manga.",
+      "Color: black and white with selective red accent 鈥?manga classic + drama highlight."
     ],
     "tips": "Speed lines + motion blur + debris = the \"fast action\" trio. Skip any one and the scene feels slow."
   },
@@ -59,7 +59,7 @@
     "stable_diffusion": "Use the rewrite prompt with AnythingXL.",
     "flux": "Flux handles manga but SD ecosystem is richer.",
     "dall_e": "DALL-E 3 manga is weak.",
-    "jimeng_zh": "漫画动作场景，武士拔刀斩，速度线，运动模糊，鬼灭之刃风格，黑白配红色"
+    "jimeng_zh": "婕敾鍔ㄤ綔鍦烘櫙锛屾澹嫈鍒€鏂╋紝閫熷害绾匡紝杩愬姩妯＄硦锛岄鐏箣鍒冮鏍硷紝榛戠櫧閰嶇孩鑹?
   },
   "faq": [
     {
@@ -68,7 +68,7 @@
     },
     {
       "q": "Why is my action pose stiff?",
-      "a": "Add \"mid slash\" / \"in motion\" / \"frozen in time\" — AI does best with frozen action, not blurred action."
+      "a": "Add \"mid slash\" / \"in motion\" / \"frozen in time\" 鈥?AI does best with frozen action, not blurred action."
     },
     {
       "q": "Best manga style anchor?",

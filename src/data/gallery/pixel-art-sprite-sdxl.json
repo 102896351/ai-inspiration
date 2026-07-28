@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-pixel-art-sdxl",
   "slug": "pixel-art-sprite-sdxl",
   "title": "16-bit Pixel Art Sprite (SDXL)",
   "description": "SNES/Genesis-era 16-bit pixel art character sprite. Perfect for indie game dev content, retro gaming YouTube, and itch.io showcase.",
-  "cover": "/covers/pixel-art-sprite-sdxl.svg",
+  "cover": "covers/pixel-art-sprite-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
@@ -42,10 +42,10 @@
   "tutorial": {
     "intro": "Pixel art = specific resolution + specific color limit + \"transparent background\" + named system.",
     "steps": [
-      "Format: 16-bit pixel art character sprite, 64x64 pixel grid, transparent background — resolution + format.",
-      "Subject: brave knight with sword and shield, side view, 4 frame walk animation strip — character + animation strip.",
-      "Style: snes rpg style, limited 16 color palette — system + color limit.",
-      "Reference: teraria inspired — name a 16-bit-style game."
+      "Format: 16-bit pixel art character sprite, 64x64 pixel grid, transparent background 鈥?resolution + format.",
+      "Subject: brave knight with sword and shield, side view, 4 frame walk animation strip 鈥?character + animation strip.",
+      "Style: snes rpg style, limited 16 color palette 鈥?system + color limit.",
+      "Reference: teraria inspired 鈥?name a 16-bit-style game."
     ],
     "tips": "High CFG (9) is essential for pixel art. Low CFG smooths the pixels into noise. Pixel art NEEDS hard edges."
   },
@@ -54,7 +54,7 @@
     "stable_diffusion": "SDXL + Dreamshaper, CFG 9, Steps 25.",
     "flux": "Flux struggles with pixel art. SDXL or MJ are better.",
     "dall_e": "DALL-E 3: \"A 16-bit pixel art character sprite of a knight with sword and shield, SNES RPG style\".",
-    "jimeng_zh": "16 位像素艺术，骑士角色，RPG 风格，4 帧动画条，64x64 像素网格。"
+    "jimeng_zh": "16 浣嶅儚绱犺壓鏈紝楠戝＋瑙掕壊锛孯PG 椋庢牸锛? 甯у姩鐢绘潯锛?4x64 鍍忕礌缃戞牸銆?
   },
   "faq": [
     {

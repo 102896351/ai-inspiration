@@ -165,7 +165,7 @@ async function main() {
     fs.writeFileSync(path.join(COVERS_DIR, filename), svg, 'utf-8');
     count++;
 
-    const newCover = `/covers/${filename}`;
+    const newCover = `covers/${filename}`;
 
     // Update in index
     if (item.cover !== newCover) { item.cover = newCover; updated++; }

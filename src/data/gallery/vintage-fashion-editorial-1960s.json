@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-vintage-fashion-mj",
   "slug": "vintage-fashion-editorial-1960s",
   "title": "1960s Vintage Fashion Editorial",
   "description": "High-fashion editorial photography in 1960s style. Perfect for fashion magazine layouts, mood boards, and vintage brand marketing.",
-  "cover": "/covers/vintage-fashion-editorial-1960s.svg",
+  "cover": "covers/vintage-fashion-editorial-1960s.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
@@ -43,11 +43,11 @@
   "tutorial": {
     "intro": "Vintage fashion needs named era + named magazine + named photographer. Generic \"vintage fashion\" gets you Pinterest clutter.",
     "steps": [
-      "Magazine + year: vogue paris 1965 — naming the magazine anchors the visual style.",
-      "Outfit: tailored tweed suit and pillbox hat — era-specific clothing cues.",
-      "Pose: contre-joupe pose — French fashion term for \"contrapposto\", gives the body language.",
-      "Color: kodachrome color palette, rich saturated tones — film stock reference for color treatment.",
-      "Photographer: art director richard avedon style — name a specific fashion photographer."
+      "Magazine + year: vogue paris 1965 鈥?naming the magazine anchors the visual style.",
+      "Outfit: tailored tweed suit and pillbox hat 鈥?era-specific clothing cues.",
+      "Pose: contre-joupe pose 鈥?French fashion term for \"contrapposto\", gives the body language.",
+      "Color: kodachrome color palette, rich saturated tones 鈥?film stock reference for color treatment.",
+      "Photographer: art director richard avedon style 鈥?name a specific fashion photographer."
     ],
     "tips": "Vintage = named era + named film + named photographer. Three named references = authentic vintage."
   },
@@ -56,7 +56,7 @@
     "stable_diffusion": "SDXL + epiCRealism\nAdd: \"vogue cover, editorial layout\"",
     "flux": "Flux handles fashion very well. Same prompt.",
     "dall_e": "DALL-E 3: \"A 1965 Vogue Paris fashion editorial photograph of a woman in a tweed suit and pillbox hat, in the style of Richard Avedon\".",
-    "jimeng_zh": "1965 年法国 Vogue 时装大片，定制花呢西装，帽子，戏剧棚拍，复古胶片色调。"
+    "jimeng_zh": "1965 骞存硶鍥?Vogue 鏃惰澶х墖锛屽畾鍒惰姳鍛㈣タ瑁咃紝甯藉瓙锛屾垙鍓ф鎷嶏紝澶嶅彜鑳剁墖鑹茶皟銆?
   },
   "faq": [
     {

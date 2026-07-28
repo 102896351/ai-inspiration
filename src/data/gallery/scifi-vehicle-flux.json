@@ -1,9 +1,9 @@
-{
+﻿{
   "id": "seed-scifi-vehicle-flux",
   "slug": "scifi-vehicle-flux",
   "title": "Sci-Fi Vehicles: Concept Art with Flux",
   "description": "Generate Star Wars / Cyberpunk-style vehicles in Flux. Industrial design + cinematic lighting.",
-  "cover": "/covers/scifi-vehicle-flux.svg",
+  "cover": "covers/scifi-vehicle-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [
@@ -38,18 +38,18 @@
       },
       {
         "param": "unreal engine 5 render",
-        "why": "Renderer anchor — tells Flux to use real-time 3D aesthetic."
+        "why": "Renderer anchor 鈥?tells Flux to use real-time 3D aesthetic."
       }
     ]
   },
   "tutorial": {
     "intro": "Sci-fi vehicles need industrial design + atmospheric setting + cinematic lighting. Flux does all three.",
     "steps": [
-      "Vehicle details: sleek interstellar fighter spacecraft, weathered hull with neon cyan engine glow — specific style + \"used\" feel.",
-      "Surface: detailed mechanical surface — sci-fi vehicles need visible complexity.",
-      "Setting: sitting in a vast industrial hangar with workers — context + scale.",
-      "Lighting: volumetric god rays from above, dust particles in air — Blade Runner 2049 lighting.",
-      "Quality anchor: 8k unreal engine 5 render, artstation trending — pro concept art look."
+      "Vehicle details: sleek interstellar fighter spacecraft, weathered hull with neon cyan engine glow 鈥?specific style + \"used\" feel.",
+      "Surface: detailed mechanical surface 鈥?sci-fi vehicles need visible complexity.",
+      "Setting: sitting in a vast industrial hangar with workers 鈥?context + scale.",
+      "Lighting: volumetric god rays from above, dust particles in air 鈥?Blade Runner 2049 lighting.",
+      "Quality anchor: 8k unreal engine 5 render, artstation trending 鈥?pro concept art look."
     ],
     "tips": "Sci-fi vehicles sell on \"weathered\" + \"neon glow\" + \"atmospheric lighting\". All three = \"this ship has been to war\"."
   },
@@ -58,7 +58,7 @@
     "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"sci-fi spacecraft, hangar, god rays, concept art\"",
     "flux": "Use the rewrite prompt directly. Flux shines for vehicles.",
     "dall_e": "DALL-E 3 is OK.",
-    "jimeng_zh": "科幻载具概念艺术，宇宙战斗机，霓虹青色引擎，工业机库，体积光"
+    "jimeng_zh": "绉戝够杞藉叿姒傚康鑹烘湳锛屽畤瀹欐垬鏂楁満锛岄湏铏归潚鑹插紩鎿庯紝宸ヤ笟鏈哄簱锛屼綋绉厜"
   },
   "faq": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "q": "How to add people for scale?",
-      "a": "Add \"with workers in hangar\" — small figures give massive scale to the ship."
+      "a": "Add \"with workers in hangar\" 鈥?small figures give massive scale to the ship."
     }
   ],
   "source": {
