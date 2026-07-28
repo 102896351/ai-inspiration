@@ -1,0 +1,77 @@
+{
+  "id": "seed-sports-logo-ideogram",
+  "slug": "sports-team-mascot-logo-ideogram",
+  "title": "Sports Team Mascot Logo (Ideogram)",
+  "description": "Bold sports team logo with mascot. Works for esports teams, school athletics, fantasy leagues, and merch design.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sports-logo.webp",
+  "model": "ideogram",
+  "modelVersion": "",
+  "styles": [
+    "logo",
+    "minimalist",
+    "vintage"
+  ],
+  "useCases": [
+    "logo",
+    "marketing",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "logo",
+    "sports",
+    "mascot",
+    "eagle",
+    "collegiate",
+    "ideogram"
+  ],
+  "prompt": {
+    "main": "bold sports team mascot logo, fierce eagle head with spread wings, vintage collegiate style, limited 3-color palette of navy gold and white, text \"STORM HAWKS\" curved below the mascot, vector flat illustration style, isolated on white --ar 1:1",
+    "negative": "photo, realistic, busy, gradient, 3d",
+    "params": "Ideogram 2.0, style Design",
+    "explained": [
+      {
+        "param": "Style: Design",
+        "why": "Design style for vector + logo work."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Sports logo = mascot + \"limited 3-color palette\" + \"vintage collegiate\" + curved text. School/team logos follow these rules.",
+    "steps": [
+      "Mascot: fierce eagle head with spread wings — specific mascot + pose.",
+      "Style: vintage collegiate style — period reference.",
+      "Palette: limited 3-color palette of navy gold and white — name 3 colors max.",
+      "Text: text \"STORM HAWKS\" curved below the mascot — actual name + curved placement.",
+      "Format: vector flat illustration style, isolated on white — vector + flat + clean background."
+    ],
+    "tips": "Real sports logos use 2-4 colors max (for embroidery and printing). Limit your palette in the prompt."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"sports logo, eagle mascot, STORM HAWKS --ar 1:1 --v 6.1 --s 500\".",
+    "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 25. Use Ideogram for text accuracy.",
+    "flux": "Flux is OK. Ideogram is better for text.",
+    "dall_e": "DALL-E 3: \"A bold sports team mascot logo of an eagle head with the text STORM HAWKS, vintage collegiate style, navy gold and white\".",
+    "jimeng_zh": "运动队徽，鹰头吉祥物，文字 \"Storm Hawks\"，复古学院风，三色限制。"
+  },
+  "faq": [
+    {
+      "q": "Why is my team name misspelled?",
+      "a": "Other models struggle with text. Ideogram is the only reliable option for logo text."
+    },
+    {
+      "q": "How many colors for a real logo?",
+      "a": "2-4 colors max. Embroidery, screen printing, and embroidery patches can't do more."
+    },
+    {
+      "q": "Best for esports teams?",
+      "a": "1:1 with mascot + team name + limited palette. Esports logos are aggressive + bold."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/sports-logo",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

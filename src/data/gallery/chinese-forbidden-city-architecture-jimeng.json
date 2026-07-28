@@ -1,0 +1,77 @@
+{
+  "id": "seed-chinese-architecture-jimeng",
+  "slug": "chinese-forbidden-city-architecture-jimeng",
+  "title": "Chinese Forbidden City Architecture (Jimeng)",
+  "description": "Traditional Chinese palace architecture using Jimeng. Strong fit for Chinese travel content, history blogs, and Asian cultural marketing.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/chinese-architecture.webp",
+  "model": "jimeng",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "vintage"
+  ],
+  "useCases": [
+    "blog-header",
+    "wallpaper",
+    "marketing"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "chinese",
+    "architecture",
+    "forbidden-city",
+    "palace",
+    "jimeng",
+    "traditional"
+  ],
+  "prompt": {
+    "main": "北京故宫太和殿特写，红色宫墙金色琉璃瓦，飞檐翘角细节可见，晴朗蓝天白云，游客小人在前景展现建筑宏伟，工笔建筑画风格，传统中国建筑美学",
+    "negative": "现代建筑，西方建筑，卡通，3D，模糊",
+    "params": "Jimeng 3.0, style 写实",
+    "explained": [
+      {
+        "param": "Style: 写实",
+        "why": "写实 (realistic) preset for architectural photography."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Chinese architecture = named building + color palette (red + gold) + \"工笔建筑画\" (architectural painting) style. Jimeng handles it natively.",
+    "steps": [
+      "Building: 北京故宫太和殿特写 — name the building + specific angle.",
+      "Material: 红色宫墙金色琉璃瓦 — red walls + gold tiles = Forbidden City signature.",
+      "Detail: 飞檐翘角细节可见 — flying eaves = traditional Chinese roof.",
+      "Sky: 晴朗蓝天白云 — clear sky for color contrast.",
+      "Scale: 游客小人在前景展现建筑宏伟 — tiny person for scale.",
+      "Style: 工笔建筑画风格 — gongbi architectural painting style."
+    ],
+    "tips": "Forbidden City = red walls + gold tiles + flying eaves. These three together = \"Imperial China\"."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"forbidden city, red walls, gold tiles, flying eaves --ar 16:9 --v 6.1 --s 700\".",
+    "stable_diffusion": "SDXL + RealisticVision. Jimeng is best for Chinese architecture.",
+    "flux": "Flux is OK.",
+    "dall_e": "DALL-E 3: \"A close-up of the Forbidden City Hall of Supreme Harmony, red walls, gold tiles, flying eaves, clear blue sky\".",
+    "jimeng_zh": "北京故宫太和殿特写，红色宫墙金色琉璃瓦，飞檐翘角细节可见，晴朗蓝天白云，游客小人在前景展现建筑宏伟，工笔建筑画风格，传统中国建筑美学。"
+  },
+  "faq": [
+    {
+      "q": "Why does my Chinese building look like a generic temple?",
+      "a": "You forgot \"red walls\" + \"gold tiles\" + \"flying eaves\". These three = Forbidden City specifically."
+    },
+    {
+      "q": "How to show scale?",
+      "a": "Add \"tourist small figure in foreground\". Tiny person + giant building = immediate scale."
+    },
+    {
+      "q": "Best for Chinese travel content?",
+      "a": "16:9 with clear sky + named building + tiny figure. Reads as \"travel China\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/chinese-architecture",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

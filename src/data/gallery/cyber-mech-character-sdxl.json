@@ -1,0 +1,85 @@
+{
+  "id": "seed-cyber-mech-sdxl",
+  "slug": "cyber-mech-character-sdxl",
+  "title": "Cyber Mech Character Design (SDXL)",
+  "description": "Hard-surface cyber mech robot character design. Detailed mechanical breakdown, render style, and LoRA recommendations included.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/cyber-mech.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "concept-art",
+    "realistic",
+    "3d"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 4,
+  "tags": [
+    "mech",
+    "robot",
+    "cyber",
+    "character-design",
+    "sci-fi",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "masterpiece cyber mech robot character design, full body standing pose, intricate mechanical detail with visible pistons and cables, matte gunmetal and orange accent paint scheme, blueprint overlay in corner, concept art, hard surface render, houdini and keyshot --ar 2:3",
+    "negative": "lowres, blurry, organic, soft, cartoon, simple, deformed",
+    "params": "SDXL + JuggernautXL, CFG 7, Steps 35",
+    "explained": [
+      {
+        "param": "Model: JuggernautXL",
+        "why": "JuggernautXL handles hard surface + mechanical detail better than AnythingV5."
+      },
+      {
+        "param": "CFG 7, Steps 35",
+        "why": "Standard 7/35 for mechanical detail. Higher CFG (8-9) sharpens the metal."
+      },
+      {
+        "param": "Sampler: DPM++ 2M Karras",
+        "why": "DPM++ 2M Karras handles clean mechanical edges well."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Mech design needs \"hard surface\" + named software + paint scheme. Generic \"robot\" gets you 1000 stock robots.",
+    "steps": [
+      "Trigger: masterpiece cyber mech robot character design — \"masterpiece\" anchors quality.",
+      "Pose: full body standing pose, blueprint overlay in corner — design sheet style.",
+      "Detail: intricate mechanical detail with visible pistons and cables — mechanical breakdown cues.",
+      "Paint: matte gunmetal and orange accent paint scheme — two named colors + finish.",
+      "Render: hard surface render, houdini and keyshot — name real 3D software (Houdini + KeyShot)."
+    ],
+    "tips": "Naming real software (Houdini, KeyShot, Blender) makes SDXL render \"real 3D artist\" look, not \"AI\"."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"mech robot character design, hard surface, blueprint, houdini style --ar 2:3 --v 6.1 --s 700\".",
+    "stable_diffusion": "SDXL + JuggernautXL, CFG 7, Steps 35, Sampler DPM++ 2M Karras.",
+    "flux": "Flux handles mechanical design well. Same prompt.",
+    "dall_e": "DALL-E 3: \"A cyber mech robot character design with hard surface render and blueprint overlay\".",
+    "jimeng_zh": "赛博机甲角色设计，硬表面渲染，蓝图叠加，机械细节，3D 概念图。"
+  },
+  "faq": [
+    {
+      "q": "Why does my mech look like a transformer?",
+      "a": "You forgot \"hard surface\" + \"blueprint\". Transformers are \"soft surface toys\"; mechs are technical designs."
+    },
+    {
+      "q": "How to get the paint job right?",
+      "a": "Name two specific colors + finish: \"matte gunmetal and orange accent\"."
+    },
+    {
+      "q": "Best for concept art portfolio?",
+      "a": "2:3 + \"blueprint overlay in corner\" = the \"design sheet\" format that concept art directors expect."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/cyber-mech",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

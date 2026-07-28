@@ -1,0 +1,81 @@
+{
+  "id": "seed-aurora-night-mj",
+  "slug": "aurora-borealis-wallpaper",
+  "title": "Aurora Borealis Wallpaper at 21:9",
+  "description": "Ultra-wide 21:9 aurora landscape perfect for ultrawide monitors, presentation backgrounds, and desktop wallpapers.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/aurora-night.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "wallpaper",
+    "photorealistic"
+  ],
+  "useCases": [
+    "wallpaper",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "aurora",
+    "night-sky",
+    "landscape",
+    "ultrawide",
+    "wallpaper",
+    "nature"
+  ],
+  "prompt": {
+    "main": "breathtaking aurora borealis dancing across a starry night sky, vibrant green and purple ribbons of light, snow-capped mountains in the distance, frozen lake reflecting the aurora, milky way visible, ultra wide cinematic composition, national geographic photography style --ar 21:9 --v 6.1 --s 600",
+    "negative": "--no daytime, urban, light pollution, blurry, lowres",
+    "params": "--ar 21:9 --v 6.1 --s 600",
+    "explained": [
+      {
+        "param": "--ar 21:9",
+        "why": "Ultrawide cinema ratio. Matches ultrawide monitors (3440x1440) and Letterboxd-style framing."
+      },
+      {
+        "param": "--s 600",
+        "why": "Mid-high stylize for natural-but-dramatic sky. Lower values get more documentary; higher get more painterly."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Aurora images fail when prompts are too short. The aurora needs verbs (\"dancing\"), colors (\"vibrant green and purple\"), and a reflection (frozen lake) to feel real.",
+    "steps": [
+      "Aurora: breathtaking aurora borealis dancing across a starry night sky — \"dancing\" is the verb that makes it move.",
+      "Color: vibrant green and purple ribbons of light — name two specific aurora colors.",
+      "Foreground: snow-capped mountains in the distance + frozen lake reflecting the aurora — reflections double the impact.",
+      "Bonus: milky way visible — adds cosmic scale.",
+      "Format: ultra wide cinematic composition + national geographic photography style — gives MJ a reference target."
+    ],
+    "tips": "21:9 ratio is the secret sauce. The aurora needs horizontal space to \"flow\" across the image."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt. --ar 21:9 is supported natively.",
+    "stable_diffusion": "SDXL + JuggernautXL\nPrompt as above, add \"8k uhd, raw photo\"\nNegative: cartoon, painting, anime",
+    "flux": "Flux handles aurora very well. Use same prompt, no negative needed.",
+    "dall_e": "DALL-E 3 supports wide ratios. Be specific: \"A 21:9 ultrawide photograph of aurora borealis...\"",
+    "jimeng_zh": "极光夜空，绿色紫色光带，雪山，倒影湖泊，银河，超宽幅电影感。"
+  },
+  "faq": [
+    {
+      "q": "Why does my aurora look fake?",
+      "a": "You forgot the reflection. \"Frozen lake reflecting\" doubles the believability — the sky has to mirror."
+    },
+    {
+      "q": "Best ratio for desktop wallpaper?",
+      "a": "21:9 for ultrawide, 16:9 for standard, 9:16 for phone."
+    },
+    {
+      "q": "How to avoid generic \"stock photo\" feel?",
+      "a": "Add \"national geographic photography style\" or \"shot on Sony A7R IV\" to anchor the visual reference."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/aurora-night",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

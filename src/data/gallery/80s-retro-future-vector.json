@@ -1,0 +1,77 @@
+{
+  "id": "seed-80s-retro-mj",
+  "slug": "80s-retro-future-vector",
+  "title": "80s Retro-Future Vector Aesthetic",
+  "description": "Pure 1980s retro-futurism with chrome, neon grids, and vector suns. Perfect for synthwave music covers, retro-tech branding, and Y2K aesthetic content.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/80s-retro.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "vintage",
+    "illustration",
+    "cyberpunk"
+  ],
+  "useCases": [
+    "social-media",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "80s",
+    "retro",
+    "synthwave",
+    "chrome",
+    "vector",
+    "syd-mead"
+  ],
+  "prompt": {
+    "main": "1980s retro-future vector illustration, chrome geometric sports car driving through neon grid landscape, giant purple sun on horizon with horizontal lines, magenta and cyan color palette, vector flat illustration with chrome reflections, syd mead tron aesthetic --ar 16:9 --v 6.1 --s 900",
+    "negative": "--no modern, photorealistic, organic, rounded",
+    "params": "--ar 16:9 --v 6.1 --s 900",
+    "explained": [
+      {
+        "param": "--s 900",
+        "why": "Max stylize for full 80s aesthetic. Without it, MJ defaults to \"clean\" modern."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "80s retro-future = \"chrome\" + \"neon grid\" + \"vector\" + \"horizontal-lined sun\" + named 80s reference (Syd Mead/Tron).",
+    "steps": [
+      "Era: 1980s retro-future vector illustration — year + style + medium.",
+      "Subject: chrome geometric sports car driving through neon grid landscape — chrome vehicle + grid floor.",
+      "Sun: giant purple sun on horizon with horizontal lines — the \"lined sun\" is the icon.",
+      "Palette: magenta and cyan color palette — name two specific 80s colors.",
+      "Reference: syd mead tron aesthetic — name the artist (Syd Mead designed Tron and Blade Runner)."
+    ],
+    "tips": "The \"horizontal-lined sun\" is the secret sauce. Without it, retro-future looks like generic synthwave."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"1980s retro-future, chrome car, neon grid, vector, syd mead\"",
+    "flux": "Flux is OK for this; Niji 6 also works.",
+    "dall_e": "DALL-E 3: \"A 1980s retro-future vector illustration of a chrome sports car on a neon grid with a giant purple lined sun, Syd Mead aesthetic\".",
+    "jimeng_zh": "80 年代复古未来，铬合金跑车，霓虹网格，紫日横线，西德米德。"
+  },
+  "faq": [
+    {
+      "q": "Why does my retro look like vaporwave?",
+      "a": "Vaporwave is 90s (post-internet). 80s retro-future = \"chrome\" + \"vector\" + \"lined sun\". Different decade, different cues."
+    },
+    {
+      "q": "How to get the chrome look?",
+      "a": "Use \"chrome reflections\" + \"geometric\". Avoid \"metallic\" alone — that gets you generic silver."
+    },
+    {
+      "q": "Best for synthwave music covers?",
+      "a": "16:9 ratio + magenta/cyan + lined sun. Reads as \"synthwave\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/80s-retro-future",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

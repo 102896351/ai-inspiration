@@ -1,0 +1,81 @@
+{
+  "id": "seed-forest-cabin-flux",
+  "slug": "cozy-forest-cabin-autumn-flux",
+  "title": "Cozy Forest Cabin in Autumn (Flux)",
+  "description": "Cozy autumn cabin scene in the forest with warm interior light and chimney smoke. Best for lifestyle, mindfulness, and outdoor brand content.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/forest-cabin.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "blog-header",
+    "wallpaper",
+    "marketing"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "cabin",
+    "forest",
+    "autumn",
+    "cozy",
+    "flux",
+    "lifestyle"
+  ],
+  "prompt": {
+    "main": "cozy wooden log cabin deep in an autumn forest at dusk, warm golden light glowing from the windows, smoke gently rising from the stone chimney, fallen orange and red leaves on the ground, distant misty lake visible through the trees, peaceful and secluded, sony a7iv photography",
+    "negative": "modern building, urban, summer, snow",
+    "params": "Flux.1 dev, guidance 3.5, steps 28",
+    "explained": [
+      {
+        "param": "Guidance 3.5",
+        "why": "Flux uses lower guidance (vs SDXL). 3.5 is the sweet spot for natural scenes."
+      },
+      {
+        "param": "Steps 28",
+        "why": "Flux converges faster than SDXL. 28 steps is enough."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Flux cabins work because of the warm/cool contrast. Warm window light + cool dusk exterior = emotional pull.",
+    "steps": [
+      "Subject: cozy wooden log cabin deep in an autumn forest at dusk — material + setting + time.",
+      "Light: warm golden light glowing from the windows — interior glow = \"home\" cue.",
+      "Detail: smoke gently rising from the stone chimney — chimney smoke = \"active home\".",
+      "Season: fallen orange and red leaves on the ground — autumn color cues.",
+      "Depth: distant misty lake visible through the trees — adds depth + mystery.",
+      "Camera: sony a7iv photography — modern camera = realistic photo."
+    ],
+    "tips": "Flux understands \"warm interior light + cool dusk exterior\" naturally. Use this contrast for cozy scenes."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"cozy wooden cabin, autumn forest, warm light --ar 16:9 --v 6.1 --s 600\".",
+    "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30. Flux prompt needs only minor adaptation.",
+    "flux": "Flux.1 dev, guidance 3.5, steps 28.",
+    "dall_e": "DALL-E 3: \"A cozy wooden cabin deep in an autumn forest at dusk, warm window light, chimney smoke, sony camera photo\".",
+    "jimeng_zh": "森林木屋，秋日黄昏，暖窗灯光，炊烟，索尼摄影。"
+  },
+  "faq": [
+    {
+      "q": "Why does my cabin look like a generic house?",
+      "a": "You forgot \"log cabin\" + \"stone chimney\" + \"warm window light\". These three = cozy cabin."
+    },
+    {
+      "q": "How to make it feel like home?",
+      "a": "Add \"warm window light\" + \"chimney smoke\" + \"distant misty lake\". The combination = \"lived-in\"."
+    },
+    {
+      "q": "Best for mindfulness/lifestyle content?",
+      "a": "16:9 with warm/cool contrast + autumn palette. Reads as \"escape\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/forest-cabin",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

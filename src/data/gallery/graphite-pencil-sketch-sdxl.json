@@ -1,0 +1,76 @@
+{
+  "id": "seed-pencil-sketch-sdxl",
+  "slug": "graphite-pencil-sketch-sdxl",
+  "title": "Graphite Pencil Sketch (SDXL)",
+  "description": "Hand-drawn graphite pencil portrait sketch. Suitable for art education content, sketchbook inspiration, and character concept iteration.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pencil-sketch.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "realistic"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "pencil",
+    "sketch",
+    "graphite",
+    "portrait",
+    "drawing",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "graphite pencil sketch of a thoughtful old man with beard, visible cross-hatching shading, paper texture visible, detailed wrinkles and skin pores, smudged graphite on edges, hand drawn on cream sketchbook paper, classical portrait composition --ar 2:3",
+    "negative": "photo, color, 3d, smooth, digital",
+    "params": "SDXL + Proteus, CFG 7, Steps 30",
+    "explained": [
+      {
+        "param": "Model: Proteus",
+        "why": "Proteus handles graphite texture well."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Pencil sketch = \"graphite\" + \"cross-hatching\" + \"paper texture\" + \"smudged\". Each cue forces the medium.",
+    "steps": [
+      "Medium: graphite pencil sketch of a thoughtful old man with beard — medium + subject.",
+      "Shading: visible cross-hatching shading — cross-hatching is the drawing technique.",
+      "Surface: paper texture visible, hand drawn on cream sketchbook paper — paper grain + color.",
+      "Detail: detailed wrinkles and skin pores — pencil can capture micro-detail.",
+      "Imperfection: smudged graphite on edges — smudges = real hand-drawing."
+    ],
+    "tips": "\"Cross-hatching\" + \"smudged graphite\" + paper texture = real pencil sketch. Without these, it looks like a digital line art."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"graphite pencil sketch, old man, cross-hatching --ar 2:3 --v 6.1 --s 400 --style raw\".",
+    "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 30.",
+    "flux": "Flux handles sketch style well.",
+    "dall_e": "DALL-E 3: \"A graphite pencil sketch of a thoughtful old man with cross-hatching shading, on cream sketchbook paper\".",
+    "jimeng_zh": "石墨铅笔素描，老人肖像，交叉影线，奶油色素描纸，手绘质感。"
+  },
+  "faq": [
+    {
+      "q": "Why does my sketch look like line art?",
+      "a": "You forgot \"cross-hatching\" + \"smudged graphite\". Shading is what separates sketch from line art."
+    },
+    {
+      "q": "How to make it look hand-drawn?",
+      "a": "Add \"paper texture visible\" + \"imperfect lines\" + \"smudged\". Real drawings are imperfect."
+    },
+    {
+      "q": "Best for art tutorials?",
+      "a": "SDXL + Proteus + cream paper reference. Renders well at 1024x1536 for detail."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/pencil-sketch",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

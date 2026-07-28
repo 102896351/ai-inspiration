@@ -1,0 +1,85 @@
+{
+  "id": "seed-anime-schoolgirl-sdxl",
+  "slug": "anime-schoolgirl-spring-sdxl",
+  "title": "Anime School Girl in Spring (SDXL AnythingV5)",
+  "description": "Classic anime school girl portrait in cherry blossom season with SDXL + AnythingV5. Detailed LoRA + sampler settings included.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-schoolgirl.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "anime",
+    "illustration"
+  ],
+  "useCases": [
+    "avatar",
+    "social-media",
+    "illustration"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "anime",
+    "school-girl",
+    "sd-xl",
+    "anythingv5",
+    "cherry-blossom",
+    "sakura"
+  ],
+  "prompt": {
+    "main": "masterpiece, best quality, anime school girl with long black hair and red ribbon, sailor uniform with pleated skirt, holding textbooks, standing under cherry blossom trees in full bloom, falling petals, soft spring sunlight, gentle smile, beautiful detailed eyes --ar 2:3",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, missing fingers, blurry, worst quality, low quality, 3d, realistic",
+    "params": "SDXL + AnythingV5, CFG 7, Steps 30",
+    "explained": [
+      {
+        "param": "Model: AnythingV5",
+        "why": "AnythingV5 is the gold standard for anime SDXL. Strong character work, stable colors."
+      },
+      {
+        "param": "CFG 7, Steps 30",
+        "why": "CFG 7 is the sweet spot for Anything. CFG 5 = flat, CFG 10+ = artifacts. 30 steps is plenty."
+      },
+      {
+        "param": "Sampler: DPM++ 2M Karras",
+        "why": "DPM++ 2M Karras gives clean anime lines. Avoid Euler a for character consistency."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Anime SDXL needs three things: right checkpoint (AnythingV5), right negative, and the magic \"masterpiece, best quality\" trigger.",
+    "steps": [
+      "Checkpoint: SDXL + AnythingV5 (or AOM3, CounterfeitXL). AnythingV5 is the safe default.",
+      "Trigger: start with \"masterpiece, best quality,\" — AnythingV5 was trained on these as quality triggers.",
+      "Subject: anime school girl with long black hair and red ribbon — specific details (ribbon color!).",
+      "Outfit: sailor uniform with pleated skirt — sailor uniform is the anime school staple.",
+      "Atmosphere: standing under cherry blossom trees in full bloom, falling petals, soft spring sunlight — cherry blossom season = spring anime.",
+      "Negative: lowres, bad anatomy, bad hands, extra fingers, missing fingers, blurry — SDXL has hand problems; negative is essential."
+    ],
+    "tips": "\"masterpiece, best quality\" is the trigger phrase for AnythingV5. Don't skip it. For hands, always use \"beautiful detailed hands\" as a positive cue."
+  },
+  "crossModel": {
+    "midjourney": "MJ Niji 6: \"anime school girl, cherry blossoms, red ribbon, sailor uniform --ar 2:3 --niji 6 --s 700\".",
+    "stable_diffusion": "SDXL + AnythingV5, CFG 7, Steps 30, Sampler DPM++ 2M Karras.",
+    "flux": "Flux handles anime but leans less \"anime-style\". Better for semi-realistic anime.",
+    "dall_e": "DALL-E 3: \"An anime-style illustration of a school girl with black hair and red ribbon under cherry blossom trees\".",
+    "jimeng_zh": "动漫校园少女，黑色长发，红色蝴蝶结，水手服，樱花季，即梦二次元风。"
+  },
+  "faq": [
+    {
+      "q": "Why does my anime girl have 6 fingers?",
+      "a": "SDXL hand issues. Add \"beautiful detailed hands, perfect fingers\" to positive prompt AND \"extra fingers, missing fingers\" to negative."
+    },
+    {
+      "q": "Best SDXL checkpoint for anime?",
+      "a": "AnythingV5 is the safe choice. For variety, try CounterfeitXL or AOM3."
+    },
+    {
+      "q": "How to get consistent character?",
+      "a": "Use the same seed + same checkpoint + same CFG. Or train a LoRA on a specific character."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/anime-schoolgirl",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

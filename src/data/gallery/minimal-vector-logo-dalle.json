@@ -1,0 +1,76 @@
+{
+  "id": "seed-minimal-vector-dalle",
+  "slug": "minimal-vector-logo-dalle",
+  "title": "Minimal Vector Logo (DALL-E)",
+  "description": "Clean minimal vector logo for startup branding, indie SaaS, and design portfolios. DALL-E 3 Vivid style for crisp design.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/minimal-vector-dalle.webp",
+  "model": "dall-e",
+  "modelVersion": "",
+  "styles": [
+    "logo",
+    "minimalist"
+  ],
+  "useCases": [
+    "logo",
+    "marketing",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "logo",
+    "vector",
+    "minimalist",
+    "tech",
+    "startup",
+    "dalle"
+  ],
+  "prompt": {
+    "main": "A modern minimal vector logo for a tech startup called \"AURA\", featuring a stylized letter A combined with a soft circular gradient shape in indigo and teal, clean geometric design, suitable for app icon and business card, isolated on white background",
+    "negative": "photograph, 3d render, busy, hand drawn",
+    "params": "DALL-E 3, style Vivid",
+    "explained": [
+      {
+        "param": "Style: Vivid",
+        "why": "Vivid style for clean graphic design. Better than Natural for logos."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "DALL-E 3 + Vivid style = clean modern logo. Write as natural language with the brand name in quotes.",
+    "steps": [
+      "Format: A modern minimal vector logo for a tech startup called \"AURA\" — format + brand name.",
+      "Design: featuring a stylized letter A combined with a soft circular gradient shape — mark concept.",
+      "Color: indigo and teal — named colors.",
+      "Use: suitable for app icon and business card — use cases.",
+      "Background: isolated on white background — clean background."
+    ],
+    "tips": "For logos: Vivid style + brand name in quotes + use case (\"app icon\"). DALL-E renders all three well."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"minimal vector logo, AURA tech, indigo teal --ar 1:1 --v 6.1 --s 400\".",
+    "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 25. Use Ideogram for text accuracy.",
+    "flux": "Flux is OK.",
+    "dall_e": "DALL-E 3, style Vivid. Same prompt as written.",
+    "jimeng_zh": "极简矢量 logo，科技初创 \"AURA\"，靛蓝青绿渐变，几何字母 A。"
+  },
+  "faq": [
+    {
+      "q": "Why is my brand name misspelled?",
+      "a": "DALL-E 3 is much better than MJ/SDXL for text, but still not perfect. Verify before using."
+    },
+    {
+      "q": "Best for startup branding?",
+      "a": "1:1 + Vivid style + simple letter mark + named use case. Reads as \"professional logo\" instantly."
+    },
+    {
+      "q": "How to ensure scalability?",
+      "a": "Vector in prompt + simple shapes. SDXL + Proteus gives best vector output."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/minimal-vector",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

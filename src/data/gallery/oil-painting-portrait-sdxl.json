@@ -1,0 +1,81 @@
+{
+  "id": "seed-oil-painting-sdxl",
+  "slug": "oil-painting-portrait-sdxl",
+  "title": "Classical Oil Painting Portrait (SDXL)",
+  "description": "Renaissance-style oil painting portrait with SDXL. Detailed brushwork and chiaroscuro lighting. Use for art history content and classical aesthetics.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/oil-painting.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "oil-painting",
+    "vintage"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 4,
+  "tags": [
+    "oil-painting",
+    "renaissance",
+    "classical",
+    "chiaroscuro",
+    "rembrandt",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "masterpiece oil painting portrait of a noblewoman in renaissance attire, soft chiaroscuro lighting, visible brushstrokes and impasto texture, rich dark palette with deep reds and gold leaf, single candle light source from the left, rembrandt inspired, painted on aged canvas --ar 2:3",
+    "negative": "photo, 3d, anime, modern, clean lines, smooth surface",
+    "params": "SDXL + epiCRealism, CFG 6, Steps 35",
+    "explained": [
+      {
+        "param": "Model: epiCRealism",
+        "why": "epiCRealism handles classical painting style well. JuggernautXL also works."
+      },
+      {
+        "param": "CFG 6, Steps 35",
+        "why": "Lower CFG (6) lets SDXL breathe with painterly styles. Higher CFG loses the brushwork."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Classical oil painting needs named artist + lighting term + texture cues. \"Chiaroscuro\" + \"impasto\" = art history knowledge.",
+    "steps": [
+      "Trigger: masterpiece oil painting portrait — \"masterpiece\" is the SDXL quality anchor.",
+      "Subject: noblewoman in renaissance attire — specific era + class.",
+      "Light: soft chiaroscuro lighting, single candle light source from the left — chiaroscuro = strong light/dark contrast.",
+      "Texture: visible brushstrokes and impasto texture — \"impasto\" forces thick paint.",
+      "Palette: rich dark palette with deep reds and gold leaf — period color cues.",
+      "Reference: rembrandt inspired, painted on aged canvas — named artist + surface."
+    ],
+    "tips": "Chiaroscuro = strong light/dark contrast (Italian for \"light-dark\"). Without it, classical paintings look flat."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"renaissance oil painting portrait, chiaroscuro, rembrandt --ar 2:3 --v 6.1 --s 800\".",
+    "stable_diffusion": "SDXL + epiCRealism, CFG 6, Steps 35, Sampler DPM++ 2M Karras.",
+    "flux": "Flux handles classical style very well. Same prompt.",
+    "dall_e": "DALL-E 3: \"A renaissance oil painting portrait of a noblewoman with chiaroscuro lighting, in the style of Rembrandt\".",
+    "jimeng_zh": "文艺复兴油画肖像，贵族女性，明暗对比，金箔装饰，伦勃朗风格。"
+  },
+  "faq": [
+    {
+      "q": "Why does my painting look digital?",
+      "a": "You forgot \"impasto\" + \"visible brushstrokes\" + \"painted on aged canvas\". These force the painterly texture."
+    },
+    {
+      "q": "How to get chiaroscuro?",
+      "a": "Name it explicitly: \"chiaroscuro lighting\" or \"single light source from the left\"."
+    },
+    {
+      "q": "Best for art history content?",
+      "a": "SDXL + epiCRealism + Renaissance references. Renders at 1024x1536 for high quality."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/oil-painting-master",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

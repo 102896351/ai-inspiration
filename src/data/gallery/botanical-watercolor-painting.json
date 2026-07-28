@@ -1,0 +1,81 @@
+{
+  "id": "seed-botanical-watercolor-mj",
+  "slug": "botanical-watercolor-painting",
+  "title": "Botanical Watercolor Painting",
+  "description": "Hand-painted watercolor botanical illustration in vintage scientific style. Perfect for wedding stationery, herbal tea packaging, and Pinterest content.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/botanical-watercolor.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "watercolor",
+    "vintage"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "botanical",
+    "watercolor",
+    "vintage",
+    "flowers",
+    "illustration",
+    "wedding"
+  ],
+  "prompt": {
+    "main": "vintage botanical watercolor illustration of wild roses and eucalyptus, hand-painted in 19th century scientific illustration style, soft watercolor washes on aged paper, delicate pencil linework, muted earthy palette of sage green and dusty rose --ar 2:3 --v 6.1 --s 800",
+    "negative": "--no photo, 3d, digital, harsh colors",
+    "params": "--ar 2:3 --v 6.1 --s 800",
+    "explained": [
+      {
+        "param": "--ar 2:3",
+        "why": "Vertical for botanical print tradition. Matches vintage book plate format."
+      },
+      {
+        "param": "--s 800",
+        "why": "High stylize for painterly feel. Lower values get too photographic."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Botanical watercolor = 19th century reference + specific plants + muted palette + paper texture.",
+    "steps": [
+      "Era + style: vintage botanical watercolor illustration, 19th century scientific illustration style — period + purpose.",
+      "Subject: wild roses and eucalyptus — specific plants (not \"flowers\").",
+      "Paint: soft watercolor washes on aged paper — paint medium + surface.",
+      "Line: delicate pencil linework — the underdrawing matters for botanical.",
+      "Color: muted earthy palette of sage green and dusty rose — three named muted colors."
+    ],
+    "tips": "Botanical watercolor = \"19th century\" + \"scientific\" + named plant + muted palette. Skip any one and it goes generic."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + Proteus\nPrompt: \"botanical watercolor, vintage scientific illustration, wild roses\"",
+    "flux": "Flux handles this style well.",
+    "dall_e": "DALL-E 3: \"A vintage botanical watercolor illustration of wild roses and eucalyptus in 19th century scientific style\".",
+    "jimeng_zh": "植物水彩画，19 世纪科学插画风格，野生玫瑰，桉树叶，褪色纸面。"
+  },
+  "faq": [
+    {
+      "q": "Why does my botanical look modern?",
+      "a": "You forgot the era. \"19th century scientific illustration\" forces period authenticity."
+    },
+    {
+      "q": "Best for wedding stationery?",
+      "a": "2:3 ratio + soft palette + named plants. Wedding planners love this aesthetic."
+    },
+    {
+      "q": "How to keep colors muted?",
+      "a": "Use \"muted earthy palette\" + name 2-3 specific muted colors (sage, dusty rose, ochre)."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/botanical-watercolor",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

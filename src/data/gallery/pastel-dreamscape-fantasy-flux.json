@@ -1,0 +1,78 @@
+{
+  "id": "seed-pastel-dreamscape-flux",
+  "slug": "pastel-dreamscape-fantasy-flux",
+  "title": "Pastel Dreamscape Fantasy (Flux)",
+  "description": "Soft pastel fantasy dreamscape perfect for meditation apps, ethereal branding, and Pinterest mood boards.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pastel-dreamscape.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "anime",
+    "concept-art"
+  ],
+  "useCases": [
+    "wallpaper",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "pastel",
+    "dreamscape",
+    "fantasy",
+    "ghibli",
+    "ethereal",
+    "flux"
+  ],
+  "prompt": {
+    "main": "soft pastel dreamscape with floating islands, gentle waterfalls falling into the clouds, giant pastel pink and lavender flowers, tiny deer with antlers made of crystal, soft golden hour light, dreamy ethereal atmosphere, studio ghibli inspired",
+    "negative": "dark, horror, sharp, saturated, modern",
+    "params": "Flux.1 dev, guidance 3.5, steps 28",
+    "explained": [
+      {
+        "param": "Guidance 3.5",
+        "why": "Mid-low guidance for dreamy softness. Higher guidance sharpens too much."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Pastel dreamscape = \"floating islands\" + \"soft golden hour\" + named color palette + Ghibli reference. Skip any one and it goes generic.",
+    "steps": [
+      "Concept: soft pastel dreamscape with floating islands — the floating island is the dreamscape signature.",
+      "Water: gentle waterfalls falling into the clouds — water + clouds = soft fantasy.",
+      "Flora: giant pastel pink and lavender flowers — named pastel colors + scale.",
+      "Character: tiny deer with antlers made of crystal — small character + crystal detail.",
+      "Light: soft golden hour light, dreamy ethereal atmosphere — golden hour + dreamy.",
+      "Reference: studio ghibli inspired — Ghibli = soft fantasy master."
+    ],
+    "tips": "Flux handles \"soft\" cues well. \"Soft\" + named pastels = automatic Ghibli vibe."
+  },
+  "crossModel": {
+    "midjourney": "MJ Niji 6: \"pastel dreamscape, floating islands, ghibli --ar 16:9 --niji 6 --s 850\".",
+    "stable_diffusion": "SDXL + CounterfeitXL with LoRA: \"ghibli_style\".",
+    "flux": "Flux.1 dev, guidance 3.5, steps 28.",
+    "dall_e": "DALL-E 3: \"A pastel dreamscape with floating islands, gentle waterfalls, giant pink flowers, and a tiny deer with crystal antlers, Ghibli inspired\".",
+    "jimeng_zh": "柔和粉彩梦境，浮空岛，云中瀑布，水晶鹿角，治愈吉卜力风。"
+  },
+  "faq": [
+    {
+      "q": "Why does my dreamscape look harsh?",
+      "a": "You forgot \"soft\" + \"dreamy ethereal\" + pastel palette. Softness is the entire style."
+    },
+    {
+      "q": "How to get the Ghibli feel?",
+      "a": "Use \"studio ghibli inspired\" + \"soft golden hour\" + scale contrast (tiny character + giant nature)."
+    },
+    {
+      "q": "Best for meditation apps?",
+      "a": "16:9 with soft palette + gentle motion elements. Reads as \"calm\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/pastel-dreamscape",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

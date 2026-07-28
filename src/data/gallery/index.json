@@ -827,5 +827,1330 @@
       "watercolor"
     ],
     "description": "Generate charming children book illustrations in MJ Niji 6. Cuteness + simplicity + warmth."
+  },
+  {
+    "id": "seed-steampunk-airship-mj",
+    "slug": "steampunk-airship-clouds",
+    "title": "Steampunk Airship Over the Clouds",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/steampunk-airship.webp",
+    "model": "midjourney",
+    "styles": [
+      "concept-art",
+      "realistic",
+      "vintage"
+    ],
+    "useCases": [
+      "blog-header",
+      "social-media",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "steampunk",
+      "airship",
+      "victorian",
+      "fantasy",
+      "mechanical",
+      "ghibli"
+    ],
+    "description": "Build a Victorian-era airship scene with brass details, dramatic clouds, and golden hour lighting. Strong fit for book covers and fantasy game art."
+  },
+  {
+    "id": "seed-aurora-night-mj",
+    "slug": "aurora-borealis-wallpaper",
+    "title": "Aurora Borealis Wallpaper at 21:9",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/aurora-night.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "wallpaper",
+      "photorealistic"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "aurora",
+      "night-sky",
+      "landscape",
+      "ultrawide",
+      "wallpaper",
+      "nature"
+    ],
+    "description": "Ultra-wide 21:9 aurora landscape perfect for ultrawide monitors, presentation backgrounds, and desktop wallpapers."
+  },
+  {
+    "id": "seed-macro-insect-mj",
+    "slug": "macro-insect-dewdrops",
+    "title": "Macro Insect Photography with Dewdrops",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/macro-insect.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "blog-header",
+      "social-media",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "macro",
+      "insect",
+      "nature",
+      "photography",
+      "dewdrops"
+    ],
+    "description": "Close-up macro-style insect shots with dewdrops, suitable for biology textbooks, nature magazine covers, and stock photography."
+  },
+  {
+    "id": "seed-vintage-fashion-mj",
+    "slug": "vintage-fashion-editorial-1960s",
+    "title": "1960s Vintage Fashion Editorial",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-fashion.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "vintage",
+      "photorealistic"
+    ],
+    "useCases": [
+      "marketing",
+      "social-media",
+      "blog-header"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "fashion",
+      "editorial",
+      "vintage",
+      "1960s",
+      "magazine",
+      "vogue"
+    ],
+    "description": "High-fashion editorial photography in 1960s style. Perfect for fashion magazine layouts, mood boards, and vintage brand marketing."
+  },
+  {
+    "id": "seed-coffee-shop-mj",
+    "slug": "cozy-coffee-shop-interior",
+    "title": "Cozy Coffee Shop Interior for Lifestyle Branding",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/coffee-shop.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "coffee",
+      "interior",
+      "cozy",
+      "lifestyle",
+      "cafe",
+      "autumn"
+    ],
+    "description": "Warm, inviting coffee shop scenes for cafe branding, lifestyle blog headers, and travel content. Reads as \"third place\" instantly."
+  },
+  {
+    "id": "seed-90s-anime-mj",
+    "slug": "90s-anime-screenshot-evangelion",
+    "title": "90s Anime Screenshot (Evangelion Style)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/90s-anime.webp",
+    "model": "midjourney",
+    "styles": [
+      "anime",
+      "vintage",
+      "illustration"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "anime",
+      "90s",
+      "evangelion",
+      "cel-animation",
+      "nostalgia",
+      "gainax"
+    ],
+    "description": "Recreate the iconic 90s anime aesthetic — cel-shading, film grain, and emotional close-ups. Strong fit for retrospective content and nostalgia posts."
+  },
+  {
+    "id": "seed-clay-3d-mj",
+    "slug": "clay-3d-render-sticker",
+    "title": "Clay 3D Render for Sticker and App Icon Style",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/clay-3d.webp",
+    "model": "midjourney",
+    "styles": [
+      "3d",
+      "illustration",
+      "minimalist"
+    ],
+    "useCases": [
+      "avatar",
+      "social-media",
+      "marketing"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "clay",
+      "3d",
+      "mascot",
+      "icon",
+      "claymation",
+      "cute"
+    ],
+    "description": "Soft, tactile clay 3D look perfect for app icons, stickers, mascots, and Instagram content. Feels handmade but renders clean."
+  },
+  {
+    "id": "seed-glass-morphism-mj",
+    "slug": "glass-morphism-ui-icon",
+    "title": "Glass Morphism UI Icon",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/glass-morphism.webp",
+    "model": "midjourney",
+    "styles": [
+      "minimalist",
+      "3d"
+    ],
+    "useCases": [
+      "avatar",
+      "social-media",
+      "logo"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "glassmorphism",
+      "ui",
+      "icon",
+      "modern",
+      "glass",
+      "gradient"
+    ],
+    "description": "Modern glassmorphism style UI icon for SaaS dashboards, iOS apps, and tech landing pages. Translucent, blurred, premium."
+  },
+  {
+    "id": "seed-vaporwave-mj",
+    "slug": "vaporwave-aesthetic-grid-sunset",
+    "title": "Vaporwave Aesthetic (Grid + Sunset + Palm Trees)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vaporwave.webp",
+    "model": "midjourney",
+    "styles": [
+      "vintage",
+      "illustration",
+      "cyberpunk"
+    ],
+    "useCases": [
+      "social-media",
+      "blog-header",
+      "wallpaper"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "vaporwave",
+      "retro",
+      "80s",
+      "synthwave",
+      "aesthetic",
+      "neon"
+    ],
+    "description": "Iconic 80s/90s vaporwave with pink/purple gradients, perspective grid, and palm trees. Perfect for music album covers and nostalgic YouTube thumbnails."
+  },
+  {
+    "id": "seed-origami-mj",
+    "slug": "origami-paper-crane",
+    "title": "Origami Paper Crane (Wabi-Sabi Style)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/origami.webp",
+    "model": "midjourney",
+    "styles": [
+      "minimalist",
+      "realistic"
+    ],
+    "useCases": [
+      "social-media",
+      "blog-header",
+      "wallpaper"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "origami",
+      "paper",
+      "wabi-sabi",
+      "japanese",
+      "minimalist",
+      "craft"
+    ],
+    "description": "Beautifully lit origami paper craft imagery. Works for craft tutorials, mindfulness content, and minimalist branding."
+  },
+  {
+    "id": "seed-snow-mountain-mj",
+    "slug": "snow-mountain-hiker-sunrise",
+    "title": "Snow Mountain Hiker at Sunrise",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/snow-mountain.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "blog-header",
+      "marketing",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "mountain",
+      "hiking",
+      "adventure",
+      "sunrise",
+      "landscape",
+      "snow"
+    ],
+    "description": "Adventure photography style of a solo hiker on a snow-capped peak. Strong fit for outdoor brand marketing, REI-style blog content, and travel magazines."
+  },
+  {
+    "id": "seed-cosmic-galaxy-mj",
+    "slug": "cosmic-galaxy-nebula-wallpaper",
+    "title": "Cosmic Galaxy Nebula Wallpaper",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/cosmic-galaxy.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "wallpaper",
+      "photorealistic"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "galaxy",
+      "space",
+      "nebula",
+      "hubble",
+      "cosmic",
+      "wallpaper"
+    ],
+    "description": "Deep space nebula imagery perfect for 4K wallpapers, science YouTube thumbnails, and meditation content backgrounds."
+  },
+  {
+    "id": "seed-botanical-watercolor-mj",
+    "slug": "botanical-watercolor-painting",
+    "title": "Botanical Watercolor Painting",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/botanical-watercolor.webp",
+    "model": "midjourney",
+    "styles": [
+      "illustration",
+      "watercolor",
+      "vintage"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "botanical",
+      "watercolor",
+      "vintage",
+      "flowers",
+      "illustration",
+      "wedding"
+    ],
+    "description": "Hand-painted watercolor botanical illustration in vintage scientific style. Perfect for wedding stationery, herbal tea packaging, and Pinterest content."
+  },
+  {
+    "id": "seed-brutalist-mj",
+    "slug": "brutalist-concrete-architecture",
+    "title": "Brutalist Concrete Architecture",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/brutalist.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "minimalist"
+    ],
+    "useCases": [
+      "blog-header",
+      "social-media",
+      "wallpaper"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "brutalist",
+      "architecture",
+      "concrete",
+      "geometric",
+      "minimalist"
+    ],
+    "description": "Monolithic brutalist concrete architecture with dramatic light and shadow. Strong fit for architecture blog content, design magazines, and mood boards."
+  },
+  {
+    "id": "seed-80s-retro-mj",
+    "slug": "80s-retro-future-vector",
+    "title": "80s Retro-Future Vector Aesthetic",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/80s-retro.webp",
+    "model": "midjourney",
+    "styles": [
+      "vintage",
+      "illustration",
+      "cyberpunk"
+    ],
+    "useCases": [
+      "social-media",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "80s",
+      "retro",
+      "synthwave",
+      "chrome",
+      "vector",
+      "syd-mead"
+    ],
+    "description": "Pure 1980s retro-futurism with chrome, neon grids, and vector suns. Perfect for synthwave music covers, retro-tech branding, and Y2K aesthetic content."
+  },
+  {
+    "id": "seed-pet-portrait-mj",
+    "slug": "pet-portrait-photography",
+    "title": "Pet Portrait Photography (Studio Style)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pet-portrait.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "pet",
+      "dog",
+      "portrait",
+      "photography",
+      "studio",
+      "golden-retriever"
+    ],
+    "description": "Professional pet portrait photography style. Use for pet brand marketing, vet clinic decor, and animal shelter promotional content."
+  },
+  {
+    "id": "seed-forest-spirit-mj",
+    "slug": "forest-spirit-anime-fantasy",
+    "title": "Mystical Forest Spirit (Anime Fantasy)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/forest-spirit.webp",
+    "model": "midjourney",
+    "styles": [
+      "anime",
+      "illustration",
+      "concept-art"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "forest",
+      "spirit",
+      "fantasy",
+      "ghibli",
+      "anime",
+      "mystical"
+    ],
+    "description": "Studio Ghibli-style mystical forest spirit character. Works for fantasy book covers, RPG character art, and ethereal social media content."
+  },
+  {
+    "id": "seed-storm-chasing-mj",
+    "slug": "storm-chasing-supercell",
+    "title": "Storm Chasing: Supercell Photography",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/storm-chasing.webp",
+    "model": "midjourney",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "blog-header",
+      "social-media",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "storm",
+      "supercell",
+      "lightning",
+      "weather",
+      "photography",
+      "extreme"
+    ],
+    "description": "Dramatic supercell storm photography with lightning. Perfect for weather blog content, YouTube thumbnail, and storm chaser social media."
+  },
+  {
+    "id": "seed-anime-schoolgirl-sdxl",
+    "slug": "anime-schoolgirl-spring-sdxl",
+    "title": "Anime School Girl in Spring (SDXL AnythingV5)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-schoolgirl.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "anime",
+      "illustration"
+    ],
+    "useCases": [
+      "avatar",
+      "social-media",
+      "illustration"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "anime",
+      "school-girl",
+      "sd-xl",
+      "anythingv5",
+      "cherry-blossom",
+      "sakura"
+    ],
+    "description": "Classic anime school girl portrait in cherry blossom season with SDXL + AnythingV5. Detailed LoRA + sampler settings included."
+  },
+  {
+    "id": "seed-oil-painting-sdxl",
+    "slug": "oil-painting-portrait-sdxl",
+    "title": "Classical Oil Painting Portrait (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/oil-painting.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "oil-painting",
+      "vintage"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "oil-painting",
+      "renaissance",
+      "classical",
+      "chiaroscuro",
+      "rembrandt",
+      "sd-xl"
+    ],
+    "description": "Renaissance-style oil painting portrait with SDXL. Detailed brushwork and chiaroscuro lighting. Use for art history content and classical aesthetics."
+  },
+  {
+    "id": "seed-cyber-mech-sdxl",
+    "slug": "cyber-mech-character-sdxl",
+    "title": "Cyber Mech Character Design (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/cyber-mech.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "concept-art",
+      "realistic",
+      "3d"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 4,
+    "tags": [
+      "mech",
+      "robot",
+      "cyber",
+      "character-design",
+      "sci-fi",
+      "sd-xl"
+    ],
+    "description": "Hard-surface cyber mech robot character design. Detailed mechanical breakdown, render style, and LoRA recommendations included."
+  },
+  {
+    "id": "seed-vintage-comic-sdxl",
+    "slug": "vintage-comic-book-panel-sdxl",
+    "title": "Vintage Comic Book Panel (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-comic.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "illustration",
+      "vintage",
+      "concept-art"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "comic",
+      "vintage",
+      "marvel",
+      "1960s",
+      "jack-kirby",
+      "halftone"
+    ],
+    "description": "Silver Age comic book panel with halftone dots, hand-lettered fonts, and dynamic action poses."
+  },
+  {
+    "id": "seed-hyper-food-sdxl",
+    "slug": "hyper-realistic-food-sdxl",
+    "title": "Hyper Realistic Food Photography (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/hyper-food.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "food",
+      "photography",
+      "sushi",
+      "restaurant",
+      "hyper-realistic",
+      "sd-xl"
+    ],
+    "description": "Restaurant-quality food photography for menus, cookbooks, and food blog hero images. Detailed lighting and styling cues."
+  },
+  {
+    "id": "seed-tshirt-design-sdxl",
+    "slug": "vector-tshirt-graphic-sdxl",
+    "title": "Vector T-Shirt Graphic Design (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/tshirt-design.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "illustration",
+      "minimalist"
+    ],
+    "useCases": [
+      "logo",
+      "marketing",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "tshirt",
+      "design",
+      "vector",
+      "kawaii",
+      "print",
+      "sd-xl"
+    ],
+    "description": "Print-ready vector-style t-shirt graphic. Works for merch stores, Etsy shops, and print-on-demand businesses."
+  },
+  {
+    "id": "seed-stained-glass-sdxl",
+    "slug": "gothic-stained-glass-sdxl",
+    "title": "Gothic Stained Glass Window (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/stained-glass.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "illustration",
+      "vintage",
+      "concept-art"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "wallpaper"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "stained-glass",
+      "gothic",
+      "church",
+      "medieval",
+      "chartres",
+      "sd-xl"
+    ],
+    "description": "Medieval-style stained glass window imagery. Strong fit for church content, history blogs, and fantasy game UI."
+  },
+  {
+    "id": "seed-vhs-aesthetic-sdxl",
+    "slug": "vhs-aesthetic-photo-sdxl",
+    "title": "VHS Aesthetic Photo (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vhs-aesthetic.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "vintage",
+      "realistic"
+    ],
+    "useCases": [
+      "social-media",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "vhs",
+      "80s",
+      "retro",
+      "home-video",
+      "analog",
+      "sd-xl"
+    ],
+    "description": "1980s VHS home video aesthetic with scanlines, tracking errors, and color bleed. Perfect for nostalgic YouTube content and Y2K branding."
+  },
+  {
+    "id": "seed-toy-figurine-sdxl",
+    "slug": "cute-toy-figurine-sdxl",
+    "title": "Cute Toy Figurine (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/toy-figurine.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "3d",
+      "illustration",
+      "minimalist"
+    ],
+    "useCases": [
+      "avatar",
+      "marketing",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "toy",
+      "figurine",
+      "pop-mart",
+      "vinyl",
+      "designer",
+      "sd-xl"
+    ],
+    "description": "Blind-box toy figurine aesthetic, popular for designer toy marketing, Funko-style product shots, and social media content."
+  },
+  {
+    "id": "seed-pixel-art-sdxl",
+    "slug": "pixel-art-sprite-sdxl",
+    "title": "16-bit Pixel Art Sprite (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pixel-art.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "illustration",
+      "vintage"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "pixel-art",
+      "16bit",
+      "snes",
+      "retro",
+      "game-asset",
+      "sd-xl"
+    ],
+    "description": "SNES/Genesis-era 16-bit pixel art character sprite. Perfect for indie game dev content, retro gaming YouTube, and itch.io showcase."
+  },
+  {
+    "id": "seed-pencil-sketch-sdxl",
+    "slug": "graphite-pencil-sketch-sdxl",
+    "title": "Graphite Pencil Sketch (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pencil-sketch.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "illustration",
+      "realistic"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "pencil",
+      "sketch",
+      "graphite",
+      "portrait",
+      "drawing",
+      "sd-xl"
+    ],
+    "description": "Hand-drawn graphite pencil portrait sketch. Suitable for art education content, sketchbook inspiration, and character concept iteration."
+  },
+  {
+    "id": "seed-movie-poster-sdxl",
+    "slug": "cinematic-movie-poster-sdxl",
+    "title": "Cinematic Movie Poster (SDXL)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/movie-poster.webp",
+    "model": "stable-diffusion",
+    "styles": [
+      "realistic",
+      "concept-art"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "movie",
+      "poster",
+      "cinematic",
+      "thriller",
+      "noir",
+      "sd-xl"
+    ],
+    "description": "Hollywood-style movie poster for indie film marketing, fan-made art, and concept portfolio. Detailed lighting, typography placement, and color grading."
+  },
+  {
+    "id": "seed-forest-cabin-flux",
+    "slug": "cozy-forest-cabin-autumn-flux",
+    "title": "Cozy Forest Cabin in Autumn (Flux)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/forest-cabin.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "blog-header",
+      "wallpaper",
+      "marketing"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "cabin",
+      "forest",
+      "autumn",
+      "cozy",
+      "flux",
+      "lifestyle"
+    ],
+    "description": "Cozy autumn cabin scene in the forest with warm interior light and chimney smoke. Best for lifestyle, mindfulness, and outdoor brand content."
+  },
+  {
+    "id": "seed-asian-streetfood-flux",
+    "slug": "asian-night-market-street-food-flux",
+    "title": "Asian Night Market Street Food (Flux)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/asian-streetfood.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "blog-header",
+      "social-media",
+      "marketing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "street-food",
+      "asia",
+      "night-market",
+      "taipei",
+      "neon",
+      "flux"
+    ],
+    "description": "Vibrant Asian night market scene with food stalls and neon signs. Best for travel content, food blog heroes, and city guides."
+  },
+  {
+    "id": "seed-glass-product-flux",
+    "slug": "glass-product-photography-flux",
+    "title": "Glass Product Photography (Flux)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/glass-product.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "photorealistic",
+      "minimalist"
+    ],
+    "useCases": [
+      "ecommerce",
+      "marketing",
+      "blog-header"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "product",
+      "glass",
+      "photography",
+      "luxury",
+      "perfume",
+      "flux"
+    ],
+    "description": "Premium glass product photography for e-commerce, brand packaging, and luxury marketing. Detailed lighting and material cues."
+  },
+  {
+    "id": "seed-pastel-dreamscape-flux",
+    "slug": "pastel-dreamscape-fantasy-flux",
+    "title": "Pastel Dreamscape Fantasy (Flux)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pastel-dreamscape.webp",
+    "model": "flux",
+    "styles": [
+      "illustration",
+      "anime",
+      "concept-art"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "pastel",
+      "dreamscape",
+      "fantasy",
+      "ghibli",
+      "ethereal",
+      "flux"
+    ],
+    "description": "Soft pastel fantasy dreamscape perfect for meditation apps, ethereal branding, and Pinterest mood boards."
+  },
+  {
+    "id": "seed-magazine-cover-flux",
+    "slug": "fashion-magazine-cover-flux",
+    "title": "Fashion Magazine Cover (Flux)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/magazine-cover.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "vintage",
+      "photorealistic"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "magazine",
+      "cover",
+      "fashion",
+      "vogue",
+      "editorial",
+      "flux"
+    ],
+    "description": "Editorial magazine cover for fashion industry lookbooks, brand pitch decks, and stylist portfolios."
+  },
+  {
+    "id": "seed-architectural-viz-flux",
+    "slug": "modern-villa-architectural-viz-flux",
+    "title": "Modern Villa Architectural Visualization (Flux)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/architectural-viz.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "minimalist",
+      "photorealistic"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "architecture",
+      "villa",
+      "modern",
+      "minimalist",
+      "visualization",
+      "flux"
+    ],
+    "description": "Photorealistic architectural visualization for real estate marketing, architecture firm portfolios, and luxury home listings."
+  },
+  {
+    "id": "seed-cosplay-flux",
+    "slug": "cosplay-character-photography-flux",
+    "title": "Cosplay Character Photography (Flux)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/cosplay.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "photorealistic"
+    ],
+    "useCases": [
+      "social-media",
+      "marketing",
+      "blog-header"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "cosplay",
+      "wonder-woman",
+      "costume",
+      "character",
+      "convention",
+      "flux"
+    ],
+    "description": "Photorealistic cosplay photography for costume designer portfolios, convention social media, and fandom content."
+  },
+  {
+    "id": "seed-sunset-beach-flux",
+    "slug": "tropical-sunset-beach-wallpaper-flux",
+    "title": "Tropical Sunset Beach Wallpaper (Flux)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sunset-beach.webp",
+    "model": "flux",
+    "styles": [
+      "realistic",
+      "wallpaper",
+      "photorealistic"
+    ],
+    "useCases": [
+      "wallpaper",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "beach",
+      "sunset",
+      "tropical",
+      "bali",
+      "travel",
+      "flux"
+    ],
+    "description": "Tropical beach sunset perfect for travel agency content, vacation rental marketing, and desktop wallpapers."
+  },
+  {
+    "id": "seed-quote-poster-ideogram",
+    "slug": "minimalist-motivational-quote-poster-ideogram",
+    "title": "Minimalist Motivational Quote Poster (Ideogram)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/quote-poster.webp",
+    "model": "ideogram",
+    "styles": [
+      "minimalist",
+      "poster"
+    ],
+    "useCases": [
+      "marketing",
+      "social-media",
+      "logo"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "poster",
+      "typography",
+      "quote",
+      "minimalist",
+      "ideogram",
+      "motivational"
+    ],
+    "description": "Clean typographic motivational poster for Instagram, office wall art, and print-on-demand stores. Ideogram 2.0 excels at readable text."
+  },
+  {
+    "id": "seed-book-cover-ideogram",
+    "slug": "thriller-book-cover-ideogram",
+    "title": "Thriller Book Cover (Ideogram)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/book-cover.webp",
+    "model": "ideogram",
+    "styles": [
+      "poster",
+      "minimalist",
+      "vintage"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "book",
+      "cover",
+      "thriller",
+      "typography",
+      "ideogram",
+      "design"
+    ],
+    "description": "Best-selling thriller book cover design with bold typography. Useful for self-publishing authors and design portfolios."
+  },
+  {
+    "id": "seed-sports-logo-ideogram",
+    "slug": "sports-team-mascot-logo-ideogram",
+    "title": "Sports Team Mascot Logo (Ideogram)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sports-logo.webp",
+    "model": "ideogram",
+    "styles": [
+      "logo",
+      "minimalist",
+      "vintage"
+    ],
+    "useCases": [
+      "logo",
+      "marketing",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "logo",
+      "sports",
+      "mascot",
+      "eagle",
+      "collegiate",
+      "ideogram"
+    ],
+    "description": "Bold sports team logo with mascot. Works for esports teams, school athletics, fantasy leagues, and merch design."
+  },
+  {
+    "id": "seed-wedding-invitation-ideogram",
+    "slug": "elegant-wedding-invitation-ideogram",
+    "title": "Elegant Wedding Invitation (Ideogram)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/wedding-invitation.webp",
+    "model": "ideogram",
+    "styles": [
+      "illustration",
+      "minimalist",
+      "watercolor"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "wedding",
+      "invitation",
+      "typography",
+      "floral",
+      "elegant",
+      "ideogram"
+    ],
+    "description": "Wedding invitation design with floral elements and elegant typography. Suitable for wedding planners and stationery designers."
+  },
+  {
+    "id": "seed-tech-conference-ideogram",
+    "slug": "tech-conference-banner-ideogram",
+    "title": "Tech Conference Banner (Ideogram)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/tech-conference.webp",
+    "model": "ideogram",
+    "styles": [
+      "minimalist",
+      "concept-art"
+    ],
+    "useCases": [
+      "marketing",
+      "social-media",
+      "blog-header"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "banner",
+      "tech",
+      "conference",
+      "event",
+      "modern",
+      "ideogram"
+    ],
+    "description": "Modern tech conference banner for event marketing, social media ads, and SaaS landing pages."
+  },
+  {
+    "id": "seed-restaurant-sign-ideogram",
+    "slug": "italian-restaurant-neon-sign-ideogram",
+    "title": "Italian Restaurant Neon Sign (Ideogram)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/restaurant-sign.webp",
+    "model": "ideogram",
+    "styles": [
+      "vintage",
+      "poster",
+      "logo"
+    ],
+    "useCases": [
+      "logo",
+      "marketing",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "restaurant",
+      "neon",
+      "sign",
+      "vintage",
+      "italian",
+      "ideogram"
+    ],
+    "description": "Vintage Italian restaurant neon sign design for branding mood boards, pizzeria marketing, and small business logos."
+  },
+  {
+    "id": "seed-watercolor-botanical-dalle",
+    "slug": "soft-watercolor-botanical-dalle",
+    "title": "Soft Watercolor Botanical (DALL-E)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/watercolor-botanical-dalle.webp",
+    "model": "dall-e",
+    "styles": [
+      "watercolor",
+      "illustration",
+      "minimalist"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "marketing"
+    ],
+    "difficulty": 1,
+    "tags": [
+      "watercolor",
+      "botanical",
+      "eucalyptus",
+      "floral",
+      "dalle",
+      "painting"
+    ],
+    "description": "Soft watercolor botanical illustration using DALL-E 3. Use for greeting cards, plant shop branding, and calming content."
+  },
+  {
+    "id": "seed-minimal-vector-dalle",
+    "slug": "minimal-vector-logo-dalle",
+    "title": "Minimal Vector Logo (DALL-E)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/minimal-vector-dalle.webp",
+    "model": "dall-e",
+    "styles": [
+      "logo",
+      "minimalist"
+    ],
+    "useCases": [
+      "logo",
+      "marketing",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "logo",
+      "vector",
+      "minimalist",
+      "tech",
+      "startup",
+      "dalle"
+    ],
+    "description": "Clean minimal vector logo for startup branding, indie SaaS, and design portfolios. DALL-E 3 Vivid style for crisp design."
+  },
+  {
+    "id": "seed-editorial-photo-dalle",
+    "slug": "editorial-fashion-photo-dalle",
+    "title": "Editorial Fashion Photo (DALL-E)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/editorial-photo-dalle.webp",
+    "model": "dall-e",
+    "styles": [
+      "realistic",
+      "photorealistic",
+      "vintage"
+    ],
+    "useCases": [
+      "marketing",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "editorial",
+      "fashion",
+      "paris",
+      "street",
+      "film",
+      "dalle"
+    ],
+    "description": "Editorial-quality fashion photograph from DALL-E 3 Natural style. Great for mood boards, lookbook layouts, and brand presentations."
+  },
+  {
+    "id": "seed-collage-surreal-dalle",
+    "slug": "surreal-vintage-collage-dalle",
+    "title": "Surreal Vintage Collage (DALL-E)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/collage-surreal-dalle.webp",
+    "model": "dall-e",
+    "styles": [
+      "illustration",
+      "vintage",
+      "concept-art"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "collage",
+      "surreal",
+      "vintage",
+      "mixed-media",
+      "dalle",
+      "art"
+    ],
+    "description": "Surrealist mixed-media collage using vintage imagery. Popular for art prints, music album covers, and avant-garde fashion content."
+  },
+  {
+    "id": "seed-chinese-portrait-jimeng",
+    "slug": "chinese-hanfu-portrait-jimeng",
+    "title": "Chinese Hanfu Portrait (Jimeng)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/chinese-portrait.webp",
+    "model": "jimeng",
+    "styles": [
+      "illustration",
+      "vintage",
+      "minimalist"
+    ],
+    "useCases": [
+      "illustration",
+      "blog-header",
+      "social-media"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "chinese",
+      "hanfu",
+      "traditional",
+      "jimeng",
+      "cultural",
+      "portrait"
+    ],
+    "description": "Traditional Chinese hanfu portrait using Jimeng AI. Perfect for Chinese cultural content, hanfu photography, and Asian history blogs."
+  },
+  {
+    "id": "seed-chinese-architecture-jimeng",
+    "slug": "chinese-forbidden-city-architecture-jimeng",
+    "title": "Chinese Forbidden City Architecture (Jimeng)",
+    "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/chinese-architecture.webp",
+    "model": "jimeng",
+    "styles": [
+      "realistic",
+      "vintage"
+    ],
+    "useCases": [
+      "blog-header",
+      "wallpaper",
+      "marketing"
+    ],
+    "difficulty": 2,
+    "tags": [
+      "chinese",
+      "architecture",
+      "forbidden-city",
+      "palace",
+      "jimeng",
+      "traditional"
+    ],
+    "description": "Traditional Chinese palace architecture using Jimeng. Strong fit for Chinese travel content, history blogs, and Asian cultural marketing."
   }
 ]

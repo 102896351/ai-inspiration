@@ -1,0 +1,79 @@
+{
+  "id": "seed-pixel-art-sdxl",
+  "slug": "pixel-art-sprite-sdxl",
+  "title": "16-bit Pixel Art Sprite (SDXL)",
+  "description": "SNES/Genesis-era 16-bit pixel art character sprite. Perfect for indie game dev content, retro gaming YouTube, and itch.io showcase.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pixel-art.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "vintage"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "pixel-art",
+    "16bit",
+    "snes",
+    "retro",
+    "game-asset",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "16-bit pixel art character sprite, brave knight with sword and shield, side view, 4 frame walk animation strip, snes rpg style, limited 16 color palette, transparent background, 64x64 pixel grid, teraria inspired --ar 4:3",
+    "negative": "hd, modern, 3d, smooth, high resolution, anti-aliased",
+    "params": "SDXL + Dreamshaper, CFG 9, Steps 25",
+    "explained": [
+      {
+        "param": "Model: Dreamshaper",
+        "why": "Dreamshaper + high CFG handles pixel art well."
+      },
+      {
+        "param": "CFG 9",
+        "why": "Higher CFG (9) enforces pixel structure. Lower CFG blurs the pixel boundaries."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Pixel art = specific resolution + specific color limit + \"transparent background\" + named system.",
+    "steps": [
+      "Format: 16-bit pixel art character sprite, 64x64 pixel grid, transparent background — resolution + format.",
+      "Subject: brave knight with sword and shield, side view, 4 frame walk animation strip — character + animation strip.",
+      "Style: snes rpg style, limited 16 color palette — system + color limit.",
+      "Reference: teraria inspired — name a 16-bit-style game."
+    ],
+    "tips": "High CFG (9) is essential for pixel art. Low CFG smooths the pixels into noise. Pixel art NEEDS hard edges."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"16-bit pixel art, knight sprite, snes style --ar 4:3 --v 6.1 --s 600\".",
+    "stable_diffusion": "SDXL + Dreamshaper, CFG 9, Steps 25.",
+    "flux": "Flux struggles with pixel art. SDXL or MJ are better.",
+    "dall_e": "DALL-E 3: \"A 16-bit pixel art character sprite of a knight with sword and shield, SNES RPG style\".",
+    "jimeng_zh": "16 位像素艺术，骑士角色，RPG 风格，4 帧动画条，64x64 像素网格。"
+  },
+  "faq": [
+    {
+      "q": "Why does my pixel art look like a small photo?",
+      "a": "You forgot the resolution. \"64x64 pixel grid\" + \"limited color palette\" forces pixel rendering."
+    },
+    {
+      "q": "How to keep the pixel grid clean?",
+      "a": "High CFG (9) + DPM++ SDE sampler. Anti-aliasing ruins pixel art."
+    },
+    {
+      "q": "Best for indie game dev?",
+      "a": "SDXL + Dreamshaper for sprites. Pixel art needs the \"limited palette\" cue."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/pixel-art",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

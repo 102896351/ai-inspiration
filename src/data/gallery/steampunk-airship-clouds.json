@@ -1,0 +1,85 @@
+{
+  "id": "seed-steampunk-airship-mj",
+  "slug": "steampunk-airship-clouds",
+  "title": "Steampunk Airship Over the Clouds",
+  "description": "Build a Victorian-era airship scene with brass details, dramatic clouds, and golden hour lighting. Strong fit for book covers and fantasy game art.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/steampunk-airship.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "concept-art",
+    "realistic",
+    "vintage"
+  ],
+  "useCases": [
+    "blog-header",
+    "social-media",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "steampunk",
+    "airship",
+    "victorian",
+    "fantasy",
+    "mechanical",
+    "ghibli"
+  ],
+  "prompt": {
+    "main": "majestic victorian steampunk airship with brass propellers and copper boilers floating through dramatic golden hour clouds, intricate gear mechanisms visible, billowing smoke from twin smokestacks, detailed hull plating, oil painting atmosphere, howl's moving castle inspired --ar 16:9 --v 6.1 --s 800",
+    "negative": "--no modern elements, plastic, anime, clean lines, minimalist",
+    "params": "--ar 16:9 --v 6.1 --s 800",
+    "explained": [
+      {
+        "param": "--s 800",
+        "why": "High stylize lets MJ add intricate mechanical detail. Steampunk lives or dies on texture density."
+      },
+      {
+        "param": "--v 6.1",
+        "why": "v6.1 handles \"brass/copper/gear\" terminology much better than v5.2."
+      },
+      {
+        "param": "--ar 16:9",
+        "why": "Cinematic widescreen ratio suits sky-bound compositions. Use 1:1 for character-focused steampunk portraits."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Steampunk is detail-driven. Generic \"steampunk\" gets you Victorian boots; \"brass propellers + copper boilers + gear mechanisms\" gets you a real airship.",
+    "steps": [
+      "Anchor subject: majestic victorian steampunk airship — name the era (victorian) and vehicle (airship).",
+      "Add materials: brass propellers, copper boilers, detailed hull plating — these three push MJ from \"balloon\" to \"steampunk vessel\".",
+      "Specify mechanics: intricate gear mechanisms visible, billowing smoke from twin smokestacks — mechanical cues sell the genre.",
+      "Set atmosphere: dramatic golden hour clouds, oil painting atmosphere — natural lighting + painterly style = epic mood.",
+      "Reference: howl's moving castle inspired — naming a specific Ghibli film gives MJ a visual target."
+    ],
+    "tips": "Steampunk = brass + copper + gears + Victorian + steam. Without these five keywords, you get a balloon with random pipes."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt with --s 800. Add --chaos 15 for mechanical variation.",
+    "stable_diffusion": "SDXL + Dreamshaper\nNegative: modern, plastic, clean\nCFG 7, Steps 35, Sampler DPM++ 2M Karras",
+    "flux": "Flux needs the prompt slightly rephrased: \"A massive Victorian airship made of brass and copper, with visible gear mechanisms and twin smokestacks, floating through golden hour clouds, oil painting style\".",
+    "dall_e": "DALL-E 3: \"A detailed steampunk airship with brass and copper details, floating in golden hour clouds, in the style of Howl's Moving Castle\".",
+    "jimeng_zh": "蒸汽朋克飞艇，维多利亚风格，黄铜螺旋桨，铜锅炉，齿轮机构，金色夕阳云层，吉卜力画风。"
+  },
+  "faq": [
+    {
+      "q": "Why does my steampunk image look modern?",
+      "a": "You forgot the \"victorian\" and \"brass/copper\" keywords. Without them, MJ defaults to \"futuristic\"."
+    },
+    {
+      "q": "How to get more mechanical detail?",
+      "a": "Raise --s to 800+ and add \"intricate gear mechanisms, pipes, rivets\". MJ v6.1 reads these terms well."
+    },
+    {
+      "q": "Best aspect ratio for cover art?",
+      "a": "16:9 for video/YouTube. 2:3 for book covers. 1:1 for thumbnails."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/steampunk-airship",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

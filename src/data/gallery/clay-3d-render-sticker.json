@@ -1,0 +1,81 @@
+{
+  "id": "seed-clay-3d-mj",
+  "slug": "clay-3d-render-sticker",
+  "title": "Clay 3D Render for Sticker and App Icon Style",
+  "description": "Soft, tactile clay 3D look perfect for app icons, stickers, mascots, and Instagram content. Feels handmade but renders clean.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/clay-3d.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "3d",
+    "illustration",
+    "minimalist"
+  ],
+  "useCases": [
+    "avatar",
+    "social-media",
+    "marketing"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "clay",
+    "3d",
+    "mascot",
+    "icon",
+    "claymation",
+    "cute"
+  ],
+  "prompt": {
+    "main": "cute claymation style 3d render of a happy avocado character, soft pastel colors, visible fingerprint texture on the clay surface, soft diffused studio lighting, white seamless background, octane render, plasticine texture --ar 1:1 --v 6.1 --s 600",
+    "negative": "--no realistic photo, harsh shadows, sharp edges, metallic",
+    "params": "--ar 1:1 --v 6.1 --s 600",
+    "explained": [
+      {
+        "param": "--ar 1:1",
+        "why": "Square for app icons and Instagram. Clay characters work best centered."
+      },
+      {
+        "param": "--s 600",
+        "why": "Mid stylize keeps the clay aesthetic without going surreal."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Clay 3D = \"claymation\" + \"fingerprint texture\" + \"soft diffused lighting\". Without these three, you get generic 3D.",
+    "steps": [
+      "Style: claymation style 3d render — \"claymation\" is the specific term MJ understands.",
+      "Subject: happy avocado character — pick a specific food/object.",
+      "Texture: visible fingerprint texture on the clay surface — \"fingerprint\" is the magic word for handmade feel.",
+      "Lighting: soft diffused studio lighting, white seamless background — product-photography lighting style.",
+      "Tech: octane render, plasticine texture — naming a renderer + clay type adds polish."
+    ],
+    "tips": "\"Fingerprint texture\" is the secret. Without it, clay 3D looks like smooth plastic."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + DreamShaper\nPrompt: \"clay 3d render, plasticine, fingerprint texture\"",
+    "flux": "Flux handles 3D styles well. Same prompt.",
+    "dall_e": "DALL-E 3: \"A cute claymation 3D render of a happy avocado character with visible fingerprint textures\".",
+    "jimeng_zh": "黏土 3D 渲染，塑料质感，指纹纹理，柔光，食品 IP 风格。"
+  },
+  "faq": [
+    {
+      "q": "Why does my clay look like plastic?",
+      "a": "You forgot \"fingerprint texture\" and \"plasticine\". These are the texture cues MJ needs."
+    },
+    {
+      "q": "Best for app icons?",
+      "a": "Clay 3D reads well at small sizes. Use --ar 1:1 and stick to one character."
+    },
+    {
+      "q": "How to add brand colors?",
+      "a": "Specify \"soft pastel\" + name the colors (mint, peach, sky blue). MJ keeps them muted."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/clay-3d",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "seed-vaporwave-mj",
+  "slug": "vaporwave-aesthetic-grid-sunset",
+  "title": "Vaporwave Aesthetic (Grid + Sunset + Palm Trees)",
+  "description": "Iconic 80s/90s vaporwave with pink/purple gradients, perspective grid, and palm trees. Perfect for music album covers and nostalgic YouTube thumbnails.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vaporwave.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "vintage",
+    "illustration",
+    "cyberpunk"
+  ],
+  "useCases": [
+    "social-media",
+    "blog-header",
+    "wallpaper"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "vaporwave",
+    "retro",
+    "80s",
+    "synthwave",
+    "aesthetic",
+    "neon"
+  ],
+  "prompt": {
+    "main": "vaporwave aesthetic composition, magenta and cyan gradient sky with pixelated sun, neon pink palm trees silhouetted against the sunset, infinite perspective grid floor in classic vaporwave style, japanese text overlay, scanlines and VHS distortion --ar 16:9 --v 6.1 --s 850",
+    "negative": "--no modern, bright natural colors, realistic photo",
+    "params": "--ar 16:9 --v 6.1 --s 850",
+    "explained": [
+      {
+        "param": "--ar 16:9",
+        "why": "YouTube thumbnail and album cover ratio. Vaporwave lives at 16:9."
+      },
+      {
+        "param": "--s 850",
+        "why": "High stylize for full retro-futurist feel. Vaporwave is highly aestheticized."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Vaporwave = magenta + cyan + perspective grid + palm trees + Japanese text + scanlines. Six ingredients, that is it.",
+    "steps": [
+      "Sky: magenta and cyan gradient sky with pixelated sun — two specific colors + pixelated sun.",
+      "Subject: neon pink palm trees silhouetted against the sunset — palm trees are the genre icon.",
+      "Floor: infinite perspective grid floor in classic vaporwave style — the grid is non-negotiable.",
+      "Text: japanese text overlay — Japanese kana/kanji sells the \"lost media\" vibe.",
+      "Texture: scanlines and VHS distortion — analog imperfections = authenticity."
+    ],
+    "tips": "Vaporwave = magenta + cyan + grid + palm + scanlines. Skip the scanlines and it just looks like Miami Vice."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt. --s 900 for extra aesthetic.",
+    "stable_diffusion": "SDXL + Dreamshaper\nPrompt: \"vaporwave, retro aesthetic, perspective grid, palm trees, magenta cyan\"",
+    "flux": "Flux handles vaporwave but leans more \"clean\". Add more imperfection cues.",
+    "dall_e": "DALL-E 3: \"A vaporwave aesthetic image with magenta-cyan gradient sky, pixelated sun, neon palm trees, perspective grid floor, and VHS scanlines\".",
+    "jimeng_zh": "蒸汽波美学，洋红青蓝渐变，霓虹棕榈树，透视网格，VHS 扫描线，80 年代。"
+  },
+  "faq": [
+    {
+      "q": "Why does my vaporwave look like a generic sunset?",
+      "a": "You forgot the perspective grid. The grid is THE vaporwave signature."
+    },
+    {
+      "q": "How to get VHS feel?",
+      "a": "Add \"scanlines, VHS distortion, tracking error\" — these three terms trigger the analog aesthetic."
+    },
+    {
+      "q": "Best for music covers?",
+      "a": "16:9 ratio + 3000x3000px export. The aesthetic translates perfectly to Spotify covers."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/vaporwave",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "seed-restaurant-sign-ideogram",
+  "slug": "italian-restaurant-neon-sign-ideogram",
+  "title": "Italian Restaurant Neon Sign (Ideogram)",
+  "description": "Vintage Italian restaurant neon sign design for branding mood boards, pizzeria marketing, and small business logos.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/restaurant-sign.webp",
+  "model": "ideogram",
+  "modelVersion": "",
+  "styles": [
+    "vintage",
+    "poster",
+    "logo"
+  ],
+  "useCases": [
+    "logo",
+    "marketing",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "restaurant",
+    "neon",
+    "sign",
+    "vintage",
+    "italian",
+    "ideogram"
+  ],
+  "prompt": {
+    "main": "vintage italian restaurant neon sign, glowing red and white neon tubes forming the text \"MAMA MIA\", surrounded by illustrated pizza slice and basil leaves, dark brick wall background, retro 1950s american-italian restaurant aesthetic, signage design --ar 4:5",
+    "negative": "modern, minimal, photo, clean",
+    "params": "Ideogram 2.0, style Design",
+    "explained": [
+      {
+        "param": "Style: Design",
+        "why": "Design style for signage layouts."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Restaurant sign = brand name in quotes + neon tube style + era reference + supporting graphic. Specific = authentic.",
+    "steps": [
+      "Format: vintage italian restaurant neon sign, signage design — format.",
+      "Text: glowing red and white neon tubes forming the text \"MAMA MIA\" — text in quotes + tube medium.",
+      "Graphics: surrounded by illustrated pizza slice and basil leaves — supporting food graphics.",
+      "Background: dark brick wall background — brick = restaurant context.",
+      "Era: retro 1950s american-italian restaurant aesthetic — period reference."
+    ],
+    "tips": "Restaurant sign formula: brand name (neon) + era (1950s/60s) + food graphic + brick background. Follow the formula."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"italian restaurant neon sign, MAMA MIA, 1950s --ar 4:5 --v 6.1 --s 700\".",
+    "stable_diffusion": "SDXL with controlnet. Use Ideogram for text.",
+    "flux": "Flux is OK.",
+    "dall_e": "DALL-E 3: \"A vintage Italian restaurant neon sign reading MAMA MIA in glowing red and white neon, dark brick wall, 1950s aesthetic\".",
+    "jimeng_zh": "意大利餐厅霓虹灯招牌，文字 \"MAMA MIA\"，披萨罗勒叶，砖墙背景，50 年代风。"
+  },
+  "faq": [
+    {
+      "q": "Why is my brand name misspelled?",
+      "a": "Use Ideogram. Neon text especially needs accurate rendering for branding."
+    },
+    {
+      "q": "Best for small business branding?",
+      "a": "4:5 with brand name in neon + supporting graphic. Reads as \"shopfront\" instantly."
+    },
+    {
+      "q": "How to choose color?",
+      "a": "Red = Italian/Chinese. Yellow = American diner. Green = healthy/vegan. Color = cuisine."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/restaurant-sign",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

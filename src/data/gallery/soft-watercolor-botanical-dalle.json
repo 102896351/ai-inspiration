@@ -1,0 +1,78 @@
+{
+  "id": "seed-watercolor-botanical-dalle",
+  "slug": "soft-watercolor-botanical-dalle",
+  "title": "Soft Watercolor Botanical (DALL-E)",
+  "description": "Soft watercolor botanical illustration using DALL-E 3. Use for greeting cards, plant shop branding, and calming content.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/watercolor-botanical-dalle.webp",
+  "model": "dall-e",
+  "modelVersion": "",
+  "styles": [
+    "watercolor",
+    "illustration",
+    "minimalist"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 1,
+  "tags": [
+    "watercolor",
+    "botanical",
+    "eucalyptus",
+    "floral",
+    "dalle",
+    "painting"
+  ],
+  "prompt": {
+    "main": "A delicate watercolor painting of fresh eucalyptus branches with small white baby's breath flowers, soft green and white palette on cream textured paper, loose wet-on-wet technique, gentle natural sunlight, minimalist botanical art for a greeting card",
+    "negative": "photograph, 3d, digital art, harsh, busy",
+    "params": "DALL-E 3, style Natural",
+    "explained": [
+      {
+        "param": "Style: Natural",
+        "why": "DALL-E 3 Natural style is more painterly than Vivid. Perfect for watercolor."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "DALL-E 3 excels at natural language. Write prompts as full sentences, not keyword lists. \"A watercolor painting of...\" works better than \"watercolor, painting, soft\".",
+    "steps": [
+      "Format: A delicate watercolor painting of fresh eucalyptus branches — full sentence + specific plant.",
+      "Details: small white baby's breath flowers — secondary plant.",
+      "Palette: soft green and white palette on cream textured paper — named colors + paper.",
+      "Technique: loose wet-on-wet technique — named watercolor technique.",
+      "Light: gentle natural sunlight — soft lighting.",
+      "Use: minimalist botanical art for a greeting card — final use case."
+    ],
+    "tips": "DALL-E 3 loves natural language. Write as a sentence describing the art, not a list of keywords."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"watercolor eucalyptus baby's breath, cream paper, greeting card --ar 1:1 --v 6.1 --s 600\".",
+    "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 30.",
+    "flux": "Flux handles watercolor well.",
+    "dall_e": "DALL-E 3, style Natural. Same prompt as written.",
+    "jimeng_zh": "水彩植物画，桉树叶，满天星，奶油色纸面，柔和自然光。"
+  },
+  "faq": [
+    {
+      "q": "Why does DALL-E make everything vivid?",
+      "a": "Use style \"Natural\" not \"Vivid\". Vivid is for marketing; Natural is for fine art."
+    },
+    {
+      "q": "How to write DALL-E prompts?",
+      "a": "Full natural sentences. \"A painting of X with Y\" works better than \"X, Y, painting\"."
+    },
+    {
+      "q": "Best for greeting cards?",
+      "a": "1:1 with soft palette + named plants + paper texture. Prints at 4x6\" perfectly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/watercolor-botanical",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

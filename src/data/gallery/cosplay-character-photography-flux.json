@@ -1,0 +1,77 @@
+{
+  "id": "seed-cosplay-flux",
+  "slug": "cosplay-character-photography-flux",
+  "title": "Cosplay Character Photography (Flux)",
+  "description": "Photorealistic cosplay photography for costume designer portfolios, convention social media, and fandom content.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/cosplay.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "social-media",
+    "marketing",
+    "blog-header"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "cosplay",
+    "wonder-woman",
+    "costume",
+    "character",
+    "convention",
+    "flux"
+  ],
+  "prompt": {
+    "main": "cosplay character of wonder woman in full golden armor, detailed tiara and bullet-deflecting bracelets, holding lasso of truth, dramatic action pose mid-leap, soft diffused studio lighting, detailed leather and metal textures, comic con photo shoot quality",
+    "negative": "cartoon, anime, casual, low effort costume",
+    "params": "Flux.1 dev, guidance 4, steps 30",
+    "explained": [
+      {
+        "param": "Guidance 4",
+        "why": "Higher guidance for detailed costume rendering."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Cosplay = specific character + detailed costume pieces + \"comic con photo shoot\" + named materials. Specificity = authenticity.",
+    "steps": [
+      "Character: cosplay character of wonder woman in full golden armor — name the character + armor color.",
+      "Details: detailed tiara and bullet-deflecting bracelets, holding lasso of truth — three named accessories.",
+      "Pose: dramatic action pose mid-leap — action pose shows off costume.",
+      "Light: soft diffused studio lighting — even light for costume detail.",
+      "Materials: detailed leather and metal textures — material specification.",
+      "Reference: comic con photo shoot quality — convention standard."
+    ],
+    "tips": "Name the specific character + 3+ specific accessories. Generic \"superhero\" gets you 1000 stock results."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"wonder woman cosplay, golden armor, lasso --ar 2:3 --v 6.1 --s 600\".",
+    "stable_diffusion": "SDXL + RealisticVision, CFG 6, Steps 30.",
+    "flux": "Flux.1 dev, guidance 4, steps 30.",
+    "dall_e": "DALL-E 3: \"A Wonder Woman cosplay with golden armor, tiara, bracelets, and lasso of truth, comic con photo shoot\".",
+    "jimeng_zh": "神奇女侠角色扮演，黄金盔甲，头冠，真言套索，漫展级 Cosplay。"
+  },
+  "faq": [
+    {
+      "q": "Why does my costume look like Halloween?",
+      "a": "You forgot specific accessories + \"comic con photo shoot\". Convention quality = named items + reference."
+    },
+    {
+      "q": "How to make the costume look premium?",
+      "a": "Name materials (leather, metal, silk) + 3+ specific items. Detail = premium cosplay."
+    },
+    {
+      "q": "Best for fandom content?",
+      "a": "2:3 vertical + character name + action pose. Reads as \"cosplay\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/cosplay",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "seed-vintage-fashion-mj",
+  "slug": "vintage-fashion-editorial-1960s",
+  "title": "1960s Vintage Fashion Editorial",
+  "description": "High-fashion editorial photography in 1960s style. Perfect for fashion magazine layouts, mood boards, and vintage brand marketing.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-fashion.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "vintage",
+    "photorealistic"
+  ],
+  "useCases": [
+    "marketing",
+    "social-media",
+    "blog-header"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "fashion",
+    "editorial",
+    "vintage",
+    "1960s",
+    "magazine",
+    "vogue"
+  ],
+  "prompt": {
+    "main": "vogue paris 1965 fashion editorial photograph, elegant woman in tailored tweed suit and pillbox hat, dramatic studio lighting, contre-joupe pose, kodachrome color palette, rich saturated tones, art director richard avedon style --ar 2:3 --v 6.1 --s 750",
+    "negative": "--no modern, casual, streetwear, instagram filter, flat lighting",
+    "params": "--ar 2:3 --v 6.1 --s 750",
+    "explained": [
+      {
+        "param": "--ar 2:3",
+        "why": "Magazine vertical ratio. Matches Vogue/Harper's Bazaar print layouts."
+      },
+      {
+        "param": "--s 750",
+        "why": "High stylize adds editorial polish. Fashion images need MJ's aesthetic sense."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Vintage fashion needs named era + named magazine + named photographer. Generic \"vintage fashion\" gets you Pinterest clutter.",
+    "steps": [
+      "Magazine + year: vogue paris 1965 — naming the magazine anchors the visual style.",
+      "Outfit: tailored tweed suit and pillbox hat — era-specific clothing cues.",
+      "Pose: contre-joupe pose — French fashion term for \"contrapposto\", gives the body language.",
+      "Color: kodachrome color palette, rich saturated tones — film stock reference for color treatment.",
+      "Photographer: art director richard avedon style — name a specific fashion photographer."
+    ],
+    "tips": "Vintage = named era + named film + named photographer. Three named references = authentic vintage."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt. --s 800 if you want more drama.",
+    "stable_diffusion": "SDXL + epiCRealism\nAdd: \"vogue cover, editorial layout\"",
+    "flux": "Flux handles fashion very well. Same prompt.",
+    "dall_e": "DALL-E 3: \"A 1965 Vogue Paris fashion editorial photograph of a woman in a tweed suit and pillbox hat, in the style of Richard Avedon\".",
+    "jimeng_zh": "1965 年法国 Vogue 时装大片，定制花呢西装，帽子，戏剧棚拍，复古胶片色调。"
+  },
+  "faq": [
+    {
+      "q": "Why does my vintage look like costume party?",
+      "a": "You forgot the photographer name. \"Richard Avedon\" or \"Irving Penn\" forces authentic period styling."
+    },
+    {
+      "q": "How to get rich vintage color?",
+      "a": "Name a film stock: \"kodachrome\" for warm reds, \"fujifilm velvia\" for saturated landscapes, \"ilford hp5\" for B&W."
+    },
+    {
+      "q": "Best ratio for magazine cover?",
+      "a": "2:3 vertical is industry standard. Use 1:1 for Instagram reposts."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/vintage-fashion",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

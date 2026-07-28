@@ -1,0 +1,76 @@
+{
+  "id": "seed-storm-chasing-mj",
+  "slug": "storm-chasing-supercell",
+  "title": "Storm Chasing: Supercell Photography",
+  "description": "Dramatic supercell storm photography with lightning. Perfect for weather blog content, YouTube thumbnail, and storm chaser social media.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/storm-chasing.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "blog-header",
+    "social-media",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "storm",
+    "supercell",
+    "lightning",
+    "weather",
+    "photography",
+    "extreme"
+  ],
+  "prompt": {
+    "main": "massive supercell thunderstorm with dramatic rotating mesocyclone structure, multiple lightning bolts striking flat plains, golden hour light illuminating the storm base, lone farm house in foreground for scale, extreme weather photography by peony lim --ar 16:9 --v 6.1 --s 600",
+    "negative": "--no sunny, calm, indoor, cartoon",
+    "params": "--ar 16:9 --v 6.1 --s 600",
+    "explained": [
+      {
+        "param": "--s 600",
+        "why": "Mid stylize for dramatic-but-believable. Higher stylize makes storms look painted."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Storm photography needs scale + named photographer + specific storm structure. \"Supercell\" + \"mesocyclone\" = real weather knowledge.",
+    "steps": [
+      "Storm structure: massive supercell thunderstorm with dramatic rotating mesocyclone structure — meteorology terms.",
+      "Lightning: multiple lightning bolts striking flat plains — plural lightning = drama.",
+      "Light: golden hour light illuminating the storm base — golden hour contrast with dark storm.",
+      "Scale: lone farm house in foreground for scale — small human element = massive storm.",
+      "Reference: extreme weather photography by peony lim — name a real storm photographer."
+    ],
+    "tips": "Storm chaser photos = scale contrast + named photographer + \"supercell\" terminology. Generic \"thunderstorm\" gets you a cartoon cloud."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"supercell storm, mesocyclone, lightning, golden hour\"",
+    "flux": "Flux handles weather very well.",
+    "dall_e": "DALL-E 3: \"A massive supercell thunderstorm with lightning, lone farm house in foreground, golden hour light, in the style of storm photographer Peony Lim\".",
+    "jimeng_zh": "超级单体雷暴，中气旋，闪电，金色光晕，孤独农舍，风暴摄影。"
+  },
+  "faq": [
+    {
+      "q": "Why does my storm look like a video game?",
+      "a": "You forgot \"supercell\" + \"mesocyclone\". These meteorology terms trigger realistic storm rendering."
+    },
+    {
+      "q": "How to get real lightning?",
+      "a": "Add \"lightning bolts striking\" + \"branching lightning\" + \"exposure 1 second\". MJ v6.1 handles these."
+    },
+    {
+      "q": "Best for YouTube thumbnails?",
+      "a": "16:9 with high contrast (dark storm + bright lightning) reads at thumbnail size."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/storm-chasing",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

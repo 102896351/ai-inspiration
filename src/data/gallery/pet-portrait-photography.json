@@ -1,0 +1,76 @@
+{
+  "id": "seed-pet-portrait-mj",
+  "slug": "pet-portrait-photography",
+  "title": "Pet Portrait Photography (Studio Style)",
+  "description": "Professional pet portrait photography style. Use for pet brand marketing, vet clinic decor, and animal shelter promotional content.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pet-portrait.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "pet",
+    "dog",
+    "portrait",
+    "photography",
+    "studio",
+    "golden-retriever"
+  ],
+  "prompt": {
+    "main": "professional pet portrait photograph of a golden retriever sitting in a studio, soft seamless grey background, gentle catchlight in the eyes, shallow depth of field focused on the eyes, warm studio lighting, canon RF 85mm f/1.2 --ar 1:1 --v 6.1 --s 500",
+    "negative": "--no cartoon, illustration, multiple dogs, leash, person",
+    "params": "--ar 1:1 --v 6.1 --s 500",
+    "explained": [
+      {
+        "param": "--s 500",
+        "why": "Mid stylize balances realism and warmth. Too low = stock photo; too high = illustrated."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Pet portraits work because of eye focus + catchlight + soft background. Generic \"dog photo\" gets you 1000 stock results.",
+    "steps": [
+      "Subject: golden retriever sitting in a studio — specific breed + pose.",
+      "Background: soft seamless grey background — studio backdrop = professional look.",
+      "Eyes: gentle catchlight in the eyes — the sparkle in the eyes is the soul of the photo.",
+      "Focus: shallow depth of field focused on the eyes — the eye must be tack sharp.",
+      "Camera: canon RF 85mm f/1.2 — real lens = real photo feel."
+    ],
+    "tips": "Catchlight = the white sparkle in the eye. Without it, even good photos look \"dead\"."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + RealisticVision\nPrompt: \"golden retriever portrait, studio, canon 85mm\"",
+    "flux": "Flux handles animals well.",
+    "dall_e": "DALL-E 3: \"A professional studio portrait of a golden retriever with a soft grey background, catchlight in the eyes, canon 85mm f/1.2 look\".",
+    "jimeng_zh": "金毛犬专业肖像，影棚灰底，眼神光，浅景深，佳能 85mm 镜头。"
+  },
+  "faq": [
+    {
+      "q": "Why does my dog look photoshopped?",
+      "a": "You forgot the catchlight. \"Catchlight in the eyes\" is the single most important word for animal portraits."
+    },
+    {
+      "q": "Best lens for pet portraits?",
+      "a": "85mm f/1.2 or f/1.4. These are the classic portrait lens focal lengths."
+    },
+    {
+      "q": "How to make it look professional?",
+      "a": "Soft seamless background + studio lighting + catchlight. These three = \"I paid a photographer\"."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/pet-portrait",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

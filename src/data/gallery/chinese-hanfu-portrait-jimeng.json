@@ -1,0 +1,82 @@
+{
+  "id": "seed-chinese-portrait-jimeng",
+  "slug": "chinese-hanfu-portrait-jimeng",
+  "title": "Chinese Hanfu Portrait (Jimeng)",
+  "description": "Traditional Chinese hanfu portrait using Jimeng AI. Perfect for Chinese cultural content, hanfu photography, and Asian history blogs.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/chinese-portrait.webp",
+  "model": "jimeng",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "vintage",
+    "minimalist"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "chinese",
+    "hanfu",
+    "traditional",
+    "jimeng",
+    "cultural",
+    "portrait"
+  ],
+  "prompt": {
+    "main": "古风汉服美女肖像，红色丝绸汉服，精致发髻配金色步摇，江南庭院背景，手持团扇，柔和自然光，工笔重彩风格，水墨晕染背景，中国传统美学",
+    "negative": "现代服饰，西方风格，卡通，3D，照片",
+    "params": "Jimeng 3.0, style 古风",
+    "explained": [
+      {
+        "param": "Model: Jimeng 3.0",
+        "why": "Jimeng (即梦) by ByteDance understands Chinese aesthetics deeply."
+      },
+      {
+        "param": "Style: 古风",
+        "why": "古风 (ancient style) preset renders traditional Chinese aesthetics."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Jimeng (即梦) is built by ByteDance specifically for Chinese aesthetics. Use Chinese phrases + named historical periods.",
+    "steps": [
+      "Format: 古风汉服美女肖像 — Chinese phrase + hanfu context.",
+      "Outfit: 红色丝绸汉服 — specific color + material.",
+      "Hair: 精致发髻配金色步摇 — traditional hair + accessory.",
+      "Background: 江南庭院背景 — Jiangnan garden = traditional setting.",
+      "Prop: 手持团扇 — holding a fan = classical pose.",
+      "Style: 工笔重彩风格，水墨晕染背景 — gongbi painting style + ink wash background."
+    ],
+    "tips": "Jimeng loves Chinese cultural keywords: 工笔 (gongbi), 写意 (xieyi), 水墨 (ink wash), 江南 (Jiangnan). Use them freely."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"chinese hanfu portrait, red silk, jiangnan garden --ar 2:3 --v 6.1 --s 800\".",
+    "stable_diffusion": "SDXL + Dreamshaper with Chinese LoRA. Jimeng is best for Chinese style.",
+    "flux": "Flux is OK for general Chinese aesthetic but Jimeng is best for traditional.",
+    "dall_e": "DALL-E 3: \"A traditional Chinese hanfu portrait of a woman in red silk, Jiangnan garden background, holding a fan, gongbi painting style\".",
+    "jimeng_zh": "古风汉服美女肖像，红色丝绸汉服，精致发髻配金色步摇，江南庭院背景，手持团扇，柔和自然光，工笔重彩风格，水墨晕染背景，中国传统美学。"
+  },
+  "faq": [
+    {
+      "q": "Why does my Chinese portrait look generic Asian?",
+      "a": "You forgot the specific era + named setting (Jiangnan) + traditional prop (fan). Specificity = authenticity."
+    },
+    {
+      "q": "How to make it look like a painting?",
+      "a": "Use \"工笔重彩\" (gongbi) or \"水墨\" (ink wash). These are the two main Chinese painting styles."
+    },
+    {
+      "q": "Best for Chinese cultural content?",
+      "a": "Jimeng with 古风 preset + Jiangnan/silk references. Reads as \"Chinese culture\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/chinese-portrait",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

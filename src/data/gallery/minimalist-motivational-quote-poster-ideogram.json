@@ -1,0 +1,80 @@
+{
+  "id": "seed-quote-poster-ideogram",
+  "slug": "minimalist-motivational-quote-poster-ideogram",
+  "title": "Minimalist Motivational Quote Poster (Ideogram)",
+  "description": "Clean typographic motivational poster for Instagram, office wall art, and print-on-demand stores. Ideogram 2.0 excels at readable text.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/quote-poster.webp",
+  "model": "ideogram",
+  "modelVersion": "",
+  "styles": [
+    "minimalist",
+    "poster"
+  ],
+  "useCases": [
+    "marketing",
+    "social-media",
+    "logo"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "poster",
+    "typography",
+    "quote",
+    "minimalist",
+    "ideogram",
+    "motivational"
+  ],
+  "prompt": {
+    "main": "minimalist motivational quote poster, large serif typography reading \"STAY CURIOUS\" in black, soft cream background, single small decorative line element below, generous white space, premium typographic poster design --ar 2:3",
+    "negative": "busy, decorative, photo, cluttered, low contrast",
+    "params": "Ideogram 2.0, style Typography",
+    "explained": [
+      {
+        "param": "Style: Typography",
+        "why": "Ideogram's Typography style is purpose-built for text-heavy designs."
+      },
+      {
+        "param": "v2 model",
+        "why": "Ideogram 2.0 has dramatically better text rendering than 1.0."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Ideogram's superpower is text. Generic \"quote poster\" fails. The magic: put the actual quote in quotes.",
+    "steps": [
+      "Format: minimalist motivational quote poster — format + purpose.",
+      "Typography: large serif typography reading \"STAY CURIOUS\" in black — the exact text in quotes.",
+      "Background: soft cream background — off-white is more premium than pure white.",
+      "Layout: generous white space, single small decorative line element below — minimal decoration.",
+      "Quality: premium typographic poster design — quality reference."
+    ],
+    "tips": "Ideogram is the BEST at text rendering. Always use the actual text you want, in quotes, capitalized."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"minimalist quote poster, STAY CURIOUS, serif typography --ar 2:3 --v 6.1 --s 400\".",
+    "stable_diffusion": "SDXL with controlnet. Ideogram is the only model that does text well out-of-the-box.",
+    "flux": "Flux is OK with text but inconsistent. Ideogram is best.",
+    "dall_e": "DALL-E 3: \"A minimalist motivational poster with the text STAY CURIOUS in large serif typography on a cream background\".",
+    "jimeng_zh": "极简励志海报，衬线大字，\"保持好奇\" 标题，奶白底色，大量留白。"
+  },
+  "faq": [
+    {
+      "q": "Why is my text misspelled?",
+      "a": "Other models (MJ/SDXL/Flux) struggle with text. Use Ideogram for text-heavy designs."
+    },
+    {
+      "q": "Best font for quotes?",
+      "a": "Serif (Times, Garamond) = classic. Sans (Helvetica) = modern. Both work in Ideogram."
+    },
+    {
+      "q": "Best for print-on-demand?",
+      "a": "2:3 ratio, cream background, high contrast. Reads as \"premium poster\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/quote-poster",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

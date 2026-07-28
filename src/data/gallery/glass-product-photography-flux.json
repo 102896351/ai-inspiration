@@ -1,0 +1,78 @@
+{
+  "id": "seed-glass-product-flux",
+  "slug": "glass-product-photography-flux",
+  "title": "Glass Product Photography (Flux)",
+  "description": "Premium glass product photography for e-commerce, brand packaging, and luxury marketing. Detailed lighting and material cues.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/glass-product.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic",
+    "minimalist"
+  ],
+  "useCases": [
+    "ecommerce",
+    "marketing",
+    "blog-header"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "product",
+    "glass",
+    "photography",
+    "luxury",
+    "perfume",
+    "flux"
+  ],
+  "prompt": {
+    "main": "premium glass perfume bottle product photography, faceted crystal cut glass refracting rainbow light, single soft top light with rim light, soft shadow on white acrylic surface, condensation droplets on the glass, hero product shot, hasselblad h6d photography",
+    "negative": "lifestyle, casual, dirty, hand, person",
+    "params": "Flux.1 dev, guidance 3, steps 25",
+    "explained": [
+      {
+        "param": "Guidance 3",
+        "why": "Lower guidance (3) for clean product look. Higher guidance adds unwanted detail."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Glass product = \"faceted\" + \"refracting\" + \"rim light\" + named camera. Material science is the magic.",
+    "steps": [
+      "Subject: premium glass perfume bottle product photography — premium + glass + product.",
+      "Material: faceted crystal cut glass refracting rainbow light — faceted + refraction = the magic.",
+      "Lighting: single soft top light with rim light — top + rim = luxury product formula.",
+      "Surface: soft shadow on white acrylic surface — clean product surface.",
+      "Detail: condensation droplets on the glass — droplets = fresh/premium.",
+      "Camera: hasselblad h6d photography — named medium format = luxury cue."
+    ],
+    "tips": "\"Refracting rainbow light\" is the secret. Faceted glass + refracting = automatic visual interest."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"premium glass perfume bottle, faceted crystal, hasselblad --ar 1:1 --v 6.1 --s 500 --style raw\".",
+    "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30.",
+    "flux": "Flux.1 dev, guidance 3, steps 25.",
+    "dall_e": "DALL-E 3: \"A premium glass perfume bottle with faceted crystal refracting light, hasselblad product photography\".",
+    "jimeng_zh": "玻璃香水产品摄影，刻面水晶，折射光，雨滴，哈苏中画幅。"
+  },
+  "faq": [
+    {
+      "q": "Why does my glass look plastic?",
+      "a": "You forgot \"faceted\" + \"refracting\" + \"condensation droplets\". These trigger glass rendering."
+    },
+    {
+      "q": "How to get the rainbow refraction?",
+      "a": "Use \"refracting rainbow light\" or \"prismatic light through\". Glass needs light source to show off."
+    },
+    {
+      "q": "Best for e-commerce?",
+      "a": "1:1 with white background. Hasselblad reference = premium catalog quality."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/glass-product",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

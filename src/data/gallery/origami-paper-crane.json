@@ -1,0 +1,76 @@
+{
+  "id": "seed-origami-mj",
+  "slug": "origami-paper-crane",
+  "title": "Origami Paper Crane (Wabi-Sabi Style)",
+  "description": "Beautifully lit origami paper craft imagery. Works for craft tutorials, mindfulness content, and minimalist branding.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/origami.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "minimalist",
+    "realistic"
+  ],
+  "useCases": [
+    "social-media",
+    "blog-header",
+    "wallpaper"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "origami",
+    "paper",
+    "wabi-sabi",
+    "japanese",
+    "minimalist",
+    "craft"
+  ],
+  "prompt": {
+    "main": "intricate origami paper crane sitting on a white marble surface, soft natural window light from the left, subtle paper texture and crease lines visible, shallow depth of field, wabi-sabi minimalism, japanese aesthetic photography --ar 1:1 --v 6.1 --s 600",
+    "negative": "--no 3d render, plastic, metallic, bright colors",
+    "params": "--ar 1:1 --v 6.1 --s 600",
+    "explained": [
+      {
+        "param": "--s 600",
+        "why": "Balanced stylize for natural but aesthetic paper craft feel."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Origami aesthetic is about restraint. White surface, soft light, one subject, and visible paper texture.",
+    "steps": [
+      "Subject: intricate origami paper crane — specific subject + \"intricate\" pushes detail.",
+      "Surface: white marble surface — minimal + premium surface.",
+      "Light: soft natural window light from the left — direction of light matters.",
+      "Texture: subtle paper texture and crease lines visible — paper grain is key.",
+      "Aesthetic: shallow depth of field, wabi-sabi minimalism, japanese aesthetic photography — Japanese aesthetic codes."
+    ],
+    "tips": "Origami = \"wabi-sabi\" + \"white marble\" + \"soft window light\". These three create instant calm."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + RealisticVision\nPrompt: \"origami paper crane, white marble, wabi-sabi, soft light\"",
+    "flux": "Flux is excellent for this. Same prompt.",
+    "dall_e": "DALL-E 3: \"A delicate origami paper crane on a white marble surface with soft window light, in wabi-sabi Japanese aesthetic\".",
+    "jimeng_zh": "折纸鹤，白色大理石，自然窗光，侘寂美学，日式极简，纸张纹理。"
+  },
+  "faq": [
+    {
+      "q": "Why does my origami look 3D-rendered?",
+      "a": "You forgot the paper texture cues. \"Visible paper texture and crease lines\" forces the paper feel."
+    },
+    {
+      "q": "Best for mindfulness content?",
+      "a": "Origami + wabi-sabi + white background = the trifecta for calm/meditation branding."
+    },
+    {
+      "q": "How to make it feel premium?",
+      "a": "White marble surface + soft window light + shallow DOF. These three = \"Apple keynote\" feel."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/origami",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

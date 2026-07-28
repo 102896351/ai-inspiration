@@ -1,0 +1,77 @@
+{
+  "id": "seed-asian-streetfood-flux",
+  "slug": "asian-night-market-street-food-flux",
+  "title": "Asian Night Market Street Food (Flux)",
+  "description": "Vibrant Asian night market scene with food stalls and neon signs. Best for travel content, food blog heroes, and city guides.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/asian-streetfood.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "blog-header",
+    "social-media",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "street-food",
+    "asia",
+    "night-market",
+    "taipei",
+    "neon",
+    "flux"
+  ],
+  "prompt": {
+    "main": "busy asian night market street food stall in taipei, steaming bamboo baskets of xiao long bao, hanging red lanterns, neon chinese signs, wok flame shooting up, vendor in white apron, soft rain on the street, shot on fujifilm xt5, 35mm f/1.4",
+    "negative": "empty, clean, modern, western restaurant",
+    "params": "Flux.1 dev, guidance 4, steps 30",
+    "explained": [
+      {
+        "param": "Guidance 4",
+        "why": "Slightly higher guidance for detailed market scenes."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Asian night market = named city + named food + neon + steam + named lens. Without these, you get generic \"street food\" stock.",
+    "steps": [
+      "Location: busy asian night market street food stall in taipei — specific city.",
+      "Food: steaming bamboo baskets of xiao long bao — specific food + specific material.",
+      "Lights: hanging red lanterns, neon chinese signs — Asian signage cues.",
+      "Action: wok flame shooting up, vendor in white apron — action + human element.",
+      "Weather: soft rain on the street — wet streets reflect neon = magic.",
+      "Camera: shot on fujifilm xt5, 35mm f/1.4 — real camera + real lens."
+    ],
+    "tips": "Wet streets + neon = the magic. \"Soft rain\" makes the neon reflect and double the impact."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"taipei night market, xiao long bao, neon lanterns --ar 16:9 --v 6.1 --s 700\".",
+    "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30. Flux prompt works with minor changes.",
+    "flux": "Flux.1 dev, guidance 4, steps 30.",
+    "dall_e": "DALL-E 3: \"A Taipei night market with steaming xiao long bao, hanging red lanterns, neon Chinese signs, and wok flames\".",
+    "jimeng_zh": "亚洲夜市，台北，小笼包蒸笼，红色灯笼，霓虹招牌，雨夜街景。"
+  },
+  "faq": [
+    {
+      "q": "Why does my market look like a generic festival?",
+      "a": "You forgot the specific city + specific food. \"Taipei\" + \"xiao long bao\" = authentic Asian street food."
+    },
+    {
+      "q": "How to get the neon glow?",
+      "a": "Add \"soft rain on the street\" — wet surfaces reflect neon, doubling the glow."
+    },
+    {
+      "q": "Best for travel content?",
+      "a": "16:9 + named city + named food. Travel readers crave specific landmarks."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/asian-streetfood",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

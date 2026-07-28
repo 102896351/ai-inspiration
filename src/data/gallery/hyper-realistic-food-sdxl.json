@@ -1,0 +1,76 @@
+{
+  "id": "seed-hyper-food-sdxl",
+  "slug": "hyper-realistic-food-sdxl",
+  "title": "Hyper Realistic Food Photography (SDXL)",
+  "description": "Restaurant-quality food photography for menus, cookbooks, and food blog hero images. Detailed lighting and styling cues.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/hyper-food.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "food",
+    "photography",
+    "sushi",
+    "restaurant",
+    "hyper-realistic",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "hyper realistic food photography, omakase sushi set on handmade ceramic plate, glistening fresh salmon and tuna, wasabi and pickled ginger, soft directional window light from the left, shallow depth of field, visible rice texture, dark wood background, food styling by prop stylist --ar 4:5",
+    "negative": "cartoon, 3d, drawing, blurry, plastic food",
+    "params": "SDXL + JuggernautXL, CFG 6, Steps 30",
+    "explained": [
+      {
+        "param": "CFG 6",
+        "why": "Lower CFG (6) for natural food photography. Higher CFG looks overcooked."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Hyper realistic food = named dish + named plate + specific lighting + \"food styling\" reference.",
+    "steps": [
+      "Trigger: hyper realistic food photography — quality anchor.",
+      "Dish: omakase sushi set on handmade ceramic plate — specific dish + specific plate material.",
+      "Detail: glistening fresh salmon and tuna, wasabi and pickled ginger — detail cues that sell freshness.",
+      "Lighting: soft directional window light from the left, shallow depth of field — direction + DOF.",
+      "Styling: dark wood background, food styling by prop stylist — background + named profession."
+    ],
+    "tips": "Food photography is about freshness cues: \"glistening\", \"fresh\", \"visible rice texture\". Without these, food looks like rubber."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"hyper realistic sushi, ceramic plate, food photography --ar 4:5 --v 6.1 --s 500 --style raw\".",
+    "stable_diffusion": "SDXL + JuggernautXL, CFG 6, Steps 30, Sampler DPM++ 2M Karras.",
+    "flux": "Flux handles food very well. Same prompt.",
+    "dall_e": "DALL-E 3: \"Hyper realistic food photography of an omakase sushi set on a ceramic plate, soft window light\".",
+    "jimeng_zh": "超写实美食摄影，寿司，陶瓷盘，自然光，浅景深，餐厅菜单级。"
+  },
+  "faq": [
+    {
+      "q": "Why does my food look plastic?",
+      "a": "You forgot \"glistening\" + \"fresh\" + specific ingredients. These cues trigger realistic food rendering."
+    },
+    {
+      "q": "Best aspect ratio for menu?",
+      "a": "4:5 is Instagram standard. 1:1 for thumbnails. 16:9 for blog hero."
+    },
+    {
+      "q": "How to make it look like a real restaurant?",
+      "a": "Add \"ceramic plate\" + \"dark wood background\" + \"food styling\". These three = professional kitchen."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/hyper-food",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

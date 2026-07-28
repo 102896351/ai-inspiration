@@ -1,0 +1,79 @@
+{
+  "id": "seed-macro-insect-mj",
+  "slug": "macro-insect-dewdrops",
+  "title": "Macro Insect Photography with Dewdrops",
+  "description": "Close-up macro-style insect shots with dewdrops, suitable for biology textbooks, nature magazine covers, and stock photography.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/macro-insect.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic"
+  ],
+  "useCases": [
+    "blog-header",
+    "social-media",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "macro",
+    "insect",
+    "nature",
+    "photography",
+    "dewdrops"
+  ],
+  "prompt": {
+    "main": "extreme close-up macro photograph of a jewel beetle on a wet leaf at sunrise, intricate iridescent green and copper shell, tiny dewdrops on antennae, golden morning backlight, shallow depth of field, focus stacking, canon MP-E 65mm f/2.8 macro lens --ar 1:1 --v 6.1 --s 500",
+    "negative": "--no cartoon, illustration, blurry, plastic textures",
+    "params": "--ar 1:1 --v 6.1 --s 500",
+    "explained": [
+      {
+        "param": "--ar 1:1",
+        "why": "Square ratio suits Instagram and product-style framing. Macro subjects are usually centered."
+      },
+      {
+        "param": "--s 500",
+        "why": "Balanced stylize for documentary + visual appeal. Pure photo (--style raw) also works well here."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Macro insect photography needs three things: real lens name, specific insect, specific lighting.",
+    "steps": [
+      "Lens name: canon MP-E 65mm f/2.8 macro lens — naming a real lens is a cheat code for \"real photo\" feel.",
+      "Insect: jewel beetle on a wet leaf — specific insect, specific surface.",
+      "Detail cues: intricate iridescent green and copper shell — \"iridescent\" forces the metallic color shift.",
+      "Scale cues: tiny dewdrops on antennae — micro details that make it feel real.",
+      "Light: golden morning backlight, shallow depth of field, focus stacking — three professional photography terms."
+    ],
+    "tips": "Always name a real lens. \"Canon MP-E 65mm\" or \"Laowa 100mm\" works 10x better than \"macro lens\"."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt. Add --style raw for more documentary feel.",
+    "stable_diffusion": "SDXL + JuggernautXL\nPrompt as above. CFG 6, Steps 30.",
+    "flux": "Flux understands lens terminology natively. Use same prompt.",
+    "dall_e": "DALL-E 3 is good for macro. \"An extreme close-up photograph of a jewel beetle...\" works well.",
+    "jimeng_zh": "微距摄影，甲虫，露珠，朝阳，背光，浅景深，金绿铜色光泽。"
+  },
+  "faq": [
+    {
+      "q": "Why does my beetle look like a toy?",
+      "a": "You forgot the lens name. \"Canon MP-E 65mm\" makes MJ render the textures photographically."
+    },
+    {
+      "q": "How to get iridescent colors?",
+      "a": "Use \"iridescent\" + two color names (green and copper). \"Iridescent\" alone is too vague."
+    },
+    {
+      "q": "Best model for nature photography?",
+      "a": "MJ v6.1 --style raw, or SDXL + JuggernautXL. Both handle nature realistically."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/macro-insect",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

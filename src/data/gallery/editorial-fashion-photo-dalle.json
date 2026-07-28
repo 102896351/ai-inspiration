@@ -1,0 +1,78 @@
+{
+  "id": "seed-editorial-photo-dalle",
+  "slug": "editorial-fashion-photo-dalle",
+  "title": "Editorial Fashion Photo (DALL-E)",
+  "description": "Editorial-quality fashion photograph from DALL-E 3 Natural style. Great for mood boards, lookbook layouts, and brand presentations.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/editorial-photo-dalle.webp",
+  "model": "dall-e",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "photorealistic",
+    "vintage"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "editorial",
+    "fashion",
+    "paris",
+    "street",
+    "film",
+    "dalle"
+  ],
+  "prompt": {
+    "main": "A high fashion editorial photograph of a model walking down a rainy paris street at night, wearing an oversized red trench coat, reflection in wet cobblestones, warm streetlight glow, shot on contax 645 with 80mm lens, kodak portra 400 film grain, candid street style",
+    "negative": "casual, snapshot, amateur, smiling, indoor",
+    "params": "DALL-E 3, style Natural",
+    "explained": [
+      {
+        "param": "Style: Natural",
+        "why": "Natural style for editorial realism. Vivid is too saturated for fashion."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "DALL-E 3 + Natural style + film stock = editorial fashion photo. The Natural style mimics film photography.",
+    "steps": [
+      "Format: A high fashion editorial photograph of a model — full sentence + editorial context.",
+      "Setting: walking down a rainy paris street at night — specific city + weather + time.",
+      "Outfit: wearing an oversized red trench coat — specific garment.",
+      "Reflection: reflection in wet cobblestones — wet surface for reflection.",
+      "Light: warm streetlight glow — warm practical light.",
+      "Camera: shot on contax 645 with 80mm lens, kodak portra 400 film grain — medium format + lens + film stock."
+    ],
+    "tips": "DALL-E Natural style + \"kodak portra\" + specific camera = looks like a real fashion editorial photo."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"editorial fashion, model red trench, paris rain --ar 2:3 --v 6.1 --s 600\".",
+    "stable_diffusion": "SDXL + RealisticVision, CFG 6, Steps 30.",
+    "flux": "Flux handles fashion well.",
+    "dall_e": "DALL-E 3, style Natural. Same prompt.",
+    "jimeng_zh": "巴黎雨夜街拍，超大红风衣，湿鹅卵石倒影，街灯暖光，胶片颗粒。"
+  },
+  "faq": [
+    {
+      "q": "Why does my fashion photo look plastic?",
+      "a": "You forgot the camera + film stock. \"Contax 645\" + \"kodak portra\" = real photo feel."
+    },
+    {
+      "q": "Best for fashion blog?",
+      "a": "2:3 vertical + named city + film reference. Reads as \"editorial\" instantly."
+    },
+    {
+      "q": "DALL-E vs MJ for fashion?",
+      "a": "DALL-E Natural = more film-like. MJ v6.1 = more polished. Both work; DALL-E is cheaper."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/editorial-photo",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

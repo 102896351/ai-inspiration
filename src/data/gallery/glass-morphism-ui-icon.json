@@ -1,0 +1,80 @@
+{
+  "id": "seed-glass-morphism-mj",
+  "slug": "glass-morphism-ui-icon",
+  "title": "Glass Morphism UI Icon",
+  "description": "Modern glassmorphism style UI icon for SaaS dashboards, iOS apps, and tech landing pages. Translucent, blurred, premium.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/glass-morphism.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "minimalist",
+    "3d"
+  ],
+  "useCases": [
+    "avatar",
+    "social-media",
+    "logo"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "glassmorphism",
+    "ui",
+    "icon",
+    "modern",
+    "glass",
+    "gradient"
+  ],
+  "prompt": {
+    "main": "glass morphism style app icon for a music player, translucent frosted glass square with rounded corners, soft pastel gradient background in pink to purple, subtle white border, soft drop shadow, modern UI design, dribbble featured --ar 1:1 --v 6.1 --s 500",
+    "negative": "--no flat design, skeuomorphism, 3d, realistic photo",
+    "params": "--ar 1:1 --v 6.1 --s 500",
+    "explained": [
+      {
+        "param": "--ar 1:1",
+        "why": "Square icons for iOS/Android and dashboard UI."
+      },
+      {
+        "param": "--s 500",
+        "why": "Mid stylize for clean modern look. Higher stylize adds unwanted decoration."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Glassmorphism = \"frosted glass\" + \"soft gradient\" + \"rounded corners\" + \"subtle shadow\". Skip any one and the illusion breaks.",
+    "steps": [
+      "Material: translucent frosted glass square with rounded corners — material + shape.",
+      "Background: soft pastel gradient background in pink to purple — gradient direction matters.",
+      "Edge: subtle white border — the \"edge highlight\" is what sells the glass.",
+      "Depth: soft drop shadow — without shadow, glass floats awkwardly.",
+      "Reference: modern UI design, dribbble featured — Dribbble reference primes the right visual code."
+    ],
+    "tips": "Without \"soft drop shadow\", the glass icon looks pasted. Without \"subtle white border\", the glass looks flat."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + Proteus\nPrompt: \"glassmorphism icon, frosted glass, gradient, UI design\"",
+    "flux": "Flux handles UI very well. Same prompt.",
+    "dall_e": "DALL-E 3: \"A glassmorphism style app icon for a music player with frosted glass, soft pink-purple gradient, and subtle shadow\".",
+    "jimeng_zh": "玻璃拟态图标，毛玻璃，渐变色，圆角，柔和阴影，现代 UI 设计。"
+  },
+  "faq": [
+    {
+      "q": "Why does my glass icon look flat?",
+      "a": "You forgot \"subtle white border\" or \"soft drop shadow\". The edge highlight is non-negotiable for glassmorphism."
+    },
+    {
+      "q": "Best background color for glass?",
+      "a": "Soft pastel gradients: pink to purple, blue to cyan, mint to sky. Avoid saturated pure colors."
+    },
+    {
+      "q": "How to make icons look premium?",
+      "a": "Add \"dribbble featured\" or \"behance curated\" to your prompt. MJ treats these as quality signals."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/glass-morphism",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

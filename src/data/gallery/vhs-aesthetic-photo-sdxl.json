@@ -1,0 +1,76 @@
+{
+  "id": "seed-vhs-aesthetic-sdxl",
+  "slug": "vhs-aesthetic-photo-sdxl",
+  "title": "VHS Aesthetic Photo (SDXL)",
+  "description": "1980s VHS home video aesthetic with scanlines, tracking errors, and color bleed. Perfect for nostalgic YouTube content and Y2K branding.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vhs-aesthetic.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "vintage",
+    "realistic"
+  ],
+  "useCases": [
+    "social-media",
+    "blog-header",
+    "marketing"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "vhs",
+    "80s",
+    "retro",
+    "home-video",
+    "analog",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "vhs home video photograph from 1986, family backyard birthday party, visible scanlines, tracking errors and color bleed, slightly overexposed with red and cyan chromatic aberration, timecode burned in top right, kodak super 8 film grain --ar 4:3",
+    "negative": "modern, digital, hd, clean, sharp",
+    "params": "SDXL + Dreamshaper, CFG 7, Steps 30",
+    "explained": [
+      {
+        "param": "Model: Dreamshaper",
+        "why": "Dreamshaper handles analog film aesthetics well."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "VHS aesthetic = \"scanlines\" + \"tracking errors\" + \"color bleed\" + \"chromatic aberration\" + \"timecode\". Five imperfections = VHS.",
+    "steps": [
+      "Format: vhs home video photograph from 1986, timecode burned in top right — format + era + timecode.",
+      "Subject: family backyard birthday party — specific \"home video\" scenario.",
+      "Imperfections: visible scanlines, tracking errors and color bleed — the VHS signature imperfections.",
+      "Color: slightly overexposed with red and cyan chromatic aberration — period color + aberration.",
+      "Film: kodak super 8 film grain — film stock reference."
+    ],
+    "tips": "VHS needs imperfection. \"Clean VHS\" = modern digital. Always add tracking error + scanlines."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"VHS home video 1986, scanlines, tracking errors, family birthday --ar 4:3 --v 6.1 --s 700\".",
+    "stable_diffusion": "SDXL + Dreamshaper, CFG 7, Steps 30.",
+    "flux": "Flux handles this but leans \"clean\". Add more imperfection cues.",
+    "dall_e": "DALL-E 3: \"A 1986 VHS home video of a family backyard birthday party with scanlines, tracking errors, and timecode\".",
+    "jimeng_zh": "VHS 录像带美学，1986 年家庭录像，扫描线，追踪错误，色差，即梦胶片。"
+  },
+  "faq": [
+    {
+      "q": "Why does my VHS look too clean?",
+      "a": "You forgot the imperfections: \"scanlines, tracking errors, chromatic aberration, color bleed\"."
+    },
+    {
+      "q": "Best aspect ratio?",
+      "a": "4:3 matches 80s TV. 16:9 = modern. The 4:3 is itself a VHS signature."
+    },
+    {
+      "q": "How to get the timecode?",
+      "a": "Add \"timecode burned in top right\" or \"VCR overlay\". MJ and SDXL both understand."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/vhs-aesthetic",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

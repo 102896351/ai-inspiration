@@ -1,0 +1,77 @@
+{
+  "id": "seed-stained-glass-sdxl",
+  "slug": "gothic-stained-glass-sdxl",
+  "title": "Gothic Stained Glass Window (SDXL)",
+  "description": "Medieval-style stained glass window imagery. Strong fit for church content, history blogs, and fantasy game UI.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/stained-glass.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "vintage",
+    "concept-art"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "wallpaper"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "stained-glass",
+    "gothic",
+    "church",
+    "medieval",
+    "chartres",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "gothic stained glass window depicting a rose flower mandala, intricate black leading between colored glass, jewel-tone palette of ruby sapphire and emerald, backlit by golden hour light, detailed floral patterns, chartres cathedral inspired --ar 9:16",
+    "negative": "photo, 3d, modern, plain, simple",
+    "params": "SDXL + Dreamshaper, CFG 7, Steps 30",
+    "explained": [
+      {
+        "param": "Model: Dreamshaper",
+        "why": "Dreamshaper's painterly handling suits stained glass art."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Stained glass = \"leading\" + \"jewel tones\" + \"backlit\" + named cathedral. The \"leading\" (the black lines) is what makes it glass.",
+    "steps": [
+      "Subject: gothic stained glass window depicting a rose flower mandala — specific design.",
+      "Material: intricate black leading between colored glass — leading = the metal strips between glass pieces.",
+      "Color: jewel-tone palette of ruby sapphire and emerald — three named gem colors.",
+      "Light: backlit by golden hour light — backlighting is what makes stained glass glow.",
+      "Reference: chartres cathedral inspired — name the most famous stained glass cathedral."
+    ],
+    "tips": "\"Black leading\" is non-negotiable. Without it, you get colored glass, not stained glass."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"gothic stained glass window, rose mandala, backlit --ar 9:16 --v 6.1 --s 800\".",
+    "stable_diffusion": "SDXL + Dreamshaper, CFG 7, Steps 30, Sampler DPM++ 2M Karras.",
+    "flux": "Flux handles this style well.",
+    "dall_e": "DALL-E 3: \"A gothic stained glass window depicting a rose flower mandala, backlit by golden light, Chartres cathedral inspired\".",
+    "jimeng_zh": "哥特式彩色玻璃窗，玫瑰曼陀罗，宝石色调，背光渲染，沙特尔大教堂。"
+  },
+  "faq": [
+    {
+      "q": "Why does my glass look like a normal painting?",
+      "a": "You forgot \"black leading\" + \"backlit\". The leading lines + backlight glow are the defining features."
+    },
+    {
+      "q": "Best for church/medieval content?",
+      "a": "9:16 vertical + chartres reference + jewel tones. Reads as \"cathedral\" instantly."
+    },
+    {
+      "q": "How to get the \"glow\" effect?",
+      "a": "Always add \"backlit\" or \"light passing through\". Without backlighting, stained glass looks flat."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/stained-glass",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

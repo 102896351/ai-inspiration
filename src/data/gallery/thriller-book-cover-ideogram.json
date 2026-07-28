@@ -1,0 +1,77 @@
+{
+  "id": "seed-book-cover-ideogram",
+  "slug": "thriller-book-cover-ideogram",
+  "title": "Thriller Book Cover (Ideogram)",
+  "description": "Best-selling thriller book cover design with bold typography. Useful for self-publishing authors and design portfolios.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/book-cover.webp",
+  "model": "ideogram",
+  "modelVersion": "",
+  "styles": [
+    "poster",
+    "minimalist",
+    "vintage"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "book",
+    "cover",
+    "thriller",
+    "typography",
+    "ideogram",
+    "design"
+  ],
+  "prompt": {
+    "main": "professional thriller novel book cover, dark moody forest silhouette background, large bold title \"THE LAST WITNESS\" in white sans-serif at top, author name \"Sarah Chen\" at bottom in smaller text, single red accent color, atmospheric mystery book design --ar 2:3",
+    "negative": "photo, busy, amateur, childlike, cartoon",
+    "params": "Ideogram 2.0, style Design",
+    "explained": [
+      {
+        "param": "Style: Design",
+        "why": "Design style handles complex layouts better than Typography style."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Book covers need title + author + mood. Ideogram lets you put the actual book title.",
+    "steps": [
+      "Format: professional thriller novel book cover — genre + format.",
+      "Background: dark moody forest silhouette background — moody setting.",
+      "Title: large bold title \"THE LAST WITNESS\" in white sans-serif at top — actual title in quotes.",
+      "Author: author name \"Sarah Chen\" at bottom in smaller text — name + placement.",
+      "Accent: single red accent color, atmospheric mystery book design — color pop + mood."
+    ],
+    "tips": "Book cover formula: title (top, big) + author (bottom, small) + genre mood (background) + 1 accent color. Follow the rule."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"thriller book cover, forest silhouette, THE LAST WITNESS --ar 2:3 --v 6.1 --s 700\". MJ text may be misspelled.",
+    "stable_diffusion": "SDXL with controlnet for text. Use Ideogram for text accuracy.",
+    "flux": "Flux is OK; Ideogram is better for text.",
+    "dall_e": "DALL-E 3: \"A thriller novel book cover with THE LAST WITNESS in large white text over a dark forest silhouette\".",
+    "jimeng_zh": "惊悚小说封面，深色森林剪影，书名《最后的目击者》，红色点缀。"
+  },
+  "faq": [
+    {
+      "q": "Why is my title misspelled?",
+      "a": "MJ/SDXL/Flux can't render text reliably. Use Ideogram for cover designs."
+    },
+    {
+      "q": "How to choose accent color?",
+      "a": "One accent color only: red for thriller, blue for sci-fi, green for nature, gold for literary."
+    },
+    {
+      "q": "Best for self-publishing?",
+      "a": "2:3 + bold title + genre mood. Indie readers scan covers fast — must read in 2 seconds."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/book-cover",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "seed-cosmic-galaxy-mj",
+  "slug": "cosmic-galaxy-nebula-wallpaper",
+  "title": "Cosmic Galaxy Nebula Wallpaper",
+  "description": "Deep space nebula imagery perfect for 4K wallpapers, science YouTube thumbnails, and meditation content backgrounds.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/cosmic-galaxy.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "wallpaper",
+    "photorealistic"
+  ],
+  "useCases": [
+    "wallpaper",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "galaxy",
+    "space",
+    "nebula",
+    "hubble",
+    "cosmic",
+    "wallpaper"
+  ],
+  "prompt": {
+    "main": "spiral galaxy viewed from above with bright cyan and magenta nebula clouds, billions of stars, dark matter dust lanes, hubble space telescope photograph, ultra high resolution deep space imagery, 8k uhd --ar 16:9 --v 6.1 --s 750",
+    "negative": "--no earth, ground, people, cartoon",
+    "params": "--ar 16:9 --v 6.1 --s 750",
+    "explained": [
+      {
+        "param": "--s 750",
+        "why": "High stylize for vivid cosmic colors. Lower values look washed out."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Galaxy imagery needs specific colors + specific reference. \"Hubble telescope\" + \"cyan and magenta\" = real-space feel.",
+    "steps": [
+      "Subject: spiral galaxy viewed from above — specify view angle.",
+      "Colors: bright cyan and magenta nebula clouds — name two specific nebula colors.",
+      "Detail: billions of stars, dark matter dust lanes — scale + texture cues.",
+      "Reference: hubble space telescope photograph — name the source telescope.",
+      "Quality: ultra high resolution deep space imagery, 8k uhd — quality anchors."
+    ],
+    "tips": "Hubble = real space colors. Without that reference, MJ defaults to fantasy purple."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + JuggernautXL\nPrompt: \"spiral galaxy, nebula, hubble telescope, deep space\"",
+    "flux": "Flux handles cosmic imagery very well.",
+    "dall_e": "DALL-E 3: \"A spiral galaxy with cyan and magenta nebula clouds, as photographed by the Hubble Space Telescope, 8K\".",
+    "jimeng_zh": "宇宙星系，星云，哈勃望远镜，深空摄影，紫青色，高清 8K。"
+  },
+  "faq": [
+    {
+      "q": "Why does my galaxy look like a video game?",
+      "a": "You forgot the Hubble reference. \"Hubble space telescope photograph\" forces real-photo treatment."
+    },
+    {
+      "q": "Best for 4K wallpapers?",
+      "a": "Use 16:9 or 21:9. Generate at high resolution; MJ v6.1 supports 2K+."
+    },
+    {
+      "q": "How to get vivid nebula colors?",
+      "a": "Name the colors directly: \"cyan and magenta\" or \"orange and blue\". Vague \"colorful\" fails."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/cosmic-galaxy",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

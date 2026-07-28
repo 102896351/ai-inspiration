@@ -1,0 +1,77 @@
+{
+  "id": "seed-movie-poster-sdxl",
+  "slug": "cinematic-movie-poster-sdxl",
+  "title": "Cinematic Movie Poster (SDXL)",
+  "description": "Hollywood-style movie poster for indie film marketing, fan-made art, and concept portfolio. Detailed lighting, typography placement, and color grading.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/movie-poster.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "concept-art"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "movie",
+    "poster",
+    "cinematic",
+    "thriller",
+    "noir",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "cinematic thriller movie poster, lone detective in trench coat standing in rain, noir lighting with single backlight, dark teal and amber color grading, top right \"COMING SOON\" typography placeholder, billowing smoke background, theatrical release poster --ar 2:3",
+    "negative": "anime, cartoon, bright colors, daylight, smile",
+    "params": "SDXL + JuggernautXL, CFG 7, Steps 35",
+    "explained": [
+      {
+        "param": "Model: JuggernautXL",
+        "why": "JuggernautXL handles cinematic photography best."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Movie poster = \"theatrical release\" + named genre + color grading terms + typography placeholder + \"noir lighting\".",
+    "steps": [
+      "Format: cinematic thriller movie poster, theatrical release poster — format + genre + release status.",
+      "Subject: lone detective in trench coat standing in rain — archetype + atmosphere.",
+      "Light: noir lighting with single backlight — noir = high contrast dark.",
+      "Color: dark teal and amber color grading — two named colors for the grade.",
+      "Typography: top right \"COMING SOON\" typography placeholder — place the text cue.",
+      "Atmosphere: billowing smoke background — atmospheric layer."
+    ],
+    "tips": "Movie posters need color grading cues (\"teal and amber\"). Without grading terms, posters look like photos."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"cinematic movie poster, detective trench coat, noir lighting, teal amber --ar 2:3 --v 6.1 --s 750\".",
+    "stable_diffusion": "SDXL + JuggernautXL, CFG 7, Steps 35.",
+    "flux": "Flux handles cinematic well. Same prompt.",
+    "dall_e": "DALL-E 3: \"A cinematic thriller movie poster of a lone detective in a trench coat in rain, noir lighting, teal and amber grade\".",
+    "jimeng_zh": "电影海报，侦探，雨夜，青橙色调，黑色电影灯光，影院级。"
+  },
+  "faq": [
+    {
+      "q": "Why does my poster look like a stock photo?",
+      "a": "You forgot \"theatrical release poster\" + color grading. Posters need specific genre + grade terms."
+    },
+    {
+      "q": "How to add text?",
+      "a": "Use \"typography placeholder\" in prompt + add text in Photoshop/Canva afterward. SDXL/MJ struggle with readable text."
+    },
+    {
+      "q": "Best for indie film marketing?",
+      "a": "2:3 vertical + named genre + named color grade. Reads as \"movie\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/movie-poster",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

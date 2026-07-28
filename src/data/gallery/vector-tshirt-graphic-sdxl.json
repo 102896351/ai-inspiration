@@ -1,0 +1,80 @@
+{
+  "id": "seed-tshirt-design-sdxl",
+  "slug": "vector-tshirt-graphic-sdxl",
+  "title": "Vector T-Shirt Graphic Design (SDXL)",
+  "description": "Print-ready vector-style t-shirt graphic. Works for merch stores, Etsy shops, and print-on-demand businesses.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/tshirt-design.webp",
+  "model": "stable-diffusion",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "minimalist"
+  ],
+  "useCases": [
+    "logo",
+    "marketing",
+    "social-media"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "tshirt",
+    "design",
+    "vector",
+    "kawaii",
+    "print",
+    "sd-xl"
+  ],
+  "prompt": {
+    "main": "vector t-shirt graphic design, cute kawaii cat holding coffee cup, flat colors with thick black outlines, limited 4-color palette of black white mint and coral, isolated on white background, no model, print ready 300 dpi --ar 1:1",
+    "negative": "photo, model wearing shirt, wrinkles, background, photo realistic",
+    "params": "SDXL + Proteus, CFG 7, Steps 25",
+    "explained": [
+      {
+        "param": "Model: Proteus",
+        "why": "Proteus handles vector and graphic design better than Juggernaut."
+      },
+      {
+        "param": "Steps 25",
+        "why": "Fewer steps for cleaner vector look. 25 is enough for flat design."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "T-shirt design = \"vector\" + \"flat colors\" + \"thick outlines\" + \"no model\" + specific palette size. Print-on-demand rules.",
+    "steps": [
+      "Format: vector t-shirt graphic design, isolated on white background — design sheet format.",
+      "Subject: cute kawaii cat holding coffee cup — specific subject for print.",
+      "Style: flat colors with thick black outlines — vector design code.",
+      "Palette: limited 4-color palette of black white mint and coral — name 4 colors max (screen printing limit).",
+      "Print: print ready 300 dpi, no model — print-on-demand specs."
+    ],
+    "tips": "Limited palette (4 colors max) is the screen printing rule. SDXL renders best with named color counts."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"vector t-shirt design, kawaii cat coffee, flat colors --ar 1:1 --v 6.1 --s 500\".",
+    "stable_diffusion": "SDXL + Proteus, CFG 7, Steps 25.",
+    "flux": "Flux handles vector design well. Same prompt.",
+    "dall_e": "DALL-E 3: \"A vector t-shirt design of a kawaii cat holding a coffee cup, flat colors, thick outlines, limited palette\".",
+    "jimeng_zh": "T恤图案设计，卡通猫咖啡，扁平矢量，粗黑描边，4 色限制。"
+  },
+  "faq": [
+    {
+      "q": "Why does my design include a model?",
+      "a": "You forgot \"no model\" in negative prompt. SDXL often adds a \"context\" photo."
+    },
+    {
+      "q": "How many colors for screen printing?",
+      "a": "4-6 colors max for cost-effective screen printing. Each color = separate screen."
+    },
+    {
+      "q": "Best aspect for t-shirt design?",
+      "a": "1:1 for chest pocket or full back. Use vector format for scaling."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/tshirt-design",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

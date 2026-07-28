@@ -1,0 +1,77 @@
+{
+  "id": "seed-magazine-cover-flux",
+  "slug": "fashion-magazine-cover-flux",
+  "title": "Fashion Magazine Cover (Flux)",
+  "description": "Editorial magazine cover for fashion industry lookbooks, brand pitch decks, and stylist portfolios.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/magazine-cover.webp",
+  "model": "flux",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "vintage",
+    "photorealistic"
+  ],
+  "useCases": [
+    "marketing",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "magazine",
+    "cover",
+    "fashion",
+    "vogue",
+    "editorial",
+    "flux"
+  ],
+  "prompt": {
+    "main": "vogue italia march 2024 cover, model in bold red dress against minimal white set, dramatic sharp lighting, serif masthead typography placeholder top, \"SPRING FASHION\" cover line, art directed by steven meisel, medium format film look",
+    "negative": "casual, amateur, snapshot, smile, busy background",
+    "params": "Flux.1 dev, guidance 4, steps 30",
+    "explained": [
+      {
+        "param": "Guidance 4",
+        "why": "Higher guidance for editorial precision. Lower makes it look soft."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Magazine cover = \"named magazine + issue\" + \"masthead typography\" + \"cover line\" + named art director.",
+    "steps": [
+      "Issue: vogue italia march 2024 cover — magazine + month/year anchors the era.",
+      "Subject: model in bold red dress against minimal white set — single color + minimal background.",
+      "Lighting: dramatic sharp lighting — sharp light = editorial.",
+      "Typography: serif masthead typography placeholder top, \"SPRING FASHION\" cover line — place masthead + cover line.",
+      "Reference: art directed by steven meisel, medium format film look — named art director + film."
+    ],
+    "tips": "Always include a cover line + masthead placeholder. Without typography cues, it looks like a fashion photo, not a cover."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"vogue italia cover, model red dress, serif masthead --ar 2:3 --v 6.1 --s 750\".",
+    "stable_diffusion": "SDXL + epiCRealism, CFG 6, Steps 30.",
+    "flux": "Flux.1 dev, guidance 4, steps 30.",
+    "dall_e": "DALL-E 3: \"A Vogue Italia March 2024 magazine cover of a model in a red dress, serif masthead, art directed by Steven Meisel\".",
+    "jimeng_zh": "Vogue 杂志封面，红裙模特，衬线刊头，春夏时装，时尚大片。"
+  },
+  "faq": [
+    {
+      "q": "Why does my cover look like a fashion photo?",
+      "a": "You forgot \"masthead typography\" + \"cover line\". A cover needs text placement."
+    },
+    {
+      "q": "How to add real text?",
+      "a": "Add text in Photoshop/Canva afterward. Flux/MJ render text but it's often misspelled."
+    },
+    {
+      "q": "Best for editorial portfolio?",
+      "a": "2:3 + named magazine + named art director. Reads as \"editorial\" instantly."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/magazine-cover",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

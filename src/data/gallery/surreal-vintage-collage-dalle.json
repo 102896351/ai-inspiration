@@ -1,0 +1,77 @@
+{
+  "id": "seed-collage-surreal-dalle",
+  "slug": "surreal-vintage-collage-dalle",
+  "title": "Surreal Vintage Collage (DALL-E)",
+  "description": "Surrealist mixed-media collage using vintage imagery. Popular for art prints, music album covers, and avant-garde fashion content.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/collage-surreal-dalle.webp",
+  "model": "dall-e",
+  "modelVersion": "",
+  "styles": [
+    "illustration",
+    "vintage",
+    "concept-art"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "collage",
+    "surreal",
+    "vintage",
+    "mixed-media",
+    "dalle",
+    "art"
+  ],
+  "prompt": {
+    "main": "A surrealist mixed-media collage on aged paper, featuring a giant hand holding a tiny vintage city, floating clouds cut from old encyclopedia pages, classical sculpture faces combined with modern skyscrapers, dreamy impossible composition, romantic poet style with cut-and-paste edges",
+    "negative": "modern, digital, clean, photograph, perfect",
+    "params": "DALL-E 3, style Vivid",
+    "explained": [
+      {
+        "param": "Style: Vivid",
+        "why": "Vivid style brings out the surreal color contrast."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "DALL-E 3 + Vivid + \"surrealist collage\" + \"aged paper\" = automatic art school aesthetic. DALL-E handles the cut-and-paste feel well.",
+    "steps": [
+      "Format: A surrealist mixed-media collage on aged paper — format + surface.",
+      "Subject 1: giant hand holding a tiny vintage city — scale contrast.",
+      "Subject 2: floating clouds cut from old encyclopedia pages — mixed media source.",
+      "Subject 3: classical sculpture faces combined with modern skyscrapers — historical + modern contrast.",
+      "Composition: dreamy impossible composition, romantic poet style with cut-and-paste edges — style + edge treatment."
+    ],
+    "tips": "Collage = scale contrast + mixed sources + visible cut edges. DALL-E Vivid style brings this out naturally."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"surrealist collage, hand holding city, encyclopedia --ar 1:1 --v 6.1 --s 850\".",
+    "stable_diffusion": "SDXL + Dreamshaper, CFG 7, Steps 30.",
+    "flux": "Flux is OK. MJ often best for collage.",
+    "dall_e": "DALL-E 3, style Vivid. Same prompt.",
+    "jimeng_zh": "超现实拼贴艺术，巨手握城市，剪贴画边缘，古典雕塑现代建筑，浪漫诗风。"
+  },
+  "faq": [
+    {
+      "q": "Why does my collage look digital?",
+      "a": "You forgot \"cut-and-paste edges\" + \"aged paper\" + specific mixed sources (encyclopedia pages)."
+    },
+    {
+      "q": "Best for art prints?",
+      "a": "1:1 with high contrast. Prints well at 16x20\" or larger for art prints."
+    },
+    {
+      "q": "How to make it feel handmade?",
+      "a": "Name the source materials (encyclopedia, vintage photos, classical art). DALL-E renders the cut edges."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/collage-surreal",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

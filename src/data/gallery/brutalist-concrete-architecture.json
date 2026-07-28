@@ -1,0 +1,79 @@
+{
+  "id": "seed-brutalist-mj",
+  "slug": "brutalist-concrete-architecture",
+  "title": "Brutalist Concrete Architecture",
+  "description": "Monolithic brutalist concrete architecture with dramatic light and shadow. Strong fit for architecture blog content, design magazines, and mood boards.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/brutalist.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "realistic",
+    "minimalist"
+  ],
+  "useCases": [
+    "blog-header",
+    "social-media",
+    "wallpaper"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "brutalist",
+    "architecture",
+    "concrete",
+    "geometric",
+    "minimalist"
+  ],
+  "prompt": {
+    "main": "massive brutalist concrete building photographed from ground looking up, raw board-formed concrete with dramatic shadow lines, single sharp cloud in blue sky, hard light midday sun creating deep shadow contrast, le corbusier unite d'habitation style, architectural photography --ar 9:16 --v 6.1 --s 600",
+    "negative": "--no ornate, classic, decorative, colorful",
+    "params": "--ar 9:16 --v 6.1 --s 600",
+    "explained": [
+      {
+        "param": "--ar 9:16",
+        "why": "Vertical phone/Instagram ratio. Brutalist looks best from ground-up vertical view."
+      },
+      {
+        "param": "--s 600",
+        "why": "Mid stylize for architectural precision. Higher stylize distorts geometry."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Brutalist = raw concrete + dramatic shadow + named architect + ground-up perspective.",
+    "steps": [
+      "Perspective: massive brutalist concrete building photographed from ground looking up — upward angle is non-negotiable.",
+      "Material: raw board-formed concrete with dramatic shadow lines — \"board-formed\" gives the wood-grain concrete texture.",
+      "Sky: single sharp cloud in blue sky — minimal sky for maximum contrast.",
+      "Light: hard light midday sun creating deep shadow contrast — light direction creates the drama.",
+      "Reference: le corbusier unite d'habitation style — name the architect + building."
+    ],
+    "tips": "Brutalist = \"raw concrete\" + \"dramatic shadow\" + named architect. The shadow lines ARE the visual story."
+  },
+  "crossModel": {
+    "midjourney": "Use rewrite prompt.",
+    "stable_diffusion": "SDXL + RealisticVision\nPrompt: \"brutalist architecture, concrete, dramatic shadow, le corbusier\"",
+    "flux": "Flux handles architecture well.",
+    "dall_e": "DALL-E 3: \"A massive brutalist concrete building photographed from ground up, raw concrete texture, single cloud, hard light, in the style of Le Corbusier\".",
+    "jimeng_zh": "粗野主义建筑，混凝土，戏剧阴影，勒柯布西耶，垂直仰拍。"
+  },
+  "faq": [
+    {
+      "q": "Why does my brutalist look like generic modern?",
+      "a": "You forgot the shadow lines. \"Board-formed concrete with dramatic shadow lines\" forces the brutalist texture."
+    },
+    {
+      "q": "How to get the right mood?",
+      "a": "Upward perspective + hard midday light + minimal sky. The drama comes from the angle, not the building."
+    },
+    {
+      "q": "Best for Instagram?",
+      "a": "9:16 vertical works perfectly for mobile feeds. Brutalist vertical is rare and eye-catching."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/brutalist-architecture",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

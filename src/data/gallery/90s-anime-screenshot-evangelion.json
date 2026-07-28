@@ -1,0 +1,81 @@
+{
+  "id": "seed-90s-anime-mj",
+  "slug": "90s-anime-screenshot-evangelion",
+  "title": "90s Anime Screenshot (Evangelion Style)",
+  "description": "Recreate the iconic 90s anime aesthetic — cel-shading, film grain, and emotional close-ups. Strong fit for retrospective content and nostalgia posts.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/90s-anime.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "anime",
+    "vintage",
+    "illustration"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "anime",
+    "90s",
+    "evangelion",
+    "cel-animation",
+    "nostalgia",
+    "gainax"
+  ],
+  "prompt": {
+    "main": "1995 anime cel animation screenshot, close-up of melancholic teenage boy with messy dark hair, school uniform, visible cel-shading lines, hand-painted background of tokyo cityscape at dusk, visible film grain and minor cel artifacts, gainax production style, neon genesis evangelion aesthetic --ar 4:3 --niji 6 --s 900",
+    "negative": "--no modern anime, 3d, moe, kawaii, moeblob",
+    "params": "--ar 4:3 --niji 6 --s 900",
+    "explained": [
+      {
+        "param": "--niji 6",
+        "why": "Niji 6 is MJ's anime model. It handles 90s cel-shading better than v6.1."
+      },
+      {
+        "param": "--s 900",
+        "why": "Max stylize for full anime aesthetic. 90s anime is highly stylized."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "90s anime is not the same as modern anime. The key is cel-shading lines + film grain + hand-painted backgrounds + emotional close-ups.",
+    "steps": [
+      "Year: 1995 anime cel animation screenshot — the year anchors the production style.",
+      "Subject: close-up of melancholic teenage boy with messy dark hair, school uniform — emotional state + period-correct details.",
+      "Style cues: visible cel-shading lines, hand-painted background of tokyo cityscape at dusk — \"cel-shading\" and \"hand-painted\" are the magic words.",
+      "Imperfections: visible film grain and minor cel artifacts — imperfections make it feel real, not clean digital.",
+      "Studio: gainax production style, neon genesis evangelion aesthetic — name the studio + show."
+    ],
+    "tips": "90s anime = \"cel animation\" + \"film grain\" + \"hand-painted\" + specific studio name. These four terms = authentic 90s."
+  },
+  "crossModel": {
+    "midjourney": "Use --niji 6 with --s 900.",
+    "stable_diffusion": "SDXL + AnythingV5\nAdd LoRA: \"anime_90s_style\"\nPrompt: \"1990s anime screenshot, cel animation, evangelion style\"",
+    "flux": "Flux is OK for anime but not as good as Niji. Use as fallback.",
+    "dall_e": "DALL-E 3: \"A 1995 anime cel animation screenshot of a melancholic teenager in the style of Neon Genesis Evangelion\".",
+    "jimeng_zh": "90 年代动漫，新世纪福音战士风格，赛璐璐动画，胶片颗粒，手绘背景。"
+  },
+  "faq": [
+    {
+      "q": "Why does my anime look modern?",
+      "a": "You forgot the year. \"1995\" or \"1990s\" is non-negotiable for 90s aesthetic. Modern anime has clean digital lines."
+    },
+    {
+      "q": "How to get cel-shading?",
+      "a": "Add \"visible cel-shading lines\" + \"cel animation\". Niji 6 + --s 900 reads these terms well."
+    },
+    {
+      "q": "Best aspect ratio?",
+      "a": "4:3 for 90s TV aspect. 16:9 for modern. The 4:3 box is a visual cue itself."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/90s-anime",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "seed-tech-conference-ideogram",
+  "slug": "tech-conference-banner-ideogram",
+  "title": "Tech Conference Banner (Ideogram)",
+  "description": "Modern tech conference banner for event marketing, social media ads, and SaaS landing pages.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/tech-conference.webp",
+  "model": "ideogram",
+  "modelVersion": "",
+  "styles": [
+    "minimalist",
+    "concept-art"
+  ],
+  "useCases": [
+    "marketing",
+    "social-media",
+    "blog-header"
+  ],
+  "difficulty": 2,
+  "tags": [
+    "banner",
+    "tech",
+    "conference",
+    "event",
+    "modern",
+    "ideogram"
+  ],
+  "prompt": {
+    "main": "modern tech conference banner, gradient blue and purple background with abstract geometric shapes, large bold text \"AI SUMMIT 2025\" in white sans-serif, smaller text \"San Francisco | Oct 15-17\" below, clean modern tech aesthetic, professional event marketing --ar 16:9",
+    "negative": "vintage, organic, photo, busy, hand drawn",
+    "params": "Ideogram 2.0, style Design",
+    "explained": [
+      {
+        "param": "Style: Design",
+        "why": "Design style for tech marketing layouts."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Tech conference banner = event name + date + location + gradient + geometric. Specific details sell event tickets.",
+    "steps": [
+      "Background: gradient blue and purple background with abstract geometric shapes — gradient + geometry.",
+      "Title: large bold text \"AI SUMMIT 2025\" in white sans-serif — actual event name.",
+      "Date: smaller text \"San Francisco | Oct 15-17\" below — city + dates.",
+      "Aesthetic: clean modern tech aesthetic, professional event marketing — quality reference."
+    ],
+    "tips": "Tech events: name + city + dates. Without city + dates, you get a generic tech poster."
+  },
+  "crossModel": {
+    "midjourney": "MJ v6.1: \"tech conference banner, AI SUMMIT 2025, blue purple --ar 16:9 --v 6.1 --s 500\".",
+    "stable_diffusion": "SDXL with controlnet. Use Ideogram for text.",
+    "flux": "Flux is OK.",
+    "dall_e": "DALL-E 3: \"A modern tech conference banner with the text AI SUMMIT 2025, San Francisco Oct 15-17, blue and purple gradient\".",
+    "jimeng_zh": "科技大会横幅，文字 \"AI SUMMIT 2025\"，旧金山，蓝紫渐变，几何背景。"
+  },
+  "faq": [
+    {
+      "q": "Why is my event name misspelled?",
+      "a": "Ideogram is the most reliable for text. Use it for all event marketing visuals."
+    },
+    {
+      "q": "Best aspect ratio for event banners?",
+      "a": "16:9 for Twitter/LinkedIn. 9:16 for Instagram Stories. 1:1 for square ads."
+    },
+    {
+      "q": "How to make it look premium?",
+      "a": "Gradient + geometric + sans-serif + city + dates. Five elements = premium tech event."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/tech-conference",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}

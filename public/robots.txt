@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aigallery.xyz/sitemap.xml
+Sitemap: https://102896351.github.io/ai-inspiration/sitemap.xml

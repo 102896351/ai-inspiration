@@ -1,0 +1,81 @@
+{
+  "id": "seed-forest-spirit-mj",
+  "slug": "forest-spirit-anime-fantasy",
+  "title": "Mystical Forest Spirit (Anime Fantasy)",
+  "description": "Studio Ghibli-style mystical forest spirit character. Works for fantasy book covers, RPG character art, and ethereal social media content.",
+  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/forest-spirit.webp",
+  "model": "midjourney",
+  "modelVersion": "",
+  "styles": [
+    "anime",
+    "illustration",
+    "concept-art"
+  ],
+  "useCases": [
+    "illustration",
+    "blog-header",
+    "social-media"
+  ],
+  "difficulty": 3,
+  "tags": [
+    "forest",
+    "spirit",
+    "fantasy",
+    "ghibli",
+    "anime",
+    "mystical"
+  ],
+  "prompt": {
+    "main": "mystical forest spirit girl with long flowing silver hair, wearing a dress made of moss and wildflowers, gentle glowing antlers made of birch branches, surrounded by floating fireflies in an enchanted forest, studio ghibli atmosphere, hayao miyazaki style, soft pastel palette --ar 2:3 --niji 6 --s 850",
+    "negative": "--no modern, urban, dark horror, weapons",
+    "params": "--ar 2:3 --niji 6 --s 850",
+    "explained": [
+      {
+        "param": "--niji 6",
+        "why": "Niji 6 is MJ's anime model. Ghibli-style needs Niji."
+      },
+      {
+        "param": "--s 850",
+        "why": "High stylize for the soft painterly Ghibli feel."
+      }
+    ]
+  },
+  "tutorial": {
+    "intro": "Ghibli forest spirit = \"moss dress\" + \"antlers made of branches\" + \"fireflies\" + \"Hayao Miyazaki\". Skip any one and it goes generic fantasy.",
+    "steps": [
+      "Subject: mystical forest spirit girl with long flowing silver hair — spirit + character details.",
+      "Outfit: dress made of moss and wildflowers — nature-as-clothing is the Ghibli signature.",
+      "Signature: gentle glowing antlers made of birch branches — antlers = forest spirit visual cue.",
+      "Atmosphere: surrounded by floating fireflies in an enchanted forest — fireflies = magic.",
+      "Reference: studio ghibli atmosphere, hayao miyazaki style — name the studio + director."
+    ],
+    "tips": "Niji 6 + \"hayao miyazaki\" is the magic combo for Ghibli aesthetic. Without Niji, MJ defaults to realistic."
+  },
+  "crossModel": {
+    "midjourney": "Use --niji 6 + --s 850.",
+    "stable_diffusion": "SDXL + CounterfeitXL\nLoRA: \"ghibli_style\"\nPrompt: \"forest spirit, ghibli style, antlers, fireflies\"",
+    "flux": "Flux is OK but Niji is better for this.",
+    "dall_e": "DALL-E 3: \"A mystical forest spirit girl with a moss dress, antlers made of branches, surrounded by fireflies, in Studio Ghibli style\".",
+    "jimeng_zh": "森林精灵少女，苔藓花朵裙子，鹿角，萤火虫，吉卜力风。"
+  },
+  "faq": [
+    {
+      "q": "Why does my spirit look like a generic elf?",
+      "a": "You forgot \"antlers made of branches\" + \"moss dress\". These transform an elf into a forest spirit."
+    },
+    {
+      "q": "How to get true Ghibli feel?",
+      "a": "Use --niji 6 + name \"hayao miyazaki\" + specify \"soft pastel palette\". Without Niji, you get photorealistic."
+    },
+    {
+      "q": "Best for fantasy book covers?",
+      "a": "2:3 vertical ratio + character + atmospheric background. Vertical sells the \"cover art\" feel."
+    }
+  ],
+  "source": {
+    "site": "Civitai",
+    "url": "https://civitai.com/images/forest-spirit",
+    "author": "aigallery_demo"
+  },
+  "createdAt": "2026-07-28T08:17:31.354Z"
+}
