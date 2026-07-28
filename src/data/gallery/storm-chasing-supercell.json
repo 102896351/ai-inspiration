@@ -3,7 +3,7 @@
   "slug": "storm-chasing-supercell",
   "title": "Storm Chasing: Supercell Photography",
   "description": "Dramatic supercell storm photography with lightning. Perfect for weather blog content, YouTube thumbnail, and storm chaser social media.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/storm-chasing.webp",
+  "cover": "/covers/storm-chasing-supercell.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

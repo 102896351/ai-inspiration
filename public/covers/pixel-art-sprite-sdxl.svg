@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" gradientTransform="rotate(45 0.5 0.5)">
+      <stop offset="0%" stop-color="#0a2463"/>
+      <stop offset="100%" stop-color="#1e6091"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="329" cy="96" r="26" fill="#7fb069" opacity="0.10"/>
+  <circle cx="671" cy="190" r="46" fill="#7fb069" opacity="0.08"/>
+  <circle cx="116" cy="516" r="59" fill="#7fb069" opacity="0.10"/>
+  <circle cx="210" cy="216" r="24" fill="#7fb069" opacity="0.13"/>
+  <circle cx="536" cy="165" r="75" fill="#7fb069" opacity="0.07"/>
+  <line x1="223" y1="86" x2="355" y2="162" stroke="#7fb069" stroke-width="2.5" opacity="0.14" stroke-linecap="round"/>
+  <line x1="133" y1="310" x2="252" y2="379" stroke="#7fb069" stroke-width="2.5" opacity="0.29" stroke-linecap="round"/>
+  <line x1="197" y1="320" x2="300" y2="380" stroke="#7fb069" stroke-width="2.5" opacity="0.20" stroke-linecap="round"/>
+  
+  <rect x="50" y="50" width="186" height="42" rx="21" fill="rgba(0,0,0,0.25)" stroke="#7fb069" stroke-width="1.5" opacity="0.95"/>
+  <text x="143" y="78" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">STABLE DIFFUSION</text>
+  <text x="1150" y="80" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#7fb069" text-anchor="end" letter-spacing="2">★★★☆☆</text>
+  <text x="600" y="325" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">16-bit Pixel Art Sprite</text>
+  <text x="600" y="389" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">(SDXL)</text>
+  <rect x="50" y="545" width="126" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="113" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">ILLUSTRATION</text>
+  <rect x="188" y="545" width="81" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="228.5" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">VINTAGE</text>
+  <text x="1150" y="600" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#ffffff" opacity="0.55" text-anchor="end" letter-spacing="1.5">aigallery.xyz · v6.1</text>
+</svg>

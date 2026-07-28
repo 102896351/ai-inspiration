@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" gradientTransform="rotate(45 0.5 0.5)">
+      <stop offset="0%" stop-color="#ff6b35"/>
+      <stop offset="100%" stop-color="#7b2cbf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="969" cy="195" r="32" fill="#ffd60a" opacity="0.11"/>
+  <circle cx="199" cy="292" r="78" fill="#ffd60a" opacity="0.08"/>
+  <circle cx="727" cy="522" r="61" fill="#ffd60a" opacity="0.10"/>
+  <circle cx="312" cy="248" r="24" fill="#ffd60a" opacity="0.09"/>
+  <circle cx="1054" cy="167" r="75" fill="#ffd60a" opacity="0.09"/>
+  <line x1="863" y1="167" x2="863" y2="325" stroke="#ffd60a" stroke-width="2.5" opacity="0.14" stroke-linecap="round"/>
+  <line x1="289" y1="514" x2="463" y2="615" stroke="#ffd60a" stroke-width="2.5" opacity="0.29" stroke-linecap="round"/>
+  <line x1="439" y1="346" x2="549" y2="410" stroke="#ffd60a" stroke-width="2.5" opacity="0.24" stroke-linecap="round"/>
+  
+  <rect x="50" y="50" width="120" height="42" rx="21" fill="rgba(0,0,0,0.25)" stroke="#ffd60a" stroke-width="1.5" opacity="0.95"/>
+  <text x="110" y="78" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">MIDJOURNEY</text>
+  <text x="1150" y="80" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#ffd60a" text-anchor="end" letter-spacing="2">★★☆☆☆</text>
+  <text x="600" y="293" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Watercolor Healing</text>
+  <text x="600" y="357" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Illustrations: Niji 6</text>
+  <text x="600" y="421" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Tutorial</text>
+  <rect x="50" y="545" width="126" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="113" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">ILLUSTRATION</text>
+  <rect x="188" y="545" width="108" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="242" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">MINIMALIST</text>
+  <rect x="308" y="545" width="108" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="362" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">WATERCOLOR</text>
+  <text x="1150" y="600" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#ffffff" opacity="0.55" text-anchor="end" letter-spacing="1.5">aigallery.xyz · v6.1</text>
+</svg>

@@ -3,7 +3,7 @@
   "slug": "restaurant-menu-ideogram",
   "title": "Restaurant Menu Design in Ideogram 2.0",
   "description": "How to design a real restaurant menu with Ideogram 2.0. Multi-section layout, prices, descriptions.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/menu-sample.webp",
+  "cover": "/covers/restaurant-menu-ideogram.svg",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [

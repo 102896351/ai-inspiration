@@ -3,7 +3,7 @@
   "slug": "vintage-comic-book-panel-sdxl",
   "title": "Vintage Comic Book Panel (SDXL)",
   "description": "Silver Age comic book panel with halftone dots, hand-lettered fonts, and dynamic action poses.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-comic.webp",
+  "cover": "/covers/vintage-comic-book-panel-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

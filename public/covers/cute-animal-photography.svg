@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" gradientTransform="rotate(45 0.5 0.5)">
+      <stop offset="0%" stop-color="#ff6b35"/>
+      <stop offset="100%" stop-color="#7b2cbf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="633" cy="558" r="49" fill="#ffd60a" opacity="0.08"/>
+  <circle cx="882" cy="61" r="55" fill="#ffd60a" opacity="0.08"/>
+  <circle cx="1090" cy="155" r="40" fill="#ffd60a" opacity="0.10"/>
+  <circle cx="591" cy="417" r="23" fill="#ffd60a" opacity="0.06"/>
+  <circle cx="687" cy="146" r="59" fill="#ffd60a" opacity="0.06"/>
+  <line x1="603" y1="530" x2="691" y2="682" stroke="#ffd60a" stroke-width="2.5" opacity="0.14" stroke-linecap="round"/>
+  <line x1="403" y1="542" x2="481" y2="676" stroke="#ffd60a" stroke-width="2.5" opacity="0.24" stroke-linecap="round"/>
+  <line x1="790" y1="433" x2="936" y2="518" stroke="#ffd60a" stroke-width="2.5" opacity="0.12" stroke-linecap="round"/>
+  
+  <rect x="50" y="50" width="120" height="42" rx="21" fill="rgba(0,0,0,0.25)" stroke="#ffd60a" stroke-width="1.5" opacity="0.95"/>
+  <text x="110" y="78" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">MIDJOURNEY</text>
+  <text x="1150" y="80" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#ffd60a" text-anchor="end" letter-spacing="2">★★☆☆☆</text>
+  <text x="600" y="325" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Cute Animal Photography:</text>
+  <text x="600" y="389" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Studio Style</text>
+  <rect x="50" y="545" width="99" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="99.5" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">REALISTIC</text>
+  <rect x="161" y="545" width="144" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="233" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">PHOTOREALISTIC</text>
+  <text x="1150" y="600" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#ffffff" opacity="0.55" text-anchor="end" letter-spacing="1.5">aigallery.xyz · v6.1</text>
+</svg>

@@ -3,7 +3,7 @@
   "slug": "cute-toy-figurine-sdxl",
   "title": "Cute Toy Figurine (SDXL)",
   "description": "Blind-box toy figurine aesthetic, popular for designer toy marketing, Funko-style product shots, and social media content.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/toy-figurine.webp",
+  "cover": "/covers/cute-toy-figurine-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

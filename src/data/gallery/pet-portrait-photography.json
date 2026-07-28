@@ -3,7 +3,7 @@
   "slug": "pet-portrait-photography",
   "title": "Pet Portrait Photography (Studio Style)",
   "description": "Professional pet portrait photography style. Use for pet brand marketing, vet clinic decor, and animal shelter promotional content.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pet-portrait.webp",
+  "cover": "/covers/pet-portrait-photography.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

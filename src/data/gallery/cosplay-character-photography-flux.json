@@ -3,7 +3,7 @@
   "slug": "cosplay-character-photography-flux",
   "title": "Cosplay Character Photography (Flux)",
   "description": "Photorealistic cosplay photography for costume designer portfolios, convention social media, and fandom content.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/cosplay.webp",
+  "cover": "/covers/cosplay-character-photography-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

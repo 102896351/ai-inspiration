@@ -3,7 +3,7 @@
   "slug": "modern-villa-architectural-viz-flux",
   "title": "Modern Villa Architectural Visualization (Flux)",
   "description": "Photorealistic architectural visualization for real estate marketing, architecture firm portfolios, and luxury home listings.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/architectural-viz.webp",
+  "cover": "/covers/modern-villa-architectural-viz-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

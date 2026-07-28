@@ -3,7 +3,7 @@
   "slug": "scifi-vehicle-flux",
   "title": "Sci-Fi Vehicles: Concept Art with Flux",
   "description": "Generate Star Wars / Cyberpunk-style vehicles in Flux. Industrial design + cinematic lighting.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vehicle-sample.webp",
+  "cover": "/covers/scifi-vehicle-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

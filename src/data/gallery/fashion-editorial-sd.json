@@ -3,7 +3,7 @@
   "slug": "fashion-editorial-sd",
   "title": "High Fashion Editorial with SDXL",
   "description": "How to generate Vogue-quality fashion editorials with SDXL. Pose, styling, and atmosphere cues that MJ misses.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fashion-sample.webp",
+  "cover": "/covers/fashion-editorial-sd.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

@@ -3,7 +3,7 @@
   "slug": "pixar-3d-character-tutorial",
   "title": "Pixar 3D Characters: The MJ 6.1 Tutorial",
   "description": "Keyword breakdown for Pixar / Disney-style 3D characters in MJ v6.1, plus cross-platform migration.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/3d-sample.webp",
+  "cover": "/covers/pixar-3d-character-tutorial.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

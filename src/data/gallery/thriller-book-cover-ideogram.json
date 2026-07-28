@@ -3,7 +3,7 @@
   "slug": "thriller-book-cover-ideogram",
   "title": "Thriller Book Cover (Ideogram)",
   "description": "Best-selling thriller book cover design with bold typography. Useful for self-publishing authors and design portfolios.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/book-cover.webp",
+  "cover": "/covers/thriller-book-cover-ideogram.svg",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [

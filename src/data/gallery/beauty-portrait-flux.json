@@ -3,7 +3,7 @@
   "slug": "beauty-portrait-flux",
   "title": "Beauty Portraits: Skin & Light in Flux",
   "description": "Generate commercial beauty portraits with Flux. Skin texture and lighting are Flux's strengths.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/beauty-sample.webp",
+  "cover": "/covers/beauty-portrait-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

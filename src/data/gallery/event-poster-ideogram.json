@@ -3,7 +3,7 @@
   "slug": "event-poster-ideogram",
   "title": "Music Festival Posters in Ideogram 2.0",
   "description": "Generate sellable music festival posters with Ideogram 2.0. Type rendering + bold composition.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/event-poster-sample.webp",
+  "cover": "/covers/event-poster-ideogram.svg",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [

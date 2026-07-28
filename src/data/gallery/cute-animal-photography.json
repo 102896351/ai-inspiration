@@ -3,7 +3,7 @@
   "slug": "cute-animal-photography",
   "title": "Cute Animal Photography: Studio Style",
   "description": "Generate irresistible pet portraits with MJ v6.1. Studio lighting, eye contact, and personality.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/animal-sample.webp",
+  "cover": "/covers/cute-animal-photography.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

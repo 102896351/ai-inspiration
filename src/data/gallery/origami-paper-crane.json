@@ -3,7 +3,7 @@
   "slug": "origami-paper-crane",
   "title": "Origami Paper Crane (Wabi-Sabi Style)",
   "description": "Beautifully lit origami paper craft imagery. Works for craft tutorials, mindfulness content, and minimalist branding.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/origami.webp",
+  "cover": "/covers/origami-paper-crane.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

@@ -3,7 +3,7 @@
   "slug": "product-photography-flux-vs-sdxl",
   "title": "E-commerce Product Photos: Flux vs SDXL",
   "description": "What's the best AI for product shots (watches, cosmetics, electronics)? Flux vs SDXL head-to-head.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/product-sample.webp",
+  "cover": "/covers/product-photography-flux-vs-sdxl.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

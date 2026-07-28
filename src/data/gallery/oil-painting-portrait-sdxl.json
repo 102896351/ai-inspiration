@@ -3,7 +3,7 @@
   "slug": "oil-painting-portrait-sdxl",
   "title": "Classical Oil Painting Portrait (SDXL)",
   "description": "Renaissance-style oil painting portrait with SDXL. Detailed brushwork and chiaroscuro lighting. Use for art history content and classical aesthetics.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/oil-painting.webp",
+  "cover": "/covers/oil-painting-portrait-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

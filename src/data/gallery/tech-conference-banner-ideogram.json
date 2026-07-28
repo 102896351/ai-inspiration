@@ -3,7 +3,7 @@
   "slug": "tech-conference-banner-ideogram",
   "title": "Tech Conference Banner (Ideogram)",
   "description": "Modern tech conference banner for event marketing, social media ads, and SaaS landing pages.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/tech-conference.webp",
+  "cover": "/covers/tech-conference-banner-ideogram.svg",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [

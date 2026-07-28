@@ -3,7 +3,7 @@
   "slug": "cute-puppy-sdxl",
   "title": "Cute Puppies with SDXL + RealVisXL",
   "description": "Generate photorealistic pet portraits with SDXL. Checkpoint choice matters more than the prompt.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/puppy-sample.webp",
+  "cover": "/covers/cute-puppy-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

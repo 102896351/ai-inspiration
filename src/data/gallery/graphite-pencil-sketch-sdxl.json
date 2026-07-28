@@ -3,7 +3,7 @@
   "slug": "graphite-pencil-sketch-sdxl",
   "title": "Graphite Pencil Sketch (SDXL)",
   "description": "Hand-drawn graphite pencil portrait sketch. Suitable for art education content, sketchbook inspiration, and character concept iteration.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pencil-sketch.webp",
+  "cover": "/covers/graphite-pencil-sketch-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

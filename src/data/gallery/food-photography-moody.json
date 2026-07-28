@@ -3,7 +3,7 @@
   "slug": "food-photography-moody",
   "title": "Restaurant Food Photography: Moody Lighting",
   "description": "How to make AI food photos look like they came from a Michelin-star restaurant. Lighting and styling tips for commercial-grade output.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/food-sample.webp",
+  "cover": "/covers/food-photography-moody.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

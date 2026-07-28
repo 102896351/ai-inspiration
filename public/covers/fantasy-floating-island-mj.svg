@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" gradientTransform="rotate(0 0.5 0.5)">
+      <stop offset="0%" stop-color="#ff6b35"/>
+      <stop offset="100%" stop-color="#7b2cbf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="856" cy="323" r="31" fill="#ffd60a" opacity="0.07"/>
+  <circle cx="192" cy="268" r="66" fill="#ffd60a" opacity="0.09"/>
+  <circle cx="343" cy="329" r="69" fill="#ffd60a" opacity="0.09"/>
+  <circle cx="288" cy="364" r="25" fill="#ffd60a" opacity="0.05"/>
+  <circle cx="861" cy="175" r="26" fill="#ffd60a" opacity="0.09"/>
+  <line x1="750" y1="313" x2="750" y2="406" stroke="#ffd60a" stroke-width="2.5" opacity="0.12" stroke-linecap="round"/>
+  <line x1="275" y1="466" x2="364" y2="619" stroke="#ffd60a" stroke-width="2.5" opacity="0.14" stroke-linecap="round"/>
+  <line x1="1102" y1="102" x2="1237" y2="180" stroke="#ffd60a" stroke-width="2.5" opacity="0.22" stroke-linecap="round"/>
+  
+  <rect x="50" y="50" width="120" height="42" rx="21" fill="rgba(0,0,0,0.25)" stroke="#ffd60a" stroke-width="1.5" opacity="0.95"/>
+  <text x="110" y="78" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">MIDJOURNEY</text>
+  <text x="1150" y="80" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#ffd60a" text-anchor="end" letter-spacing="2">★★★★☆</text>
+  <text x="600" y="325" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Epic Fantasy Landscapes:</text>
+  <text x="600" y="389" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Floating Islands Tutorial</text>
+  <rect x="50" y="545" width="117" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="108.5" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">CONCEPT-ART</text>
+  <rect x="179" y="545" width="126" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="242" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">ILLUSTRATION</text>
+  <rect x="317" y="545" width="99" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="366.5" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">WALLPAPER</text>
+  <text x="1150" y="600" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#ffffff" opacity="0.55" text-anchor="end" letter-spacing="1.5">aigallery.xyz · v6.1</text>
+</svg>

@@ -3,7 +3,7 @@
   "slug": "flux-soft-anime-illustration",
   "title": "Soft Anime with Flux: Pastel & Healing Style",
   "description": "How Flux renders soft, pastel Japanese-illustration style — and how it compares to MJ Niji 6 and SD.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/flux-anime-sample.webp",
+  "cover": "/covers/flux-soft-anime-illustration.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

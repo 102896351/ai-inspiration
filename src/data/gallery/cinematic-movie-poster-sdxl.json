@@ -3,7 +3,7 @@
   "slug": "cinematic-movie-poster-sdxl",
   "title": "Cinematic Movie Poster (SDXL)",
   "description": "Hollywood-style movie poster for indie film marketing, fan-made art, and concept portfolio. Detailed lighting, typography placement, and color grading.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/movie-poster.webp",
+  "cover": "/covers/cinematic-movie-poster-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

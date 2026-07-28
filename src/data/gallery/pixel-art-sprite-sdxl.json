@@ -3,7 +3,7 @@
   "slug": "pixel-art-sprite-sdxl",
   "title": "16-bit Pixel Art Sprite (SDXL)",
   "description": "SNES/Genesis-era 16-bit pixel art character sprite. Perfect for indie game dev content, retro gaming YouTube, and itch.io showcase.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pixel-art.webp",
+  "cover": "/covers/pixel-art-sprite-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

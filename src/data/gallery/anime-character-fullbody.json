@@ -3,7 +3,7 @@
   "slug": "anime-character-fullbody",
   "title": "Full-Body Anime Characters: Anatomy & Style",
   "description": "How to design full-body anime characters in MJ Niji 6. Proportions, posing, and outfit details that survive AI generation.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-fullbody-sample.webp",
+  "cover": "/covers/anime-character-fullbody.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

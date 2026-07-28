@@ -3,7 +3,7 @@
   "slug": "hyper-realistic-food-sdxl",
   "title": "Hyper Realistic Food Photography (SDXL)",
   "description": "Restaurant-quality food photography for menus, cookbooks, and food blog hero images. Detailed lighting and styling cues.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/hyper-food.webp",
+  "cover": "/covers/hyper-realistic-food-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

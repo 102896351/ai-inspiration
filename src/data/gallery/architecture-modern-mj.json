@@ -3,7 +3,7 @@
   "slug": "architecture-modern-mj",
   "title": "Modern Architecture: Glass & Concrete",
   "description": "Generate stunning modern architectural visualizations in MJ v6.1. From Zaha Hadid to Tadao Ando styles.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/architecture-sample.webp",
+  "cover": "/covers/architecture-modern-mj.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

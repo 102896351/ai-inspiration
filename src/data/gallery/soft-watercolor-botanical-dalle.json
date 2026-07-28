@@ -3,7 +3,7 @@
   "slug": "soft-watercolor-botanical-dalle",
   "title": "Soft Watercolor Botanical (DALL-E)",
   "description": "Soft watercolor botanical illustration using DALL-E 3. Use for greeting cards, plant shop branding, and calming content.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/watercolor-botanical-dalle.webp",
+  "cover": "/covers/soft-watercolor-botanical-dalle.svg",
   "model": "dall-e",
   "modelVersion": "",
   "styles": [

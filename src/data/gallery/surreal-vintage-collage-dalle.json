@@ -3,7 +3,7 @@
   "slug": "surreal-vintage-collage-dalle",
   "title": "Surreal Vintage Collage (DALL-E)",
   "description": "Surrealist mixed-media collage using vintage imagery. Popular for art prints, music album covers, and avant-garde fashion content.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/collage-surreal-dalle.webp",
+  "cover": "/covers/surreal-vintage-collage-dalle.svg",
   "model": "dall-e",
   "modelVersion": "",
   "styles": [

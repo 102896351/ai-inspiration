@@ -3,7 +3,7 @@
   "slug": "mountain-landscape-mj",
   "title": "Epic Mountain Landscapes: Golden Hour Tutorial",
   "description": "Generate cinematic mountain landscapes with perfect golden hour lighting. From horizon to foreground details, this tutorial covers the full layering technique.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/mountain-sample.webp",
+  "cover": "/covers/mountain-landscape-mj.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

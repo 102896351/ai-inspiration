@@ -3,7 +3,7 @@
   "slug": "chinese-landscape-jimeng",
   "title": "Chinese Ink Wash Landscapes: 即梦 (Jimeng) Tutorial",
   "description": "Generate authentic Chinese shanshui (mountain-water) paintings with 即梦. From Song Dynasty masters to modern ink art.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/chinese-landscape-sample.webp",
+  "cover": "/covers/chinese-landscape-jimeng.svg",
   "model": "jimeng",
   "modelVersion": "",
   "styles": [

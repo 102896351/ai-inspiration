@@ -3,7 +3,7 @@
   "slug": "cyber-mech-character-sdxl",
   "title": "Cyber Mech Character Design (SDXL)",
   "description": "Hard-surface cyber mech robot character design. Detailed mechanical breakdown, render style, and LoRA recommendations included.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/cyber-mech.webp",
+  "cover": "/covers/cyber-mech-character-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

@@ -3,7 +3,7 @@
   "slug": "editorial-fashion-photo-dalle",
   "title": "Editorial Fashion Photo (DALL-E)",
   "description": "Editorial-quality fashion photograph from DALL-E 3 Natural style. Great for mood boards, lookbook layouts, and brand presentations.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/editorial-photo-dalle.webp",
+  "cover": "/covers/editorial-fashion-photo-dalle.svg",
   "model": "dall-e",
   "modelVersion": "",
   "styles": [

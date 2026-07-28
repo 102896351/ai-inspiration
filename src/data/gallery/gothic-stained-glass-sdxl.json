@@ -3,7 +3,7 @@
   "slug": "gothic-stained-glass-sdxl",
   "title": "Gothic Stained Glass Window (SDXL)",
   "description": "Medieval-style stained glass window imagery. Strong fit for church content, history blogs, and fantasy game UI.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/stained-glass.webp",
+  "cover": "/covers/gothic-stained-glass-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

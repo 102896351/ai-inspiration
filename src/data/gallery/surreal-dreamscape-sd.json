@@ -3,7 +3,7 @@
   "slug": "surreal-dreamscape-sd",
   "title": "Surreal Dreamscapes with SDXL",
   "description": "Generate Beksinski / Giger-style dreamscapes. High stylize + atmospheric details = the \"wow\" factor.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/dreamscape-sample.webp",
+  "cover": "/covers/surreal-dreamscape-sd.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

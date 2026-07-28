@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" gradientTransform="rotate(90 0.5 0.5)">
+      <stop offset="0%" stop-color="#2d6a4f"/>
+      <stop offset="100%" stop-color="#74c69d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1006" cy="523" r="75" fill="#f4a261" opacity="0.10"/>
+  <circle cx="329" cy="472" r="41" fill="#f4a261" opacity="0.09"/>
+  <circle cx="543" cy="437" r="75" fill="#f4a261" opacity="0.12"/>
+  <circle cx="1004" cy="467" r="25" fill="#f4a261" opacity="0.10"/>
+  <circle cx="457" cy="181" r="48" fill="#f4a261" opacity="0.13"/>
+  <line x1="748" y1="513" x2="922" y2="614" stroke="#f4a261" stroke-width="2.5" opacity="0.27" stroke-linecap="round"/>
+  <line x1="397" y1="345" x2="397" y2="472" stroke="#f4a261" stroke-width="2.5" opacity="0.20" stroke-linecap="round"/>
+  <line x1="804" y1="537" x2="961" y2="628" stroke="#f4a261" stroke-width="2.5" opacity="0.27" stroke-linecap="round"/>
+  
+  <rect x="50" y="50" width="54" height="42" rx="21" fill="rgba(0,0,0,0.25)" stroke="#f4a261" stroke-width="1.5" opacity="0.95"/>
+  <text x="77" y="78" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">FLUX</text>
+  <text x="1150" y="80" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#f4a261" text-anchor="end" letter-spacing="2">★★★☆☆</text>
+  <text x="600" y="325" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Fashion Magazine Cover</text>
+  <text x="600" y="389" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">(Flux)</text>
+  <rect x="50" y="545" width="99" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="99.5" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">REALISTIC</text>
+  <rect x="161" y="545" width="81" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="201.5" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">VINTAGE</text>
+  <rect x="254" y="545" width="144" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="326" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">PHOTOREALISTIC</text>
+  <text x="1150" y="600" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#ffffff" opacity="0.55" text-anchor="end" letter-spacing="1.5">aigallery.xyz · v6.1</text>
+</svg>

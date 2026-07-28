@@ -3,7 +3,7 @@
   "slug": "brutalist-concrete-architecture",
   "title": "Brutalist Concrete Architecture",
   "description": "Monolithic brutalist concrete architecture with dramatic light and shadow. Strong fit for architecture blog content, design magazines, and mood boards.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/brutalist.webp",
+  "cover": "/covers/brutalist-concrete-architecture.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

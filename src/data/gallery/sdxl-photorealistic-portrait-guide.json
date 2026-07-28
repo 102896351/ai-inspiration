@@ -3,7 +3,7 @@
   "slug": "sdxl-photorealistic-portrait-guide",
   "title": "SDXL Photorealistic Portraits: The Complete Guide",
   "description": "Generate commercial-grade photorealistic portraits with SDXL. The key is choosing the right checkpoint + sampler params + ControlNet, not the prompt itself.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/portrait-sample.webp",
+  "cover": "/covers/sdxl-photorealistic-portrait-guide.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

@@ -3,7 +3,7 @@
   "slug": "vaporwave-aesthetic-grid-sunset",
   "title": "Vaporwave Aesthetic (Grid + Sunset + Palm Trees)",
   "description": "Iconic 80s/90s vaporwave with pink/purple gradients, perspective grid, and palm trees. Perfect for music album covers and nostalgic YouTube thumbnails.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vaporwave.webp",
+  "cover": "/covers/vaporwave-aesthetic-grid-sunset.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

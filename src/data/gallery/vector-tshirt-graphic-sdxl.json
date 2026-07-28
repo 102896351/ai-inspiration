@@ -3,7 +3,7 @@
   "slug": "vector-tshirt-graphic-sdxl",
   "title": "Vector T-Shirt Graphic Design (SDXL)",
   "description": "Print-ready vector-style t-shirt graphic. Works for merch stores, Etsy shops, and print-on-demand businesses.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/tshirt-design.webp",
+  "cover": "/covers/vector-tshirt-graphic-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

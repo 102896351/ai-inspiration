@@ -3,7 +3,7 @@
   "slug": "concept-art-robot-sd",
   "title": "Sci-Fi Robot Concept Art in SDXL",
   "description": "Generate professional sci-fi concept art with SDXL + Dreamshaper. Mechanical detail + atmospheric settings.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/robot-sample.webp",
+  "cover": "/covers/concept-art-robot-sd.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

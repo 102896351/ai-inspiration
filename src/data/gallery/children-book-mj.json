@@ -3,7 +3,7 @@
   "slug": "children-book-mj",
   "title": "Children Book Illustration: Cute Characters",
   "description": "Generate charming children book illustrations in MJ Niji 6. Cuteness + simplicity + warmth.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/children-book-sample.webp",
+  "cover": "/covers/children-book-mj.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

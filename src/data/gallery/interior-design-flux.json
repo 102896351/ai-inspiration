@@ -3,7 +3,7 @@
   "slug": "interior-design-flux",
   "title": "Japandi Interiors: Minimalism with Flux",
   "description": "Generate calm, minimalist interior design renders with Flux. Material and lighting cues matter most.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/interior-sample.webp",
+  "cover": "/covers/interior-design-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

@@ -3,7 +3,7 @@
   "slug": "ideogram-typography-logo-design",
   "title": "Ideogram 2.0: The New King of Typography",
   "description": "Ideogram 2.0 is currently the most accurate AI for rendering text. Great for cafe logos, event posters, and brand design.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/ideogram-sample.webp",
+  "cover": "/covers/ideogram-typography-logo-design.svg",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [

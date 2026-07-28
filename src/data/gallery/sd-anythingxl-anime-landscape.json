@@ -3,7 +3,7 @@
   "slug": "sd-anythingxl-anime-landscape",
   "title": "SDXL Anime Landscapes with AnythingXL",
   "description": "How to set up AnythingXL on SDXL for anime landscapes (mountains / oceans / school scenes).",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sd-anime-landscape-sample.webp",
+  "cover": "/covers/sd-anythingxl-anime-landscape.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

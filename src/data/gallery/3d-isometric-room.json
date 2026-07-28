@@ -3,7 +3,7 @@
   "slug": "3d-isometric-room",
   "title": "Isometric 3D Scenes: Cozy Room Tutorial",
   "description": "Build isometric 3D illustrations with MJ v6.1. Perfect for explainer videos, blog headers, and design portfolios.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/isometric-sample.webp",
+  "cover": "/covers/3d-isometric-room.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

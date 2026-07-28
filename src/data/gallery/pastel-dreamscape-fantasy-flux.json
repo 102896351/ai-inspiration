@@ -3,7 +3,7 @@
   "slug": "pastel-dreamscape-fantasy-flux",
   "title": "Pastel Dreamscape Fantasy (Flux)",
   "description": "Soft pastel fantasy dreamscape perfect for meditation apps, ethereal branding, and Pinterest mood boards.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/pastel-dreamscape.webp",
+  "cover": "/covers/pastel-dreamscape-fantasy-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

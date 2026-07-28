@@ -3,7 +3,7 @@
   "slug": "elegant-wedding-invitation-ideogram",
   "title": "Elegant Wedding Invitation (Ideogram)",
   "description": "Wedding invitation design with floral elements and elegant typography. Suitable for wedding planners and stationery designers.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/wedding-invitation.webp",
+  "cover": "/covers/elegant-wedding-invitation-ideogram.svg",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [

@@ -3,7 +3,7 @@
   "slug": "cozy-forest-cabin-autumn-flux",
   "title": "Cozy Forest Cabin in Autumn (Flux)",
   "description": "Cozy autumn cabin scene in the forest with warm interior light and chimney smoke. Best for lifestyle, mindfulness, and outdoor brand content.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/forest-cabin.webp",
+  "cover": "/covers/cozy-forest-cabin-autumn-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

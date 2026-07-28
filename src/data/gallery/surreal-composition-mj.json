@@ -3,7 +3,7 @@
   "slug": "surreal-composition-mj",
   "title": "Surrealist Compositions: Dali Meets AI",
   "description": "How to make MJ generate gallery-worthy surrealism. Compositional rules, artist anchors, and dream logic.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/surreal-sample.webp",
+  "cover": "/covers/surreal-composition-mj.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

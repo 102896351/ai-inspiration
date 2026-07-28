@@ -3,7 +3,7 @@
   "slug": "anime-schoolgirl-spring-sdxl",
   "title": "Anime School Girl in Spring (SDXL AnythingV5)",
   "description": "Classic anime school girl portrait in cherry blossom season with SDXL + AnythingV5. Detailed LoRA + sampler settings included.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-schoolgirl.webp",
+  "cover": "/covers/anime-schoolgirl-spring-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [

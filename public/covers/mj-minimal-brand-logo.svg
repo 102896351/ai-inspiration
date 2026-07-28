@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" gradientTransform="rotate(90 0.5 0.5)">
+      <stop offset="0%" stop-color="#ff6b35"/>
+      <stop offset="100%" stop-color="#7b2cbf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1006" cy="479" r="21" fill="#ffd60a" opacity="0.09"/>
+  <circle cx="649" cy="118" r="74" fill="#ffd60a" opacity="0.08"/>
+  <circle cx="1011" cy="447" r="41" fill="#ffd60a" opacity="0.12"/>
+  <circle cx="138" cy="436" r="23" fill="#ffd60a" opacity="0.10"/>
+  <circle cx="979" cy="147" r="48" fill="#ffd60a" opacity="0.07"/>
+  <line x1="976" y1="451" x2="976" y2="534" stroke="#ffd60a" stroke-width="2.5" opacity="0.27" stroke-linecap="round"/>
+  <line x1="89" y1="166" x2="185" y2="332" stroke="#ffd60a" stroke-width="2.5" opacity="0.20" stroke-linecap="round"/>
+  <line x1="476" y1="576" x2="627" y2="663" stroke="#ffd60a" stroke-width="2.5" opacity="0.27" stroke-linecap="round"/>
+  
+  <rect x="50" y="50" width="120" height="42" rx="21" fill="rgba(0,0,0,0.25)" stroke="#ffd60a" stroke-width="1.5" opacity="0.95"/>
+  <text x="110" y="78" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">MIDJOURNEY</text>
+  <text x="1150" y="80" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#ffd60a" text-anchor="end" letter-spacing="2">★★☆☆☆</text>
+  <text x="600" y="325" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Minimal Brand Logos in MJ:</text>
+  <text x="600" y="389" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">A Practical Guide</text>
+  <rect x="50" y="545" width="108" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="104" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">MINIMALIST</text>
+  <rect x="170" y="545" width="81" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="210.5" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">VINTAGE</text>
+  <rect x="263" y="545" width="72" height="34" rx="17" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="1"/>
+  <text x="299" y="567" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1.8">POSTER</text>
+  <text x="1150" y="600" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#ffffff" opacity="0.55" text-anchor="end" letter-spacing="1.5">aigallery.xyz · v6.1</text>
+</svg>

@@ -3,7 +3,7 @@
   "slug": "minimal-vector-logo-dalle",
   "title": "Minimal Vector Logo (DALL-E)",
   "description": "Clean minimal vector logo for startup branding, indie SaaS, and design portfolios. DALL-E 3 Vivid style for crisp design.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/minimal-vector-dalle.webp",
+  "cover": "/covers/minimal-vector-logo-dalle.svg",
   "model": "dall-e",
   "modelVersion": "",
   "styles": [

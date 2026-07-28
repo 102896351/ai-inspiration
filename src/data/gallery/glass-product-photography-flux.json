@@ -3,7 +3,7 @@
   "slug": "glass-product-photography-flux",
   "title": "Glass Product Photography (Flux)",
   "description": "Premium glass product photography for e-commerce, brand packaging, and luxury marketing. Detailed lighting and material cues.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/glass-product.webp",
+  "cover": "/covers/glass-product-photography-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

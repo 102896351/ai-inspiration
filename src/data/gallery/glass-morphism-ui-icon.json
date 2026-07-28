@@ -3,7 +3,7 @@
   "slug": "glass-morphism-ui-icon",
   "title": "Glass Morphism UI Icon",
   "description": "Modern glassmorphism style UI icon for SaaS dashboards, iOS apps, and tech landing pages. Translucent, blurred, premium.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/glass-morphism.webp",
+  "cover": "/covers/glass-morphism-ui-icon.svg",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [

@@ -3,7 +3,7 @@
   "slug": "fashion-magazine-cover-flux",
   "title": "Fashion Magazine Cover (Flux)",
   "description": "Editorial magazine cover for fashion industry lookbooks, brand pitch decks, and stylist portfolios.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/magazine-cover.webp",
+  "cover": "/covers/fashion-magazine-cover-flux.svg",
   "model": "flux",
   "modelVersion": "",
   "styles": [

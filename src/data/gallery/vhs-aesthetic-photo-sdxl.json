@@ -3,7 +3,7 @@
   "slug": "vhs-aesthetic-photo-sdxl",
   "title": "VHS Aesthetic Photo (SDXL)",
   "description": "1980s VHS home video aesthetic with scanlines, tracking errors, and color bleed. Perfect for nostalgic YouTube content and Y2K branding.",
-  "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vhs-aesthetic.webp",
+  "cover": "/covers/vhs-aesthetic-photo-sdxl.svg",
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
