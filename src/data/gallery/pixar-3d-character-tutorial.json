@@ -7,16 +7,14 @@
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
-    "3D",
-    "插画",
-    "cartoon",
-    "3d-render"
+    "3d",
+    "illustration"
   ],
   "useCases": [
-    "头像",
-    "产品图",
-    "营销海报",
-    "博客封面"
+    "avatar",
+    "product-shot",
+    "marketing",
+    "blog-header"
   ],
   "difficulty": 2,
   "tags": [

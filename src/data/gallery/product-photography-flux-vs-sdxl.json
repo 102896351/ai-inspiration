@@ -7,15 +7,15 @@
   "model": "flux",
   "modelVersion": "",
   "styles": [
-    "写实",
-    "产品",
+    "realistic",
+    "product",
     "commercial",
     "studio"
   ],
   "useCases": [
-    "电商",
-    "产品图",
-    "营销海报",
+    "ecommerce",
+    "product-shot",
+    "marketing",
     "广告"
   ],
   "difficulty": 3,

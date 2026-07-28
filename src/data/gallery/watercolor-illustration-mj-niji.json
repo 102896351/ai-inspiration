@@ -7,14 +7,13 @@
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
-    "插画",
-    "水彩",
+    "illustration",
     "watercolor",
     "soft"
   ],
   "useCases": [
-    "博客封面",
-    "壁纸",
+    "blog-header",
+    "wallpaper",
     "插画",
     "手账素材"
   ],

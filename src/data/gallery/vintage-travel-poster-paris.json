@@ -7,15 +7,14 @@
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
-    "复古",
-    "海报",
     "vintage",
+    "poster",
     "art-deco"
   ],
   "useCases": [
-    "营销海报",
-    "博客封面",
-    "壁纸",
+    "marketing",
+    "blog-header",
+    "wallpaper",
     "T 恤设计"
   ],
   "difficulty": 3,

@@ -20,7 +20,7 @@
             :class="['facet-chip', { active: model === m.id }]"
             @click="$emit('update:model', model === m.id ? '' : m.id)"
           >
-            {{ m.icon }} {{ m.name }}
+            {{ m.icon }} {{ $t('filter.modelNames.' + m.id) }}
           </button>
         </div>
       </div>
@@ -29,12 +29,12 @@
         <label class="facet-label">{{ $t('filter.style') }}</label>
         <div class="facet-options">
           <button
-            v-for="s in styles"
+            v-for="s in styleOptions"
             :key="s"
             :class="['facet-chip', { active: style === s }]"
             @click="$emit('update:style', style === s ? '' : s)"
           >
-            {{ s }}
+            {{ $t('filter.styleNames.' + s) }}
           </button>
         </div>
       </div>
@@ -43,12 +43,12 @@
         <label class="facet-label">{{ $t('filter.useCase') }}</label>
         <div class="facet-options">
           <button
-            v-for="u in useCases"
+            v-for="u in useCaseOptions"
             :key="u"
             :class="['facet-chip', { active: useCase === u }]"
             @click="$emit('update:useCase', useCase === u ? '' : u)"
           >
-            {{ u }}
+            {{ $t('filter.useCaseNames.' + u) }}
           </button>
         </div>
       </div>
@@ -83,22 +83,23 @@ defineProps({
 defineEmits(['update:model', 'update:style', 'update:useCase', 'update:difficulty', 'update:q', 'reset']);
 
 const models = [
-  { id: 'midjourney', name: 'Midjourney', icon: '🌌' },
-  { id: 'stable-diffusion', name: 'Stable Diffusion', icon: '🌀' },
-  { id: 'flux', name: 'Flux', icon: '⚡' },
-  { id: 'dall-e', name: 'DALL-E', icon: '🎭' },
-  { id: 'ideogram', name: 'Ideogram', icon: '✨' },
-  { id: 'jimeng', name: '即梦', icon: '🌟' }
+  { id: 'midjourney', icon: '🌌' },
+  { id: 'stable-diffusion', icon: '🌀' },
+  { id: 'flux', icon: '⚡' },
+  { id: 'dall-e', icon: '🎭' },
+  { id: 'ideogram', icon: '✨' },
+  { id: 'jimeng', icon: '🌟' }
 ];
 
-const styles = [
-  '写实', '插画', '3D', '动漫', '概念设计',
-  '海报', '产品', '头像', '壁纸', '复古',
-  'cyberpunk', 'anime', 'photorealistic', 'minimalist', 'watercolor'
+// Facet 标签 key — i18n 文件里找 filter.styleNames.{key} / filter.useCaseNames.{key}
+const styleOptions = [
+  'realistic', 'illustration', '3d', 'anime', 'concept-art',
+  'poster', 'product', 'avatar', 'wallpaper', 'vintage',
+  'cyberpunk', 'photorealistic', 'minimalist', 'watercolor', 'oil-painting'
 ];
 
-const useCases = [
-  '电商', '社交媒体', '博客封面', '营销海报', '头像', '壁纸', 'logo', '产品图'
+const useCaseOptions = [
+  'ecommerce', 'social-media', 'blog-header', 'marketing', 'avatar', 'wallpaper', 'logo', 'product-shot'
 ];
 </script>
 

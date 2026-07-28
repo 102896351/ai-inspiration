@@ -7,15 +7,14 @@
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
-    "动漫",
-    "插画",
     "anime",
+    "illustration",
     "ghibli"
   ],
   "useCases": [
-    "头像",
-    "壁纸",
-    "博客封面",
+    "avatar",
+    "wallpaper",
+    "blog-header",
     "插画"
   ],
   "difficulty": 2,

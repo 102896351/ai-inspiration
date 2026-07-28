@@ -15,7 +15,34 @@ export default {
     learn: { title: '使い方' }
   },
   gallery: { title: 'プロンプトギャラリー', sub: '{count}件見つかりました', empty: '条件に一致するプロンプトがありません。', resetFilter: 'フィルターをリセット' },
-  filter: { searchPlaceholder: 'キーワード検索...', model: 'モデル', style: 'スタイル', useCase: '用途', difficulty: '難易度', reset: 'リセット' },
+  filter: {
+    searchPlaceholder: 'キーワード検索...',
+    model: 'モデル',
+    style: 'スタイル',
+    useCase: '用途',
+    difficulty: '難易度',
+    reset: 'リセット',
+    modelNames: {
+      'midjourney': 'Midjourney',
+      'stable-diffusion': 'Stable Diffusion',
+      'flux': 'Flux',
+      'dall-e': 'DALL-E',
+      'ideogram': 'Ideogram',
+      'jimeng': '即夢'
+    },
+    styleNames: {
+      'realistic': 'リアル', 'illustration': 'イラスト', '3d': '3D', 'anime': 'アニメ',
+      'concept-art': 'コンセプトアート', 'poster': 'ポスター', 'product': '製品',
+      'avatar': 'アバター', 'wallpaper': '壁紙', 'vintage': 'レトロ',
+      'cyberpunk': 'サイバーパンク', 'photorealistic': 'フォトリアル',
+      'minimalist': 'ミニマル', 'watercolor': '水彩', 'oil-painting': '油絵'
+    },
+    useCaseNames: {
+      'ecommerce': 'EC', 'social-media': 'SNS', 'blog-header': 'ブログヘッダー',
+      'marketing': 'マーケティング', 'avatar': 'アバター', 'wallpaper': '壁紙',
+      'logo': 'ロゴ', 'product-shot': '製品写真'
+    }
+  },
   detail: { sourceNote: '出典：{site} · 作者 {author}', prompt: 'プロンプト', copy: 'コピー', tutorial: 'チュートリアル', tips: 'ヒント', alternatives: 'バリエーション', crossModel: '他モデル版', faq: 'FAQ', related: '関連' },
   tutorials: { title: 'チュートリアル', sub: 'ステップバイステップガイド' },
   tools: { title: 'ツール比較', sub: '主要AI画像生成ツールの比較', col: { tool: 'ツール', price: '価格', strength: '強み', weakness: '弱み', bestFor: 'おすすめ' } },

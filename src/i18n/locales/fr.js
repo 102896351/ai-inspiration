@@ -15,7 +15,26 @@ export default {
     learn: { title: 'Comment Utiliser' }
   },
   gallery: { title: 'Galerie de Prompts', sub: '{count} prompts trouvés', empty: 'Aucun prompt trouvé.', resetFilter: 'Réinitialiser' },
-  filter: { searchPlaceholder: 'Recherche par mot-clé...', model: 'Modèle', style: 'Style', useCase: 'Usage', difficulty: 'Difficulté', reset: 'Réinitialiser' },
+  filter: {
+    searchPlaceholder: 'Recherche par mot-clé...',
+    model: 'Modèle', style: 'Style', useCase: 'Usage', difficulty: 'Difficulté', reset: 'Réinitialiser',
+    modelNames: {
+      'midjourney': 'Midjourney', 'stable-diffusion': 'Stable Diffusion', 'flux': 'Flux',
+      'dall-e': 'DALL-E', 'ideogram': 'Ideogram', 'jimeng': '即梦'
+    },
+    styleNames: {
+      'realistic': 'Réaliste', 'illustration': 'Illustration', '3d': '3D', 'anime': 'Anime',
+      'concept-art': 'Concept Art', 'poster': 'Affiche', 'product': 'Produit',
+      'avatar': 'Avatar', 'wallpaper': 'Fond d\'écran', 'vintage': 'Vintage',
+      'cyberpunk': 'Cyberpunk', 'photorealistic': 'Photoréaliste',
+      'minimalist': 'Minimaliste', 'watercolor': 'Aquarelle', 'oil-painting': 'Peinture à l\'huile'
+    },
+    useCaseNames: {
+      'ecommerce': 'E-commerce', 'social-media': 'Réseaux sociaux', 'blog-header': 'Bannière blog',
+      'marketing': 'Marketing', 'avatar': 'Avatar', 'wallpaper': 'Fond d\'écran',
+      'logo': 'Logo', 'product-shot': 'Photo produit'
+    }
+  },
   detail: { sourceNote: 'Source: {site} · Auteur {author}', prompt: 'Prompt', copy: 'Copier', tutorial: 'Tutoriel', tips: 'Astuce', alternatives: 'Variantes', crossModel: 'Autres Modèles', faq: 'FAQ', related: 'Similaires' },
   tutorials: { title: 'Tutoriels', sub: 'Guides étape par étape' },
   tools: { title: 'Comparaison d\'Outils', sub: 'Comparaison des outils', col: { tool: 'Outil', price: 'Prix', strength: 'Force', weakness: 'Faiblesse', bestFor: 'Idéal Pour' } },

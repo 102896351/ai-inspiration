@@ -15,7 +15,26 @@ export default {
     learn: { title: 'Wie benutzen' }
   },
   gallery: { title: 'Prompt-Galerie', sub: '{count} Prompts gefunden', empty: 'Keine Prompts gefunden.', resetFilter: 'Filter zurücksetzen' },
-  filter: { searchPlaceholder: 'Stichwort suchen...', model: 'Modell', style: 'Stil', useCase: 'Verwendung', difficulty: 'Schwierigkeit', reset: 'Zurücksetzen' },
+  filter: {
+    searchPlaceholder: 'Stichwort suchen...',
+    model: 'Modell', style: 'Stil', useCase: 'Verwendung', difficulty: 'Schwierigkeit', reset: 'Zurücksetzen',
+    modelNames: {
+      'midjourney': 'Midjourney', 'stable-diffusion': 'Stable Diffusion', 'flux': 'Flux',
+      'dall-e': 'DALL-E', 'ideogram': 'Ideogram', 'jimeng': '即梦'
+    },
+    styleNames: {
+      'realistic': 'Realistisch', 'illustration': 'Illustration', '3d': '3D', 'anime': 'Anime',
+      'concept-art': 'Concept Art', 'poster': 'Poster', 'product': 'Produkt',
+      'avatar': 'Avatar', 'wallpaper': 'Hintergrundbild', 'vintage': 'Vintage',
+      'cyberpunk': 'Cyberpunk', 'photorealistic': 'Fotorealistisch',
+      'minimalist': 'Minimalistisch', 'watercolor': 'Aquarell', 'oil-painting': 'Ölgemälde'
+    },
+    useCaseNames: {
+      'ecommerce': 'E-Commerce', 'social-media': 'Social Media', 'blog-header': 'Blog-Header',
+      'marketing': 'Marketing', 'avatar': 'Avatar', 'wallpaper': 'Hintergrundbild',
+      'logo': 'Logo', 'product-shot': 'Produktfoto'
+    }
+  },
   detail: { sourceNote: 'Quelle: {site} · Autor {author}', prompt: 'Prompt', copy: 'Kopieren', tutorial: 'Tutorial', tips: 'Tipp', alternatives: 'Varianten', crossModel: 'Andere Modelle', faq: 'FAQ', related: 'Ähnlich' },
   tutorials: { title: 'Tutorials', sub: 'Schritt-für-Schritt-Anleitungen' },
   tools: { title: 'Werkzeugvergleich', sub: 'Vergleich der KI-Tools', col: { tool: 'Werkzeug', price: 'Preis', strength: 'Stärke', weakness: 'Schwäche', bestFor: 'Ideal für' } },

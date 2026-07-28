@@ -7,16 +7,13 @@
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
-    "写实",
-    "夜景",
-    "sci-fi",
+    "realistic",
+    "concept-art",
     "cyberpunk"
   ],
   "useCases": [
-    "博客封面",
-    "社交媒体",
-    "视频缩略图",
-    "游戏概念"
+    "blog-header",
+    "social-media"
   ],
   "difficulty": 3,
   "tags": [

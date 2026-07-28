@@ -6,16 +6,13 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sample.webp",
     "model": "midjourney",
     "styles": [
-      "写实",
-      "夜景",
-      "sci-fi",
+      "realistic",
+      "concept-art",
       "cyberpunk"
     ],
     "useCases": [
-      "博客封面",
-      "社交媒体",
-      "视频缩略图",
-      "游戏概念"
+      "blog-header",
+      "social-media"
     ],
     "difficulty": 3,
     "tags": [
@@ -35,15 +32,15 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/portrait-sample.webp",
     "model": "stable-diffusion",
     "styles": [
-      "写实",
+      "realistic",
       "人像",
       "portrait"
     ],
     "useCases": [
-      "头像",
-      "社交媒体",
-      "博客封面",
-      "电商"
+      "avatar",
+      "social-media",
+      "blog-header",
+      "ecommerce"
     ],
     "difficulty": 4,
     "tags": [
@@ -63,15 +60,14 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/anime-sample.webp",
     "model": "midjourney",
     "styles": [
-      "动漫",
-      "插画",
       "anime",
+      "illustration",
       "ghibli"
     ],
     "useCases": [
-      "头像",
-      "壁纸",
-      "博客封面",
+      "avatar",
+      "wallpaper",
+      "blog-header",
       "插画"
     ],
     "difficulty": 2,
@@ -92,16 +88,14 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/3d-sample.webp",
     "model": "midjourney",
     "styles": [
-      "3D",
-      "插画",
-      "cartoon",
-      "3d-render"
+      "3d",
+      "illustration"
     ],
     "useCases": [
-      "头像",
-      "产品图",
-      "营销海报",
-      "博客封面"
+      "avatar",
+      "product-shot",
+      "marketing",
+      "blog-header"
     ],
     "difficulty": 2,
     "tags": [
@@ -120,15 +114,15 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/product-sample.webp",
     "model": "flux",
     "styles": [
-      "写实",
-      "产品",
+      "realistic",
+      "product",
       "commercial",
       "studio"
     ],
     "useCases": [
-      "电商",
-      "产品图",
-      "营销海报",
+      "ecommerce",
+      "product-shot",
+      "marketing",
       "广告"
     ],
     "difficulty": 3,
@@ -148,15 +142,14 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-sample.webp",
     "model": "midjourney",
     "styles": [
-      "复古",
-      "海报",
       "vintage",
+      "poster",
       "art-deco"
     ],
     "useCases": [
-      "营销海报",
-      "博客封面",
-      "壁纸",
+      "marketing",
+      "blog-header",
+      "wallpaper",
       "T 恤设计"
     ],
     "difficulty": 3,
@@ -183,7 +176,7 @@
     ],
     "useCases": [
       "logo",
-      "营销海报",
+      "marketing",
       "T 恤设计",
       "品牌设计"
     ],
@@ -204,16 +197,15 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fantasy-sample.webp",
     "model": "midjourney",
     "styles": [
-      "概念设计",
-      "插画",
+      "concept-art",
+      "illustration",
       "fantasy",
       "landscape"
     ],
     "useCases": [
-      "壁纸",
-      "博客封面",
-      "游戏概念",
-      "视频缩略图"
+      "wallpaper",
+      "blog-header",
+      "social-media"
     ],
     "difficulty": 4,
     "tags": [
@@ -233,15 +225,14 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/flux-anime-sample.webp",
     "model": "flux",
     "styles": [
-      "动漫",
-      "插画",
       "anime",
+      "illustration",
       "soft"
     ],
     "useCases": [
-      "头像",
-      "壁纸",
-      "博客封面",
+      "avatar",
+      "wallpaper",
+      "blog-header",
       "插画"
     ],
     "difficulty": 2,
@@ -288,14 +279,13 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/sd-anime-landscape-sample.webp",
     "model": "stable-diffusion",
     "styles": [
-      "动漫",
-      "插画",
-      "landscape",
-      "anime"
+      "anime",
+      "illustration",
+      "landscape"
     ],
     "useCases": [
-      "壁纸",
-      "博客封面",
+      "wallpaper",
+      "blog-header",
       "插画"
     ],
     "difficulty": 2,
@@ -315,14 +305,13 @@
     "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/watercolor-sample.webp",
     "model": "midjourney",
     "styles": [
-      "插画",
-      "水彩",
+      "illustration",
       "watercolor",
       "soft"
     ],
     "useCases": [
-      "博客封面",
-      "壁纸",
+      "blog-header",
+      "wallpaper",
       "插画",
       "手账素材"
     ],

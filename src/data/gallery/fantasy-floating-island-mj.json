@@ -7,16 +7,15 @@
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
-    "概念设计",
-    "插画",
+    "concept-art",
+    "illustration",
     "fantasy",
     "landscape"
   ],
   "useCases": [
-    "壁纸",
-    "博客封面",
-    "游戏概念",
-    "视频缩略图"
+    "wallpaper",
+    "blog-header",
+    "social-media"
   ],
   "difficulty": 4,
   "tags": [

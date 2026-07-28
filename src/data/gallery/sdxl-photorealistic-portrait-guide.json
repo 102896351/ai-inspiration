@@ -7,15 +7,15 @@
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
-    "写实",
+    "realistic",
     "人像",
     "portrait"
   ],
   "useCases": [
-    "头像",
-    "社交媒体",
-    "博客封面",
-    "电商"
+    "avatar",
+    "social-media",
+    "blog-header",
+    "ecommerce"
   ],
   "difficulty": 4,
   "tags": [

@@ -7,14 +7,13 @@
   "model": "stable-diffusion",
   "modelVersion": "",
   "styles": [
-    "动漫",
-    "插画",
-    "landscape",
-    "anime"
+    "anime",
+    "illustration",
+    "landscape"
   ],
   "useCases": [
-    "壁纸",
-    "博客封面",
+    "wallpaper",
+    "blog-header",
     "插画"
   ],
   "difficulty": 2,

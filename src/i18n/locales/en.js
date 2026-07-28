@@ -44,7 +44,42 @@ export default {
     style: 'Style',
     useCase: 'Use Case',
     difficulty: 'Difficulty',
-    reset: 'Reset Filters'
+    reset: 'Reset Filters',
+    modelNames: {
+      'midjourney': 'Midjourney',
+      'stable-diffusion': 'Stable Diffusion',
+      'flux': 'Flux',
+      'dall-e': 'DALL-E',
+      'ideogram': 'Ideogram',
+      'jimeng': '即梦'
+    },
+    styleNames: {
+      'realistic': 'Realistic',
+      'illustration': 'Illustration',
+      '3d': '3D',
+      'anime': 'Anime',
+      'concept-art': 'Concept Art',
+      'poster': 'Poster',
+      'product': 'Product',
+      'avatar': 'Avatar',
+      'wallpaper': 'Wallpaper',
+      'vintage': 'Vintage',
+      'cyberpunk': 'Cyberpunk',
+      'photorealistic': 'Photorealistic',
+      'minimalist': 'Minimalist',
+      'watercolor': 'Watercolor',
+      'oil-painting': 'Oil Painting'
+    },
+    useCaseNames: {
+      'ecommerce': 'E-commerce',
+      'social-media': 'Social Media',
+      'blog-header': 'Blog Header',
+      'marketing': 'Marketing',
+      'avatar': 'Avatar',
+      'wallpaper': 'Wallpaper',
+      'logo': 'Logo',
+      'product-shot': 'Product Shot'
+    }
   },
   detail: {
     sourceNote: 'Source: {site} · Author {author}. We rewrote this prompt with full tutorial and breakdown.',

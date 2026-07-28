@@ -44,7 +44,42 @@ export default {
     style: '风格',
     useCase: '用途',
     difficulty: '难度',
-    reset: '重置筛选'
+    reset: '重置筛选',
+    modelNames: {
+      'midjourney': 'Midjourney',
+      'stable-diffusion': 'Stable Diffusion',
+      'flux': 'Flux',
+      'dall-e': 'DALL-E',
+      'ideogram': 'Ideogram',
+      'jimeng': '即梦'
+    },
+    styleNames: {
+      'realistic': '写实',
+      'illustration': '插画',
+      '3d': '3D',
+      'anime': '动漫',
+      'concept-art': '概念设计',
+      'poster': '海报',
+      'product': '产品',
+      'avatar': '头像',
+      'wallpaper': '壁纸',
+      'vintage': '复古',
+      'cyberpunk': '赛博朋克',
+      'photorealistic': '摄影写实',
+      'minimalist': '极简',
+      'watercolor': '水彩',
+      'oil-painting': '油画'
+    },
+    useCaseNames: {
+      'ecommerce': '电商',
+      'social-media': '社交媒体',
+      'blog-header': '博客封面',
+      'marketing': '营销海报',
+      'avatar': '头像',
+      'wallpaper': '壁纸',
+      'logo': 'Logo',
+      'product-shot': '产品图'
+    }
   },
   detail: {
     sourceNote: '来源：{site} · 作者 {author}。我们对 prompt 做了完整的教程和拆解。',
