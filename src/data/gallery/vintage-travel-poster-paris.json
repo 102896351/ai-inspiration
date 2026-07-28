@@ -1,21 +1,20 @@
 {
   "id": "seed-vintage-poster-mj",
   "slug": "vintage-travel-poster-paris",
-  "title": "复古海报：1950 巴黎旅游海报 prompt 拆解",
-  "description": "跑 1950s 复古旅游海报（巴黎/纽约/东京）的 prompt 写法 + 字体生成技巧。",
+  "title": "Vintage Posters: 1950s Paris Travel Poster Prompts",
+  "description": "How to write prompts for 1950s vintage travel posters (Paris / NYC / Tokyo), with typography tips.",
   "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/vintage-sample.webp",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
     "vintage",
     "poster",
-    "art-deco"
+    "minimalist"
   ],
   "useCases": [
     "marketing",
     "blog-header",
-    "wallpaper",
-    "T 恤设计"
+    "wallpaper"
   ],
   "difficulty": 3,
   "tags": [
@@ -33,49 +32,49 @@
     "explained": [
       {
         "param": "--niji 6",
-        "why": "Niji 对复古插画/海报风理解比 v6 好"
+        "why": "Niji has a better sense of vintage illustration and poster style than v6."
       },
       {
         "param": "--ar 3:4",
-        "why": "海报标准比例"
+        "why": "Standard poster aspect ratio."
       },
       {
-        "param": "art deco + 配色词",
-        "why": "art deco 是 1950s 视觉风格的根，必须写"
+        "param": "art deco + palette",
+        "why": "art deco is the visual root of 1950s style — must write it."
       }
     ]
   },
   "tutorial": {
-    "intro": "复古海报的关键是：年代 + 风格运动 + 配色 + 印刷质感 + 字体锚定。",
+    "intro": "Vintage posters live or die on: era + design movement + palette + print texture + type anchor.",
     "steps": [
-      "【年代锚定】1950s / 1960s / 1970s — 必须写具体年代",
-      "【风格运动】art deco / bauhaus / pop art / psychedelic — 锚定设计史",
-      "【具体内容】vintage travel poster of paris, eiffel tower — 海报类型 + 地点 + 主体",
-      "【字体提示】bold sans-serif typography saying \"VISIT PARIS\" — MJ 现在能渲染英文文字了",
-      "【配色】warm sunset color palette with mustard yellow, burnt orange, and teal blue — 1950s 标志色",
-      "【印刷质感】screen print texture, halftone dots, slight aging — 区分\"AI 完美\"和\"真实复古\""
+      "Era anchor: 1950s / 1960s / 1970s — be specific.",
+      "Design movement: art deco / bauhaus / pop art / psychedelic — anchor to design history.",
+      "Specific content: vintage travel poster of paris, eiffel tower — poster type + place + subject.",
+      "Type: bold sans-serif typography saying \"VISIT PARIS\" — MJ can now render simple English text.",
+      "Palette: warm sunset color palette with mustard yellow, burnt orange, and teal blue — 1950s signature colors.",
+      "Print texture: screen print texture, halftone dots, slight aging — separates \"AI perfect\" from \"real vintage\"."
     ],
-    "tips": "MJ 在 v6/v6.1/niji 6 都能生成简单英文文字。如果你需要中文文字，用 Ideogram 2.0。"
+    "tips": "MJ v6/v6.1/niji 6 can all render simple English text. For Chinese text, use Ideogram 2.0 — it's currently the best for that."
   },
   "crossModel": {
-    "midjourney": "--niji 6 --ar 3:4 --style raw (低 stylize 保留原画风)",
-    "stable_diffusion": "SDXL + Dreamshaper 或 Proteus\nNegative: \"modern, photorealistic, anime\"",
-    "flux": "Flux 复古风强: 加 \"letterpress printing, vintage paper texture\"",
-    "dall_e": "DALL-E 3 复古风 OK 但风格不极致",
+    "midjourney": "--niji 6 --ar 3:4 --style raw (low stylize preserves the original art feel).",
+    "stable_diffusion": "SDXL + Dreamshaper or Proteus\nNegative: \"modern, photorealistic, anime\"",
+    "flux": "Flux handles vintage well. Add: \"letterpress printing, vintage paper texture\"",
+    "dall_e": "DALL-E 3 vintage is OK but rarely nails the style to the extreme.",
     "jimeng_zh": "1950 年代复古海报，巴黎，埃菲尔铁塔，art deco 风格，丝网印刷质感，halftone 网点"
   },
   "faq": [
     {
-      "q": "MJ 能生成中文文字吗？",
-      "a": "v6.1 简单中文可以但不准。推荐 Ideogram 2.0 专门跑中文海报"
+      "q": "Can MJ render Chinese text?",
+      "a": "v6.1 can do simple Chinese but accuracy is poor. Use Ideogram 2.0 for Chinese-heavy posters."
     },
     {
-      "q": "如何让海报更\"真\"复古？",
-      "a": "加 \"halftone dots, screen print texture, slight aging\" 这些印刷工艺词"
+      "q": "How to make posters look \"really vintage\"?",
+      "a": "Add \"halftone dots, screen print texture, slight aging\" — these print-process words do the trick."
     },
     {
-      "q": "为什么我的 1950s 风像 1980s？",
-      "a": "可能是配色用了霓虹。1950s 用 mustard yellow + teal，1980s 用 neon pink + cyan"
+      "q": "Why does my 1950s look like 1980s?",
+      "a": "You probably used neon palette. 1950s = mustard yellow + teal. 1980s = neon pink + cyan."
     }
   ],
   "source": {
@@ -83,5 +82,5 @@
     "url": "https://civitai.com/images/vintage-poster",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-25T13:51:36.325Z"
+  "createdAt": "2026-07-28T07:44:50.029Z"
 }

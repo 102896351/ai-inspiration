@@ -1,21 +1,21 @@
 {
   "id": "seed-flux-soft-anime",
   "slug": "flux-soft-anime-illustration",
-  "title": "Flux 软萌动漫风：日系插画 prompt",
-  "description": "Flux 跑日系软萌动漫的 prompt 写法 + 跨模型对比。",
+  "title": "Soft Anime with Flux: Pastel & Healing Style",
+  "description": "How Flux renders soft, pastel Japanese-illustration style — and how it compares to MJ Niji 6 and SD.",
   "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/flux-anime-sample.webp",
   "model": "flux",
   "modelVersion": "",
   "styles": [
     "anime",
     "illustration",
-    "soft"
+    "minimalist"
   ],
   "useCases": [
     "avatar",
     "wallpaper",
     "blog-header",
-    "插画"
+    "illustration"
   ],
   "difficulty": 2,
   "tags": [
@@ -33,41 +33,41 @@
     "explained": [
       {
         "param": "Flux.1 dev",
-        "why": "Flux 软萌风比 SD 稳，色彩更通透"
+        "why": "Flux soft-anime style is cleaner than SD, with better color transparency."
       },
       {
-        "param": "不指定 negative",
-        "why": "Flux 没 negative prompt，正向写全"
+        "param": "no negative",
+        "why": "Flux has no negative prompt — write positively and completely."
       }
     ]
   },
   "tutorial": {
-    "intro": "Flux 跑日系软萌风有独特优势：色彩通透 + 头发/眼睛细节好。",
+    "intro": "Flux has a unique strength in soft-anime style: transparent color, plus great hair and eye detail.",
     "steps": [
-      "【角色】young girl with white cat ears and golden eyes — 萌系必备：兽耳 + 异色瞳",
-      "【服装】pastel pink hoodie — 萌系配色 + 服装",
-      "【场景】sitting on a windowsill at sunset, holding a small cup of tea — 治愈系场景",
-      "【光线】gentle wind blowing her hair — 动态（风）+ 光线",
-      "【配色】soft pink and orange color palette — 限定配色范围",
-      "【风格锚定】makoto shinkai inspired lighting — 锚定新海诚光线"
+      "Character: young girl with white cat ears and golden eyes — kawaii must-have: beast ears + heterochromia.",
+      "Outfit: pastel pink hoodie — kawaii palette + clothing.",
+      "Scene: sitting on a windowsill at sunset, holding a small cup of tea — healing-scene setting.",
+      "Motion: gentle wind blowing her hair — motion (wind) + light.",
+      "Palette: soft pink and orange color palette — lock the color range.",
+      "Style anchor: makoto shinkai inspired lighting — anchor to Shinkai lighting."
     ],
-    "tips": "Flux 跑动漫比 SD 慢但质量高。如果你需要快速出图，SD + AnythingV5 仍然是性价比首选。"
+    "tips": "Flux is slower than SD for anime but the quality is higher. If you need fast iterations, SD + AnythingV5 is still the best price/performance pick."
   },
   "crossModel": {
     "midjourney": "MJ Niji 6: \"soft anime illustration of a cat ear girl with golden eyes, pastel pink hoodie, windowsill, sunset --niji 6 --ar 3:4\"",
     "stable_diffusion": "Anything V5 / Counterfeit V3 + 8steps CFG 11",
-    "flux": "原 prompt 直接用",
-    "dall_e": "DALL-E 3 软萌风 OK",
+    "flux": "Use the rewrite prompt directly.",
+    "dall_e": "DALL-E 3 soft-anime is OK.",
     "jimeng_zh": "日系软萌动漫少女，白色猫耳，金色眼睛，粉色卫衣，窗台，日落，茶杯，新海诚光线"
   },
   "faq": [
     {
-      "q": "Flux 跑动漫和 SD 比？",
-      "a": "Flux 色彩更好但慢。SD 生态强 (LoRA) 但需要调参"
+      "q": "Flux vs SD for anime?",
+      "a": "Flux has better color. SD ecosystem is stronger (LoRAs). Pick by use case."
     },
     {
-      "q": "为什么软萌风总是\"塑料感\"？",
-      "a": "缺质感词。加 \"watercolor texture\" 或 \"soft airbrush\" 立刻有手绘感"
+      "q": "Why does my soft-anime look \"plastic\"?",
+      "a": "You're missing texture words. Add \"watercolor texture\" or \"soft airbrush\" for an instant hand-painted feel."
     }
   ],
   "source": {
@@ -75,5 +75,5 @@
     "url": "https://civitai.com/images/flux-anime",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-25T13:51:36.325Z"
+  "createdAt": "2026-07-28T07:44:50.029Z"
 }

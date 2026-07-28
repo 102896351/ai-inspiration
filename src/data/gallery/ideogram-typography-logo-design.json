@@ -1,21 +1,19 @@
 {
   "id": "seed-ideogram-typography",
   "slug": "ideogram-typography-logo-design",
-  "title": "Ideogram 2.0 字体海报：logo 设计新选择",
-  "description": "Ideogram 2.0 是目前 AI 字体渲染最准的模型。咖啡店 logo、活动海报、品牌设计都靠它。",
+  "title": "Ideogram 2.0: The New King of Typography",
+  "description": "Ideogram 2.0 is currently the most accurate AI for rendering text. Great for cafe logos, event posters, and brand design.",
   "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/ideogram-sample.webp",
   "model": "ideogram",
   "modelVersion": "",
   "styles": [
-    "logo",
     "minimalist",
-    "branding"
+    "vintage",
+    "poster"
   ],
   "useCases": [
     "logo",
-    "marketing",
-    "T 恤设计",
-    "品牌设计"
+    "marketing"
   ],
   "difficulty": 2,
   "tags": [
@@ -32,40 +30,40 @@
     "explained": [
       {
         "param": "Ideogram 2.0",
-        "why": "目前 AI 渲染文字最准的模型（远超 MJ/SD）"
+        "why": "Currently the most accurate model for rendering text (far better than MJ/SD)."
       },
       {
         "param": "vector graphic style",
-        "why": "指定矢量风格，避免 AI 拍照感"
+        "why": "Specify vector style to avoid an AI \"photo\" feel."
       }
     ]
   },
   "tutorial": {
-    "intro": "Ideogram 2.0 是 logo / 海报 / 文字密集型设计的最佳 AI 工具。",
+    "intro": "Ideogram 2.0 is the best AI tool right now for logo / poster / text-heavy design.",
     "steps": [
-      "【用 Ideogram 2.0】专门跑文字设计，比 MJ/SD 文字准确率高 90%",
-      "【文字必须引号】\"BREW LAB\" — 告诉模型这是要渲染的文字",
-      "【风格锁定】modern minimalist / vintage / art deco / hand-lettered — 风格选一个",
-      "【图标描述】geometric coffee bean icon — 即使是 logo 也要描述图标",
-      "【配色】monochromatic black and white — 简洁配色让 AI 不会乱加颜色"
+      "Use Ideogram 2.0: it renders text ~90% more accurately than MJ/SD.",
+      "Wrap text in quotes: \"BREW LAB\" — tells the model this is text to render.",
+      "Lock the style: modern minimalist / vintage / art deco / hand-lettered — pick one.",
+      "Describe the icon: geometric coffee bean icon — even for logos, describe the icon.",
+      "Lock the palette: monochromatic black and white — keep it simple to avoid color noise."
     ],
-    "tips": "Ideogram 2.0 是目前唯一能稳定渲染中英文字体的 AI。中文 logo 直接写 \"品牌名称\" 就行。"
+    "tips": "Ideogram 2.0 is the only model that reliably renders Chinese and English text. For Chinese logos, just type the brand name in quotes."
   },
   "crossModel": {
-    "midjourney": "MJ v6.1 文字渲染变好但仍经常错字。MJ: \"logo design saying BREW LAB --v 6.1\"",
-    "stable_diffusion": "SD 不擅长文字，需要 inpaint 后期",
-    "flux": "Flux 文字能力不错但不如 Ideogram",
-    "dall_e": "DALL-E 3 文字还行",
-    "jimeng_zh": "即梦中文 logo 渲染不错: \"现代简约咖啡店 logo, BREW LAB, 几何咖啡豆图标\""
+    "midjourney": "MJ v6.1 text is better than before but still misspells. Try: \"logo design saying BREW LAB --v 6.1\"",
+    "stable_diffusion": "SD struggles with text. Inpaint afterwards to fix.",
+    "flux": "Flux text is OK but behind Ideogram.",
+    "dall_e": "DALL-E 3 text is decent.",
+    "jimeng_zh": "即梦 Chinese logo rendering is solid: \"现代简约咖啡店 logo, BREW LAB, 几何咖啡豆图标\""
   },
   "faq": [
     {
-      "q": "MJ 文字错字怎么解决？",
-      "a": "换 Ideogram 2.0。或者 inpaint 后期修复"
+      "q": "How to fix MJ misspelling text?",
+      "a": "Switch to Ideogram 2.0, or inpaint to fix the letters afterwards."
     },
     {
-      "q": "logo 设计用哪个 AI？",
-      "a": "Ideogram 2.0 > Flux > MJ v6.1。SD 适合有 LoRA 时"
+      "q": "Which AI is best for logo design?",
+      "a": "Ideogram 2.0 > Flux > MJ v6.1. SD is good if you have a tuned LoRA."
     }
   ],
   "source": {
@@ -73,5 +71,5 @@
     "url": "https://civitai.com/images/ideogram-typography",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-25T13:51:36.325Z"
+  "createdAt": "2026-07-28T07:44:50.029Z"
 }

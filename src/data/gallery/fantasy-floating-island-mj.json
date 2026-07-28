@@ -1,21 +1,20 @@
 {
   "id": "seed-fantasy-landscape-mj",
   "slug": "fantasy-floating-island-mj",
-  "title": "奇幻风景：浮空岛 + 魔法森林 prompt 教程",
-  "description": "MJ v6.1 跑史诗奇幻风景（浮空岛、魔法森林、发光湖泊）的核心技巧。",
+  "title": "Epic Fantasy Landscapes: Floating Islands Tutorial",
+  "description": "How MJ v6.1 nails epic fantasy scenes — floating islands, magical forests, glowing lakes.",
   "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/fantasy-sample.webp",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
     "concept-art",
     "illustration",
-    "fantasy",
-    "landscape"
+    "wallpaper"
   ],
   "useCases": [
     "wallpaper",
     "blog-header",
-    "social-media"
+    "marketing"
   ],
   "difficulty": 4,
   "tags": [
@@ -33,49 +32,49 @@
     "explained": [
       {
         "param": "--ar 21:9",
-        "why": "超宽画幅，电影级 banner 比例"
+        "why": "Ultra-wide cinematic banner ratio."
       },
       {
         "param": "--s 850",
-        "why": "极高 stylize 适合奇幻史诗场景"
+        "why": "Very high stylize suits epic fantasy scenes."
       },
       {
         "param": "dnd concept art",
-        "why": "锚定到 DND 美术风格，MJ 知道这是高质量参考"
+        "why": "Anchoring to D&D concept art gives MJ a high-quality reference frame."
       }
     ]
   },
   "tutorial": {
-    "intro": "奇幻风景的关键：分层叠加（天空 + 主体 + 地面）+ 锚定到概念艺术家。",
+    "intro": "Fantasy landscapes need layered skies + subject + ground + a concept-art anchor.",
     "steps": [
-      "【天空层】dramatic golden hour sunlight breaking through storm clouds — 光线 + 戏剧性天空",
-      "【主体层】three floating islands suspended above a glowing misty forest — 多个浮空岛 + 数量 + 关系",
-      "【动态层】waterfalls cascading from each island into the void below — 动态元素（瀑布）",
-      "【细节层】ancient runes carved into the rocks, bioluminescent plants — 微观细节",
-      "【故事层】ancient ruined temple on the largest island — 加一个建筑讲故事",
-      "【风格锚定】dnd concept art + unreal engine 5 — 锚定到游戏概念艺术 + 渲染器"
+      "Sky layer: dramatic golden hour sunlight breaking through storm clouds — light + dramatic sky.",
+      "Subject layer: three floating islands suspended above a glowing misty forest — multiple islands + quantity + relationship.",
+      "Motion layer: waterfalls cascading from each island into the void below — dynamic element.",
+      "Detail layer: ancient runes carved into the rocks, bioluminescent plants — micro details.",
+      "Story layer: ancient ruined temple on the largest island — one building adds narrative.",
+      "Style anchor: dnd concept art + unreal engine 5 — anchor to game concept art + a renderer."
     ],
-    "tips": "\"floating islands\" 单独写太单调。写\"three floating islands\" + \"cascading waterfalls\" + \"ancient temple\" 三件套，MJ 才有\"史诗感\"。"
+    "tips": "\"floating islands\" alone feels flat. Add \"three floating islands\" + \"cascading waterfalls\" + \"ancient temple\" — the trio gives MJ the \"epic\" feel."
   },
   "crossModel": {
-    "midjourney": "--v 6.1 --ar 21:9 --s 850 --chaos 15 (小幅变化)",
+    "midjourney": "--v 6.1 --ar 21:9 --s 850 --chaos 15 (small variation).",
     "stable_diffusion": "SDXL + Dreamshaper XL\nPrompt: \"epic fantasy landscape, floating islands, magical forest, masterpiece\"\nNegative: \"modern, urban, anime\"",
-    "flux": "Flux 奇幻风强，加 \"shot on Hasselblad, medium format, golden hour\"",
-    "dall_e": "DALL-E 3 奇幻 OK 但不如 MJ 史诗感",
+    "flux": "Flux handles fantasy strongly. Add: \"shot on Hasselblad, medium format, golden hour\"",
+    "dall_e": "DALL-E 3 fantasy is OK but less \"epic\" than MJ.",
     "jimeng_zh": "史诗奇幻风景，浮空岛，魔法森林，瀑布，古代遗迹，金色阳光，8K"
   },
   "faq": [
     {
-      "q": "奇幻风景太\"满\"怎么办？",
-      "a": "删掉一半元素。少即是多。聚焦 1 个主体 + 1 个故事点"
+      "q": "My fantasy scene feels too \"busy\" — what to do?",
+      "a": "Cut half the elements. Less is more. Focus on 1 main subject + 1 story point."
     },
     {
-      "q": "如何让浮空岛悬浮感更强？",
-      "a": "加 \"waterfalls cascading into the void below\" — 瀑布消失在下方的虚无里，立刻有悬浮感"
+      "q": "How to make floating islands feel \"floating\"?",
+      "a": "Add \"waterfalls cascading into the void below\" — waterfalls disappearing into nothingness below sells the floating feeling instantly."
     },
     {
-      "q": "MJ vs SD 跑奇幻？",
-      "a": "MJ 速度快 + 构图好。SD + Dreamshaper 风格多样。Flux 最稳"
+      "q": "MJ vs SD for fantasy?",
+      "a": "MJ is fast + good composition. SD + Dreamshaper is more diverse. Flux is the most stable."
     }
   ],
   "source": {
@@ -83,5 +82,5 @@
     "url": "https://civitai.com/images/fantasy-landscape",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-25T13:51:36.325Z"
+  "createdAt": "2026-07-28T07:44:50.029Z"
 }

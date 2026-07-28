@@ -1,21 +1,20 @@
 {
   "id": "seed-mj-watercolor-illustration",
   "slug": "watercolor-illustration-mj-niji",
-  "title": "水彩插画：MJ Niji 6 治愈系 prompt",
-  "description": "Niji 6 跑水彩风插画（治愈系、植物、手账素材）的 prompt 拆解。",
+  "title": "Watercolor Healing Illustrations: Niji 6 Tutorial",
+  "description": "How Niji 6 nails watercolor-style healing illustrations (botanical, journaling, sticker assets).",
   "cover": "https://image.civitai.com/xG1nkqbyTM5Gq8cqwU6wmG3skAcQ/width=1024/watercolor-sample.webp",
   "model": "midjourney",
   "modelVersion": "",
   "styles": [
     "illustration",
-    "watercolor",
-    "soft"
+    "minimalist",
+    "watercolor"
   ],
   "useCases": [
     "blog-header",
     "wallpaper",
-    "插画",
-    "手账素材"
+    "illustration"
   ],
   "difficulty": 2,
   "tags": [
@@ -33,41 +32,41 @@
     "explained": [
       {
         "param": "--niji 6",
-        "why": "Niji 跑水彩风比 v6 更有手绘感"
+        "why": "Niji runs watercolor style with more \"hand-painted\" feel than v6."
       },
       {
         "param": "--s 200",
-        "why": "中低 stylize 保留手绘感"
+        "why": "Low-medium stylize preserves the hand-painted feel."
       }
     ]
   },
   "tutorial": {
-    "intro": "Niji 6 跑水彩插画的关键是\"纸张质感 + 颜色渗透 + 手绘感\"。",
+    "intro": "Niji 6 nails watercolor when you add: paper texture + color bleeds + hand-painted feel.",
     "steps": [
-      "【纸张】white paper texture visible — 强制 AI 留白纸张感",
-      "【颜色渗透】soft watercolor bleeds — 水彩特有效果",
-      "【配色限定】pastel color palette with soft pink, lavender, and sage green — 治愈系配色",
-      "【手绘感】hand-painted feel, gentle and dreamy mood — 风格锚定",
-      "【具体内容】wildflower meadow, daisies and lavender swaying in gentle breeze — 主体 + 动态",
-      "【风格】storybook illustration — 锚定到绘本风格"
+      "Paper: white paper texture visible — force the model to leave paper visible.",
+      "Color bleeds: soft watercolor bleeds — the signature watercolor effect.",
+      "Palette: pastel color palette with soft pink, lavender, and sage green — healing palette.",
+      "Hand-painted feel: hand-painted feel, gentle and dreamy mood — style anchor.",
+      "Content: wildflower meadow, daisies and lavender swaying in gentle breeze — subject + motion.",
+      "Style: storybook illustration — anchor to picture-book style."
     ],
-    "tips": "水彩风最容易被 AI 出成\"扁平插画\"。加 \"soft watercolor bleeds, white paper texture visible\" 这两个词，立刻从 AI 变手绘。"
+    "tips": "Watercolor is the easiest style to fall into \"AI flat illustration\". Adding \"watercolor bleeds, paper texture visible, hand-painted feel\" instantly turns AI into hand-painted."
   },
   "crossModel": {
     "midjourney": "--niji 6 --ar 1:1 --s 200 --style raw",
-    "stable_diffusion": "SDXL + Dreamshaper 或其他水彩 LoRA",
-    "flux": "Flux 水彩 OK",
-    "dall_e": "DALL-E 3 水彩一般",
+    "stable_diffusion": "SDXL + Dreamshaper or a watercolor LoRA",
+    "flux": "Flux watercolor is OK.",
+    "dall_e": "DALL-E 3 watercolor is average.",
     "jimeng_zh": "水彩插画，野花田，雏菊薰衣草，柔和粉彩，纸张质感，手绘感"
   },
   "faq": [
     {
-      "q": "水彩风怎么避免\"AI 感\"？",
-      "a": "加 \"watercolor bleeds, paper texture visible, hand-painted feel\" 这三个词"
+      "q": "How to avoid \"AI feel\" in watercolor?",
+      "a": "Add \"watercolor bleeds, paper texture visible, hand-painted feel\" — these three words."
     },
     {
-      "q": "MJ vs SD 跑水彩？",
-      "a": "MJ 速度快 + 风格准。SD 生态丰富但需要 LoRA"
+      "q": "MJ vs SD for watercolor?",
+      "a": "MJ is fast and style-accurate. SD is rich in LoRAs but needs tuning."
     }
   ],
   "source": {
@@ -75,5 +74,5 @@
     "url": "https://civitai.com/images/mj-watercolor",
     "author": "aigallery_demo"
   },
-  "createdAt": "2026-07-25T13:51:36.326Z"
+  "createdAt": "2026-07-28T07:44:50.029Z"
 }
