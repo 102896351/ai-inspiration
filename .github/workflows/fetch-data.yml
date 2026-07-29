@@ -184,8 +184,11 @@ jobs:
           set -e
           echo "=== git status BEFORE add ==="
           git status --short
-          echo "=== adding files ==="
-          git add raw_data/ public/covers/
+          echo "=== check ignored (raw_data is in .gitignore) ==="
+          git check-ignore -v raw_data/ public/covers/ 2>&1 || echo "(none ignored, good)"
+          echo "=== adding files (with -f to bypass .gitignore for raw_data) ==="
+          git add -f raw_data/
+          git add public/covers/
           # Also add .log artifacts if they exist
           for f in civitai.log prompthero.log lexica.log; do
             [ -f "$f" ] && git add "$f" || true
