@@ -24,12 +24,10 @@ const OUT_FILE = path.join(RAW_DIR, 'lexica-raw.json');
 
 const API_BASE = 'https://lexica.art/api/v1/search';
 const SEARCH_QUERIES = [
-  'cyberpunk', 'portrait', 'anime girl', 'landscape',
-  'product photography', 'logo', '3d render', 'watercolor',
-  'minimalist', 'fantasy', 'sci-fi', 'street photography'
+  'cyberpunk', 'portrait', 'anime girl', 'landscape'
 ];
 const PER_QUERY = parseInt(process.env.PER_QUERY || '10', 10);
-const TARGET_COUNT = parseInt(process.env.LEXICA_TARGET || '60', 10);
+const TARGET_COUNT = parseInt(process.env.LEXICA_TARGET || '10', 10);
 const MAX_RETRIES = parseInt(process.env.MAX_RETRIES || '4', 10);
 const RATE_LIMIT_MS = parseInt(process.env.RATE_LIMIT_MS || '1000', 10);
 const DOWNLOAD_IMAGES = (process.env.DOWNLOAD_IMAGES || 'true') !== 'false';

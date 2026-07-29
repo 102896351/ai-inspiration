@@ -23,14 +23,15 @@ const COVERS_DIR = path.join(ROOT, 'public', 'covers');
 const OUT_FILE = path.join(RAW_DIR, 'prompthero-raw.json');
 
 const BASE_URL = 'https://prompthero.com';
+const PER_CAT = parseInt(process.env.PROMPTHERO_PER_CAT || '3', 10);
 const CATEGORIES = [
-  { name: 'midjourney', model: 'midjourney', url: '/midjourney-prompts', limit: 30 },
-  { name: 'stable-diffusion', model: 'stable-diffusion', url: '/stable-diffusion-prompts', limit: 25 },
-  { name: 'flux', model: 'flux', url: '/flux-prompts', limit: 15 },
-  { name: 'dall-e', model: 'dall-e', url: '/dalle-prompts', limit: 10 },
-  { name: 'cyberpunk', model: 'midjourney', tag: 'cyberpunk', url: '/tag/cyberpunk', limit: 8 },
-  { name: 'portrait', model: 'midjourney', tag: 'portrait', url: '/tag/portrait', limit: 8 },
-  { name: 'anime', model: 'midjourney', tag: 'anime', url: '/tag/anime', limit: 8 }
+  { name: 'midjourney', model: 'midjourney', url: '/midjourney-prompts', limit: PER_CAT },
+  { name: 'stable-diffusion', model: 'stable-diffusion', url: '/stable-diffusion-prompts', limit: PER_CAT },
+  { name: 'flux', model: 'flux', url: '/flux-prompts', limit: PER_CAT },
+  { name: 'dall-e', model: 'dall-e', url: '/dalle-prompts', limit: PER_CAT },
+  { name: 'cyberpunk', model: 'midjourney', tag: 'cyberpunk', url: '/tag/cyberpunk', limit: PER_CAT },
+  { name: 'portrait', model: 'midjourney', tag: 'portrait', url: '/tag/portrait', limit: PER_CAT },
+  { name: 'anime', model: 'midjourney', tag: 'anime', url: '/tag/anime', limit: PER_CAT }
 ];
 const DETAIL_FETCH_PER_CAT = parseInt(process.env.DETAIL_FETCH || '15', 10);
 const MAX_RETRIES = parseInt(process.env.MAX_RETRIES || '4', 10);

@@ -20,12 +20,17 @@ on:
       civitai_target:
         description: 'Civitai target count (capped by API page limit)'
         required: false
-        default: '80'
+        default: '10'
         type: string
       lexica_target:
         description: 'Lexica target count'
         required: false
-        default: '60'
+        default: '10'
+        type: string
+      prompthero_limit:
+        description: 'Per-category limit for PromptHero (lower = fewer pages fetched)'
+        required: false
+        default: '3'
         type: string
 
 concurrency:
@@ -45,6 +50,7 @@ jobs:
       DOWNLOAD_IMAGES: 'true'
       CIVITAI_TARGET: ${{ inputs.civitai_target }}
       LEXICA_TARGET: ${{ inputs.lexica_target }}
+      PROMPTHERO_PER_CAT: ${{ inputs.prompthero_limit }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4

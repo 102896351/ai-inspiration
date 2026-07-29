@@ -32,7 +32,7 @@ const COVERS_DIR = path.join(ROOT, 'public', 'covers');
 const OUT_FILE = path.join(RAW_DIR, 'civitai-raw.json');
 
 const API_BASE = 'https://civitai.com/api/v1';
-const TARGET_COUNT = parseInt(process.env.CIVITAI_TARGET || '80', 10);
+const TARGET_COUNT = parseInt(process.env.CIVITAI_TARGET || '10', 10);
 const PER_PAGE = 100;
 const MAX_RETRIES = parseInt(process.env.MAX_RETRIES || '4', 10);
 const RATE_LIMIT_MS = parseInt(process.env.RATE_LIMIT_MS || '1500', 10);
