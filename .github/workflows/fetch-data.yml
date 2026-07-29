@@ -178,7 +178,7 @@ jobs:
             echo "Changes detected (see above)"
           fi
 
-- name: Commit and push
+      - name: Commit and push
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           set -e
