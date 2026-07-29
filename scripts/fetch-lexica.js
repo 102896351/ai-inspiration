@@ -24,7 +24,8 @@ const OUT_FILE = path.join(RAW_DIR, 'lexica-raw.json');
 
 const API_BASE = 'https://lexica.art/api/v1/search';
 const SEARCH_QUERIES = [
-  'cyberpunk', 'portrait', 'anime girl', 'landscape'
+  'cyberpunk', 'portrait', 'anime girl', 'landscape',
+  'cat', 'dog', 'fantasy', 'city', 'mountain'
 ];
 const PER_QUERY = parseInt(process.env.PER_QUERY || '10', 10);
 const TARGET_COUNT = parseInt(process.env.LEXICA_TARGET || '10', 10);
@@ -66,7 +67,10 @@ async function search(q) {
   const url = `${API_BASE}?q=${encodeURIComponent(q)}`;
   console.log(`[search] ${q}`);
   const res = await fetchWithRetry(url, { headers: HEADERS });
-  if (!res.ok) throw new Error(`HTTP ${res.status} for ${q}`);
+  if (!res.ok) {
+    const body = await res.text().catch(() => '');
+    throw new Error(`HTTP ${res.status} for "${q}", body: ${body.slice(0, 150)}`);
+  }
   return res.json();
 }
 
@@ -81,7 +85,7 @@ async function downloadImage(imageUrl, destPath) {
     if (stat.size > 1024) return true;
   }
   const res = await fetchWithRetry(imageUrl, {
-    headers: { ...HEADERS, 'Accept': 'image/*' }
+    headers: { ...HEADERS, 'Accept': 'image/*', 'Referer': 'https://lexica.art/' }
   });
   if (!res.ok) {
     console.warn(`  [warn] download HTTP ${res.status} for ${imageUrl.slice(0, 80)}`);

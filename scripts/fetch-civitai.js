@@ -34,9 +34,11 @@ const OUT_FILE = path.join(RAW_DIR, 'civitai-raw.json');
 const API_BASE = 'https://civitai.com/api/v1';
 const TARGET_COUNT = parseInt(process.env.CIVITAI_TARGET || '10', 10);
 const PER_PAGE = 100;
-const MAX_RETRIES = parseInt(process.env.MAX_RETRIES || '4', 10);
+const MAX_RETRIES = parseInt(process.env.MAX_RETRIES || '3', 10);
 const RATE_LIMIT_MS = parseInt(process.env.RATE_LIMIT_MS || '1500', 10);
 const DOWNLOAD_IMAGES = (process.env.DOWNLOAD_IMAGES || 'true') !== 'false';
+const MAX_PAGES = parseInt(process.env.MAX_PAGES || '10', 10);  // 硬上限：最多翻 10 页
+const MAX_EMPTY_PAGES = parseInt(process.env.MAX_EMPTY_PAGES || '2', 10);  // 连续 2 页空就停
 
 const FETCH_CONFIG = {
   sort: process.env.CIVITAI_SORT || 'Newest',  // Most Reactions 在 Month 窗口下曾返回空数组
@@ -44,7 +46,6 @@ const FETCH_CONFIG = {
   nsfw: 'None',         // 关键：只抓安全内容
   batchSize: PER_PAGE
 };
-const MAX_EMPTY_PAGES = parseInt(process.env.MAX_EMPTY_PAGES || '3', 10);  // 连续 N 页空就停
 
 // 指数退避的 fetch 包装
 async function fetchWithRetry(url, options = {}) {
@@ -106,7 +107,8 @@ async function downloadImage(imageUrl, destPath) {
   const res = await fetchWithRetry(imageUrl, {
     headers: {
       'User-Agent': 'AIGallery-Fetcher/0.2 (educational; +https://aigallery.xyz/about)',
-      'Accept': 'image/webp,image/png,image/jpeg,image/*'
+      'Accept': 'image/webp,image/png,image/jpeg,image/*',
+      'Referer': 'https://civitai.com/'
     }
   });
   if (!res.ok) {
@@ -185,6 +187,11 @@ async function main() {
 
   while (allItems.length < TARGET_COUNT) {
     page++;
+    // 硬上限：避免 API 一直返回空数据导致死循环
+    if (page > MAX_PAGES) {
+      console.log(`  stop: hit MAX_PAGES=${MAX_PAGES}`);
+      break;
+    }
     try {
       const data = await fetchPage(cursor);
       const rawItems = data.items || [];
@@ -196,17 +203,19 @@ async function main() {
 
       cursor = data.metadata?.nextCursor;
       // 检测：连续空页 / 总空页 / 已到底 → 退出
-      if (!cursor || rawItems.length === 0) {
+      if (rawItems.length === 0) {
         emptyPages++;
-        if (rawItems.length === 0) {
-          console.log(`  empty page (${emptyPages}/${MAX_EMPTY_PAGES})`);
-        }
-        if (emptyPages >= MAX_EMPTY_PAGES || !cursor) {
-          console.log('  stop: empty pages reached or no more cursor');
-          break;
-        }
+        console.log(`  empty page (${emptyPages}/${MAX_EMPTY_PAGES})`);
       } else {
         emptyPages = 0;
+      }
+      if (emptyPages >= MAX_EMPTY_PAGES) {
+        console.log(`  stop: ${MAX_EMPTY_PAGES} consecutive empty pages`);
+        break;
+      }
+      if (!cursor) {
+        console.log('  stop: no more cursor (last page)');
+        break;
       }
       await new Promise(r => setTimeout(r, RATE_LIMIT_MS));
     } catch (e) {

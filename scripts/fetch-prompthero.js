@@ -78,7 +78,8 @@ async function fetchPage(url) {
 
 function parseCards(html, source) {
   const items = [];
-  const cardRegex = /<a[^>]+href="\/prompt\/([a-z0-9-]+)"[^>]*>[\s\S]*?<img[^>]+src="([^"]+)"[^>]*>[\s\S]*?<\/a>/gi;
+  // Try multiple patterns: src, data-src, data-lazy-src (PromptHero 经常懒加载)
+  const cardRegex = /<a[^>]+href="\/prompt\/([a-z0-9-]+)"[^>]*>[\s\S]*?<img[^>]+(?:src|data-src|data-lazy-src)="([^"]+)"[^>]*>[\s\S]*?<\/a>/gi;
   let m;
   const seen = new Set();
   while ((m = cardRegex.exec(html)) !== null) {
@@ -141,7 +142,7 @@ async function downloadImage(imageUrl, destPath) {
     if (stat.size > 1024) return true;
   }
   const res = await fetchWithRetry(imageUrl, {
-    headers: { ...HEADERS, 'Accept': 'image/*' }
+    headers: { ...HEADERS, 'Accept': 'image/*', 'Referer': BASE_URL + '/' }
   });
   if (!res.ok) {
     console.warn(`  [warn] download HTTP ${res.status} for ${imageUrl.slice(0, 80)}`);
