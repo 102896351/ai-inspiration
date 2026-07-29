@@ -165,15 +165,21 @@ async function main() {
 
   for (const cat of CATEGORIES) {
     try {
+      console.log(`\n  [cat ${cat.name}] ${BASE_URL + cat.url}`);
       const url = BASE_URL + cat.url;
       const html = await fetchPage(url);
       const items = parseCards(html, cat);
-      console.log(`  ✓ ${cat.name}: ${items.length} cards`);
+      console.log(`  ✓ ${cat.name}: ${items.length} cards (target ${cat.limit})`);
       // 抓详情（详情页数提升到 DETAIL_FETCH）
       const detailCount = Math.min(items.length, DETAIL_FETCH_PER_CAT);
       for (let i = 0; i < detailCount; i++) {
         await new Promise(r => setTimeout(r, 800));
+        const before = items[i].originalPrompt?.length || 0;
         await fetchPromptDetail(items[i]);
+        const after = items[i].originalPrompt?.length || 0;
+        if (i < 3 || i % 5 === 0) {
+          console.log(`    detail ${i+1}/${detailCount}: prompt ${before}→${after} chars`);
+        }
       }
       allItems.push(...items);
     } catch (e) {

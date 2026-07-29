@@ -39,11 +39,12 @@ const RATE_LIMIT_MS = parseInt(process.env.RATE_LIMIT_MS || '1500', 10);
 const DOWNLOAD_IMAGES = (process.env.DOWNLOAD_IMAGES || 'true') !== 'false';
 
 const FETCH_CONFIG = {
-  sort: 'Most Reactions',
-  period: 'Month',
+  sort: process.env.CIVITAI_SORT || 'Newest',  // Most Reactions 在 Month 窗口下曾返回空数组
+  period: process.env.CIVITAI_PERIOD || 'AllTime',  // 默认 AllTime 更稳
   nsfw: 'None',         // 关键：只抓安全内容
   batchSize: PER_PAGE
 };
+const MAX_EMPTY_PAGES = parseInt(process.env.MAX_EMPTY_PAGES || '3', 10);  // 连续 N 页空就停
 
 // 指数退避的 fetch 包装
 async function fetchWithRetry(url, options = {}) {
@@ -180,6 +181,7 @@ async function main() {
   const allItems = [];
   let cursor = null;
   let page = 0;
+  let emptyPages = 0;
 
   while (allItems.length < TARGET_COUNT) {
     page++;
@@ -193,9 +195,18 @@ async function main() {
       console.log(`  page ${page}: +${items.length}/${rawItems.length} (total ${allItems.length})`);
 
       cursor = data.metadata?.nextCursor;
-      if (!cursor) {
-        console.log('  no more pages');
-        break;
+      // 检测：连续空页 / 总空页 / 已到底 → 退出
+      if (!cursor || rawItems.length === 0) {
+        emptyPages++;
+        if (rawItems.length === 0) {
+          console.log(`  empty page (${emptyPages}/${MAX_EMPTY_PAGES})`);
+        }
+        if (emptyPages >= MAX_EMPTY_PAGES || !cursor) {
+          console.log('  stop: empty pages reached or no more cursor');
+          break;
+        }
+      } else {
+        emptyPages = 0;
       }
       await new Promise(r => setTimeout(r, RATE_LIMIT_MS));
     } catch (e) {

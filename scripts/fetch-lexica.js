@@ -122,15 +122,19 @@ async function main() {
   const allItems = [];
 
   for (const q of SEARCH_QUERIES) {
-    if (allItems.length >= TARGET_COUNT) break;
+    if (allItems.length >= TARGET_COUNT) {
+      console.log(`  [skip "${q}"] already at target ${TARGET_COUNT}`);
+      break;
+    }
     try {
       const data = await search(q);
+      const rawLen = Array.isArray(data) ? data.length : 0;
       const items = (Array.isArray(data) ? data : [])
         .filter(i => i.prompt && i.id)
         .slice(0, PER_QUERY)
         .map(i => normalize(i, q));
       allItems.push(...items);
-      console.log(`  ✓ "${q}": ${items.length} (total ${allItems.length})`);
+      console.log(`  ✓ "${q}": ${items.length}/${rawLen} raw (total ${allItems.length})`);
       await new Promise(r => setTimeout(r, RATE_LIMIT_MS));
     } catch (e) {
       console.warn(`  ✗ "${q}": ${e.message}`);
